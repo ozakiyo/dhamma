@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36",
+  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37",
   "entries": {
     "view": [
       {
@@ -1076,6 +1076,25 @@
           "MN36-P09",
           "MN36-P10"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 37,
+        "shortTitle": "愛尽小経（渇愛の滅尽についての小経）",
+        "title": "中部 第37経・愛尽小経（渇愛の滅尽についての小経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN37-P01",
+          "MN37-P02",
+          "MN37-P04",
+          "MN37-P05",
+          "MN37-P06",
+          "MN37-P07",
+          "MN37-P08",
+          "MN37-P09",
+          "MN37-P11"
+        ]
       }
     ],
     "intention": [
@@ -1747,6 +1766,18 @@
           "MN36-P04",
           "MN36-P07"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 37,
+        "shortTitle": "愛尽小経（渇愛の滅尽についての小経）",
+        "title": "中部 第37経・愛尽小経（渇愛の滅尽についての小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN37-P03",
+          "MN37-P10"
+        ]
       }
     ],
     "speech": [
@@ -2253,6 +2284,18 @@
         "pairIds": [
           "MN36-P09",
           "MN36-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 37,
+        "shortTitle": "愛尽小経（渇愛の滅尽についての小経）",
+        "title": "中部 第37経・愛尽小経（渇愛の滅尽についての小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN37-P07",
+          "MN37-P08"
         ]
       }
     ],
@@ -3773,6 +3816,17 @@
           "MN36-P06",
           "MN36-P11"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 37,
+        "shortTitle": "愛尽小経（渇愛の滅尽についての小経）",
+        "title": "中部 第37経・愛尽小経（渇愛の滅尽についての小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN37-P11"
+        ]
       }
     ],
     "mindfulness": [
@@ -5174,6 +5228,24 @@
           "MN36-P07",
           "MN36-P08",
           "MN36-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 37,
+        "shortTitle": "愛尽小経（渇愛の滅尽についての小経）",
+        "title": "中部 第37経・愛尽小経（渇愛の滅尽についての小経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN37-P01",
+          "MN37-P02",
+          "MN37-P03",
+          "MN37-P04",
+          "MN37-P05",
+          "MN37-P06",
+          "MN37-P09",
+          "MN37-P10"
         ]
       }
     ],
