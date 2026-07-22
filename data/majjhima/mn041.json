@@ -1,67 +1,96 @@
 {
   "chapter": 41,
   "sutta": 41,
-  "title": "中部 第41経（薩羅村婆羅門経）",
-  "shortTitle": "薩羅村婆羅門経",
-  "mapNote": "根本五十経篇 · 双小品",
+  "title": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+  "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+  "mapNote": "根本五十経篇 · 双小品（アラナ：サーラー村の婆羅門たちへの経）",
   "suttas": [
-    "MN 41 薩羅村婆羅門経"
+    "MN 41 薩羅村婆羅門経（サーラー村の婆羅門たちへの経）"
   ],
   "source": {
-    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
-    "verify": "南伝第9–11巻 · 根本五十経篇"
+    "primary": "パーリ・中部第41経（薩羅村婆羅門経／サーラー村の婆羅門たちへの経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリMN41（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝中阿含非収録；SC類縁は雑阿含1042·1043（十不善／十善業跡）。在家者への十不善·十善業道と善趣·悪趣の業の地図が主題。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・サーラー村の婆羅門たちへの経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 雑阿含・鞞聞摩（T2.272c）／類縁",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+        "note": "對照表: 中阿含非収録。SC類縁SA1042·1043"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
   },
   "categories": [
     {
-      "id": "prep",
+      "id": "view",
       "name": "正見",
       "short": "正見",
-      "weekday": 1
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
     },
     {
       "id": "speech",
       "name": "正語",
       "short": "正語",
-      "weekday": 2
+      "weekday": 3,
+      "order": 3
     },
     {
-      "id": "people",
-      "name": "対人",
-      "short": "対人",
-      "weekday": 3
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
     },
     {
-      "id": "desire",
-      "name": "対治",
-      "short": "対治",
-      "weekday": 4
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
     },
     {
-      "id": "suffering",
-      "name": "苦·縁起",
-      "short": "縁起",
-      "weekday": 5
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
     },
     {
-      "id": "work",
-      "name": "精進·正念",
+      "id": "mindfulness",
+      "name": "正念",
       "short": "正念",
-      "weekday": 6
+      "weekday": 0,
+      "order": 7
     },
     {
-      "id": "night",
-      "name": "振り返り",
-      "short": "夜",
-      "weekday": 0
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
     }
   ],
   "practicePath": {
     "model": "dependent-origination-x-eightfold",
-    "selectionMode": "chapter-focus",
-    "focusNodeId": "clinging",
-    "focusReason": "薩羅村婆羅門経の主題に合わせて割り当て",
-    "chapterTitle": "中部 第41経（薩羅村婆羅門経）",
-    "shortTitle": "薩羅村婆羅門経",
+    "chapterTitle": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+    "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
     "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
     "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
     "originNodes": [
@@ -132,167 +161,8 @@
       {
         "id": "contact",
         "weekday": 1,
-        "categoryId": null,
+        "categoryId": "view",
         "nidanaLabel": "接触",
-        "pathFactors": [
-          "正念"
-        ],
-        "pathFactorIds": [
-          "mindfulness"
-        ],
-        "pathLabel": "触れた瞬間に気づく",
-        "chapterHint": "薩羅村婆羅門経",
-        "fromPrev": "感覚の門や人・事との接触が始まる",
-        "toNext": "止めないと、快・不快の受が立ち上がる",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "通知が来た",
-          "会話が始まった"
-        ],
-        "sources": [
-          "MN41-P01",
-          "MN41-P02"
-        ]
-      },
-      {
-        "id": "feeling",
-        "weekday": 2,
-        "categoryId": null,
-        "nidanaLabel": "受ける",
-        "pathFactors": [
-          "正念"
-        ],
-        "pathFactorIds": [
-          "mindfulness"
-        ],
-        "pathLabel": "感・想だけを見る",
-        "chapterHint": "薩羅村婆羅門経",
-        "fromPrev": "接触のあと、快・不快・考えが立つ",
-        "toNext": "止めないと「もっと／嫌だ」へ流れる",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "イラッとした",
-          "嬉しくて一気に動きたくなった"
-        ],
-        "sources": [
-          "MN41-P01",
-          "MN41-P02"
-        ]
-      },
-      {
-        "id": "craving",
-        "weekday": 3,
-        "categoryId": null,
-        "nidanaLabel": "欲しがる／拒む",
-        "pathFactors": [
-          "正思惟"
-        ],
-        "pathFactorIds": [
-          "intention"
-        ],
-        "pathLabel": "衝動に名前を付け、乗らない",
-        "chapterHint": "薩羅村婆羅門経",
-        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
-        "toNext": "止めないと執着して掴む",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "欲が出た",
-          "拒絶したくなった"
-        ],
-        "sources": [
-          "MN41-P05",
-          "MN41-P10"
-        ]
-      },
-      {
-        "id": "clinging",
-        "weekday": 4,
-        "categoryId": null,
-        "nidanaLabel": "掴む",
-        "pathFactors": [
-          "正語",
-          "正業"
-        ],
-        "pathFactorIds": [
-          "speech",
-          "action"
-        ],
-        "pathLabel": "人との関わりで傷つけず与える",
-        "chapterHint": "薩羅村婆羅門経",
-        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
-        "toNext": "掴むと苦が太る",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "返信の前",
-          "言い返したくなった"
-        ],
-        "sources": [
-          "MN41-P05",
-          "MN41-P06",
-          "MN41-P07"
-        ]
-      },
-      {
-        "id": "suffering",
-        "weekday": 5,
-        "categoryId": null,
-        "nidanaLabel": "苦が太る",
-        "pathFactors": [
-          "正見"
-        ],
-        "pathFactorIds": [
-          "view"
-        ],
-        "pathLabel": "掴んだ結果だと見る",
-        "chapterHint": "薩羅村婆羅門経",
-        "fromPrev": "掴んだ結果として、心や関係が重くなる",
-        "toNext": "見ないままだと執念が続く",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "後悔が残った",
-          "関係が重くなった"
-        ],
-        "sources": [
-          "MN41-P03",
-          "MN41-P01"
-        ]
-      },
-      {
-        "id": "release",
-        "weekday": 6,
-        "categoryId": null,
-        "nidanaLabel": "気づいて離す",
-        "pathFactors": [
-          "正精進"
-        ],
-        "pathFactorIds": [
-          "effort"
-        ],
-        "pathLabel": "気づいたら戻る",
-        "chapterHint": "薩羅村婆羅門経",
-        "fromPrev": "流れの途中で「乗っている」と気づく",
-        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "仕事で焦った",
-          "画面に引きずられた"
-        ],
-        "sources": [
-          "MN41-P01",
-          "MN41-P02"
-        ]
-      },
-      {
-        "id": "review",
-        "weekday": 0,
-        "categoryId": null,
-        "nidanaLabel": "夜に見直す",
         "pathFactors": [
           "正見",
           "正念"
@@ -301,140 +171,686 @@
           "view",
           "mindfulness"
         ],
-        "pathLabel": "どこで切れたかを見る",
-        "chapterHint": "薩羅村婆羅門経",
-        "fromPrev": "一日の語り・行いは朝からの流れの跡",
-        "toNext": "見直しが、翌朝の接触の土台になる",
-        "todayObserve": "",
-        "todayAction": "",
+        "pathLabel": "業が未来を作る教えに触れる",
+        "chapterHint": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "fromPrev": "見直しが、今朝の業の一歩を変える",
+        "toNext": "触のあと、語·怒りの受が見える",
+        "todayObserve": "薩羅村——死後の行き先を問う。業が未来を作る。朝、今日の行いが「未来を作る業」だと一度確認する。",
+        "todayAction": "朝、今日の行いが「未来を作る業」だと一度確認する",
         "when": [
-          "一日を閉じるとき",
-          "寝不足で散らかった日"
+          "業を確認した"
         ],
         "sources": [
+          "MN41-P01"
+        ],
+        "leadQuote": "サーラー村の婆羅門·在家者が問う——『何の因·縁で、衆生は身壊命終して地獄に生ま…",
+        "secondaryObserve": "死後の行き先は業による"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "speech"
+        ],
+        "pathLabel": "強い言葉の前に呼吸を置く",
+        "chapterHint": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "fromPrev": "接触のあと、怒りの受が立つ",
+        "toNext": "受に乗ると貪欲·綺語へ",
+        "todayObserve": "粗悪語——強い言葉の前に呼吸を置く。強い言葉の前に、一度呼吸を置く。",
+        "todayAction": "強い言葉の前に、一度呼吸を置く",
+        "when": [
+          "呼吸を置いた"
+        ],
+        "sources": [
+          "MN41-P08"
+        ],
+        "leadQuote": "粗悪語——あらあらしく、耳に逆らい、怒りを伴い、他者の心を傷つける言葉。——恨み…",
+        "secondaryObserve": "粗悪語の手前で止まる"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "貪欲·邪行·綺語の欲しがりを見る",
+        "chapterHint": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "fromPrev": "受のあと、欲しがりが立つ",
+        "toNext": "止めないと身語への掴みへ",
+        "todayObserve": "貪欲——「私のもの」と欲する心を一度見る。今日、他者の所有を「私のもの」と欲する心を一度見る。",
+        "todayAction": "今日、他者の所有を「私のもの」と欲する心を一度見る",
+        "when": [
+          "貪欲を見た",
+          "関係を思い出した",
+          "雑談を減らした"
+        ],
+        "sources": [
+          "MN41-P05",
+          "MN41-P09",
+          "MN41-P10"
+        ],
+        "leadQuote": "意の三不善——貪欲、瞋恚、邪見。他者の財を欲し「あれが私のものであれば」と思う—…",
+        "secondaryObserve": "欲邪行——守られた関係を破らない。今日、誘惑の前に「守られた関係」を思い出す。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "action",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正業",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "action",
+          "speech"
+        ],
+        "pathLabel": "身·語の不善への掴みを止める",
+        "chapterHint": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "fromPrev": "欲しがりのあと、不善業の掴みが手前",
+        "toNext": "掴むと瞋·苦が見える",
+        "todayObserve": "身の三不善——殺生を離れ、生命を害さない。今日、他者の生命・所有・関係を害さないよう一つ意識する。",
+        "todayAction": "今日、他者の生命·所有·関係を害さないよう一つ意識する",
+        "when": [
+          "害さないと意識した",
+          "虚妄を止めた",
+          "分断しなかった"
+        ],
+        "sources": [
+          "MN41-P03",
           "MN41-P04",
+          "MN41-P06",
+          "MN41-P07"
+        ],
+        "leadQuote": "身の三不善——殺生、不与取、欲邪行。殺生する者は、血に手を染め、無慈悲にして生き…",
+        "secondaryObserve": "虚妄語——事実でないことを一度止める。今日、事実でないこと・仲を裂く言葉を一度止める。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "intention",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "瞋恚の苦の中で他者の幸せを願う",
+        "chapterHint": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "fromPrev": "掴んだ結果として、怒りの苦が見える",
+        "toNext": "見れば、正行·正見へ離す",
+        "todayObserve": "瞋恚——怒りの中で他者の幸せを願う。怒りの中で、他者の幸せを願う思いを一つ置く。",
+        "todayAction": "怒りの中で、他者の幸せを願う思いを一つ置く",
+        "when": [
+          "慈を置いた"
+        ],
+        "sources": [
+          "MN41-P11"
+        ],
+        "leadQuote": "瞋恚·害意——『この者を打ち殺せ、滅ぼせ』と、他者の幸せを損ないたい思い。（怒り…",
+        "secondaryObserve": "害意は苦を太らせる"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "view",
+          "action"
+        ],
+        "pathLabel": "邪見を離れ、正しい行いに結びつける",
+        "chapterHint": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "fromPrev": "苦が見えれば、不善·邪見を離す",
+        "toNext": "離せば、夜の業の振り返りへ",
+        "todayObserve": "法行·正行——十善により善趣·天上へ。今日、身語意の一つを「正しい行い」に結びつける。",
+        "todayAction": "今日、身語意の一つを「正しい行い」に結びつける",
+        "when": [
+          "正しい行いに結びつけた",
+          "縁を認めた"
+        ],
+        "sources": [
+          "MN41-P02",
+          "MN41-P12"
+        ],
+        "leadQuote": "法行·正行——離殺生乃至正見、十善業跡の因縁により、身壊命終して天上に生まれ、ま…",
+        "secondaryObserve": "邪見を離れ——善行に未来の縁があると認める。今日、善い行いに未来の縁があると一度認める。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "身語意を法行·正行として振り返る",
+        "chapterHint": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "fromPrev": "一日の離しは、朝からの業の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "総括——身語意を法行·正行として振り返る。就寝前、今日の身語意を「法に沿った行い・正しい行い」として一つ振り返る。",
+        "todayAction": "就寝前、今日の身語意を「法に沿った行い・正しい行い」として一つ振り返る",
+        "when": [
+          "一日を閉じるとき"
+        ],
+        "sources": [
           "MN41-P13"
-        ]
+        ],
+        "leadQuote": "十善業跡を行ずる者は、善趣·天上へ至り、また戒清浄·離欲により禅·果まで願い得る…",
+        "secondaryObserve": "在俗の業の地図を振り返る"
       }
-    ]
+    ],
+    "focusNodeId": "clinging",
+    "focusReason": "薩羅村婆羅門経は十不善業への掴みを離れ十善へ向かうのが主題。既定の焦点は掴む。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
       "id": "MN41-P01",
-      "category": "prep",
+      "category": "view",
       "ref": "MN 41",
-      "section": "導",
-      "observe": "薩羅村——在家者が死後の行き先を問う、業の教えの出発点",
+      "section": "業の問い",
+      "observe": "薩羅村——死後の行き先を問う。業が未来を作る。朝、今日の行いが「未来を作る業」だと一度確認する。",
       "action": "朝、今日の行いが「未来を作る業」だと一度確認する",
-      "quote": "法に反する行・正しくない行のだから、このように衆生は悪趣・下劣・堕所・地獄に生ず"
+      "quote": "サーラー村の婆羅門·在家者が問う——『何の因·縁で、衆生は身壊命終して地獄に生まれ、何の因で天上に生まれるか』と。世尊は答える——非法·険しき行のゆえに悪趣へ、法·正しき行のゆえに善趣へ、と。（朝、今日の行いが「未来を作る業」だと一度確認する。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "朝、業が未来を作る教えに触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·業の問い",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-ask",
+          "text": "白佛言：「世尊！何因、何緣有眾生身壞命終，生地獄中？」佛告……：「行非法行、行危嶮行因緣故……」……「何因緣……得生天上？」……「行法行、行正行……」",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩",
+          "note": "死後の行き先を問う。對照表は中阿含非収録。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P02",
-      "category": "prep",
+      "category": "action",
       "ref": "MN 41",
-      "section": "善趣",
-      "observe": "法に沿った行い・正しい行いの者は、善い生まれ・天界に至る",
+      "section": "法行·正行",
+      "observe": "法行·正行——十善により善趣·天上へ。今日、身語意の一つを「正しい行い」に結びつける。",
       "action": "今日、身語意の一つを「正しい行い」に結びつける",
-      "quote": "法に沿った行い・正しい行いのだから、このように衆生は善い生まれ・天界に生ず"
+      "quote": "法行·正行——離殺生乃至正見、十善業跡の因縁により、身壊命終して天上に生まれ、また望む善い家·諸天にも往生し得る。（今日、身語意の一つを「正しい行い」に結びつける。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正見"
+      ],
+      "pathReason": "身語意の一つを正しい行いに結びつける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·法行·正行",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）",
+          "t26": "SA1042-kusala",
+          "text": "謂離殺生，乃至正見，十善業跡因緣故，身壞命終，得生天上。……欲求剎利大性家……乃至他化自在天，悉得往生。",
+          "satLocus": "大正蔵 T2.273a 鞞聞摩",
+          "note": "十善業跡により天上·善家へ。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P03",
-      "category": "suffering",
+      "category": "action",
       "ref": "MN 41",
-      "section": "身三",
-      "observe": "身の三不善業——殺すこと·盗み·邪婬",
+      "section": "離殺生",
+      "observe": "身の三不善——殺生を離れ、生命を害さない。今日、他者の生命・所有・関係を害さないよう一つ意識する。",
       "action": "今日、他者の生命·所有·関係を害さないよう一つ意識する",
-      "quote": "手に血をつけ、無慈悲にして生き物を殺す——これ、身において法に反する・正しくない"
+      "quote": "身の三不善——殺生、不与取、欲邪行。殺生する者は、血に手を染め、無慈悲にして生き物を害する——これ、身において非法·険しき行である。（今日、他者の生命·所有·関係を害さないよう一つ意識する。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "生命·所有·関係を害する掴みを意識する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離殺生",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-kill",
+          "text": "殺生，乃至邪見，具足十不善業因緣故。……是非法行、危嶮行……",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "漢は十不善を略説。殺生は身不善の筆頭。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P04",
-      "category": "work",
+      "category": "livelihood",
       "ref": "MN 41",
-      "section": "身三",
-      "observe": "盗み·不正な関係は、在俗の戒の根本",
+      "section": "離不与取",
+      "observe": "不与取——出所を問い、不正を避ける。今日、得たものの出所を一度問い、不正を避ける。",
       "action": "今日、得たものの出所を一度問い、不正を避ける",
-      "quote": "村・野原から盗み執着する——これ、身において法に反する・正しくない"
+      "quote": "不与取——与えられていないものを、盗み心をもって取る。在俗の戒の根本の一つである。（今日、得たものの出所を一度問い、不正を避ける。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "不正な取得への掴みを問い避ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離不与取",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-steal",
+          "text": "（十不善業跡——不与取を含む。漢は「殺生乃至邪見」と略す。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "不与取はパーリ詳説。漢は十不善の略。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P05",
-      "category": "desire",
+      "category": "action",
       "ref": "MN 41",
-      "section": "身三",
-      "observe": "不倫は、他者を守る縁を破る",
+      "section": "離欲邪行",
+      "observe": "欲邪行——守られた関係を破らない。今日、誘惑の前に「守られた関係」を思い出す。",
       "action": "今日、誘惑の前に「守られた関係」を思い出す",
-      "quote": "父母・兄弟・妻・親族等によって守護された者に犯す——これ、身において法に反する・正しくない"
+      "quote": "欲邪行——母·父·兄弟·姉妹·法によって護られた者など、守られるべき者のもとへ行く。——他者を守る縁を破る。（今日、誘惑の前に「守られた関係」を思い出す。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "誘惑の前に守られた関係を思い出す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離欲邪行",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-misconduct",
+          "text": "（十不善業跡——欲邪行を含む。漢は略説。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "欲邪行はパーリ詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P06",
       "category": "speech",
       "ref": "MN 41",
-      "section": "語四",
-      "observe": "語の四不善業——嘘·両舌·粗い言葉·だらだらとした雑談",
+      "section": "離虚妄語",
+      "observe": "虚妄語——事実でないことを一度止める。今日、事実でないこと・仲を裂く言葉を一度止める。",
       "action": "今日、事実でないこと·仲を裂く言葉を一度止める",
-      "quote": "見たものも聞いたものも知ったものもないのに、見た・聞いた・知ったと語る——これ、語ににおいて法に反する・正しくない"
+      "quote": "語の四不善——虚妄語、両舌、粗悪語、綺語。見ていないのに見たと言い、知らないのに知ったと言う——虚妄は語における非法である。（今日、事実でないこと·仲を裂く言葉を一度止める。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "虚妄·分断の言葉への掴みを止める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離虚妄語",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-false",
+          "text": "（十不善——妄語を含む。漢は「乃至」略説。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "虚妄語はパーリ詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P07",
       "category": "speech",
       "ref": "MN 41",
-      "section": "語四",
-      "observe": "両舌は、この処と彼処を分裂させる",
+      "section": "離両舌",
+      "observe": "両舌——噂·伝言で分断しない。今日、噂・伝言で人を分断しない。",
       "action": "今日、噂·伝言で人を分断しない",
-      "quote": "この処の者を彼処の者に分裂させるために語る——これ、語ににおいて法に反する・正しくない"
+      "quote": "両舌——ここまで聞いてあちらで分裂させ、あちらまで聞いてここで分裂させる。和合している者を離れさせ、離れている者を喜ぶ。（今日、噂·伝言で人を分断しない。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正思惟"
+      ],
+      "pathReason": "噂·伝言で分断しない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離両舌",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-divisive",
+          "text": "（十不善——両舌を含む。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "両舌はパーリ詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P08",
-      "category": "speech",
+      "category": "mindfulness",
       "ref": "MN 41",
-      "section": "語四",
-      "observe": "粗い言葉は、怒りと恨みを他者に向ける",
+      "section": "離粗悪語",
+      "observe": "粗悪語——強い言葉の前に呼吸を置く。強い言葉の前に、一度呼吸を置く。",
       "action": "強い言葉の前に、一度呼吸を置く",
-      "quote": "怒りに満ち、恨みに満ち、他人を苦しめる言葉を語る——これ、語ににおいて法に反する・正しくない"
+      "quote": "粗悪語——あらあらしく、耳に逆らい、怒りを伴い、他者の心を傷つける言葉。——恨みを他者に向ける。（強い言葉の前に、一度呼吸を置く。）",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "強い言葉の前に呼吸を置き受を整える",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離粗悪語",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-harsh",
+          "text": "（十不善——悪口を含む。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "粗悪語はパーリ詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P09",
       "category": "speech",
       "ref": "MN 41",
-      "section": "語四",
-      "observe": "だらだらとした雑談——実の利益も涅槃もない、むだな雑語",
+      "section": "離綺語",
+      "observe": "綺語——無益な雑談·煽りを一つ減らす。今日、無益な雑談・煽りの言葉を一つ減らす。",
       "action": "今日、無益な雑談·煽りの言葉を一つ減らす",
-      "quote": "実の利益も涅槃もない、むだな、無益な、無用な、道に反するの、出世に反するの雑語を好む——これ、語ににおいて法に反する・正しくない"
+      "quote": "綺語——時機に合わず、実義·法·律にかなわず、無益·無根の雑談。——涅槃へ導かないむだな語。（今日、無益な雑談·煽りの言葉を一つ減らす。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "無益な雑談·煽りへの欲しがりを減らす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離綺語",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-idle",
+          "text": "（十不善——綺語を含む。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "綺語はパーリ詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P10",
-      "category": "desire",
+      "category": "intention",
       "ref": "MN 41",
-      "section": "意三",
-      "observe": "意の三不善業——貪·怒り·誤った見",
+      "section": "離貪欲",
+      "observe": "貪欲——「私のもの」と欲する心を一度見る。今日、他者の所有を「私のもの」と欲する心を一度見る。",
       "action": "今日、他者の所有を「私のもの」と欲する心を一度見る",
-      "quote": "他者の所有物を欲して、『ああ、彼のものが私のものであれば』と思う——これ、意ににおいて法に反する・正しくない"
+      "quote": "意の三不善——貪欲、瞋恚、邪見。他者の財を欲し「あれが私のものであれば」と思う——貪欲は意における非法である。（今日、他者の所有を「私のもの」と欲する心を一度見る。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "「私のもの」と欲する心を一度見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離貪欲",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-greed",
+          "text": "（十不善——貪欲を含む。漢は乃至邪見。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "貪欲はパーリ詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P11",
-      "category": "desire",
+      "category": "intention",
       "ref": "MN 41",
-      "section": "意三",
-      "observe": "怒り·害意——他者の幸せを損ないたい思い",
+      "section": "離瞋恚",
+      "observe": "瞋恚——怒りの中で他者の幸せを願う。怒りの中で、他者の幸せを願う思いを一つ置く。",
       "action": "怒りの中で、他者の幸せを願う思いを一つ置く",
-      "quote": "他者を苦しめ、害し、憂い悲しませ、苦しめたいと思う——これ、意ににおいて法に反する・正しくない"
+      "quote": "瞋恚·害意——『この者を打ち殺せ、滅ぼせ』と、他者の幸せを損ないたい思い。（怒りの中で、他者の幸せを願う思いを一つ置く。）",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "怒りの苦の中で他者の幸せを願う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離瞋恚",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）／類縁",
+          "t26": "SA1042-hate",
+          "text": "（十不善——瞋恚を含む。）",
+          "satLocus": "大正蔵 T2.272c 鞞聞摩（類縁）",
+          "note": "瞋恚はパーリ詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P12",
-      "category": "prep",
+      "category": "view",
       "ref": "MN 41",
-      "section": "意三",
-      "observe": "誤った見——布施·大きな布布施·供養·供養大きな布布施に結果がないと見る",
+      "section": "離邪見",
+      "observe": "邪見を離れ——善行に未来の縁があると認める。今日、善い行いに未来の縁があると一度認める。",
       "action": "今日、善い行いに未来の縁があると一度認める",
-      "quote": "布施·大きな布布施·供養·供養大きな布布施に結果がないと見る——これ、意ににおいて法に反する・正しくない"
+      "quote": "邪見——『施しに果なし、大施に果なし、善悪業に果なし』と見る。正見は、業に果あり、善行に未来の縁ありと知ること。（今日、善い行いに未来の縁があると一度認める。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "邪見を離れ、善行に縁ありと認める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·離邪見",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）",
+          "t26": "SA1042-view",
+          "text": "殺生，乃至邪見，具足十不善業因緣故……謂離殺生，乃至正見，十善業跡因緣故……",
+          "satLocus": "大正蔵 T2.272c–273a 鞞聞摩",
+          "note": "邪見／正見が十業の端。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN41-P13",
-      "category": "night",
+      "category": "mindfulness",
       "ref": "MN 41",
-      "section": "総括",
-      "observe": "第6章の地図——法に沿った行い・正しい行いが、在俗の未来を開く",
+      "section": "業の地図",
+      "observe": "総括——身語意を法行·正行として振り返る。就寝前、今日の身語意を「法に沿った行い・正しい行い」として一つ振り返る。",
       "action": "就寝前、今日の身語意を「法に沿った行い・正しい行い」として一つ振り返る",
-      "quote": "法に沿った行い・正しい行いのだから、このように衆生は善い生まれ・天界に生ず"
+      "quote": "十善業跡を行ずる者は、善趣·天上へ至り、また戒清浄·離欲により禅·果まで願い得る——在俗の未来を開く業の地図である。（就寝前、今日の身語意を「法に沿った行い・正しい行い」として一つ振り返る。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "夜、身語意を法行·正行として振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・サーラー村の婆羅門たちへの経／パーリMN41）",
+          "locus": "中部・サーラー村の婆羅門たちへの経（MN41）·業の地図",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 薩羅村婆羅門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1042・鞞聞摩（T99）",
+          "t26": "SA1042-map",
+          "text": "若有行此法行、行此正行者，欲求……悉得往生。……欲求斷三結，得須陀洹……漏盡智皆悉得。……以法行、正行故，持戒、離欲，所願必得。",
+          "satLocus": "大正蔵 T2.273a 鞞聞摩",
+          "note": "法行·正行の願い——善趣から漏尽まで。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0272c18",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     }
   ]
 }

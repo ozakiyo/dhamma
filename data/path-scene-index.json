@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39+mn40",
+  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39+mn40+mn41",
   "entries": {
     "view": [
       {
@@ -1145,6 +1145,20 @@
           "MN40-P09",
           "MN40-P11"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 41,
+        "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "title": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN41-P01",
+          "MN41-P02",
+          "MN41-P12",
+          "MN41-P13"
+        ]
       }
     ],
     "intention": [
@@ -1862,6 +1876,19 @@
         "pairIds": [
           "MN40-P04"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 41,
+        "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "title": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN41-P07",
+          "MN41-P10",
+          "MN41-P11"
+        ]
       }
     ],
     "speech": [
@@ -2417,6 +2444,20 @@
           "MN40-P03",
           "MN40-P09"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 41,
+        "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "title": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN41-P06",
+          "MN41-P07",
+          "MN41-P08",
+          "MN41-P09"
+        ]
       }
     ],
     "action": [
@@ -2920,6 +2961,19 @@
         "pairIds": [
           "MN40-P02"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 41,
+        "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "title": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN41-P02",
+          "MN41-P03",
+          "MN41-P05"
+        ]
       }
     ],
     "livelihood": [
@@ -3241,6 +3295,17 @@
         "pairCount": 1,
         "pairIds": [
           "MN40-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 41,
+        "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "title": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN41-P04"
         ]
       }
     ],
@@ -5498,6 +5563,27 @@
           "MN40-P07",
           "MN40-P10",
           "MN40-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 41,
+        "shortTitle": "薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "title": "中部 第41経・薩羅村婆羅門経（サーラー村の婆羅門たちへの経）",
+        "pairCount": 11,
+        "pairIds": [
+          "MN41-P01",
+          "MN41-P03",
+          "MN41-P04",
+          "MN41-P05",
+          "MN41-P06",
+          "MN41-P08",
+          "MN41-P09",
+          "MN41-P10",
+          "MN41-P11",
+          "MN41-P12",
+          "MN41-P13"
         ]
       }
     ],
