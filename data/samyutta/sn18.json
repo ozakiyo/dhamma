@@ -1,0 +1,375 @@
+{
+  "chapter": 18,
+  "samyutta": 18,
+  "title": "相応部 第18章（羅睺羅相応）",
+  "shortTitle": "羅睺羅",
+  "mapNote": "SN 18——羅睺羅相応",
+  "suttas": [
+    "SN 18 羅睺羅相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（因縁篇）",
+    "verify": "南伝大蔵経 第13巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN18-P01",
+      "category": "prep",
+      "ref": "SN 18.1",
+      "section": "導·鏡",
+      "observe": "羅睺羅、身·語·意の行為の前に鏡の如く省察せよ",
+      "action": "朝、「行為の前に鏡の如く省察」と意図を置く",
+      "quote": "羅睺羅よ、身·語·意の行為の前に、鏡の如く省察せよ"
+    },
+    {
+      "id": "SN18-P02",
+      "category": "prep",
+      "ref": "SN 18.1",
+      "section": "鏡",
+      "observe": "鏡は汚れを映す——行為の前に、動機を映せ",
+      "action": "行動の前に「この動機は何か」と一度問う",
+      "quote": "鏡は、汚れを映す。行為の前に、動機を映せ"
+    },
+    {
+      "id": "SN18-P03",
+      "category": "prep",
+      "ref": "SN 18.2",
+      "section": "正見",
+      "observe": "羅睺羅に正見を教える——我·我所の見を除く",
+      "action": "今日、「私のもの」という見を一つ疑う",
+      "quote": "羅睺羅よ、我·我所の見を除け。これ正見なり"
+    },
+    {
+      "id": "SN18-P04",
+      "category": "prep",
+      "ref": "SN 18.3",
+      "section": "色",
+      "observe": "色は無我——羅睺羅に教える",
+      "action": "今日、色（形·色）の一つに「無我」と付け加える",
+      "quote": "羅睺羅よ、色は無我なり"
+    },
+    {
+      "id": "SN18-P05",
+      "category": "prep",
+      "ref": "SN 18.4",
+      "section": "正見",
+      "observe": "正見を保て——無我を見れば、執着は弱まる",
+      "action": "朝、無我の教えを一節唱える",
+      "quote": "正見を保て。無我を見れば、執着は弱まる"
+    },
+    {
+      "id": "SN18-P06",
+      "category": "suffering",
+      "ref": "SN 18.5",
+      "section": "受",
+      "observe": "受は無我——執着の対象としての苦",
+      "action": "今日、受（感覚）の一つに「無我·苦」と付け加える",
+      "quote": "羅睺羅よ、受は無我なり。執着の対象として、苦なり"
+    },
+    {
+      "id": "SN18-P07",
+      "category": "suffering",
+      "ref": "SN 18.6",
+      "section": "想",
+      "observe": "想は無我——固定した概念の苦",
+      "action": "固定した概念が来たら「想は無我」と観る",
+      "quote": "羅睺羅よ、想は無我なり。固定した概念、苦の因"
+    },
+    {
+      "id": "SN18-P08",
+      "category": "suffering",
+      "ref": "SN 18.7",
+      "section": "行",
+      "observe": "行は無我——意志·形成の苦",
+      "action": "意志·衝動が来たら「行は無我」と名づける",
+      "quote": "羅睺羅よ、行は無我なり"
+    },
+    {
+      "id": "SN18-P09",
+      "category": "suffering",
+      "ref": "SN 18.8",
+      "section": "識",
+      "observe": "識は無我——知る心も条件の集まり",
+      "action": "「私が知っている」が来たら「識は無我」と観る",
+      "quote": "羅睺羅よ、識は無我なり。知る心も、条件の集まり"
+    },
+    {
+      "id": "SN18-P10",
+      "category": "suffering",
+      "ref": "SN 18.9",
+      "section": "集",
+      "observe": "五集まりは苦——執着の総体",
+      "action": "今日の苦を「どの集まりへの執着か」と分類する",
+      "quote": "五集まりは、苦なり。執着の総体なり"
+    },
+    {
+      "id": "SN18-P11",
+      "category": "desire",
+      "ref": "SN 18.10",
+      "section": "色取",
+      "observe": "色への取——形·色への執着",
+      "action": "姿·色への執着が来たら「色取」と名づける",
+      "quote": "色への取、形·色への執着——これ苦の因"
+    },
+    {
+      "id": "SN18-P12",
+      "category": "desire",
+      "ref": "SN 18.11",
+      "section": "受取",
+      "observe": "受への取——快苦への執着",
+      "action": "快い受への執着が来たら「受取」と観る",
+      "quote": "受への取、快苦への執着——これ苦の因"
+    },
+    {
+      "id": "SN18-P13",
+      "category": "desire",
+      "ref": "SN 18.12",
+      "section": "想取",
+      "observe": "想への取——概念への執着",
+      "action": "概念への執着が来たら「想取」と観る",
+      "quote": "想への取、概念への執着——これ苦の因"
+    },
+    {
+      "id": "SN18-P14",
+      "category": "desire",
+      "ref": "SN 18.13",
+      "section": "対治",
+      "observe": "取を対治す——五集まりを観察する",
+      "action": "今日、五集まりの一つを観察し、取を手放す",
+      "quote": "取を対治せ。五集まりを、観察せ"
+    },
+    {
+      "id": "SN18-P15",
+      "category": "desire",
+      "ref": "SN 18.14",
+      "section": "離欲",
+      "observe": "離欲こそ羅睺羅の道——執着を離れよ",
+      "action": "今日、一つの集まりへの執着を手放す",
+      "quote": "離欲を以て、執着を離れよ。これ羅睺羅の道なり"
+    },
+    {
+      "id": "SN18-P16",
+      "category": "speech",
+      "ref": "SN 18.15",
+      "section": "省察",
+      "observe": "語る前に省察せ——鏡の如く",
+      "action": "話す前に「この言葉は善か」と一度問う",
+      "quote": "語る前に、省察せ。鏡の如く"
+    },
+    {
+      "id": "SN18-P17",
+      "category": "speech",
+      "ref": "SN 18.16",
+      "section": "誠実",
+      "observe": "誠実な言葉——虚偽·誹謗を離れる",
+      "action": "今日、真実·利益·適時の言葉を一つ選ぶ",
+      "quote": "誠実な言葉を語れ。虚偽·誹謗を、離れよ"
+    },
+    {
+      "id": "SN18-P18",
+      "category": "speech",
+      "ref": "SN 18.17",
+      "section": "黙",
+      "observe": "不必要な語を避ける——語り過ぎは乱を招く",
+      "action": "今日、不必要な発言を一つ減らす",
+      "quote": "不必要な語を避けよ。語り過ぎ、乱を招く"
+    },
+    {
+      "id": "SN18-P19",
+      "category": "speech",
+      "ref": "SN 18.18",
+      "section": "問法",
+      "observe": "無我について正しい問いを持て",
+      "action": "今日、無我·五集まりについて、一つ問いを持つ",
+      "quote": "無我について、正しい問いを持て"
+    },
+    {
+      "id": "SN18-P20",
+      "category": "speech",
+      "ref": "SN 18.19",
+      "section": "讃",
+      "observe": "羅睺羅の精進を讃える——若き修行者の模範",
+      "action": "今日、若い修行者·学び手を一つ励ます",
+      "quote": "羅睺羅の精進を讃えよ。若き修行者の模範なり"
+    },
+    {
+      "id": "SN18-P21",
+      "category": "people",
+      "ref": "SN 18.20",
+      "section": "師",
+      "observe": "父（仏）に学ぶ——羅睺羅は仏の子",
+      "action": "今日、教え·善友から一つ学ぶ",
+      "quote": "父（仏）に学べ。羅睺羅は、仏の子なり"
+    },
+    {
+      "id": "SN18-P22",
+      "category": "people",
+      "ref": "SN 18.21",
+      "section": "善友",
+      "observe": "善友と共に無我を学ぶ",
+      "action": "今日、善友と一つ法の話題を共有する",
+      "quote": "善友と共に、無我を学べ"
+    },
+    {
+      "id": "SN18-P23",
+      "category": "people",
+      "ref": "SN 18.22",
+      "section": "対人",
+      "observe": "対人の前に省察——身·語·意の鏡",
+      "action": "人と会う前に「身·語·意を省察」と意図を置く",
+      "quote": "対人の前に、省察せ。身·語·意の鏡を、用いよ"
+    },
+    {
+      "id": "SN18-P24",
+      "category": "people",
+      "ref": "SN 18.23",
+      "section": "敬法",
+      "observe": "法を敬う者は、羅睺羅の如く学ぶ",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬う者、羅睺羅の如く学ぶ"
+    },
+    {
+      "id": "SN18-P25",
+      "category": "people",
+      "ref": "SN 18.24",
+      "section": "共学",
+      "observe": "共に鏡の省察を修す",
+      "action": "今日、修行仲間と一つ振り返りを共有する",
+      "quote": "共に、鏡の省察を修せ"
+    },
+    {
+      "id": "SN18-P26",
+      "category": "work",
+      "ref": "SN 18.25",
+      "section": "正念",
+      "observe": "正念を保てば、行為の前に省察できる",
+      "action": "今日、15分間、身·語·意に正念を置く",
+      "quote": "正念を保てば、行為の前に省察できる"
+    },
+    {
+      "id": "SN18-P27",
+      "category": "work",
+      "ref": "SN 18.26",
+      "section": "観察",
+      "observe": "五集まりを観察する——羅睺羅の修行",
+      "action": "今日、五集まりの一つを観察する",
+      "quote": "五集まりを観察せ。羅睺羅の修行なり"
+    },
+    {
+      "id": "SN18-P28",
+      "category": "work",
+      "ref": "SN 18.27",
+      "section": "精進",
+      "observe": "精進すれば、無我の見は深まる",
+      "action": "怠けたいとき、一つの観察修行を行う",
+      "quote": "精進すれば、無我の見は深まる"
+    },
+    {
+      "id": "SN18-P29",
+      "category": "work",
+      "ref": "SN 18.28",
+      "section": "漏尽",
+      "observe": "羅睺羅は煩悩の滅尽に至った——無我を見て解脱",
+      "action": "今日の目的を「無我を見て、解脱に至る」と確認する",
+      "quote": "羅睺羅は、漏尽に至った。無我を見て、解脱せよ"
+    },
+    {
+      "id": "SN18-P30",
+      "category": "work",
+      "ref": "SN 18.29",
+      "section": "戒",
+      "observe": "戒を守れば、身·語の省察は自然に起こる",
+      "action": "今日、戒（正行·正語）を一つ意識的に守る",
+      "quote": "戒を守れば、身·語の省察は自然に起こる"
+    },
+    {
+      "id": "SN18-P31",
+      "category": "night",
+      "ref": "SN 18.30",
+      "section": "振り返り",
+      "observe": "今日、行為の前に省察できたか——鏡",
+      "action": "就寝前、今日省察できた行為を一つ振り返る",
+      "quote": "行為の前に省察せ。鏡の如く"
+    },
+    {
+      "id": "SN18-P32",
+      "category": "night",
+      "ref": "SN 18.31",
+      "section": "身",
+      "observe": "今日、身の行為で後悔はないか",
+      "action": "就寝前、身の行為を一つ振り返り、明日の対策を決める",
+      "quote": "身の行為を、振り返れ"
+    },
+    {
+      "id": "SN18-P33",
+      "category": "night",
+      "ref": "SN 18.32",
+      "section": "語",
+      "observe": "今日、語の行為で後悔はないか",
+      "action": "就寝前、語の行為を一つ振り返る",
+      "quote": "語の行為を、振り返れ"
+    },
+    {
+      "id": "SN18-P34",
+      "category": "night",
+      "ref": "SN 18.33",
+      "section": "意",
+      "observe": "今日、意の行為で後悔はないか",
+      "action": "就寝前、意の行為（動機·思考）を一つ振り返る",
+      "quote": "意の行為を、振り返れ"
+    },
+    {
+      "id": "SN18-P35",
+      "category": "night",
+      "ref": "SN 18.34",
+      "section": "総括",
+      "observe": "羅睺羅相応の要——鏡の如く省察、五集まりは無我",
+      "action": "就寝前、「行為の前に鏡の如く省察」と一句唱える",
+      "quote": "身·語·意の行為の前に、鏡の如く省察せよ。五集まりは、無我なり"
+    }
+  ]
+}

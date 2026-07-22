@@ -1,0 +1,159 @@
+{
+  "chapter": 20,
+  "sutta": 20,
+  "title": "長部 第20経（帝釈問経）",
+  "shortTitle": "帝釈問経",
+  "mapNote": "DN 20——帝釈問経",
+  "suttas": [
+    "DN 20 帝釈問経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（大篇）",
+    "verify": "南伝大蔵経 第7巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN20-P01",
+      "category": "prep",
+      "ref": "DN 20",
+      "section": "大会",
+      "observe": "大会——諸天·梵天·護世神が仏の処に集う",
+      "action": "朝、「今日も法の集会に自分がいる」と一度意識する",
+      "quote": "諸天·梵天·護世神、世尊の処に集い、法を聞く"
+    },
+    {
+      "id": "DN20-P02",
+      "category": "people",
+      "ref": "DN 20",
+      "section": "諸天",
+      "observe": "十方の神々——仏·法·僧を讃え、争いを離れる",
+      "action": "今日、対人の争いを「諸天も離れた」と思い、一歩譲る",
+      "quote": "諸天、世尊·法·僧を讃え、歓喜す"
+    },
+    {
+      "id": "DN20-P03",
+      "category": "work",
+      "ref": "DN 20",
+      "section": "聞法",
+      "observe": "天も聞法する——聞くことが修行の始まり",
+      "action": "今日、法の一節を熱心に聞き（読み）、一つ確かめる",
+      "quote": "諸天、法を聞き、歓喜して修す"
+    },
+    {
+      "id": "DN20-P04",
+      "category": "desire",
+      "ref": "DN 20",
+      "section": "魔",
+      "observe": "魔軍来て乱さんとす——平和な集会を妨げる",
+      "action": "今日、修行·対人の平和を乱そうとする衝動を「魔」と見る",
+      "quote": "魔軍来て、この大会を乱さんとす。然れど成せず"
+    },
+    {
+      "id": "DN20-P05",
+      "category": "speech",
+      "ref": "DN 20",
+      "section": "讃歌",
+      "observe": "諸天の偈——法を讃える声",
+      "action": "今日、法の一節を声に出して読む",
+      "quote": "諸天、偈を唱え、世尊·法·僧を讃える"
+    },
+    {
+      "id": "DN20-P06",
+      "category": "prep",
+      "ref": "DN 20",
+      "section": "帝釈",
+      "observe": "帝釈天も集う——最高の神も仏の前に",
+      "action": "朝、慢心が来たら「帝釈も仏の前に」と一度思う",
+      "quote": "帝釋天、世尊の処に集い、法を聞く"
+    },
+    {
+      "id": "DN20-P07",
+      "category": "suffering",
+      "ref": "DN 20",
+      "section": "和合",
+      "observe": "不和の根は取——天界の集会も和合を説く",
+      "action": "今日、争いの芽を見たら「取·愛」と一度問う",
+      "quote": "不和の根は取なり。和合を修せ"
+    },
+    {
+      "id": "DN20-P08",
+      "category": "night",
+      "ref": "DN 20",
+      "section": "大会",
+      "observe": "大会の終わり——法は留まり、集いは散る",
+      "action": "就寝前、今日聞いた·修した法を一つ振り返る",
+      "quote": "大会は散る。法は留まり、修すべし"
+    },
+    {
+      "id": "DN20-P09",
+      "category": "work",
+      "ref": "DN 20",
+      "section": "歸依",
+      "observe": "諸天、三宝に歸依す——信の始まり",
+      "action": "朝、三宝に帰依する",
+      "quote": "我、仏に帰依す。法に帰依す。僧に帰依す"
+    },
+    {
+      "id": "DN20-P10",
+      "category": "people",
+      "ref": "DN 20",
+      "section": "僧",
+      "observe": "僧伽を讃える諸天——共に修する力",
+      "action": "今日、僧団·修行仲間の善い点を一つ認める",
+      "quote": "諸天、僧伽を讃え、共に法を修す"
+    },
+    {
+      "id": "DN20-P11",
+      "category": "desire",
+      "ref": "DN 20",
+      "section": "乱",
+      "observe": "魔の乱——欲·嗔·慢が集会を乱す",
+      "action": "心が乱れたら、一呼吸で「大会の平和」に戻る",
+      "quote": "魔軍、欲·嗔·慢を以て乱さんとす"
+    }
+  ]
+}

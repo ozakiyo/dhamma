@@ -1,0 +1,424 @@
+{
+  "chapter": 126,
+  "sutta": 126,
+  "title": "中部 第126経（浮弥経）",
+  "shortTitle": "浮弥経",
+  "mapNote": "後分五十経篇 · 空品",
+  "suttas": [
+    "MN 126 浮弥経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "craving",
+    "focusReason": "浮弥経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第126経（浮弥経）",
+    "shortTitle": "浮弥経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "浮弥経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN126-P01",
+          "MN126-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "浮弥経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN126-P01",
+          "MN126-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "欲しがりを見て乗らない",
+        "chapterHint": "浮弥経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN126-P04",
+          "MN126-P05",
+          "MN126-P10"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "浮弥経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN126-P04",
+          "MN126-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "浮弥経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN126-P02",
+          "MN126-P09"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "浮弥経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN126-P01",
+          "MN126-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "浮弥経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN126-P03",
+          "MN126-P08"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN126-P01",
+      "category": "prep",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "四つの道——欲界·色界·無色界·滅",
+      "action": "今日、自分がどの「道」に向かっているか問う",
+      "quote": "比丘たち、四つの道がある——欲界の道、色界の道、無色界の道、滅の道"
+    },
+    {
+      "id": "MN126-P02",
+      "category": "suffering",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "欲界の道は輪廻——天界も終わりあり",
+      "action": "今日、快楽が永続しないと一度思い出す",
+      "quote": "欲界の道は、輪廻に属する。天界も、終わりがある"
+    },
+    {
+      "id": "MN126-P03",
+      "category": "work",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "滅の道は八正道——唯一の解脱",
+      "action": "今日、八正道の一つを意識して行う",
+      "quote": "滅の道は、八正道である。これが唯一の解脱の道である"
+    },
+    {
+      "id": "MN126-P04",
+      "category": "people",
+      "ref": "MN 126",
+      "section": "導",
+      "observe": "浮弥が天界への道を問う——正しい質問",
+      "action": "今日、表面的な成功ではなく根本を問う",
+      "quote": "浮弥は、世尊に問う——天界への道は何か"
+    },
+    {
+      "id": "MN126-P05",
+      "category": "desire",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "色界·無色界も——有為の法",
+      "action": "今日、禅定の楽にも執着しない",
+      "quote": "色界の道·無色界の道も、有為の法である。執着すれば苦となる"
+    },
+    {
+      "id": "MN126-P06",
+      "category": "prep",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "滅の道は現世で——後世を待たない",
+      "action": "今日、将来の解脱ではなく今の一歩に集中する",
+      "quote": "滅の道は、現世で実現する。後世を待つ必要はない"
+    },
+    {
+      "id": "MN126-P07",
+      "category": "speech",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "天界の道を説く者多し——滅の道を説く者少",
+      "action": "今日、快楽ではなく滅を語る勇気を持つ",
+      "quote": "天界への道を説く者は多い。滅への道を説く者は少ない"
+    },
+    {
+      "id": "MN126-P08",
+      "category": "work",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "八正道は段階的——戒·定·慧",
+      "action": "今日、戒·定·慧のどれか一つを整える",
+      "quote": "八正道は、戒·定·慧を含む。段階を踏んで修せ"
+    },
+    {
+      "id": "MN126-P09",
+      "category": "suffering",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "三つの道は苦の種——滅のみ苦の滅",
+      "action": "今日、輪廻を続ける選択を避ける",
+      "quote": "三つの道は、苦の種である。滅の道のみ、苦の滅である"
+    },
+    {
+      "id": "MN126-P10",
+      "category": "people",
+      "ref": "MN 126",
+      "section": "結",
+      "observe": "浮弥は正答——質問者も答える者も益",
+      "action": "今日、良い質問を一つする",
+      "quote": "浮弥は、正しく答え、世尊も随喜した"
+    },
+    {
+      "id": "MN126-P11",
+      "category": "night",
+      "ref": "MN 126",
+      "section": "四路",
+      "observe": "今日はどの道を歩んだか——四道で振り返る",
+      "action": "就寝前、今日の行いがどの道に属するか問う",
+      "quote": "比丘たち、四つの道がある。滅の道を選べ"
+    }
+  ]
+}

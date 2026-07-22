@@ -1,0 +1,159 @@
+{
+  "chapter": 10,
+  "sutta": 10,
+  "title": "長部 第10経（須波経）",
+  "shortTitle": "須波経",
+  "mapNote": "DN 10——須波経",
+  "suttas": [
+    "DN 10 須波経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（戒初篇）",
+    "verify": "南伝大蔵経 第6巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN10-P01",
+      "category": "prep",
+      "ref": "DN 10",
+      "section": "善",
+      "observe": "善い法·善い戒·善い見——道は善から始まる",
+      "action": "朝、今日「善い一歩」を一つ決める",
+      "quote": "善い法·善い戒·善い見——是れ、道の始まりなり"
+    },
+    {
+      "id": "DN10-P02",
+      "category": "work",
+      "ref": "DN 10",
+      "section": "段階",
+      "observe": "戒→感覚の門→四事→禅——段階を踏めば誰も歩める",
+      "action": "今日、段階のうち一つ（戒·正念·満足など）を意識する",
+      "quote": "段階的に、沙門果を説く"
+    },
+    {
+      "id": "DN10-P03",
+      "category": "people",
+      "ref": "DN 10",
+      "section": "阿难",
+      "observe": "阿难は、如来の代わりに正しく答える——聞いて覚えた法",
+      "action": "今日、学んだ法を、誰かの問いに正しく応える",
+      "quote": "阿难は、如来の教えを憶え、須波に正しく答える"
+    },
+    {
+      "id": "DN10-P04",
+      "category": "speech",
+      "ref": "DN 10",
+      "section": "説法",
+      "observe": "説法は、誇りではなく、法の伝達",
+      "action": "今日、教えるとき「自分の功績」ではなく「法」を語る",
+      "quote": "我、如来の教えを説く。是れ、自慢に非ず"
+    },
+    {
+      "id": "DN10-P05",
+      "category": "desire",
+      "ref": "DN 10",
+      "section": "欲",
+      "observe": "欲を離れることが、善い戒の核心",
+      "action": "今日、欲の対象から一度距離を置く",
+      "quote": "欲を離れ、害を離れ、不害の心を生ず"
+    },
+    {
+      "id": "DN10-P06",
+      "category": "suffering",
+      "ref": "DN 10",
+      "section": "苦",
+      "observe": "四諦をあるがままに知れば、苦の滅に至る",
+      "action": "今日の苦を「これが苦」と一度認める",
+      "quote": "これが苦、これが苦の集、これが苦の滅、これが滅道"
+    },
+    {
+      "id": "DN10-P07",
+      "category": "work",
+      "ref": "DN 10",
+      "section": "戒",
+      "observe": "戒を守ることが、一切善の基盤",
+      "action": "今日、戒（約束·不害·正直）の一つを守る",
+      "quote": "戒を守り、聖なる行為を具足す"
+    },
+    {
+      "id": "DN10-P08",
+      "category": "people",
+      "ref": "DN 10",
+      "section": "質問",
+      "observe": "須波は、如来の教えを誠実に問う",
+      "action": "今日、深い問いを、答えを急がず聴く",
+      "quote": "須波は、善い法·戒·見を問う。阿难、正しく答える"
+    },
+    {
+      "id": "DN10-P09",
+      "category": "night",
+      "ref": "DN 10",
+      "section": "振り返り",
+      "observe": "夜、今日の善——どの段階を歩んだか",
+      "action": "就寝前、今日歩んだ戒·正念·善の一つを振り返る",
+      "quote": "善を修せば、夜昼を通じて道に近づく"
+    },
+    {
+      "id": "DN10-P10",
+      "category": "prep",
+      "ref": "DN 10",
+      "section": "正見",
+      "observe": "正見は、善い見の根本",
+      "action": "今日、確信の根拠が「四諦·縁起」か問う",
+      "quote": "正見あり、正思惟あり——是れ、善い見なり"
+    },
+    {
+      "id": "DN10-P11",
+      "category": "work",
+      "ref": "DN 10",
+      "section": "念処",
+      "observe": "四念処を修すれば、善が身に付く",
+      "action": "今日、四念処のうち一つ（身·受·心·法）を観る",
+      "quote": "身·受·心·法を、熱心に、正知に、念を持って観察す"
+    }
+  ]
+}

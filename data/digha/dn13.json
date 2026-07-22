@@ -1,0 +1,168 @@
+{
+  "chapter": 13,
+  "sutta": 13,
+  "title": "長部 第13経（三明経）",
+  "shortTitle": "三明経",
+  "mapNote": "DN 13——三明経",
+  "suttas": [
+    "DN 13 三明経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（戒初篇）",
+    "verify": "南伝大蔵経 第6巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN13-P01",
+      "category": "prep",
+      "ref": "DN 13",
+      "section": "正見",
+      "observe": "梵天に至る道は、儀式ではなく四无量心にある",
+      "action": "朝、今日の修行を「儀式」ではなく「慈心」から始める",
+      "quote": "梵天に至る道は、四无量心を修すことなり"
+    },
+    {
+      "id": "DN13-P02",
+      "category": "work",
+      "ref": "DN 13",
+      "section": "四无量",
+      "observe": "慈·悲·喜·捨を修すれば、梵天界に生れる",
+      "action": "今日、四无量のうち「慈」を一呼吸で修す",
+      "quote": "慈无量心·悲无量心·喜无量心·捨无量心を修すれば、梵天界に至る"
+    },
+    {
+      "id": "DN13-P03",
+      "category": "speech",
+      "ref": "DN 13",
+      "section": "説",
+      "observe": "三明は、儀式ではなく、自証の知",
+      "action": "今日、聞いた·推しただけで「知った」と言わない",
+      "quote": "三明——宿命·天眼·漏尽、儀式·聞·推に非ず"
+    },
+    {
+      "id": "DN13-P04",
+      "category": "people",
+      "ref": "DN 13",
+      "section": "二青年",
+      "observe": "ヴァセッタとバーラドヴァージャ——異なる道を歩み、同じ答えに至る",
+      "action": "今日、意見の違う人と、共通の善（慈·不害）を探す",
+      "quote": "二青年、異なる道を歩むも、四无量心に至る"
+    },
+    {
+      "id": "DN13-P05",
+      "category": "desire",
+      "ref": "DN 13",
+      "section": "儀式",
+      "observe": "ヴェーダ儀式への執着は、真の道を見えなくする",
+      "action": "今日、形式·伝統への執着を一度手放す",
+      "quote": "儀式·呪文に執着すれば、梵天に至らず"
+    },
+    {
+      "id": "DN13-P06",
+      "category": "suffering",
+      "ref": "DN 13",
+      "section": "輪廻",
+      "observe": "宿命智——過去の生を知れば、輪廻の苦が見える",
+      "action": "今日の行いが「来世の因」になると一度確認する",
+      "quote": "宿命智を修すれば、過去の生を知り、輪廻の苦を見る"
+    },
+    {
+      "id": "DN13-P07",
+      "category": "work",
+      "ref": "DN 13",
+      "section": "三明",
+      "observe": "真の三明——宿命·天眼·煩悩の滅尽、自証通智",
+      "action": "今日、未証を「知った」と言わない",
+      "quote": "宿命智·天眼智·漏尽智——是れ、真の三明なり"
+    },
+    {
+      "id": "DN13-P08",
+      "category": "prep",
+      "ref": "DN 13",
+      "section": "慈",
+      "observe": "慈心は、梵天への道であり、煩悩の滅尽への道でもある",
+      "action": "今日、一人に慈心を向ける（願い·呼吸·黙想）",
+      "quote": "慈心を修す者、梵天界に生れ、漏尽に至る"
+    },
+    {
+      "id": "DN13-P09",
+      "category": "people",
+      "ref": "DN 13",
+      "section": "和合",
+      "observe": "争いを離れ、慈心で和合する",
+      "action": "今日、争いの種を一つ手放し、慈心を向ける",
+      "quote": "慈心を以て、和合し、諍いを離れよ"
+    },
+    {
+      "id": "DN13-P10",
+      "category": "night",
+      "ref": "DN 13",
+      "section": "振り返り",
+      "observe": "夜、今日の知·行いを「三明·業」として振り返る",
+      "action": "就寝前、今日の行いが来世·解脱のどちらに向かうか問う",
+      "quote": "行いを正せば、三明は自然に現る"
+    },
+    {
+      "id": "DN13-P11",
+      "category": "suffering",
+      "ref": "DN 13",
+      "section": "漏尽",
+      "observe": "煩悩の滅尽智——三明の最上、あらゆる煩悩の滅尽",
+      "action": "今日、執着を「漏」と名づけ、一つ手放す",
+      "quote": "漏尽智——三明の最上、諸漏の滅尽なり"
+    },
+    {
+      "id": "DN13-P12",
+      "category": "work",
+      "ref": "DN 13",
+      "section": "梵天",
+      "observe": "梵天界は目的ではなく、道の途中——煩悩の滅尽が究竟",
+      "action": "今日、修行の目的を「梵天」ではなく「煩悩の滅尽·解脱」に置く",
+      "quote": "梵天界に至るも、漏尽が究竟なり"
+    }
+  ]
+}

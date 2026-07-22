@@ -1,0 +1,375 @@
+{
+  "chapter": 7,
+  "samyutta": 7,
+  "title": "相応部 第7章（婆羅門相応）",
+  "shortTitle": "婆羅門",
+  "mapNote": "SN 7——婆羅門相応",
+  "suttas": [
+    "SN 7 婆羅門相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（有偈篇）",
+    "verify": "南伝大蔵経 第12巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN7-P01",
+      "category": "prep",
+      "ref": "SN 7.1",
+      "section": "導·生",
+      "observe": "婆羅門は「生によって聖なる」と信じる——仏は行によって聖なると説く",
+      "action": "朝、「生ではなく行が人を作る」と意図を置く",
+      "quote": "婆羅門は問う。「生によって、我々は聖なる」。世尊は答える。「行によって、人は聖なる」"
+    },
+    {
+      "id": "SN7-P02",
+      "category": "prep",
+      "ref": "SN 7.1",
+      "section": "行",
+      "observe": "真の婆羅門は行によって聖なる——戒·定·慧",
+      "action": "今日、出身·条件ではなく、自分の行いを一つ選ぶ",
+      "quote": "戒·定·慧を修す者、真の婆羅門なり"
+    },
+    {
+      "id": "SN7-P03",
+      "category": "prep",
+      "ref": "SN 7.9",
+      "section": "清淨",
+      "observe": "真の婆羅門は内側が清浄——外の儀式ではない",
+      "action": "今日、外見より内面（意·行）を一つ整える",
+      "quote": "内側が清浄なる者、真の婆羅門なり"
+    },
+    {
+      "id": "SN7-P04",
+      "category": "prep",
+      "ref": "SN 7.11",
+      "section": "正見",
+      "observe": "仏こそ真の婆羅門——阿修羅王もこのを認める",
+      "action": "今日、真の教え·真の善友を一つ選ぶ",
+      "quote": "世尊こそ、真の婆羅門なり"
+    },
+    {
+      "id": "SN7-P05",
+      "category": "prep",
+      "ref": "SN 7.15",
+      "section": "無我",
+      "observe": "婆羅門の「我」——固定観念を離れる",
+      "action": "「私はこういう人間」と思い込むとき、一度問う",
+      "quote": "「我」という固定観念を離れよ"
+    },
+    {
+      "id": "SN7-P06",
+      "category": "suffering",
+      "ref": "SN 7.1",
+      "section": "慢",
+      "observe": "生による慢——「我々は上、彼らは下」",
+      "action": "優越感·差別の思いが来たら「生による慢」と観る",
+      "quote": "生による慢、これ苦の因なり"
+    },
+    {
+      "id": "SN7-P07",
+      "category": "suffering",
+      "ref": "SN 7.5",
+      "section": "争",
+      "observe": "婆羅門同士の争——誰が真の婆羅門か",
+      "action": "正しさを争う衝動が来たら、一度止まる",
+      "quote": "誰が真の婆羅門か——争いは、苦を増す"
+    },
+    {
+      "id": "SN7-P08",
+      "category": "suffering",
+      "ref": "SN 7.9",
+      "section": "偽",
+      "observe": "外だけ清浄な偽の婆羅門——内は汚れ",
+      "action": "外見だけ整える衝動が来たら、内面を観る",
+      "quote": "外だけ清浄、内は汚れ——偽の婆羅門なり"
+    },
+    {
+      "id": "SN7-P09",
+      "category": "suffering",
+      "ref": "SN 7.12",
+      "section": "無明",
+      "observe": "婆羅門の無明——伝統に固執",
+      "action": "「いつもこうだった」という固執が来たら、一度問う",
+      "quote": "伝統に固執すれば、無明なり"
+    },
+    {
+      "id": "SN7-P10",
+      "category": "suffering",
+      "ref": "SN 7.20",
+      "section": "輪廻",
+      "observe": "行が悪ければ、生が高くても苦",
+      "action": "今日の行いを「来世·未来の因」と観る",
+      "quote": "行が悪ければ、生が高くても、苦なり"
+    },
+    {
+      "id": "SN7-P11",
+      "category": "desire",
+      "ref": "SN 7.3",
+      "section": "名",
+      "observe": "「婆羅門」という名への執着",
+      "action": "肩書·名声への執着が来たら、一度手放す",
+      "quote": "名への執着、これ苦の因"
+    },
+    {
+      "id": "SN7-P12",
+      "category": "desire",
+      "ref": "SN 7.7",
+      "section": "祭",
+      "observe": "祭·儀式への執着——外の形式",
+      "action": "形式だけ大切にする衝動が来たら、内面を問う",
+      "quote": "祭·儀式への執着、内を見よ"
+    },
+    {
+      "id": "SN7-P13",
+      "category": "desire",
+      "ref": "SN 7.9",
+      "section": "対治",
+      "observe": "内の清浄を求める——外の執着を離れる",
+      "action": "外見·形式への執着が来たら、内の清浄を一つ整える",
+      "quote": "内の清浄を求め、外の執着を離れよ"
+    },
+    {
+      "id": "SN7-P14",
+      "category": "desire",
+      "ref": "SN 7.14",
+      "section": "離欲",
+      "observe": "離欲こそ真の婆羅門",
+      "action": "今日、一つの執着を手放す",
+      "quote": "離欲を以て、真の婆羅門となれ"
+    },
+    {
+      "id": "SN7-P15",
+      "category": "desire",
+      "ref": "SN 7.22",
+      "section": "解脱",
+      "observe": "解脱こそ真の婆羅門の頂点",
+      "action": "今日の目的を「名声ではなく解脱」と確認する",
+      "quote": "解脱こそ、真の婆羅門の頂点なり"
+    },
+    {
+      "id": "SN7-P16",
+      "category": "speech",
+      "ref": "SN 7.1",
+      "section": "問答",
+      "observe": "婆羅門と仏の問答——正しい問いと答え",
+      "action": "今日、固定観念について一つ問いを持つ",
+      "quote": "正しい問いに、正しい答えあり"
+    },
+    {
+      "id": "SN7-P17",
+      "category": "speech",
+      "ref": "SN 7.9",
+      "section": "正語",
+      "observe": "真の婆羅門は正語を守る",
+      "action": "今日、真実·利益·適時の言葉を一つ選ぶ",
+      "quote": "真の婆羅門、正語を守る"
+    },
+    {
+      "id": "SN7-P18",
+      "category": "speech",
+      "ref": "SN 7.11",
+      "section": "讃",
+      "observe": "阿修羅王は仏を讃える——真の婆羅門",
+      "action": "今日、真の教え·善友を一つ讃える",
+      "quote": "世尊こそ、真の婆羅門——阿修羅王は、此を讃える"
+    },
+    {
+      "id": "SN7-P19",
+      "category": "speech",
+      "ref": "SN 7.15",
+      "section": "誠実",
+      "observe": "誠実な問い——飾らず",
+      "action": "今日、飾らず誠実な問いを一つ口にする",
+      "quote": "誠実な問い、飾らず"
+    },
+    {
+      "id": "SN7-P20",
+      "category": "speech",
+      "ref": "SN 7.22",
+      "section": "默",
+      "observe": "争いを避ける——默ることも智慧",
+      "action": "今日、不必要な論争を一つ避ける",
+      "quote": "争いを避け、默ることも智慧なり"
+    },
+    {
+      "id": "SN7-P21",
+      "category": "people",
+      "ref": "SN 7.1",
+      "section": "差別",
+      "observe": "生による差別——仏はこのを否定",
+      "action": "今日、差別の思いが来たら、一度止まる",
+      "quote": "生による差別、否定せよ"
+    },
+    {
+      "id": "SN7-P22",
+      "category": "people",
+      "ref": "SN 7.9",
+      "section": "対人",
+      "observe": "真の婆羅門は、すべての者を平等に見る",
+      "action": "今日、偏見を持ちそうな人を、平等に見る",
+      "quote": "真の婆羅門、すべての者を平等に見る"
+    },
+    {
+      "id": "SN7-P23",
+      "category": "people",
+      "ref": "SN 7.11",
+      "section": "敬",
+      "observe": "真の婆羅門（仏）を敬う",
+      "action": "今日、真の教え·善友を敬う行為を一つする",
+      "quote": "真の婆羅門を敬え"
+    },
+    {
+      "id": "SN7-P24",
+      "category": "people",
+      "ref": "SN 7.14",
+      "section": "善友",
+      "observe": "善友こそ真の婆羅門を教える",
+      "action": "今日、善友に一つ感謝を伝える",
+      "quote": "善友こそ、真の婆羅門を教える"
+    },
+    {
+      "id": "SN7-P25",
+      "category": "people",
+      "ref": "SN 7.22",
+      "section": "後学",
+      "observe": "後学も、行によって真の婆羅門となれる",
+      "action": "今日、誰かの良い行いを一つ認める",
+      "quote": "行によって、誰もが真の婆羅門となれる"
+    },
+    {
+      "id": "SN7-P26",
+      "category": "work",
+      "ref": "SN 7.1",
+      "section": "戒",
+      "observe": "戒を守る——真の婆羅門の第一",
+      "action": "今日、戒（不殺·不盗·不妄等）の一つを意識する",
+      "quote": "戒を守る者、真の婆羅門なり"
+    },
+    {
+      "id": "SN7-P27",
+      "category": "work",
+      "ref": "SN 7.9",
+      "section": "内清",
+      "observe": "内の清浄を修す——意·行",
+      "action": "今日、意の一つの汚れ（欲·怒り）を対治する",
+      "quote": "内の清浄を修せよ"
+    },
+    {
+      "id": "SN7-P28",
+      "category": "work",
+      "ref": "SN 7.11",
+      "section": "慧",
+      "observe": "慧を修す——真の婆羅門",
+      "action": "今日、一つの問題について深く考える",
+      "quote": "慧を修す者、真の婆羅門なり"
+    },
+    {
+      "id": "SN7-P29",
+      "category": "work",
+      "ref": "SN 7.14",
+      "section": "精進",
+      "observe": "精進する——生ではなく行",
+      "action": "今日、怠けたい衝動が来たら、一つの善行を行う",
+      "quote": "精進すれば、真の婆羅門に近づく"
+    },
+    {
+      "id": "SN7-P30",
+      "category": "work",
+      "ref": "SN 7.22",
+      "section": "解脱",
+      "observe": "解脱こそ真の婆羅門",
+      "action": "今日の目的を「解脱」と確認する",
+      "quote": "解脱こそ、真の婆羅門なり"
+    },
+    {
+      "id": "SN7-P31",
+      "category": "night",
+      "ref": "SN 7.1",
+      "section": "行",
+      "observe": "今日の行い——生ではなく行",
+      "action": "就寝前、今日の行いを一つ振り返る",
+      "quote": "行によって、人は作られる"
+    },
+    {
+      "id": "SN7-P32",
+      "category": "night",
+      "ref": "SN 7.9",
+      "section": "内清",
+      "observe": "今日、内の清浄を整えたか",
+      "action": "就寝前、内の汚れを一つ認め、明日整える",
+      "quote": "内の清浄を、夜も整えよ"
+    },
+    {
+      "id": "SN7-P33",
+      "category": "night",
+      "ref": "SN 7.11",
+      "section": "慢",
+      "observe": "今日、生·名による慢が来たか",
+      "action": "就寝前、慢心を一つ手放す",
+      "quote": "慢心を手放せ"
+    },
+    {
+      "id": "SN7-P34",
+      "category": "night",
+      "ref": "SN 7.14",
+      "section": "離欲",
+      "observe": "今日、手放した執着はあったか",
+      "action": "就寝前、手放した執着を一つ認める",
+      "quote": "手放せば、真の婆羅門に近づく"
+    },
+    {
+      "id": "SN7-P35",
+      "category": "night",
+      "ref": "SN 7.22",
+      "section": "総括",
+      "observe": "婆羅門相応の要——生ではなく行、内の清浄こそ真",
+      "action": "就寝前、「行によって人は作られる」と一句唱える",
+      "quote": "生ではなく行。内の清浄こそ、真の婆羅門なり"
+    }
+  ]
+}

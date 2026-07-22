@@ -1,0 +1,424 @@
+{
+  "chapter": 111,
+  "sutta": 111,
+  "title": "中部 第111経（不断経）",
+  "shortTitle": "不断経",
+  "mapNote": "後分五十経篇 · 不断品",
+  "suttas": [
+    "MN 111 不断経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "release",
+    "focusReason": "不断経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第111経（不断経）",
+    "shortTitle": "不断経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "不断経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN111-P01",
+          "MN111-P02"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "不断経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN111-P02",
+          "MN111-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "不断経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN111-P04",
+          "MN111-P08"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "不断経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN111-P04",
+          "MN111-P08"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "不断経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN111-P07",
+          "MN111-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "散乱を離れ、定へ戻る",
+        "chapterHint": "不断経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN111-P01",
+          "MN111-P02",
+          "MN111-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "不断経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN111-P01",
+          "MN111-P03"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN111-P01",
+      "category": "work",
+      "ref": "MN 111",
+      "section": "導",
+      "observe": "六浄経——舎利弗が、初禅の各別に観察した",
+      "action": "今日、禅定の一段階を、一つ意識する",
+      "quote": "舎利弗は、初禅に入り、各別に観察した"
+    },
+    {
+      "id": "MN111-P02",
+      "category": "prep",
+      "ref": "MN 111",
+      "section": "初禅",
+      "observe": "初禅の要素——離生喜乐·定·一境",
+      "action": "今日、初禅の一要素を、五呼吸観察する",
+      "quote": "離生喜乐·定·一境——これが初禅の要素である"
+    },
+    {
+      "id": "MN111-P03",
+      "category": "work",
+      "ref": "MN 111",
+      "section": "各别",
+      "observe": "各別に観察すれば、禅は深まる",
+      "action": "今日、心の状態を、一つ一つ観察する",
+      "quote": "各別に観察すれば、禅は深まる"
+    },
+    {
+      "id": "MN111-P04",
+      "category": "desire",
+      "ref": "MN 111",
+      "section": "盖",
+      "observe": "五蓋を除いてから、禅に入る",
+      "action": "今日、五蓋の一つを、名付けて除く",
+      "quote": "五蓋を除いてから、禅に入る"
+    },
+    {
+      "id": "MN111-P05",
+      "category": "work",
+      "ref": "MN 111",
+      "section": "二禅",
+      "observe": "舎利弗は、二禅·三禅·四禅も、各別に観察した",
+      "action": "今日、禅の次の段階を、一つ意識する",
+      "quote": "舎利弗は、二禅·三禅·四禅も、各別に観察した"
+    },
+    {
+      "id": "MN111-P06",
+      "category": "prep",
+      "ref": "MN 111",
+      "section": "正見",
+      "observe": "各別の観察は、正見の実践",
+      "action": "今日、正見で、心の状態を一つ観察する",
+      "quote": "各別の観察は、正見の実践である"
+    },
+    {
+      "id": "MN111-P07",
+      "category": "suffering",
+      "ref": "MN 111",
+      "section": "無常",
+      "observe": "禅の状態も、無常である",
+      "action": "今日、禅の状態に、無常を一瞬付け加える",
+      "quote": "禅の状態も、無常である"
+    },
+    {
+      "id": "MN111-P08",
+      "category": "desire",
+      "ref": "MN 111",
+      "section": "执",
+      "observe": "禅への執着も、除くべき",
+      "action": "今日、禅への執着を、一つ手放す",
+      "quote": "禅への執着も、除くべきである"
+    },
+    {
+      "id": "MN111-P09",
+      "category": "work",
+      "ref": "MN 111",
+      "section": "慧",
+      "observe": "各別の観察から、慧が生じる",
+      "action": "今日、観察から生じた慧を、一つ記録する",
+      "quote": "各別の観察から、慧が生じる"
+    },
+    {
+      "id": "MN111-P10",
+      "category": "speech",
+      "ref": "MN 111",
+      "section": "教誡",
+      "observe": "世尊は、舎利弗の観察を、比丘に説いた",
+      "action": "今日、観察の重要性を、誰かに一つ伝える",
+      "quote": "世尊は、舎利弗の各別の観察を説いた"
+    },
+    {
+      "id": "MN111-P11",
+      "category": "night",
+      "ref": "MN 111",
+      "section": "結",
+      "observe": "各別の観察——夜、今日の心の状態を一つ振り返る",
+      "action": "就寝前、今日観察した心の状態を、静かに反芻する",
+      "quote": "各別に観察すれば、禅は深まる"
+    }
+  ]
+}

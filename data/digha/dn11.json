@@ -1,0 +1,159 @@
+{
+  "chapter": 11,
+  "sutta": 11,
+  "title": "長部 第11経（堅固経）",
+  "shortTitle": "堅固経",
+  "mapNote": "DN 11——堅固経",
+  "suttas": [
+    "DN 11 堅固経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（戒初篇）",
+    "verify": "南伝大蔵経 第6巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN11-P01",
+      "category": "prep",
+      "ref": "DN 11",
+      "section": "正信",
+      "observe": "神通による信は、法による信に勝らない",
+      "action": "朝、自分の信の根拠が「奇迹」か「法」か問う",
+      "quote": "神通を以て信を得るべからず。法を以て信を得べし"
+    },
+    {
+      "id": "DN11-P02",
+      "category": "speech",
+      "ref": "DN 11",
+      "section": "説法",
+      "observe": "如来は、神通で説法せず、法で説法する",
+      "action": "今日、目立つ演出より、誠実な言葉で語る",
+      "quote": "我、神通を現さず、法を説く"
+    },
+    {
+      "id": "DN11-P03",
+      "category": "people",
+      "ref": "DN 11",
+      "section": "堅固",
+      "observe": "堅固は、神通を求める——目的を正す必要がある",
+      "action": "今日、誰かの「奇迹への期待」に、法を示す",
+      "quote": "堅固は、神通を求める。如来、法を説く"
+    },
+    {
+      "id": "DN11-P04",
+      "category": "desire",
+      "ref": "DN 11",
+      "section": "神通",
+      "observe": "神通への執着は、解脱を妨げる",
+      "action": "「特別な証拠が欲しい」と思ったら、一度手放す",
+      "quote": "神通に執着すれば、漏尽に至らず"
+    },
+    {
+      "id": "DN11-P05",
+      "category": "work",
+      "ref": "DN 11",
+      "section": "問答",
+      "observe": "比丘は天界を巡り問う——答えは如来のもとにある",
+      "action": "今日、行き詰まった問いを、一度立ち止まって考える",
+      "quote": "比丘は、梵天·帝釈·四大天王を巡り問う。答えは、如来のもとにあり"
+    },
+    {
+      "id": "DN11-P06",
+      "category": "suffering",
+      "ref": "DN 11",
+      "section": "四大",
+      "observe": "地·水·火·風——四大は識の中で止む",
+      "action": "今日、身体の感覚を「四大の集まり」と一度見る",
+      "quote": "地·水·火·風は、識の中で止む"
+    },
+    {
+      "id": "DN11-P07",
+      "category": "prep",
+      "ref": "DN 11",
+      "section": "正見",
+      "observe": "識が涅槃に至る——元素の彼方",
+      "action": "今日、概念の固定を緩め、「識の止息」を一度考える",
+      "quote": "識は、涅槃に至る。是れ、元素の止息なり"
+    },
+    {
+      "id": "DN11-P08",
+      "category": "people",
+      "ref": "DN 11",
+      "section": "梵天",
+      "observe": "梵天も全てを知らない——謙虚に問う",
+      "action": "今日、「自分は全て知っている」と思う衝動を一度止める",
+      "quote": "梵天は、四大の止息を知らず。如来に還れ"
+    },
+    {
+      "id": "DN11-P09",
+      "category": "night",
+      "ref": "DN 11",
+      "section": "振り返り",
+      "observe": "夜、今日の信——奇迹を求めたか、法を修したか",
+      "action": "就寝前、今日の修行を「法·信」として振り返る",
+      "quote": "法を修せば、信は自然に深まる"
+    },
+    {
+      "id": "DN11-P10",
+      "category": "work",
+      "ref": "DN 11",
+      "section": "禅",
+      "observe": "禅を修すれば、天界の問いも超える答えに至る",
+      "action": "今日、一呼吸で心を静める",
+      "quote": "禅を修す者、元素の止息を知る"
+    },
+    {
+      "id": "DN11-P11",
+      "category": "suffering",
+      "ref": "DN 11",
+      "section": "涅槃",
+      "observe": "元素の止息は、苦の止息——涅槃",
+      "action": "今日の苦を「止息可能なもの」として一度見る",
+      "quote": "識の止息は、苦の止息なり。是れ、涅槃"
+    }
+  ]
+}

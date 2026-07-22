@@ -1,0 +1,424 @@
+{
+  "chapter": 39,
+  "sutta": 39,
+  "title": "中部 第39経（馬邑大経）",
+  "shortTitle": "馬邑大経",
+  "mapNote": "根本五十経篇 · 双大品",
+  "suttas": [
+    "MN 39 馬邑大経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 根本五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "suffering",
+    "focusReason": "馬邑大経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第39経（馬邑大経）",
+    "shortTitle": "馬邑大経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "馬邑大経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN39-P01",
+          "MN39-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "馬邑大経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN39-P01",
+          "MN39-P03"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "馬邑大経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN39-P04",
+          "MN39-P07"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "馬邑大経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN39-P03",
+          "MN39-P04"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦の立ち上がりを正見で見る",
+        "chapterHint": "馬邑大経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN39-P02",
+          "MN39-P10",
+          "MN39-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "馬邑大経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN39-P01",
+          "MN39-P05"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "馬邑大経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN39-P05",
+          "MN39-P06"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN39-P01",
+      "category": "prep",
+      "ref": "MN 39",
+      "section": "導",
+      "observe": "裸形行者が「苦行こそ浄行」と信じている——真の浄行は身を傷つけることではない",
+      "action": "朝、自分の「修行」を苦行と浄行に分けて一度見直す",
+      "quote": "裸形行者よ、汝等の行は浄行に非ず、汝等の行は苦行者の行に非ず"
+    },
+    {
+      "id": "MN39-P02",
+      "category": "suffering",
+      "ref": "MN 39",
+      "section": "身行",
+      "observe": "殺生·盗み·邪行は、浄行を装っても身の苦の種",
+      "action": "今日、他者の生命·所有·関係を害さないよう一つ意識する",
+      "quote": "手に血をつけ、無慈悲にして生き物を殺す——これ、身において法に反する・正しくない"
+    },
+    {
+      "id": "MN39-P03",
+      "category": "speech",
+      "ref": "MN 39",
+      "section": "語行",
+      "observe": "嘘·両舌·粗語·雑語は、口の苦行ではなく口の穢れ",
+      "action": "今日、事実でないこと·仲を裂く言葉を一度止める",
+      "quote": "見たものも聞いたものも知ったものもないのに、見た・聞いた・知ったと語る——これ、語ににおいて法に反する・正しくない"
+    },
+    {
+      "id": "MN39-P04",
+      "category": "desire",
+      "ref": "MN 39",
+      "section": "意行",
+      "observe": "貪·瞋·邪見は、意の苦行ではなく意の穢れ",
+      "action": "今日、他者の所有を欲する心·害意を一度見る",
+      "quote": "他者の所有物を欲して、「ああ、彼のものが私のものであれば」と思う——これ、意ににおいて法に反する・正しくない"
+    },
+    {
+      "id": "MN39-P05",
+      "category": "work",
+      "ref": "MN 39",
+      "section": "浄行",
+      "observe": "真の浄行——不善業を離れ、善業を修する",
+      "action": "今日、身語意の一つを「離すべき不善業」と結びつける",
+      "quote": "殺生を離れ、殺生を捨て去る——これ、身において法に沿った・正しい"
+    },
+    {
+      "id": "MN39-P06",
+      "category": "work",
+      "ref": "MN 39",
+      "section": "浄行",
+      "observe": "真の苦行——五盖を除却し、七覚支を修する",
+      "action": "今日、五盖の一つを名づけ、対治を一つ選ぶ",
+      "quote": "貪欲·瞋恚·睡眠·掉悔·疑——この五盖を除却し、七覚支を修習する"
+    },
+    {
+      "id": "MN39-P07",
+      "category": "people",
+      "ref": "MN 39",
+      "section": "牛飼",
+      "observe": "牛飼の譬喩——世間人の印と修行者の印は異なる",
+      "action": "今日、自分の行いが「世間の印」か「修行者の印」か問う",
+      "quote": "牛飼は牛の群れを知り、沙門は自らの行を知る——これ、沙門の印なり"
+    },
+    {
+      "id": "MN39-P08",
+      "category": "prep",
+      "ref": "MN 39",
+      "section": "正見",
+      "observe": "苦行で身を傷つけても、煩悩の滅尽には至らない",
+      "action": "正しい道は「苦の滅」にあると一度確認する",
+      "quote": "如是の苦行を行えども、諸漏の滅尽には至らず——これ、非道なり"
+    },
+    {
+      "id": "MN39-P09",
+      "category": "people",
+      "ref": "MN 39",
+      "section": "対裸形",
+      "observe": "裸形行者への教え——誹謗せず、正しく示す",
+      "action": "意見の異なる相手にも、正しい見方を静かに示す",
+      "quote": "汝等の行は浄行に非ず——然れども、我は汝等を誹謗せず、正しく説く"
+    },
+    {
+      "id": "MN39-P10",
+      "category": "suffering",
+      "ref": "MN 39",
+      "section": "業報",
+      "observe": "不善業は未来の苦の因——苦行の装いも救わない",
+      "action": "苦を感じたら、身語意のどこに因があるか一つ辿る",
+      "quote": "法に反する行・正しくない行のだから、このように衆生は悪趣・下劣・堕所・地獄に生ず"
+    },
+    {
+      "id": "MN39-P11",
+      "category": "night",
+      "ref": "MN 39",
+      "section": "結",
+      "observe": "馬邑大経——真の浄行は身語意の善業",
+      "action": "就寝前、今日の身語意を「離不善·修善」として振り返る",
+      "quote": "殺生を離れ、盗みを離れ、邪行を離れる——これ、身において法に沿った・正しい"
+    }
+  ]
+}

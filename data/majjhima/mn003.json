@@ -1,0 +1,782 @@
+{
+  "chapter": 3,
+  "sutta": 3,
+  "title": "中部 第3経・法嗣経（法の相続者の経）",
+  "shortTitle": "法嗣経（法の相続者の経）",
+  "mapNote": "根本五十経篇 · 根本法門品（アラナ：法の相続者の経）",
+  "suttas": [
+    "MN 3 法嗣経（法の相続者の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第3経（法嗣経／法の相続者の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含88求法経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・法の相続者の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・求法経（T1.569c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+        "note": "漢訳対応は段落ごとに異なる。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第3経・法嗣経（法の相続者の経）",
+    "shortTitle": "法嗣経（法の相続者の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "livelihood",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正命",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "livelihood",
+          "mindfulness"
+        ],
+        "pathLabel": "残食・財の誘惑との接触を見る",
+        "chapterHint": "法嗣経（法の相続者の経）",
+        "fromPrev": "前夜の見直しが、今朝の財か法かの分岐になる",
+        "toNext": "接触のあと、飢え・快不快の受が来る",
+        "todayObserve": "飢えに打ち負かされた二人の比丘に、世尊は残った施食を勧める。食は、捨てるべき・超過の法としてある。",
+        "todayAction": "今日、四念処のうち一つ（身·受·心·法）を意識して観る",
+        "when": [
+          "余分なものを勧められた",
+          "空腹や疲れが強い"
+        ],
+        "sources": [
+          "MN3-P02"
+        ],
+        "leadQuote": "二者の比丘が、飢えと力の衰えに打ち負かされ、やってくるとします。彼らに、わたしは…",
+        "secondaryObserve": "法（教え）の相続者たれ。財貨の相続者になるな。師は弟子への慈しみから、そう説く。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "livelihood",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正命",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "livelihood",
+          "effort"
+        ],
+        "pathLabel": "飢えの受を耐えて少欲・知足を選ぶ",
+        "chapterHint": "法嗣経（法の相続者の経）",
+        "fromPrev": "残食や財の接触のあと、受が立ち上がる",
+        "toNext": "受け方を誤ると欲しがりへ",
+        "todayObserve": "残食を取らず飢えとともに過ごす比丘の方が、より供養・賞賛に値する。少欲・知足・謹厳・精進のために長く転起するからである。",
+        "todayAction": "今日、すでに生じた不善（反芻·苛立ち等）を一つ「捨て去る」と決める",
+        "when": [
+          "少し足りないと感じた",
+          "余分を取ろうとした"
+        ],
+        "sources": [
+          "MN3-P03"
+        ],
+        "leadQuote": "たとえ、何であれ、その比丘が、その〔行乞の〕施食を食べて……過ごすとして、そこで…",
+        "secondaryObserve": "少欲・知足のために長夜転起する"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "view"
+        ],
+        "pathLabel": "貪・瞋を名づけ、中道で乗らない",
+        "chapterHint": "法嗣経（法の相続者の経）",
+        "fromPrev": "受のあと、貪欲と憤怒が立ち上がる",
+        "toNext": "止めないと忿恨等の掴みへ",
+        "todayObserve": "貪欲と憤怒は悪しきもの。それらを捨てるために、眼・智を作り寂止・正覚・涅槃へ向かう中道がある。",
+        "todayAction": "今日、七覚支のうち「念」または「擇法」を一つ意識する",
+        "when": [
+          "欲が出た",
+          "怒りが立った"
+        ],
+        "sources": [
+          "MN3-P06"
+        ],
+        "leadQuote": "友よ、そこで、そして、貪欲（貪）は悪しきものであり、さらに、憤怒（瞋）は悪しきも…",
+        "secondaryObserve": "その中道とは聖なる八支道——正見・正思惟・正語・正業・正命・正精進・正念・正定である。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "intention",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正思惟",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "effort"
+        ],
+        "pathLabel": "忿恨嫉慳慢放逸を掴まず捨てる",
+        "chapterHint": "法嗣経（法の相続者の経）",
+        "fromPrev": "貪瞋のあと、忿恨等が掴む手前",
+        "toNext": "掴むと非難・苦が見える",
+        "todayObserve": "忿・恨・嫉・慳・慢・過慢・驕・放逸なども悪しきもの。掴まず、中道によって捨てるべきである。",
+        "todayAction": "今日、一呼吸で「離生喜楽」の方向に心を向ける",
+        "when": [
+          "悔しさを抱えた",
+          "慢心や放逸が出た"
+        ],
+        "sources": [
+          "MN3-P08"
+        ],
+        "leadQuote": "友よ、そこで、そして、忿激（忿）は悪しきものであり、さらに、怨恨（恨）は悪しきも…",
+        "secondaryObserve": "中道によって捨てる"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "effort",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "遠離に随学せず非難される三事を見る",
+        "chapterHint": "法嗣経（法の相続者の経）",
+        "fromPrev": "随学せず捨ず贅沢・緩慢の結果として非難が来る",
+        "toNext": "見れば、随学と八正道へ向き直る",
+        "todayObserve": "師が遠離に住むのに弟子が随学せず、捨べき法を捨てず、贅沢・緩慢で遠離に荷を置く——その三事で非難される。",
+        "todayAction": "今日、修行の「欲」（志）を一度確認し、散漫な心を引き戻す",
+        "when": [
+          "教えから離れて重い",
+          "怠けて後悔した"
+        ],
+        "sources": [
+          "MN3-P04"
+        ],
+        "leadQuote": "教師が遠離し、〔世に〕住んでいるとき、弟子たちとして、遠離に随学しない……教師が…",
+        "secondaryObserve": "師が遠離に住むとき弟子も随学し、捨べき法を捨て、贅沢・緩慢でなく遠離の先行者となる——その三事で賞賛される。"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "livelihood",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正命",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "livelihood",
+          "view"
+        ],
+        "pathLabel": "法を継ぎ、遠離に随学し、八正道で離す",
+        "chapterHint": "法嗣経（法の相続者の経）",
+        "fromPrev": "苦が見えれば、法相続と中道へ向き直る",
+        "toNext": "離せば、夜の見直しへつながる",
+        "todayObserve": "法（教え）の相続者たれ。財貨の相続者になるな。師は弟子への慈しみから、そう説く。",
+        "todayAction": "朝、今日「法の嗣者」として何を実践するか一つ決める",
+        "when": [
+          "財か法かを選ぶ",
+          "八正道の一つを立てる"
+        ],
+        "sources": [
+          "MN3-P01",
+          "MN3-P05",
+          "MN3-P07",
+          "MN3-P09"
+        ],
+        "leadQuote": "比丘たちよ、わたしの法（教え）の相続者たちと成りなさい。財貨の相続者たちと〔成っ…",
+        "secondaryObserve": "その中道とは聖なる八支道——正見・正思惟・正語・正業・正命・正精進・正念・正定である。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正命"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "livelihood"
+        ],
+        "pathLabel": "今日、法の相続者として何をしたかを見直す",
+        "chapterHint": "法嗣経（法の相続者の経）",
+        "fromPrev": "一日の選択は、財を継いだか法を継いだかの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "それゆえ再び——法の相続者たれ。財貨の相続者になるな。師の慈しみは、弟子が法を継ぐことにある。",
+        "todayAction": "就寝前、今日「法の嗣者」として実践したことを一つ振り返る",
+        "when": [
+          "一日を閉じるとき",
+          "聞法できた日"
+        ],
+        "sources": [
+          "MN3-P10",
+          "MN3-P11"
+        ],
+        "leadQuote": "比丘たちよ、それゆえに、ここに、わたしの法（教え）の相続者たちと成りなさい。財貨…",
+        "secondaryObserve": "サーリプッタの説法を聞いて、比丘たちは大いに喜んだ。"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "法嗣経は法を継ぎ財を継がず、遠離と八正道で貪瞋等を捨てるのが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN3-P01",
+      "category": "livelihood",
+      "ref": "MN 3",
+      "section": "法相続",
+      "observe": "法（教え）の相続者たれ。財貨の相続者になるな。師は弟子への慈しみから、そう説く。",
+      "action": "朝、今日「法の嗣者」として何を実践するか一つ決める",
+      "quote": "比丘たちよ、わたしの法（教え）の相続者たちと成りなさい。財貨の相続者たちと〔成っては〕いけません。わたしには、あなたたちにたいする慈しみ〔の思い〕が存在します。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正命",
+        "正見"
+      ],
+      "pathReason": "財ではなく法を継ぐ入口",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·法相続",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-open",
+          "text": "汝等當行求法。莫行求飮食。所以者何。我慈愍弟子故。欲令行求法不行求飮食。",
+          "satLocus": "大正蔵 T1.570a 求法経第二",
+          "note": "漢訳は『求法／求飲食』。パーリ『法の相続／財貨の相続』に対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P02",
+      "category": "livelihood",
+      "ref": "MN 3",
+      "section": "残食·提示",
+      "observe": "飢えに打ち負かされた二人の比丘に、世尊は残った施食を勧める。食は、捨てるべき・超過の法としてある。",
+      "action": "今日、四念処のうち一つ（身·受·心·法）を意識して観る",
+      "quote": "二者の比丘が、飢えと力の衰えに打ち負かされ、やってくるとします。彼らに、わたしは、このように説くとします。『……わたしの、この〔行乞の〕施食は、超過の法（性質）あるものとして、捨てるべき法（性質）あるものとして、存しています。それで、もし、望むなら、〔それを〕食べなさい』と。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "残食・飢えとの接触で財の誘惑が現れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·残食·提示",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-leftover",
+          "text": "我飽食訖食事已辦猶有殘食。於後有二比丘來飢渇力羸。我語彼曰。我飽食訖。食事已辦猶有殘食。汝等欲食者便取食之。",
+          "satLocus": "大正蔵 T1.570a 求法経",
+          "note": "残食の譬喩の設定。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P03",
+      "category": "livelihood",
+      "ref": "MN 3",
+      "section": "残食·少欲",
+      "observe": "残食を取らず飢えとともに過ごす比丘の方が、より供養・賞賛に値する。少欲・知足・謹厳・精進のために長く転起するからである。",
+      "action": "今日、すでに生じた不善（反芻·苛立ち等）を一つ「捨て去る」と決める",
+      "quote": "たとえ、何であれ、その比丘が、その〔行乞の〕施食を食べて……過ごすとして、そこで、まさに、わたしにとって、まさしく、この最初の比丘は、かつまた、より供養されるべき者であり、かつまた、より賞賛されるべき者です。……それは、その比丘にとって、長夜にわたり、少なき欲求たること（少欲）のために、満ち足りていること（知足）のために、……精進勉励のために、等しく転起するであろうからです。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正命",
+        "正精進"
+      ],
+      "pathReason": "飢えの受を耐えて少欲・知足を選ぶ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·残食·少欲",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-appamada",
+          "text": "彼比丘不取此食已雖一日一夜苦而不安隱。但彼比丘因不取此食故。得可佛意。所以者何。彼比丘因不取此食故。得少欲得知足。……亦得涅槃。",
+          "satLocus": "大正蔵 T1.570a–b 求法経",
+          "note": "取らぬ比丘が少欲・知足等で仏意にかなう＝パーリのより賞賛。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P04",
+      "category": "effort",
+      "ref": "MN 3",
+      "section": "遠離·非難",
+      "observe": "師が遠離に住むのに弟子が随学せず、捨べき法を捨てず、贅沢・緩慢で遠離に荷を置く——その三事で非難される。",
+      "action": "今日、修行の「欲」（志）を一度確認し、散漫な心を引き戻す",
+      "quote": "教師が遠離し、〔世に〕住んでいるとき、弟子たちとして、遠離に随学しない……教師が、それらの法（性質）の捨棄を言ったのに、しかしながら、それらの法（性質）を捨棄しない……贅沢の者たちとして、緩慢なる者たちとして、……遠離〔の境地〕にたいし荷を置いた者たちとしてある——長老の比丘たちは、これらの三つの状況によって非難されるべき者たちと成ります。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "遠離に随学せず非難される三事",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·遠離·非難",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-blame",
+          "text": "若有法律尊師樂住遠離。上弟子不樂住遠離者。上弟子有三事可毀。云何爲三。尊師樂住遠離。上弟子不學捨離。……尊師若説可斷法。上弟子不斷彼法。……所可受證。上弟子而捨方便。",
+          "satLocus": "大正蔵 T1.570c–571a 求法経",
+          "note": "遠離に随学しない三可毀。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P05",
+      "category": "effort",
+      "ref": "MN 3",
+      "section": "遠離·賞賛",
+      "observe": "師が遠離に住むとき弟子も随学し、捨べき法を捨て、贅沢・緩慢でなく遠離の先行者となる——その三事で賞賛される。",
+      "action": "五根のうち今日弱い一つ（信·精進·念·定·慧）を意識する",
+      "quote": "教師が遠離し、〔世に〕住んでいるとき、弟子たちとして、遠離に随学します。かつまた、教師が、それらの法（性質）の捨棄を言ったなら、そして、それらの法（性質）を捨棄します。さらに、贅沢の者たちではなく、緩慢なる者たちではなく、……遠離〔の境地〕における先行者たちとして、〔世に〕有ります。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "遠離に随学し賞賛される三事",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·遠離·賞賛",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-praise",
+          "text": "若有法律尊師樂住遠離。上弟子亦樂住遠離者。上弟子有三事可稱。云何爲三。尊師樂住遠離。上弟子亦學捨離。……尊師若説可斷法。上弟子便斷彼法。……所可受證。上弟子精進勤學不捨方便。",
+          "satLocus": "大正蔵 T1.571a 求法経",
+          "note": "遠離に随学する三可稱。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P06",
+      "category": "intention",
+      "ref": "MN 3",
+      "section": "貪瞋",
+      "observe": "貪欲と憤怒は悪しきもの。それらを捨てるために、眼・智を作り寂止・正覚・涅槃へ向かう中道がある。",
+      "action": "今日、七覚支のうち「念」または「擇法」を一つ意識する",
+      "quote": "友よ、そこで、そして、貪欲（貪）は悪しきものであり、さらに、憤怒（瞋）は悪しきものです。そして、貪欲の捨棄のために、さらに、憤怒の捨棄のために、中なる〔実践の〕道（中道）が存在し、眼を作り為すものとして、知恵を作り為すものとして、寂止のために、証知のために、正覚のために、涅槃のために、等しく転起します。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正見"
+      ],
+      "pathReason": "貪・瞋という欲しがり／拒みを名づける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·貪瞋",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-greed",
+          "text": "諸賢。念欲惡。惡念欲亦惡。彼斷念欲亦斷惡念欲。如是恚怨結慳嫉。……諸賢。貪亦惡著亦惡。彼斷貪亦斷著。諸賢。是謂中道能得心住。得定得樂……亦得涅槃。",
+          "satLocus": "大正蔵 T1.571a–b 求法経",
+          "note": "貪・恚等の悪と中道。パーリの貪瞋＋中道に対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P07",
+      "category": "view",
+      "ref": "MN 3",
+      "section": "八正道",
+      "observe": "その中道とは聖なる八支道——正見・正思惟・正語・正業・正命・正精進・正念・正定である。",
+      "action": "今日、八正道のうち一つを「今日の道」と決める",
+      "quote": "まさしく、この、聖なる八つの支分ある道（八正道・八聖道）です。それは、すなわち、この、正しい見解（正見）であり、正しい思惟（正思惟）であり、正しい言葉（正語）であり、正しい行業（正業）であり、正しい生き方（正命）であり、正しい努力（正精進）であり、正しい気づき（正念）であり、正しい禅定（正定）です。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正定"
+      ],
+      "pathReason": "捨のために八正道という中道を立てる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·八正道",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-eightfold",
+          "text": "謂八支聖道。正見乃至正定是爲八。諸賢。是謂復有中道能得心住。得定得樂順法次法。得通得覺亦得涅槃。",
+          "satLocus": "大正蔵 T1.571b 求法経",
+          "note": "八支聖道＝八正道。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P08",
+      "category": "intention",
+      "ref": "MN 3",
+      "section": "忿恨等",
+      "observe": "忿・恨・嫉・慳・慢・過慢・驕・放逸なども悪しきもの。掴まず、中道によって捨てるべきである。",
+      "action": "今日、一呼吸で「離生喜楽」の方向に心を向ける",
+      "quote": "友よ、そこで、そして、忿激（忿）は悪しきものであり、さらに、怨恨（恨）は悪しきものです。……そして、嫉妬（嫉）は悪しきものであり、さらに、物惜（慳）は悪しきものです。……そして、思量（慢）は悪しきものであり、さらに、高慢（過慢）は悪しきものです。……そして、驕慢（驕）は悪しきものであり、さらに、放逸は悪しきものです。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正思惟",
+        "正精進"
+      ],
+      "pathReason": "忿恨嫉慳慢放逸を掴まず捨てる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·忿恨等",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-defilements",
+          "text": "如是恚怨結慳嫉。欺誑諛諂。無慚無愧慢最上慢貢高放逸。豪貴憎諍。",
+          "satLocus": "大正蔵 T1.571b 求法経",
+          "note": "忿恨・嫉慳・誑諂・慢放逸等の列挙。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P09",
+      "category": "concentration",
+      "ref": "MN 3",
+      "section": "中道·果",
+      "observe": "驕・放逸の捨棄のためにも中道があり、寂止・証知・正覚・涅槃のために等しく転起する。",
+      "action": "今日の経験を「縁起の一環」として一度見る",
+      "quote": "そして、驕慢の捨棄のために、さらに、放逸の捨棄のために、中なる〔実践の〕道が存在し、眼を作り為すものとして、知恵を作り為すものとして、寂止のために、証知のために、正覚のために、涅槃のために、等しく転起します。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正見"
+      ],
+      "pathReason": "中道が寂止・涅槃へ転起する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·中道·果",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-fruit",
+          "text": "有中道能得心住。得定得樂順法次法。得通得覺亦得涅槃。",
+          "satLocus": "大正蔵 T1.571a–b 求法経",
+          "note": "中道の果：心住・定・通・覚・涅槃。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P10",
+      "category": "livelihood",
+      "ref": "MN 3",
+      "section": "法相続·再",
+      "observe": "それゆえ再び——法の相続者たれ。財貨の相続者になるな。師の慈しみは、弟子が法を継ぐことにある。",
+      "action": "就寝前、今日「法の嗣者」として実践したことを一つ振り返る",
+      "quote": "比丘たちよ、それゆえに、ここに、わたしの法（教え）の相続者たちと成りなさい。財貨の相続者たちと〔成っては〕いけません。わたしには、あなたたちにたいする慈しみ〔の思い〕が存在します。『どのようなわけであれ、弟子たちは、わたしの法（教え）の相続者たちと成るべきである──財貨の相続者たち、ではなく』」と。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "一日の終わりに法相続を見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·法相続·再",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-restate",
+          "text": "是謂諸弟子。爲行求法故而依佛行。非爲求飮食。",
+          "satLocus": "大正蔵 T1.570b 求法経",
+          "note": "残食譬喩の結語で求法を再勧奨。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN3-P11",
+      "category": "mindfulness",
+      "ref": "MN 3",
+      "section": "結",
+      "observe": "サーリプッタの説法を聞いて、比丘たちは大いに喜んだ。",
+      "action": "今日学んだ一節を、声に出して一度読み返す",
+      "quote": "尊者サーリプッタは、この〔言葉〕を言いました。わが意を得たそれらの比丘たちは、尊者サーリプッタの語ったことを大いに喜んだ、ということです。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "聞法して喜ぶ・保持する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・法の相続者の経（MN3）·結",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 法嗣経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含88・求法経（T26）",
+          "t26": "T26-088-close",
+          "text": "佛説如是。尊者舍梨子及諸比丘聞佛所説。歡喜奉行",
+          "satLocus": "大正蔵 T1.571b 求法経",
+          "note": "漢訳は世尊讃嘆ののち比丘歓喜。パーリはサーリプッタ説法への歓喜。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0569",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

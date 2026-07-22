@@ -1,0 +1,777 @@
+{
+  "chapter": 34,
+  "sutta": 34,
+  "title": "中部 第34経・牧牛者小経（牧牛者の小経）",
+  "shortTitle": "牧牛者小経（牧牛者の小経）",
+  "mapNote": "根本五十経篇 · 双大品（アラナ：牧牛者の小経）",
+  "suttas": [
+    "MN 34 牧牛者小経（牧牛者の小経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第34経（牧牛者小経／牧牛者の小経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリMN34（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT雑阿含1248牧牛者（T99；EA43.6も類縁）。愚かな渡りは中流で滅び、巧みな渡りは阿羅漢〜随信を順に魔流から彼岸へ渡す。旧スタブの「新天に簡潔」は虚構。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・牧牛者の小経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典（キャッシュ外の場合はパーリ忠実なアラナ調和訳）"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 雑阿含・牧牛者（T2.342a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+        "note": "此岸彼岸·洄澓魔境·順度·偈。對照表: 法雨道場（SA1248）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第34経・牧牛者小経（牧牛者の小経）",
+    "shortTitle": "牧牛者小経（牧牛者の小経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "speech"
+        ],
+        "pathLabel": "観て渡る法に触れ、簡潔に促す",
+        "chapterHint": "牧牛者小経（牧牛者の小経）",
+        "fromPrev": "見直しが、今朝の渡し場の一歩を変える",
+        "toNext": "触のあと、快い受が見える",
+        "todayObserve": "此岸·彼岸を観ず渡れば中流で滅びる——簡潔な法＝観て渡る一事。朝、今日「簡潔な法」を一つ心に置く。",
+        "todayAction": "朝、今日「簡潔な法」を一つ心に置く",
+        "when": [
+          "簡潔な法を置いた",
+          "新法を実践に結んだ"
+        ],
+        "sources": [
+          "MN34-P01",
+          "MN34-P05",
+          "MN34-P07",
+          "MN34-P09"
+        ],
+        "leadQuote": "かつて、愚かな摩掲陀の牧牛者がいた。雨季の末·秋に、此岸も彼岸も観ず、渡し場なき…",
+        "secondaryObserve": "随法·随信——新しく聞いた法を実践に結びつける。今日、新しく学んだ法を、実践に結びつける。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "view",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "快い受を魔流·無常として見る",
+        "chapterHint": "牧牛者小経（牧牛者の小経）",
+        "fromPrev": "接触のあと、快の受が立つ",
+        "toNext": "受に乗ると天界楽の欲しがりへ",
+        "todayObserve": "不観の渡りは中流の滅び——快も魔流の中か、無常として見る。今日、快い経験を「無常」と一度見る。",
+        "todayAction": "今日、快い経験を「無常」と一度見る",
+        "when": [
+          "快を無常と見た"
+        ],
+        "sources": [
+          "MN34-P02"
+        ],
+        "leadQuote": "此岸も彼岸も観ず、渡し場なき所で渡らせれば、中流で滅びる。……此世·他世、魔の領…",
+        "secondaryObserve": "中流＝魔境"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "view"
+        ],
+        "pathLabel": "天界楽への欲しがりを解脱·彼岸へ向ける",
+        "chapterHint": "牧牛者小経（牧牛者の小経）",
+        "fromPrev": "受のあと、天界·楽の欲しがりが立つ",
+        "toNext": "止めないと天界への掴みへ",
+        "todayObserve": "不還は化生して還らず般涅槃——天界楽より彼岸·解脱へ願いを向ける。今日、天界·楽への願いを「解脱」に向ける。",
+        "todayAction": "今日、天界·楽への願いを「解脱」に向ける",
+        "when": [
+          "願いを解脱へ向けた"
+        ],
+        "sources": [
+          "MN34-P04"
+        ],
+        "leadQuote": "強健·調順の牛が恒河を安度したように——五下分結を尽し、化生し、そこで般涅槃し、…",
+        "secondaryObserve": "不還·彼岸"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "天界楽への掴みを離れ、解脱か確認する",
+        "chapterHint": "牧牛者小経（牧牛者の小経）",
+        "fromPrev": "欲しがりのあと、有漏楽への掴みが手前",
+        "toNext": "掴むと魔流の苦が見える",
+        "todayObserve": "目的は不死·安穏·涅槃。天界楽ではない。今日、目的が「解脱」か一度確認する。",
+        "todayAction": "今日、目的が「解脱」か一度確認する",
+        "when": [
+          "目的が解脱か確認した"
+        ],
+        "sources": [
+          "MN34-P11"
+        ],
+        "leadQuote": "仏は不死の門を開き、安穏·涅槃を得るために。悪魔の流れは截られた。——比丘たちよ…",
+        "secondaryObserve": "安穏·涅槃"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "楽を魔の貪流·苦の一部として見る",
+        "chapterHint": "牧牛者小経（牧牛者の小経）",
+        "fromPrev": "掴んだ結果として、中流の患が見える",
+        "toNext": "見れば、八正道·簡潔な語で離す",
+        "todayObserve": "中流の滅び——楽も魔の貪流の一部と見る。今日の楽を「皆苦の一部」と一度見る。",
+        "todayAction": "今日の楽を「皆苦の一部」と一度見る",
+        "when": [
+          "楽を苦の一部と見た"
+        ],
+        "sources": [
+          "MN34-P10"
+        ],
+        "leadQuote": "中流に群れ、そこで滅びる——魔の領域に不巧な師に従えば、自他ともに患難に遭う。（…",
+        "secondaryObserve": "魔の貪流"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "view",
+          "speech"
+        ],
+        "pathLabel": "八正道を歩み、要点を簡潔に語って彼岸へ離す",
+        "chapterHint": "牧牛者小経（牧牛者の小経）",
+        "fromPrev": "苦が見えれば、道を歩み簡潔に促す",
+        "toNext": "離せば、夜の見直しへ",
+        "todayObserve": "世尊は巧み——不死の門を開く。彼岸への道として八正道の一支を歩む。今日、八正道のうち一つを歩む。",
+        "todayAction": "今日、八正道のうち一つを歩む",
+        "when": [
+          "八正道の一支を歩んだ",
+          "簡潔に語った"
+        ],
+        "sources": [
+          "MN34-P03",
+          "MN34-P08"
+        ],
+        "leadQuote": "わたしは、此世·他世に巧み、魔の領域·非領域に巧み、死の領域·非領域に巧みである…",
+        "secondaryObserve": "要点は此岸·彼岸·渡し場·安穏——簡潔に語る。今日、法を語るとき、簡潔に語る。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "view",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "彼岸·魔流·不死の門を振り返る",
+        "chapterHint": "牧牛者小経（牧牛者の小経）",
+        "fromPrev": "一日の離しは、朝からの渡し場の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "夜、此岸·彼岸·魔流·不死の門を振り返る。就寝前、今日学んだ「無常·八正道」を一つ振り返る。",
+        "todayAction": "就寝前、今日学んだ「無常·八正道」を一つ振り返る",
+        "when": [
+          "一日を閉じるとき"
+        ],
+        "sources": [
+          "MN34-P06"
+        ],
+        "leadQuote": "此世と他世は、知る者によって明らかに説かれた。……魔の及ぶ所、死の及ばぬ所。仏は…",
+        "secondaryObserve": "安穏に心を置け"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "牧牛者小経は魔の流れを截り、安穏·涅槃の彼岸へ渡るのが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN34-P01",
+      "category": "mindfulness",
+      "ref": "MN 34",
+      "section": "愚かな渡り·導入",
+      "observe": "此岸·彼岸を観ず渡れば中流で滅びる——簡潔な法＝観て渡る一事。朝、今日「簡潔な法」を一つ心に置く。",
+      "action": "朝、今日「簡潔な法」を一つ心に置く",
+      "quote": "かつて、愚かな摩掲陀の牧牛者がいた。雨季の末·秋に、此岸も彼岸も観ず、渡し場なき所で牛を駆り渡らせ——牛は中流に群れ、そこで滅びた。（今朝置く「簡潔な法」＝此岸·彼岸·渡し場を観て渡る、という一事。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "朝、観て渡る簡潔な法に触れて心に置く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·愚かな渡り·導入",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-foolish",
+          "text": "不善觀察恒水此岸，亦不善觀恒水彼岸，而駈群牛峻岸而下……中間洄澓，多起患難。",
+          "satLocus": "大正蔵 T2.342a 牧牛者",
+          "note": "不観此彼岸＝中流の患難。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P02",
+      "category": "view",
+      "ref": "MN 34",
+      "section": "中流の滅び",
+      "observe": "不観の渡りは中流の滅び——快も魔流の中か、無常として見る。今日、快い経験を「無常」と一度見る。",
+      "action": "今日、快い経験を「無常」と一度見る",
+      "quote": "此岸も彼岸も観ず、渡し場なき所で渡らせれば、中流で滅びる。……此世·他世、魔の領域·非領域、死の領域·非領域に不巧な沙門·婆羅門も、また同様である。（快い経験も、魔の流れの中流に過ぎないか——無常として一度見る。）",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "快い受を魔流·無常として見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·中流の滅び",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-midstream",
+          "text": "中間洄澓，謂境諸魔，自遭苦難。彼諸見者，習其所學，亦遭患難。",
+          "satLocus": "大正蔵 T2.342b 牧牛者",
+          "note": "中流＝魔境。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P03",
+      "category": "view",
+      "ref": "MN 34",
+      "section": "巧みな世尊·道",
+      "observe": "世尊は巧み——不死の門を開く。彼岸への道として八正道の一支を歩む。今日、八正道のうち一つを歩む。",
+      "action": "今日、八正道のうち一つを歩む",
+      "quote": "わたしは、此世·他世に巧み、魔の領域·非領域に巧み、死の領域·非領域に巧みである。……仏は不死の門を開き、安穏·涅槃を得るために。（彼岸へ渡る道として、八正道の一つを歩む。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "彼岸へ向け八正道の一支を歩む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·巧みな世尊·道",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-buddha",
+          "text": "摩竭提善牧牛者……謂如來、應、等正覺。如牧牛者善觀此岸，善觀彼岸，善度其牛……。",
+          "satLocus": "大正蔵 T2.342b 牧牛者",
+          "note": "善牧＝如来。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P04",
+      "category": "intention",
+      "ref": "MN 34",
+      "section": "不還·彼岸",
+      "observe": "不還は化生して還らず般涅槃——天界楽より彼岸·解脱へ願いを向ける。今日、天界·楽への願いを「解脱」に向ける。",
+      "action": "今日、天界·楽への願いを「解脱」に向ける",
+      "quote": "強健·調順の牛が恒河を安度したように——五下分結を尽し、化生し、そこで般涅槃し、その世から還らない者たち。彼らも魔の流れを截り、安穏に彼岸へ渡る。（天界·楽への願いを、還らない解脱·彼岸へ向ける。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正見"
+      ],
+      "pathReason": "天界楽への欲しがりを解脱·彼岸へ向ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·不還·彼岸",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-anagami",
+          "text": "（強牛に譬え——五下分結尽·不還。漢は斯陀含等の列で対応。）得斯陀含，一來此世，究竟苦邊，橫截於彼惡魔貪流，安隱得度生死彼岸。",
+          "satLocus": "大正蔵 T2.342b 牧牛者",
+          "note": "截魔流·度彼岸。階位の対応はパーリが詳しい。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P05",
+      "category": "speech",
+      "ref": "MN 34",
+      "section": "母の鳴き声·随信",
+      "observe": "母の鳴き声が犢を渡す——法を伝えるなら簡潔に彼岸へ促す。今日、法を誰かに伝える機会があれば、簡潔に伝える。",
+      "action": "今日、法を誰かに伝える機会があれば、簡潔に伝える",
+      "quote": "新生の犢が、母の鳴き声に促されて、なお恒河を安度したように——随法行·随信行の比丘たちも、魔の流れを截り、安穏に彼岸へ渡る。（法を伝えるときは、母の鳴くがごとく、簡潔に彼岸へ促す。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "法に触れ、簡潔に彼岸へ促す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·母の鳴き声·随信",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-calf",
+          "text": "新生犢子愛戀其母，亦隨得度。……斷三結，得須陀洹……橫截惡魔貪流，安隱得度生死彼岸。",
+          "satLocus": "大正蔵 T2.342b–c 牧牛者",
+          "note": "母を恋う新生犢＝促されて渡る。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P06",
+      "category": "view",
+      "ref": "MN 34",
+      "section": "夜の偈",
+      "observe": "夜、此岸·彼岸·魔流·不死の門を振り返る。就寝前、今日学んだ「無常·八正道」を一つ振り返る。",
+      "action": "就寝前、今日学んだ「無常·八正道」を一つ振り返る",
+      "quote": "此世と他世は、知る者によって明らかに説かれた。……魔の及ぶ所、死の及ばぬ所。仏は不死の門を開き……悪魔の流れは截られ、吹き払われ、刈られた。比丘たちよ、喜びに満ち、安穏に心を置け。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "夜、彼岸·魔流·不死の門を振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·夜の偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-verse",
+          "text": "「此世及他世，明智善顯現，諸魔得未得，乃至於死魔。……」",
+          "satLocus": "大正蔵 T2.342c 牧牛者",
+          "note": "此世他世·魔·死魔の偈。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P07",
+      "category": "mindfulness",
+      "ref": "MN 34",
+      "section": "随法·随信",
+      "observe": "随法·随信——新しく聞いた法を実践に結びつける。今日、新しく学んだ法を、実践に結びつける。",
+      "action": "今日、新しく学んだ法を、実践に結びつける",
+      "quote": "新生の犢が、母の鳴き声に促されて渡るように——随法行·随信行の者も、魔の流れを截り彼岸へ渡る。（旧語「新天」は混入。新しく聞いた法を、実践に結びつける。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "新しく聞いた法に触れ、実践に結ぶ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·随法·随信",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-faith",
+          "text": "新生犢子愛戀其母，亦隨得度。……安隱得度生死彼岸。",
+          "satLocus": "大正蔵 T2.342b–c 牧牛者",
+          "note": "聞き従い渡る——随信·随法の類。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P08",
+      "category": "speech",
+      "ref": "MN 34",
+      "section": "簡潔に語る",
+      "observe": "要点は此岸·彼岸·渡し場·安穏——簡潔に語る。今日、法を語るとき、簡潔に語る。",
+      "action": "今日、法を語るとき、簡潔に語る",
+      "quote": "愚かな牧牛——此岸·彼岸を観ず中流で滅びる。巧みな牧牛——観て渡し場で順に渡す。（法を語るとき、要点＝此岸·彼岸·渡し場·彼岸の安穏を簡潔に語る。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "冗長を離れ、要点を簡潔に語る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·簡潔に語る",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-concise",
+          "text": "不善觀……中間洄澓……。善觀此岸，善觀彼岸，善度其牛……。",
+          "satLocus": "大正蔵 T2.342a–b 牧牛者",
+          "note": "要点＝観岸·善度。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P09",
+      "category": "mindfulness",
+      "ref": "MN 34",
+      "section": "導·四向四果",
+      "observe": "牧牛者小経——順に渡る四向四果·随信と、巧みな牧者＝如来。今日、牧牛者小経の教え（無常·八正道）を思い出す。",
+      "action": "今日、牧牛者小経の教え（無常·八正道）を思い出す",
+      "quote": "巧みな牧牛は此岸·彼岸を観て渡し場で渡す——領群の牡牛＝漏尽阿羅漢、強牛＝不還、牡犢＝一來、弱犢＝預流、新生子＝随法·随信。世尊は巧みな牧者である。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "順渡の教えに触れ一つ思い出す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·導·四向四果",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-stages",
+          "text": "先度大牛能領群者……橫截惡魔世間貪流……得須陀洹……安隱得度生死彼岸。",
+          "satLocus": "大正蔵 T2.342b–c 牧牛者",
+          "note": "順度の譬喩。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P10",
+      "category": "view",
+      "ref": "MN 34",
+      "section": "魔の貪流",
+      "observe": "中流の滅び——楽も魔の貪流の一部と見る。今日の楽を「皆苦の一部」と一度見る。",
+      "action": "今日の楽を「皆苦の一部」と一度見る",
+      "quote": "中流に群れ、そこで滅びる——魔の領域に不巧な師に従えば、自他ともに患難に遭う。（今日の楽も、魔の貪流の一部として一度見る。）",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "楽を魔流·苦の一部として見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·魔の貪流",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-mara",
+          "text": "中間洄澓，謂境諸魔，自遭苦難。",
+          "satLocus": "大正蔵 T2.342b 牧牛者",
+          "note": "魔境·患難。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN34-P11",
+      "category": "view",
+      "ref": "MN 34",
+      "section": "安穏·涅槃",
+      "observe": "目的は不死·安穏·涅槃。天界楽ではない。今日、目的が「解脱」か一度確認する。",
+      "action": "今日、目的が「解脱」か一度確認する",
+      "quote": "仏は不死の門を開き、安穏·涅槃を得るために。悪魔の流れは截られた。——比丘たちよ、喜びに満ち、安穏に心を置け。（目的は天界·楽ではなく、彼岸·解脱·安穏かと確認する。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "天界楽への掴みを離れ、解脱か確認する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牧牛者の小経／パーリMN34）",
+          "locus": "中部・牧牛者の小経（MN34）·安穏·涅槃",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牧牛者小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含1248・牧牛者（T99）",
+          "t26": "SA1248-nibbana",
+          "text": "聲聞能盡諸漏，乃至自知不受後有。橫截惡魔世間貪流……安隱得度生死彼岸。",
+          "satLocus": "大正蔵 T2.342b 牧牛者",
+          "note": "漏尽·不受後有＝解脱の目的。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0342a01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

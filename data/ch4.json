@@ -1,0 +1,1152 @@
+{
+  "title": "ダンマパダ 第4章・花品（花の章）",
+  "chapter": 4,
+  "shortTitle": "花品（花の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第4章（花品／花の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210華香品）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・花の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第４章・花品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・華香品（T4.563c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第4章・花品（花の章）",
+    "shortTitle": "花品（花の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "view",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "触れた場で法句を花のように摘む",
+        "chapterHint": "花品（花の章）",
+        "fromPrev": "前夜の見方が、今朝の接触の土台になる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "仏教を修する者は、この地界と閻魔界と天界とを征服せん。 仏教を修する者は、妙説の法句を摘み集むること、熟練せる人の花を〔摘む〕如くせん。",
+        "todayAction": "今日、一つの教えを心に収め、一日の指針にする",
+        "when": [
+          "通知が来た",
+          "学びの言葉に触れた"
+        ],
+        "sources": [
+          "DP4-P01",
+          "DP4-P06",
+          "DP4-P07",
+          "DP4-P12",
+          "DP4-P13",
+          "DP4-P14"
+        ],
+        "leadQuote": "学びある者（有学）が、〔この〕地を征圧するであろう──そして、夜魔の世を、天を含むこ…",
+        "secondaryObserve": "蜂のように場を損なわず、必要な味だけを取る"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "快の花に心が寄っていないか見る",
+        "chapterHint": "花品（花の章）",
+        "fromPrev": "接触のあと、快・不快の受が立ち上がる",
+        "toNext": "止めないと欲しがりへ進む",
+        "todayObserve": "花（快楽）をのみ摘みて心貪着せる人を、死は捉え去る、あたかも眠れる村落を瀑流の〔漂蕩（ひょうとう）し去る〕如く。",
+        "todayAction": "快楽を追いかける手を止め、本当に大切なことを一つする",
+        "when": [
+          "気持ちよくなった",
+          "つい手を伸ばした"
+        ],
+        "sources": [],
+        "leadQuote": "まさしく、まさに、花々を摘んでいる執着の意図ある人を、死魔は取って去り行く──眠りに…",
+        "secondaryObserve": "快楽を摘む手を止め、大切な一事へ戻る"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "花を摘む執着を手放す",
+        "chapterHint": "花品（花の章）",
+        "fromPrev": "受が強まると、もっと欲しいへ落ちる",
+        "toNext": "止めないと掴みに進む",
+        "todayObserve": "花をのみ摘みて心貪着し、愛欲に飽くことなき人を死は克服す。",
+        "todayAction": "「もっと」という衝動が来たとき、今あるものを一つ感謝する",
+        "when": [
+          "もっと欲しい",
+          "飽きれない"
+        ],
+        "sources": [
+          "DP4-P04",
+          "DP4-P05"
+        ],
+        "leadQuote": "まさしく、まさに、花々を摘んでいる執着の意図ある人を、まさしく、諸々の欲望〔の対象〕…",
+        "secondaryObserve": "欲に飽かぬ心を、死神が支配する"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "speech",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉だけでなく実行で掴み直す",
+        "chapterHint": "花品（花の章）",
+        "fromPrev": "欲しがりが、語り・行いに乗る手前",
+        "toNext": "実行なき美語は実を結ばない",
+        "todayObserve": "愛すべく色麗しくとも芳香なき花の如く、実行なき人の語は、善く説かるるとも効果なし。",
+        "todayAction": "今日、言ったことを一つ確実に実行に移す",
+        "when": [
+          "立派なことを言った",
+          "まだ動いていない"
+        ],
+        "sources": [
+          "DP4-P10",
+          "DP4-P11"
+        ],
+        "leadQuote": "たとえば、また、好ましく、色艶ある花に、香り無きものがあるように、このように、見事に…",
+        "secondaryObserve": "実行ある言葉は、香りある花のように実がある"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "塵芥の中にも蓮が咲くと見る",
+        "chapterHint": "花品（花の章）",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと凡夫のまま沈む",
+        "todayObserve": "この如く、塵埃にも等しき盲昧の凡夫中に、正等覚者の弟子は智慧を以て輝く。",
+        "todayAction": "今日、困難の中でも誠実でいられる場面を一つ作る",
+        "when": [
+          "苦しい状況",
+          "周囲が暗い"
+        ],
+        "sources": [
+          "DP4-P17",
+          "DP4-P18"
+        ],
+        "leadQuote": "このように、塵芥の生類（輪廻する有情）たちのなかにおいて、暗愚と成った〔迷える〕凡夫…",
+        "secondaryObserve": "泥の中から蓮が咲くように、智慧は輝く"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "魔の花矢を断ち、戒と正智で離す",
+        "chapterHint": "花品（花の章）",
+        "fromPrev": "執着と放逸が流れを加速させる",
+        "toNext": "戒・不放逸・正智なら魔も近づけない",
+        "todayObserve": "戒行を成就し、不放逸に住し、正智により解脱せる者には、魔王も近づくあたわず。",
+        "todayAction": "今日、欲・怒り・怠惰の誘惑を一つ戒によって退ける",
+        "when": [
+          "誘惑が強い",
+          "気を抜きたくなった"
+        ],
+        "sources": [
+          "DP4-P02",
+          "DP4-P03",
+          "DP4-P16"
+        ],
+        "leadQuote": "彼ら、戒を成就した者たちの〔道を〕──不放逸の住者たちの〔道を〕──正しい了知による…",
+        "secondaryObserve": "身を泡沫と知り、死王の見えぬところへ"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "他ではなく自己の行いを見直す",
+        "chapterHint": "花品（花の章）",
+        "fromPrev": "一日の語り・行いは朝からの心の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "他の非違を〔観る〕べからず、他の為せること、為さざりしことを〔観る〕べからず。 ただ自己の為せること（罪過）為さざりしこと（懈怠（けたい））を観るべし。",
+        "todayAction": "今日、他人を批判した場面を一つ振り返り、自分に返す",
+        "when": [
+          "一日を閉じるとき",
+          "誰かを批判した日"
+        ],
+        "sources": [
+          "DP4-P08",
+          "DP4-P09",
+          "DP4-P15"
+        ],
+        "leadQuote": "他者たちの諸々の過ちではなく、他者たちの為したことや為さなかったことではなく、まさし…",
+        "secondaryObserve": "戒の香りは、諸天の間にも薫る"
+      }
+    ],
+    "focusNodeId": "contact",
+    "focusReason": "花品は接触の場で法句を摘み取る比喩が中心。既定の焦点は接触。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP4-P01",
+      "category": "view",
+      "verse": 45,
+      "observe": "誰かこの地界と閻魔界と天界とを征服する。 誰か妙説の法句を摘み集むること、熟練せる人の花を〔摘む〕如くする。 仏教を修する者は、この地界と閻魔界と天界とを征服せん。 仏教を修する者は、妙説の法句を摘み集むること、熟練せる人の花を〔摘む〕如くせん。",
+      "action": "今日、一つの教えを心に収め、一日の指針にする",
+      "quote": "誰が、この地を征圧するのだろう──そして、夜魔（閻魔）の世を、天を含むこの〔世〕を。誰が、見事に説示された法（真理）の句を〔摘み取るのだろう〕──巧みな智ある者が、〔真理の〕花を摘み取るように。 学びある者（有学）が、〔この〕地を征圧するであろう──そして、夜魔の世を、天を含むこの〔世〕を。学びある者が、見事に説示された法（真理）の句を〔摘み取るであろう〕──巧みな智（善巧）ある者が、〔真理の〕花を摘み取るように。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "有学が法句を摘み、世界を征圧する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第44-45偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第44-45偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-002",
+          "text": "學者擇地，捨監取天，善說法句，能採德華。",
+          "satLocus": "大正蔵 T4.563c 華香品第2頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P02",
+      "category": "view",
+      "verse": 46,
+      "observe": "この身は泡沫に譬うべきを知り、幻影に等しきを悟る人は、魔王の花矢（誘惑）を破り、〔地獄の〕死王（閻魔）に見ゆることなけん。",
+      "action": "欲しいものへの衝動が来たとき、「これは幻影」と一度立ち止まる",
+      "quote": "この身体を、泡沫の如きものと知って、陽炎の法（性質）あるものと、現に正覚している者は、悪魔の諸々の花の矢（迷いの生存）を断ち切って、死魔の王の見えざるところ（彼岸）に去り行くであろう。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "身を泡沫・陽炎と知り魔の花矢を断つ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第46偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第46偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-004",
+          "text": "見身如沫，幻法自然，斷魔華敷，不覩生死。",
+          "satLocus": "大正蔵 T4.563c 華香品第4頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P03",
+      "category": "view",
+      "verse": 46,
+      "observe": "この身は泡沫に譬うべきを知り、幻影に等しきを悟る人は、魔王の花矢（誘惑）を破り、〔地獄の〕死王（閻魔）に見ゆることなけん。",
+      "action": "今日、「いつかは終わる」と知りながら、今に集中する",
+      "quote": "この身体を、泡沫の如きものと知って、陽炎の法（性質）あるものと、現に正覚している者は、悪魔の諸々の花の矢（迷いの生存）を断ち切って、死魔の王の見えざるところ（彼岸）に去り行くであろう。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "身を泡沫・陽炎と知り魔の花矢を断つ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第46偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第46偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-004",
+          "text": "見身如沫，幻法自然，斷魔華敷，不覩生死。",
+          "satLocus": "大正蔵 T4.563c 華香品第4頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P04",
+      "category": "mindfulness",
+      "verse": 47,
+      "observe": "花（快楽）をのみ摘みて心貪着せる人を、死は捉え去る、あたかも眠れる村落を瀑流の〔漂蕩（ひょうとう）し去る〕如く。",
+      "action": "快楽を追いかける手を止め、本当に大切なことを一つする",
+      "quote": "まさしく、まさに、花々を摘んでいる執着の意図ある人を、死魔は取って去り行く──眠りについた村を、大激流が〔流し去ってしまう〕ように。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "花を摘む執着の人を死魔が運び去る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第47偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第47偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-005",
+          "text": "身病則萎，若華零落；死命來至，如水湍驟。",
+          "satLocus": "大正蔵 T4.563c 華香品第5頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P05",
+      "category": "mindfulness",
+      "verse": 48,
+      "observe": "花をのみ摘みて心貪着し、愛欲に飽くことなき人を死は克服す。",
+      "action": "「もっと」という衝動が来たとき、今あるものを一つ感謝する",
+      "quote": "まさしく、まさに、花々を摘んでいる執着の意図ある人を、まさしく、諸々の欲望〔の対象〕に満足しない者を、死神は〔思いのままに〕支配を為す。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "欲に飽かぬ者を死神が支配する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第48偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第48偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-006",
+          "text": "貪欲無厭，消散人念，邪致之財，為自侵欺。",
+          "satLocus": "大正蔵 T4.563c 華香品第6頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P06",
+      "category": "livelihood",
+      "verse": 49,
+      "observe": "蜜蜂の、花と色と香りとを損なうことなく、甘味のみを取り去る如く、かく智者は村落に乞食すべし。",
+      "action": "他人の生活や場を乱さないよう、今日の言動を一つ確認する",
+      "quote": "たとえば、また、蜜蜂が、色艶と香りある花を損なうことなく、味（蜜）を取って移り行くように、このように、牟尼（沈黙の聖者）は、村を歩むがよい。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "蜂のように場を損なわず味だけを取る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第49偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第49偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-007",
+          "text": "如蜂集華，不嬈色香，但取味去，仁入聚然。",
+          "satLocus": "大正蔵 T4.563c 華香品第7頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P07",
+      "category": "livelihood",
+      "verse": 49,
+      "observe": "蜜蜂の、花と色と香りとを損なうことなく、甘味のみを取り去る如く、かく智者は村落に乞食すべし。",
+      "action": "今日、必要以上に取らず、与えることで一つ行動する",
+      "quote": "たとえば、また、蜜蜂が、色艶と香りある花を損なうことなく、味（蜜）を取って移り行くように、このように、牟尼（沈黙の聖者）は、村を歩むがよい。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "蜂のように場を損なわず味だけを取る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第49偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第49偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-007",
+          "text": "如蜂集華，不嬈色香，但取味去，仁入聚然。",
+          "satLocus": "大正蔵 T4.563c 華香品第7頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P08",
+      "category": "mindfulness",
+      "verse": 50,
+      "observe": "他の非違を〔観る〕べからず、他の為せること、為さざりしことを〔観る〕べからず。 ただ自己の為せること（罪過）為さざりしこと（懈怠（けたい））を観るべし。",
+      "action": "誰かの失敗が目についたとき、自分の行いに視点を戻す",
+      "quote": "他者たちの諸々の過ちではなく、他者たちの為したことや為さなかったことではなく、まさしく、自己の、諸々の為したことを、さらに、諸々の為さなかったことを、〔智慧の眼で〕注視するがよい。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "他ではなく自己の為した・為さぬを観る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第50偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第50偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-008",
+          "text": "不務觀彼，作與不作，常自省身，知正不正。",
+          "satLocus": "大正蔵 T4.563c 華香品第8頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P09",
+      "category": "mindfulness",
+      "verse": 50,
+      "observe": "他の非違を〔観る〕べからず、他の為せること、為さざりしことを〔観る〕べからず。 ただ自己の為せること（罪過）為さざりしこと（懈怠（けたい））を観るべし。",
+      "action": "今日、他人を批判した場面を一つ振り返り、自分に返す",
+      "quote": "他者たちの諸々の過ちではなく、他者たちの為したことや為さなかったことではなく、まさしく、自己の、諸々の為したことを、さらに、諸々の為さなかったことを、〔智慧の眼で〕注視するがよい。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "他ではなく自己の為した・為さぬを観る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第50偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第50偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-008",
+          "text": "不務觀彼，作與不作，常自省身，知正不正。",
+          "satLocus": "大正蔵 T4.563c 華香品第8頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P10",
+      "category": "speech",
+      "verse": 51,
+      "observe": "愛すべく色麗しくとも芳香なき花の如く、実行なき人の語は、善く説かるるとも効果なし。",
+      "action": "今日、言ったことを一つ確実に実行に移す",
+      "quote": "たとえば、また、好ましく、色艶ある花に、香り無きものがあるように、このように、見事に語られた言葉は、為さずにいる者には、果の無きものと成る。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "pathReason": "実行なき美語は香なき花のように実がない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第51偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第51偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-009",
+          "text": "如可意華，色好無香，工語如是，不行無得。",
+          "satLocus": "大正蔵 T4.563c 華香品第9頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P11",
+      "category": "speech",
+      "verse": 52,
+      "observe": "愛すべく色麗しく芳香ある花の如く、実行する人の語は、善く説かれてしかも効果あり。",
+      "action": "話すより先に動く。今日、行動で一つ示す",
+      "quote": "たとえば、また、好ましく、色艶ある花に、香り有るものがあるように、このように、見事に語られた言葉は、為している者には、果の有るものと成る。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "pathReason": "実行ある美語は香りある花のように実がある",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第52偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第52偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-010",
+          "text": "如可意華，色美且香，工語有行，必得其福。",
+          "satLocus": "大正蔵 T4.564a 華香品第10頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P12",
+      "category": "action",
+      "verse": 53,
+      "observe": "堆積せる花より、多くの華鬘を造り得る如く、人と生まれては多くの善事をなすべし。",
+      "action": "今日、小さな善事を一つ、意識して行う",
+      "quote": "たとえば、また、山積みの花から、多くの花飾の連なりを作るように、このように、死すべき者（人間）として生まれたなら、多くの善きことを為すべきである。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正業",
+        "正精進"
+      ],
+      "pathReason": "人と生まれたなら多くの善を為すべき",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第53偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第53偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-011",
+          "text": "多作寶花，結步搖綺，廣積德者，所生轉好。",
+          "satLocus": "大正蔵 T4.564a 華香品第11頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P13",
+      "category": "action",
+      "verse": 54,
+      "observe": "花の香りは風に逆らいて進まず、栴檀（せんだん）・多伽羅（たがら）または茉莉花（まつりか）（香木の名）の〔香り〕も〔また然り〕。 されど善人の香りは風に逆らいても進み、正しき人は一切方に薫ず。",
+      "action": "誰も見ていないとき、正しい行いを一つする",
+      "quote": "花の香りは、風に逆らって行くことがない。栴檀〔の香り〕も、あるいは、タガラ（伽羅）やマッリカー（ジャスミン）〔の香り〕も、〔風に逆らって行くことは〕ない。しかしながら、正しくある者たちの香りは、風に逆らって行く。正なる人士は、全ての方角に香り行く。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "善人の香りは風に逆らっても四方に薫る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第54偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第54偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-012",
+          "text": "奇草芳花，不逆風熏，近道敷開，德人遍香。",
+          "satLocus": "大正蔵 T4.564a 華香品第12頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P14",
+      "category": "action",
+      "verse": 55,
+      "observe": "栴檀または多伽羅・青蓮華はたまたヴァッシキー（香木の名）、これらの諸香の中、戒の香り最も勝れたり。",
+      "action": "今日の行いに、戒を一つ守る（嘘をつかない・節度を守る・傷つけない）",
+      "quote": "栴檀、あるいは、また、タガラ、青蓮、さらに、ヴァッシキー（ジャスミン）──これらの香りある類のなかでは、戒の香りが、無上なるものである。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "諸香の中で戒の香りが最上である",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第55偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第55偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-013",
+          "text": "旃檀多香，青蓮芳花，雖曰是真，不如戒香。",
+          "satLocus": "大正蔵 T4.564a 華香品第13頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P15",
+      "category": "action",
+      "verse": 56,
+      "observe": "多伽羅・栴檀に属するその香りは軽微なり。 されど持戒者の香りは最上にして諸天の間に薫ず。",
+      "action": "戒を守ることで、今日の関係を一つ丁寧にする",
+      "quote": "すなわち、この、タガラと栴檀〔の香り〕であるが、この香りは、僅かばかりのもの。しかしながら、〔まさに〕その、戒ある者たちの香りは、最上のものであり、天〔の神々〕たちにおいて香りただよう。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "持戒者の香りは諸天の間に薫る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第56偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第56偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-014",
+          "text": "華香氣微，不可謂真，持戒之香，到天殊勝。",
+          "satLocus": "大正蔵 T4.564a 華香品第14頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P16",
+      "category": "mindfulness",
+      "verse": 57,
+      "observe": "戒行を成就し、不放逸に住し、正智により解脱せる者には、魔王も近づくあたわず。",
+      "action": "今日、欲・怒り・怠惰の誘惑を一つ戒によって退ける",
+      "quote": "彼ら、戒を成就した者たちの〔道を〕──不放逸の住者たちの〔道を〕──正しい了知による解脱者たちの道を──悪魔は知らない。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "戒・不放逸・正智の解脱者には魔も近づけない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第57偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第57偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-015",
+          "text": "戒具成就，行無放逸，定意度脫，長離魔道。",
+          "satLocus": "大正蔵 T4.564a 華香品第15頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P17",
+      "category": "view",
+      "verse": 58,
+      "observe": "大道に捨てられたる塵埃の堆積中に、芳香馥郁（ふくいく）として美しき蓮華の生ずる如く、",
+      "action": "今日、困難の中でも誠実でいられる場面を一つ作る",
+      "quote": "たとえば、塵芥の〔堆積する〕場となり、廃棄された大道において、そこにおいて、清らかな香りがあり、意が喜びとする、〔美しい〕蓮華が生じるように──",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "塵芥の大道にも清らかな蓮が生じる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第58偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第58偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-016",
+          "text": "如作田溝，近于大道，中生蓮華，香潔可意。",
+          "satLocus": "大正蔵 T4.564a 華香品第16頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP4-P18",
+      "category": "view",
+      "verse": 59,
+      "observe": "この如く、塵埃にも等しき盲昧の凡夫中に、正等覚者の弟子は智慧を以て輝く。",
+      "action": "周囲に流されず、自分の判断で今日の行いを一つ決める",
+      "quote": "このように、塵芥の生類（輪廻する有情）たちのなかにおいて、暗愚と成った〔迷える〕凡夫たちに、正等覚者（ブッダ）の弟子は、智慧によって輝きまさる。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "凡夫の中で覚者の弟子は智慧で輝く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 花の章 第59偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第４章・花品 第59偈（#ch02-04）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-04"
+        },
+        "chinese": {
+          "status": "mapped",
+          "t210": "T210-12-017",
+          "text": "有生死然，凡夫處邊，慧者樂出，為佛弟子。",
+          "satLocus": "大正蔵 T4.564a 華香品第17頌",
+          "pin": "華香品（T210 第12品）",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0563",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap04/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "44": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "誰が法句を花のように摘み取るのかと問う"
+    },
+    "45": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "有学が法句を摘み、世界を征圧する"
+    },
+    "46": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "身を泡沫・陽炎と知り魔の花矢を断つ"
+    },
+    "47": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "花を摘む執着の人を死魔が運び去る"
+    },
+    "48": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "欲に飽かぬ者を死神が支配する"
+    },
+    "49": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "reason": "蜂のように場を損なわず味だけを取る"
+    },
+    "50": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "他ではなく自己の為した・為さぬを観る"
+    },
+    "51": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "reason": "実行なき美語は香なき花のように実がない"
+    },
+    "52": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "reason": "実行ある美語は香りある花のように実がある"
+    },
+    "53": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正業",
+        "正精進"
+      ],
+      "reason": "人と生まれたなら多くの善を為すべき"
+    },
+    "54": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "善人の香りは風に逆らっても四方に薫る"
+    },
+    "55": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "諸香の中で戒の香りが最上である"
+    },
+    "56": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "持戒者の香りは諸天の間に薫る"
+    },
+    "57": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "戒・不放逸・正智の解脱者には魔も近づけない"
+    },
+    "58": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "塵芥の大道にも清らかな蓮が生じる"
+    },
+    "59": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "凡夫の中で覚者の弟子は智慧で輝く"
+    }
+  }
+}

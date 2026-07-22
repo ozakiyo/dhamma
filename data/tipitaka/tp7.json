@@ -1,0 +1,140 @@
+{
+  "chapter": 7,
+  "title": "一切経・地図 第7章（小部）",
+  "shortTitle": "小部",
+  "mapNote": "15経典——要約・詩・短経の宝庫",
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "TP7-P01",
+      "category": "prep",
+      "ref": "小部",
+      "observe": "小部は15の経典の集まり——長さも時代も様々",
+      "action": "小部の主要5つ（ダンマパダ・如是語・感興語・経集・法句経）を覚える",
+      "quote": "クダダカ・ニカーヤ——小さな経典の集"
+    },
+    {
+      "id": "TP7-P02",
+      "category": "work",
+      "ref": "ダンマパダ",
+      "observe": "ダンマパダ426偈——日常指針の要約、最も読みやすい",
+      "action": "アプリの「ダンマパダ」コレクションから今日の一ペアを実践する",
+      "quote": "諸法は意に支配せられ、意を主とし、意よりなる"
+    },
+    {
+      "id": "TP7-P03",
+      "category": "speech",
+      "ref": "如是語",
+      "observe": "Itivuttaka——「仏がこう語られた」短い教え",
+      "action": "短い法句を一つ暗唱するか、メモに書く",
+      "quote": "仏の語——簡潔に、核心を射抜く"
+    },
+    {
+      "id": "TP7-P04",
+      "category": "prep",
+      "ref": "感興語",
+      "observe": "Udana——感動の瞬間に説かれた法",
+      "action": "今日感動した瞬間に、それを法と結びつけてみる",
+      "quote": "歓喜の時、悲しみの時——その場に説かれた法"
+    },
+    {
+      "id": "TP7-P05",
+      "category": "people",
+      "ref": "経集",
+      "observe": "Sutta Nipata——古い詩形の経、独覚の道など",
+      "action": "経集の「犀角の喻」を思い出し、群れに流されない一歩を踏む",
+      "quote": "犀角の如く、独り行め"
+    },
+    {
+      "id": "TP7-P06",
+      "category": "suffering",
+      "ref": "本生経",
+      "observe": "Jataka547本——過去の菩薩行、寓話形式",
+      "action": "本生経は「故事」として読み、今日の行いの教訓を一つ取る",
+      "quote": "過去の行いが、今の姿を形作る"
+    },
+    {
+      "id": "TP7-P07",
+      "category": "people",
+      "ref": "長老偈",
+      "observe": "Theragatha/Therigatha——実践者の証語",
+      "action": "自分より先に歩んだ修行者の言葉を一つ読む",
+      "quote": "我、道を得たり——実践者の声"
+    },
+    {
+      "id": "TP7-P08",
+      "category": "desire",
+      "ref": "小部",
+      "observe": "小部には後世の著作も含む——古い層と新しい層を区別する",
+      "action": "読んでいる小部経典が「古い核」かどうか、出典を一度確認する",
+      "quote": "古きを尊び、時代を見分けよ"
+    },
+    {
+      "id": "TP7-P09",
+      "category": "night",
+      "ref": "小部",
+      "observe": "小部の位置——五部の「要約・反復・詩」",
+      "action": "夜、ダンマパダ一偈を暗唱または書写する",
+      "quote": "短く、深く、繰り返す"
+    },
+    {
+      "id": "TP7-P10",
+      "category": "work",
+      "ref": "小誦経",
+      "observe": "Khuddakapatha——最短の読誦経、日常の護持",
+      "action": "短い読誦文を一つ、朝か夜の習慣に加える",
+      "quote": "小誦——日課の入り口"
+    },
+    {
+      "id": "TP7-P11",
+      "category": "prep",
+      "ref": "小部",
+      "observe": "ダンマパダは小部の一つ——アプリ第1弾はここから",
+      "action": "地図第7章を読んだら、ダンマパダ第1章に戻って実践する",
+      "quote": "小部の入口——ダンマパダ"
+    }
+  ]
+}

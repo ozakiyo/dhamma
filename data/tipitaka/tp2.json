@@ -1,0 +1,124 @@
+{
+  "chapter": 2,
+  "title": "一切経・地図 第2章（律蔵）",
+  "shortTitle": "律蔵",
+  "mapNote": "僧団の規律——戒と和合の住処",
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "TP2-P01",
+      "category": "work",
+      "ref": "律蔵",
+      "observe": "律蔵は比丘・比丘尼の戒と僧団運営の規定",
+      "action": "在俗者として、五戒または自分の戒を今日一つ守る",
+      "quote": "戒は苦を遮る堤なり"
+    },
+    {
+      "id": "TP2-P02",
+      "category": "prep",
+      "ref": "パーティモッカ",
+      "observe": "波羅提木叉——比丘の根本戒227条（南伝）",
+      "action": "殺すこと・盗・淫・嘘・酒の五戒の意味を一つ思い出す",
+      "quote": "これらの学処を守れ"
+    },
+    {
+      "id": "TP2-P03",
+      "category": "people",
+      "ref": "僧団",
+      "observe": "律の目的は個人の清浄と、僧団の和合",
+      "action": "今日、共同体の和合を損なう言動を一つ控える",
+      "quote": "和合僧伽——共に学ぶ共同体"
+    },
+    {
+      "id": "TP2-P04",
+      "category": "speech",
+      "ref": "戒経",
+      "observe": "半月誦戒——僧団が定期的に戒を読み返す",
+      "action": "週に一度、自分の約束（戒）を声に出して確認する",
+      "quote": "戒を憶念し、戒に住せ"
+    },
+    {
+      "id": "TP2-P05",
+      "category": "desire",
+      "ref": "律蔵",
+      "observe": "細かな規定の多くは、欲と怒りが共同体を壊すのを防ぐ",
+      "action": "欲が強い場面で「これは戒に反するか」と一度立ち止まる",
+      "quote": "欲は戒を破る因なり"
+    },
+    {
+      "id": "TP2-P06",
+      "category": "suffering",
+      "ref": "懺悔",
+      "observe": "律には犯戒と懺悔の手続きがある——隠さず直す",
+      "action": "今日の過ちを一つ認め、隠さず直す一歩を踏む",
+      "quote": "覆い隠さず、懺悔して清めよ"
+    },
+    {
+      "id": "TP2-P07",
+      "category": "work",
+      "ref": "犍度",
+      "observe": "犍度（カンディカ）——僧団の儀式・行事・共同生活の規定",
+      "action": "共同作業で、自分の役割を一つ果たす",
+      "quote": "共に住む者の規範"
+    },
+    {
+      "id": "TP2-P08",
+      "category": "people",
+      "ref": "在俗",
+      "observe": "在俗者には五戒・八斎戒・在家の戒がある",
+      "action": "五戒のうち今日特に守る一つを朝に決める",
+      "quote": "在家の善戒——法に近づく基盤"
+    },
+    {
+      "id": "TP2-P09",
+      "category": "night",
+      "ref": "律蔵",
+      "observe": "律は「何をしてはならないか」の地図——経は「なぜ・どう生きるか」",
+      "action": "夜、今日守れた戒を一つ静かに認める",
+      "quote": "戒生定、定生慧"
+    }
+  ]
+}

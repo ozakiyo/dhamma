@@ -1,0 +1,73 @@
+{
+  "title": "一切経・地図",
+  "source": "南伝大蔵経（日本仏教学院）· パーリ三藏",
+  "collection": "tipitaka",
+  "description": "律・経（五部）・論の全体像。各章はその蔵・部の位置づけ、主要経典、学びの順序を示す。",
+  "totalPairs": 78,
+  "chapters": [
+    {
+      "id": 1,
+      "file": "tp1.json",
+      "title": "一切経・地図 第1章（三藏の全体）",
+      "shortTitle": "三藏の全体",
+      "mapNote": "南伝大蔵経（パーリ三藏）の骨格——律・経・論",
+      "pairCount": 10
+    },
+    {
+      "id": 2,
+      "file": "tp2.json",
+      "title": "一切経・地図 第2章（律蔵）",
+      "shortTitle": "律蔵",
+      "mapNote": "僧団の規律——戒と和合の住処",
+      "pairCount": 9
+    },
+    {
+      "id": 3,
+      "file": "tp3.json",
+      "title": "一切経・地図 第3章（長部）",
+      "shortTitle": "長部",
+      "mapNote": "34経——全景・大論議・仏の生涯",
+      "pairCount": 9
+    },
+    {
+      "id": 4,
+      "file": "tp4.json",
+      "title": "一切経・地図 第4章（中部）",
+      "shortTitle": "中部",
+      "mapNote": "152経——教えの核心、修行の基礎",
+      "pairCount": 10
+    },
+    {
+      "id": 5,
+      "file": "tp5.json",
+      "title": "一切経・地図 第5章（相応部）",
+      "shortTitle": "相応部",
+      "mapNote": "7764経——テーマ別の教義体系",
+      "pairCount": 10
+    },
+    {
+      "id": 6,
+      "file": "tp6.json",
+      "title": "一切経・地図 第6章（増支部）",
+      "shortTitle": "増支部",
+      "mapNote": "9557経——一の法・二の法…、日常と在俗",
+      "pairCount": 10
+    },
+    {
+      "id": 7,
+      "file": "tp7.json",
+      "title": "一切経・地図 第7章（小部）",
+      "shortTitle": "小部",
+      "mapNote": "15経典——要約・詩・短経の宝庫",
+      "pairCount": 11
+    },
+    {
+      "id": 8,
+      "file": "tp8.json",
+      "title": "一切経・地図 第8章（論蔵）",
+      "shortTitle": "論蔵",
+      "mapNote": "7論書——法と心の精密分析",
+      "pairCount": 9
+    }
+  ]
+}

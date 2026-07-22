@@ -1,0 +1,1028 @@
+{
+  "title": "ダンマパダ 第23章・象品（象の章）",
+  "chapter": 23,
+  "shortTitle": "象品（象の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第23章（象品／象の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210象喻品）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・象の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第２３章・象品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・象喻品（T4.570b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第23章・象品（象の章）",
+    "shortTitle": "象品（象の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "自己調御と善友に触れ、一日の軸を定める",
+        "chapterHint": "象品（象の章）",
+        "fromPrev": "前夜の戒と信の見直しが、今朝の調御になる",
+        "toNext": "接触のあと、誹謗や敬いの受が立ち上がる",
+        "todayObserve": "騾の調御せられたるは良し、気高き信度馬も良し、大象もまた良し。 自己を調御せる人は更に良し。",
+        "todayAction": "朝、今日の「自己調御（感情の制御）」を一つ具体的に定める",
+        "when": [
+          "朝の始まり",
+          "善友に会う"
+        ],
+        "sources": [
+          "DP23-P03",
+          "DP23-P09"
+        ],
+        "leadQuote": "優れているのは、調御された騾馬たちであり、そして、善き生まれのシンダヴァたち（シ…",
+        "secondaryObserve": "賢明なる同行の伴侶を得ば、欣然彼と共に行くべし"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "誹謗の受を調御して受け、敬いの安楽も受け取る",
+        "chapterHint": "象品（象の章）",
+        "fromPrev": "調御に触れたあと、誹謗や敬いの受が来る",
+        "toNext": "受けた不快を、惰眠や気ままへの欲しがりへ落とさない",
+        "todayObserve": "〔人は〕調御せられたる〔象〕を戦場に導き、王は調御せられたる〔象〕に乗る。 誹謗を堪え忍び調御せられたる人は、人中の最勝者なり。",
+        "todayAction": "不当な扱いを受けたとき、感情的に反応せず、まず自己を調御してから応じる",
+        "when": [
+          "批判を受けた",
+          "敬意を表す"
+        ],
+        "sources": [
+          "DP23-P02",
+          "DP23-P14"
+        ],
+        "leadQuote": "調御された〔象〕を、〔人々は〕戦場へと導く。調御された〔象〕に、王は乗る。〔自己…",
+        "secondaryObserve": "世に母を敬うは楽しく、父を敬うもまた楽し"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正念",
+          "正命"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "livelihood"
+        ],
+        "pathLabel": "惰眠・大食と束縛中の逸れを緩め、本来の方向を見る",
+        "chapterHint": "象品（象の章）",
+        "fromPrev": "受が強まると、惰眠や逸れへの欲しがりへ",
+        "toNext": "止めないと気ままな心の掴みへ進む",
+        "todayObserve": "懶惰にして大食し、惰眠を貪りて輾転として臥し、穀類に飽満せる大豚の如くならば、〔かかる〕愚者は再々胞胎に入る。",
+        "todayAction": "飲食・睡眠・娯楽の節度を一つ決め、今日それを守る",
+        "when": [
+          "飲食睡眠を整えたい",
+          "束縛の中で方向を確かめる"
+        ],
+        "sources": [
+          "DP23-P05",
+          "DP23-P06"
+        ],
+        "leadQuote": "すなわち、惰眠の者として〔世に〕有るとき、さらに、大飯食いの者として〔世に有ると…",
+        "secondaryObserve": "縛せられても、象は象の林を念う"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "気ままな心と愚者との掴みを手放し、制御する",
+        "chapterHint": "象品（象の章）",
+        "fromPrev": "欲しがりが、気まま・悪友として掴む手前",
+        "toNext": "掴むと誹謗に耐えきれず輪廻の苦が太る",
+        "todayObserve": "この心かつては望む所に従い、欲に随い楽に随いて徘徊せり。 今は我全くこれを制御せん、あたかも鉤を持てる〔象師の、発情して苦汁を〕流せる象を〔制御する〕如くに。",
+        "todayAction": "今朝、「今日は自分の心を主人として制御する」と一度はっきり意図する",
+        "when": [
+          "心が徘徊する",
+          "愚者の流れに乗りそう"
+        ],
+        "sources": [
+          "DP23-P07",
+          "DP23-P11",
+          "DP23-P12"
+        ],
+        "leadQuote": "かつて、この心は、〔気ままに〕歩みさすらう者として歩んできた──求めるところから…",
+        "secondaryObserve": "愚者は断じて伴侶となすべからず"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "誹謗の矢を、象のように苦として受け止める",
+        "chapterHint": "象品（象の章）",
+        "fromPrev": "掴んだ結果として、誹謗と破戒の苦が熟す",
+        "toNext": "見れば、不放逸と自己調御へ向き直る",
+        "todayObserve": "象が戦場に於て、弓より放たれし矢を〔堪え忍ぶが〕如く、我は誹謗を堪え忍ばん。 多くの人は破戒者なればなり。",
+        "todayAction": "批判・悪口を受けたとき、反論せずにまず静かに堪え、自分の行いを確かめる",
+        "when": [
+          "悪口を受けた",
+          "反論したくなった"
+        ],
+        "sources": [
+          "DP23-P01"
+        ],
+        "leadQuote": "戦場において、弓から放たれた矢を〔忍受する〕象のように、わたしは、〔他者からの〕…",
+        "secondaryObserve": "多くの人は破戒者なればなり"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "不放逸で泥から抜け、調御された自己で離す",
+        "chapterHint": "象品（象の章）",
+        "fromPrev": "苦が見えれば、心を護り独り／共に歩く実践へ",
+        "toNext": "離すと、安楽の夜の見直しへつながる",
+        "todayObserve": "汝ら不放逸を楽しめ、自己の心を護れ。 自己を難処（煩悩）より救出せよ、あたかも泥中に陥れる象の如くに。",
+        "todayAction": "朝、「今日は怠惰に流されない」と一度誓い、最初の行動を即座に起こす",
+        "when": [
+          "怠惰に流されそう",
+          "独りで正しい選択をする"
+        ],
+        "sources": [
+          "DP23-P04",
+          "DP23-P08",
+          "DP23-P10"
+        ],
+        "leadQuote": "〔あなたたちは、気づきを〕怠らないこと（不放逸）に喜びある者たちと成れ、自らの心…",
+        "secondaryObserve": "調御せられたる自己で未到の境に至る"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "action",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正業",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "action",
+          "mindfulness"
+        ],
+        "pathLabel": "友・敬い・戒・信という安楽を、静かに見直す",
+        "chapterHint": "象品（象の章）",
+        "fromPrev": "一日の行いは、調御していたかの跡",
+        "toNext": "見直しが、翌朝の自己調御になる",
+        "todayObserve": "事の起こりし時に友は楽しく、満足はいかなる場合にも楽し。 生命の尽くる時に善業は楽しく、一切の苦を捨つるは楽し。 老に至るまで戒を持するは楽しく、安立せる信仰は楽し。 智慧を得るは楽しく、悪をなさざるは楽し。",
+        "todayAction": "今夜、今日の「友・満足・善業」を一つずつ思い浮かべ、静かに感謝する",
+        "when": [
+          "一日を閉じるとき",
+          "老いても後悔しない行いを考える"
+        ],
+        "sources": [
+          "DP23-P13",
+          "DP23-P15"
+        ],
+        "leadQuote": "義（問題）が生じたとき、道友たちがいることは、安楽である。すなわち、いかなるもの…",
+        "secondaryObserve": "老に至るまで戒を持するは楽しく、悪をなさざるは楽し"
+      }
+    ],
+    "focusNodeId": "feeling",
+    "focusReason": "象品は誹謗の受を調御して忍受する実践が中心。既定の焦点は受ける。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP23-P01",
+      "category": "mindfulness",
+      "verse": 320,
+      "observe": "象が戦場に於て、弓より放たれし矢を〔堪え忍ぶが〕如く、我は誹謗を堪え忍ばん。 多くの人は破戒者なればなり。",
+      "action": "批判・悪口を受けたとき、反論せずにまず静かに堪え、自分の行いを確かめる",
+      "quote": "戦場において、弓から放たれた矢を〔忍受する〕象のように、わたしは、〔他者からの〕責め咎めを忍受するであろう。まさに、劣戒なるかな──〔世の〕多くの人々は。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "誹謗の苦を、戦場の象のように堪え忍ぶ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第320偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第320偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-001",
+          "text": "我如象鬪，不恐中箭，常以誠信，度無戒人。",
+          "satLocus": "大正蔵 T4.570b 象喻品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P02",
+      "category": "mindfulness",
+      "verse": 321,
+      "observe": "〔人は〕調御せられたる〔象〕を戦場に導き、王は調御せられたる〔象〕に乗る。 誹謗を堪え忍び調御せられたる人は、人中の最勝者なり。",
+      "action": "不当な扱いを受けたとき、感情的に反応せず、まず自己を調御してから応じる",
+      "quote": "調御された〔象〕を、〔人々は〕戦場へと導く。調御された〔象〕に、王は乗る。〔自己が〕調御された者は、人間たちのなかの最勝の者──彼は、〔他者からの〕責め咎めを忍受する。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "調御して誹謗の受を堪え忍ぶ者が最勝",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第321偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第321偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-002",
+          "text": "譬象調正，可中王乘，調為尊人，乃受誠信。",
+          "satLocus": "大正蔵 T4.570b 象喻品第2頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P03",
+      "category": "mindfulness",
+      "verse": 322,
+      "observe": "騾の調御せられたるは良し、気高き信度馬も良し、大象もまた良し。 自己を調御せる人は更に良し。",
+      "action": "朝、今日の「自己調御（感情の制御）」を一つ具体的に定める",
+      "quote": "優れているのは、調御された騾馬たちであり、そして、善き生まれのシンダヴァたち（シンドゥ産の良馬）であり、さらに、クンジャラの大いなる象たちである。それよりも優れているのは、自己が調御された者である。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "乗物より自己調御が最勝と知る接触",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第322偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第322偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-003",
+          "text": "雖為常調，如彼新馳，亦最善象，不如自調。",
+          "satLocus": "大正蔵 T4.570b 象喻品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P04",
+      "category": "mindfulness",
+      "verse": 323,
+      "observe": "これらの牽獣によりては未到の境（涅槃）に至ることなからん、調御せられたる人が、よく調御せられたる自己を調御せられたる〔牽獣〕として至るが如くに。",
+      "action": "今日の困難を「外の力」に頼るのではなく、調御された自己の力で乗り越える",
+      "quote": "まさに、これらの乗物では、〔いまだ〕赴かざる方角（涅槃）に赴くことはできない──すなわち、善く調御された自己〔という乗物〕で、調御された者が調御によって赴くようには。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "調御された自己で未到の境（涅槃）へ赴く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第323偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第323偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-004",
+          "text": "彼不能適，人所不至，唯自調者，能致調方。",
+          "satLocus": "大正蔵 T4.570b 象喻品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P05",
+      "category": "mindfulness",
+      "verse": 324,
+      "observe": "ダナパーラカと名づくる象は、〔発情してこめかみより〕苦汁を分泌し、抑制し難く、縛せられて一片の〔餌〕をも食わず。 〔この〕象は象の林を念う。",
+      "action": "制約や束縛の中にいるとき、「本来自分が向かうべき方向」を一度静かに確かめる",
+      "quote": "「財の番人」という名のクンジャラ〔象〕がいる。辛辣なる破壊者で、防護し難く、捕縛されたなら、餌を食べない。クンジャラ〔象〕は、象の林を思念する。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "束縛の中でも象林を念う──本来の方向への欲しがり",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第324偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第324偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-005",
+          "text": "如象名財守，猛害難禁制，繫絆不與食，而猶暴逸象。",
+          "satLocus": "大正蔵 T4.570b 象喻品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P06",
+      "category": "livelihood",
+      "verse": 325,
+      "observe": "懶惰にして大食し、惰眠を貪りて輾転として臥し、穀類に飽満せる大豚の如くならば、〔かかる〕愚者は再々胞胎に入る。",
+      "action": "飲食・睡眠・娯楽の節度を一つ決め、今日それを守る",
+      "quote": "すなわち、惰眠の者として〔世に〕有るとき、さらに、大飯食いの者として〔世に有るとき〕、眠りこけてはごろ寝をする者となる。餌で養われた大豚のように、愚か者は、繰り返し、〔母の〕胎に近しく至る。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "懶惰・大食・惰眠への欲しがりは輪廻を招く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第325偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第325偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-006",
+          "text": "沒在惡行者，恒以貪自繫，其象不知厭，故數入胞胎。",
+          "satLocus": "大正蔵 T4.570b 象喻品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P07",
+      "category": "mindfulness",
+      "verse": 326,
+      "observe": "この心かつては望む所に従い、欲に随い楽に随いて徘徊せり。 今は我全くこれを制御せん、あたかも鉤を持てる〔象師の、発情して苦汁を〕流せる象を〔制御する〕如くに。",
+      "action": "今朝、「今日は自分の心を主人として制御する」と一度はっきり意図する",
+      "quote": "かつて、この心は、〔気ままに〕歩みさすらう者として歩んできた──求めるところから、欲するところへと、楽しみあるままに。わたしは、今日、それ（心）を、根源から制御するであろう──鉤をもつ捕捉者（象使い）が、狂象を〔制御する〕ように。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "気ままに徘徊する心を根源から制御する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第326偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第326偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-007",
+          "text": "本意為純行，及常行所安，悉捨降伏結，如鉤制象調。",
+          "satLocus": "大正蔵 T4.570b 象喻品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P08",
+      "category": "effort",
+      "verse": 327,
+      "observe": "汝ら不放逸を楽しめ、自己の心を護れ。 自己を難処（煩悩）より救出せよ、あたかも泥中に陥れる象の如くに。",
+      "action": "朝、「今日は怠惰に流されない」と一度誓い、最初の行動を即座に起こす",
+      "quote": "〔あなたたちは、気づきを〕怠らないこと（不放逸）に喜びある者たちと成れ、自らの心を守れ、難所から自己を引き抜け──汚泥にはまったクンジャラ〔象〕が、〔自らを引き抜く〕ように。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "不放逸で心を護り、泥中から自己を引き抜く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第327偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第327偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-008",
+          "text": "樂道不放逸，能常自護心，是為拔身苦，如象出于塪。",
+          "satLocus": "大正蔵 T4.570b 象喻品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P09",
+      "category": "mindfulness",
+      "verse": 328,
+      "observe": "もし思慮に富み、正しく行い、賢明なる同行の伴侶を得ば、一切の危難を征服し、熟慮して欣然彼と共に行くべし。",
+      "action": "信頼できる善友と今日一度、学びや取り組みを共有する",
+      "quote": "それで、もし、賢明なる道友を得るなら、共に歩む善き住者たる慧者を〔得るなら〕、一切の危難を征服して、わが意を得た者となり、気づきある者として、彼とともに、歩むがよい。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "賢明な道友との接触を得て共に歩く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第328偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第328偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-009",
+          "text": "若得賢能伴，俱行行善悍，能伏諸所聞，至到不失意。",
+          "satLocus": "大正蔵 T4.570b 象喻品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P10",
+      "category": "mindfulness",
+      "verse": 329,
+      "observe": "もし思慮に富み、正しく行い、賢明なる同行の伴侶を得ざれば、独り行くべし、あたかも征服せられたる国土を捨てし王の如く、林中に於ける象の如くに。",
+      "action": "周囲に流される状況なら、今日一人で静かに正しい選択をする",
+      "quote": "もし、賢明なる道友を得ないなら、共に歩む善き住者たる慧者を〔得ないなら〕、征圧した国土を捨棄して〔出家する〕王のように、マータンガの林のなかの象のように、独り、歩むがよい。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "善友なきときは独り林の象の如く歩く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第329偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第329偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-010",
+          "text": "不得賢能伴，俱行行惡悍，廣斷王邑里，寧獨不為惡。",
+          "satLocus": "大正蔵 T4.570b 象喻品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P11",
+      "category": "mindfulness",
+      "verse": 330,
+      "observe": "独り行くこそ勝れ、愚者は断じて伴侶となすべからず。 独り行くべし、悪事を為すべからず、少欲なることあたかも林中に於ける象の如くに。",
+      "action": "今日、悪口・陰口・不誠実な言葉を一つやめる。愚者の会話の流れに乗らない",
+      "quote": "独りある者の歩みのほうが、より勝っている。愚者のうちに、道友たること（真の友情）は存在しない。そして、諸々の悪しきことを為さず、〔俗事に〕思い入れ少なく、マータンガの林のなかの象のように、独り、歩むがよい。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "愚者を伴侶と掴まず、独り少欲に歩く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第330偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第330偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-011",
+          "text": "寧獨行為善，不與愚為侶，獨而不為惡，如象驚自護。",
+          "satLocus": "大正蔵 T4.570b 象喻品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P12",
+      "category": "mindfulness",
+      "verse": 330,
+      "observe": "独り行くこそ勝れ、愚者は断じて伴侶となすべからず。 独り行くべし、悪事を為すべからず、少欲なることあたかも林中に於ける象の如くに。",
+      "action": "悪い影響を与える人との無用な付き合いを今日一つ整理する",
+      "quote": "独りある者の歩みのほうが、より勝っている。愚者のうちに、道友たること（真の友情）は存在しない。そして、諸々の悪しきことを為さず、〔俗事に〕思い入れ少なく、マータンガの林のなかの象のように、独り、歩むがよい。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "愚者を伴侶と掴まず、独り少欲に歩く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第330偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第330偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-011",
+          "text": "寧獨行為善，不與愚為侶，獨而不為惡，如象驚自護。",
+          "satLocus": "大正蔵 T4.570b 象喻品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P13",
+      "category": "mindfulness",
+      "verse": 331,
+      "observe": "事の起こりし時に友は楽しく、満足はいかなる場合にも楽し。 生命の尽くる時に善業は楽しく、一切の苦を捨つるは楽し。",
+      "action": "今夜、今日の「友・満足・善業」を一つずつ思い浮かべ、静かに感謝する",
+      "quote": "義（問題）が生じたとき、道友たちがいることは、安楽である。すなわち、いかなるものによっても〔足ることを知り〕、満足〔の思い〕あることは、安楽である。生命の消滅あるとき、〔善き〕功徳あることは、安楽である。一切の苦痛を捨棄することは、安楽である。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "友・満足・善業・苦の捨棄という安楽を見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第331偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第331偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-012",
+          "text": "生而有利安，伴軟和為安，命盡為福安，眾惡不犯安。",
+          "satLocus": "大正蔵 T4.570b 象喻品第12頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P14",
+      "category": "mindfulness",
+      "verse": 332,
+      "observe": "世に母を敬うは楽しく、父を敬うもまた楽し。 世に〔真の〕沙門たることは楽しく、〔真の〕婆羅門たることもまた楽し。",
+      "action": "今日、親・目上の人・尊ぶべき人に対して敬意を一つ具体的に表す",
+      "quote": "世において、母を敬うことは、安楽である。さらに、父を敬うことは、安楽である。世において、沙門の資質あることは、安楽である。さらに、梵（婆羅門）の資質あることは、安楽である。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "父母・沙門・婆羅門を敬う安楽を受ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第332偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第332偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-013",
+          "text": "人家有母樂，有父斯亦樂，世有沙門樂，天下有道樂。",
+          "satLocus": "大正蔵 T4.570b 象喻品第13頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP23-P15",
+      "category": "action",
+      "verse": 333,
+      "observe": "老に至るまで戒を持するは楽しく、安立せる信仰は楽し。 智慧を得るは楽しく、悪をなさざるは楽し。",
+      "action": "「老いても後悔しない行い」として、今日一つ誠実な選択をする",
+      "quote": "すなわち、老いてなお、戒あることは、安楽である。確立した信あることは、安楽である。智慧を獲得することは、安楽である。諸々の悪を為さないことは、安楽である。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "老いても戒・信・智・不悪という安楽を見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 象の章 第333偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２３章・象品 第333偈（#ch02-23）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-23"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "象喻品（T210 第31品）",
+          "t210": "T210-31-014",
+          "text": "持戒終老安，信正所正善，智慧最安身，不犯惡最安。",
+          "satLocus": "大正蔵 T4.570b 象喻品第14頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap23/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "320": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "誹謗の苦を、戦場の象のように堪え忍ぶ"
+    },
+    "321": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "調御して誹謗の受を堪え忍ぶ者が最勝"
+    },
+    "322": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "乗物より自己調御が最勝と知る接触"
+    },
+    "323": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "調御された自己で未到の境（涅槃）へ赴く"
+    },
+    "324": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "束縛の中でも象林を念う──本来の方向への欲しがり"
+    },
+    "325": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "reason": "懶惰・大食・惰眠への欲しがりは輪廻を招く"
+    },
+    "326": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "気ままに徘徊する心を根源から制御する"
+    },
+    "327": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "不放逸で心を護り、泥中から自己を引き抜く"
+    },
+    "328": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "reason": "賢明な道友との接触を得て共に歩く"
+    },
+    "329": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "善友なきときは独り林の象の如く歩く"
+    },
+    "330": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "reason": "愚者を伴侶と掴まず、独り少欲に歩く"
+    },
+    "331": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "友・満足・善業・苦の捨棄という安楽を見直す"
+    },
+    "332": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "父母・沙門・婆羅門を敬う安楽を受ける"
+    },
+    "333": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "老いても戒・信・智・不悪という安楽を見直す"
+    }
+  }
+}

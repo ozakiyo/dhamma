@@ -1,0 +1,1135 @@
+{
+  "title": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+  "chapter": 2,
+  "shortTitle": "不放逸品（怠らないことの章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第2章（不放逸品／怠らないことの章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210放逸品）を偈単位でマッピング（対応なしは明示）。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・怠らないことの章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第２章・不放逸品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・放逸品（T4.562b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+    "shortTitle": "不放逸品（怠らないことの章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "不放逸品（怠らないことの章）",
+        "fromPrev": "前夜の見方が、今朝の接触の土台になる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "怠惰は心を少しずつ死なせていく。不放逸こそが生きる道",
+        "todayAction": "朝、今日取り組む一つのことを決め、すぐに始める",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "DP2-P06",
+          "DP2-P07"
+        ],
+        "leadQuote": "不放逸は不死の道にして、放逸は死の道なり",
+        "secondaryObserve": "不放逸を喜べる心こそが、聖者の道への入口"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感だけを見る",
+        "chapterHint": "不放逸品（怠らないことの章）",
+        "fromPrev": "接触のあと、快・不快・どちらでもない感が立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "怠惰は心を少しずつ死なせていく。不放逸こそが生きる道",
+        "todayAction": "朝、今日取り組む一つのことを決め、すぐに始める",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [],
+        "leadQuote": "不放逸は不死の道にして、放逸は死の道なり",
+        "secondaryObserve": "放逸に流れた日は、気づかないまま何かを失っている"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "不放逸品（怠らないことの章）",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "放逸な人々の中にいても、自分は不放逸でいられる",
+        "todayAction": "周囲が怠けていても、自分の責任を静かに果たす",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "DP2-P10",
+          "DP2-P11",
+          "DP2-P12",
+          "DP2-P13"
+        ],
+        "leadQuote": "放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者",
+        "secondaryObserve": "不放逸は人に尊ばれ、放逸は常に批判される"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "不放逸品（怠らないことの章）",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "自分を守る洲は、誰かが造ってくれるのではなく、自ら造るもの",
+        "todayAction": "衝動的な行動の前に、一度深呼吸して立ち止まる",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [],
+        "leadQuote": "賢慮ある者は瀑流の侵すことなき洲を造るべし",
+        "secondaryObserve": "放逸にふけるるのは愚者。不放逸を最上の宝のように護るのが賢者"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "不放逸品（怠らないことの章）",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "不放逸を実践する者は、憂いを高みから見下ろせるようになる",
+        "todayAction": "気分が落ちたとき、「放逸のせいではないか」と静かに観る",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [],
+        "leadQuote": "識者が不放逸により放逸を退くる時、かかる賢者は智慧の高閣に登り、憂を去って……瞰下す",
+        "secondaryObserve": "怠惰は心を少しずつ死なせていく。不放逸こそが生きる道"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "放逸に気づき、不放逸へ戻る",
+        "chapterHint": "不放逸品（怠らないことの章）",
+        "fromPrev": "怠惰や油断が流れを加速させる",
+        "toNext": "戻れば憂いは高みから見えるようになる",
+        "todayObserve": "放逸に流れた日は、気づかないまま何かを失っている",
+        "todayAction": "先延ばしにしていたことを、今日一つだけ着手する",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "DP2-P01",
+          "DP2-P02",
+          "DP2-P03",
+          "DP2-P04",
+          "DP2-P05",
+          "DP2-P08",
+          "DP2-P09",
+          "DP2-P14",
+          "DP2-P15",
+          "DP2-P16",
+          "DP2-P17",
+          "DP2-P18",
+          "DP2-P19"
+        ],
+        "leadQuote": "放逸の人は死せるに異ならず",
+        "secondaryObserve": "奮励し熟慮し自制して正法に従う者の評判は、自然に高まる"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "不放逸品（怠らないことの章）",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "不放逸を歓べた日、心は静かに豊かになっている",
+        "todayAction": "今日、怠けなかった場面を一つ静かに認める",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [],
+        "leadQuote": "不放逸に通達せる人は不放逸を歓び、聖者の境を楽しむ",
+        "secondaryObserve": "賢者は堅忍・勇猛であり続けて、無上安穏を獲得するる"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "不放逸品は「怠らないこと」で死を越え安楽へ至る教え。既定の焦点は離す。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP2-P01",
+      "category": "mindfulness",
+      "verse": 21,
+      "observe": "不放逸は不死の道にして、放逸は死の道なり。 不放逸の人は死せず、放逸の人は死せるに異ならず。",
+      "action": "朝、今日取り組む一事を決め、すぐに始める。",
+      "quote": "〔気づきを〕怠らないこと（不放逸）は、不死の境処である。怠ること（放逸）は、死魔の境処である。〔気づきを〕怠らない者たちは、死ぬことがない（常に目覚めている）。〔気づきを〕怠る者たちは、彼らは、死んだままである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "不放逸は不死の道、放逸は死の道",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第21偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第21偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-001",
+          "text": "戒為甘露道，放逸為死徑，不貪則不死，失道為自喪。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第1頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P02",
+      "category": "mindfulness",
+      "verse": 21,
+      "observe": "不放逸は不死の道にして、放逸は死の道なり。 不放逸の人は死せず、放逸の人は死せるに異ならず。",
+      "action": "先延ばしにしていたことを、今日一つだけ着手する。",
+      "quote": "〔気づきを〕怠らないこと（不放逸）は、不死の境処である。怠ること（放逸）は、死魔の境処である。〔気づきを〕怠らない者たちは、死ぬことがない（常に目覚めている）。〔気づきを〕怠る者たちは、彼らは、死んだままである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "不放逸は不死の道、放逸は死の道",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第21偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第21偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-001",
+          "text": "戒為甘露道，放逸為死徑，不貪則不死，失道為自喪。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第1頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P03",
+      "category": "mindfulness",
+      "verse": 22,
+      "observe": "よくこの理を悟り、不放逸に通達せる人は不放逸を歓び、聖者の境を楽しむ。",
+      "action": "怠けたい衝動が来たとき、一度立ち止まってそれを観察する。",
+      "quote": "怠らないことについて、賢者たちは、このように、「殊勝のものである」と知って、〔気づきを〕怠らないことに歓喜する──聖者たちの境涯に喜びある者たちとして。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "不放逸を歓び、聖者の境を楽しむ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第22偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第22偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-002",
+          "text": "慧智守道勝，終不為放逸，不貪致歡喜，從是得道樂。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第2頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P04",
+      "category": "mindfulness",
+      "verse": 22,
+      "observe": "よくこの理を悟り、不放逸に通達せる人は不放逸を歓び、聖者の境を楽しむ。",
+      "action": "今日、怠けなかった場面を一つ静かに認める。",
+      "quote": "怠らないことについて、賢者たちは、このように、「殊勝のものである」と知って、〔気づきを〕怠らないことに歓喜する──聖者たちの境涯に喜びある者たちとして。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "不放逸を歓び、聖者の境を楽しむ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第22偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第22偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-002",
+          "text": "慧智守道勝，終不為放逸，不貪致歡喜，從是得道樂。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第2頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P05",
+      "category": "concentration",
+      "verse": 23,
+      "observe": "これらの賢者は禅定（ぜんじょう）に住し、堅忍に満ち、常に勇猛にして、無上安穏の涅槃（ねはん）を獲得す。",
+      "action": "夜、今日の精進を確認し、明日の意図を一つ立てる。",
+      "quote": "彼らは、常久の瞑想者たちであり、常に断固たる勤勉〔努力〕ある者たちである。〔常に気づきを怠らない〕慧者たちは、涅槃〔の境処〕を体得する──束縛からの平安（軛安穏）という無上なるものを。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正精進"
+      ],
+      "pathReason": "禅定に住し精進して涅槃を得る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第23偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第23偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-003",
+          "text": "常當惟念道，自強守正行，健者得度世，吉祥無有上。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第3頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P06",
+      "category": "mindfulness",
+      "verse": 24,
+      "observe": "奮励し、念慮に富み、浄行をなし、熟慮して行い、自己を抑制し、正法に従って生きる不放逸者の声誉は増大す。",
+      "action": "評判を求めず、今日の行いを誠実に一つ積む。",
+      "quote": "奮起あり、気づき（念）あり、清らかな行為（業）あり、〔物事を〕真摯に為し、自制し、法（教え）によって生き、〔気づきを〕怠らない者であるなら、〔彼の〕威徳は〔自ずと〕増え行く。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "奮起・念・清行の不放逸で威徳が増す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第24偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第24偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-004",
+          "text": "正念常興起，行淨惡易滅，自制以法壽，不犯善名增。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第4頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P07",
+      "category": "mindfulness",
+      "verse": 24,
+      "observe": "奮励し、念慮に富み、浄行をなし、熟慮して行い、自己を抑制し、正法に従って生きる不放逸者の声誉は増大す。",
+      "action": "何かを始める前に、「なぜするか」を一瞬確認する。",
+      "quote": "奮起あり、気づき（念）あり、清らかな行為（業）あり、〔物事を〕真摯に為し、自制し、法（教え）によって生き、〔気づきを〕怠らない者であるなら、〔彼の〕威徳は〔自ずと〕増え行く。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "奮起・念・清行の不放逸で威徳が増す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第24偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第24偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-004",
+          "text": "正念常興起，行淨惡易滅，自制以法壽，不犯善名增。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第4頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P08",
+      "category": "effort",
+      "verse": 25,
+      "observe": "奮励により、不放逸により、自制により、また調御（ちょうご）により、賢慮ある者は瀑流（煩悩（ぼんのう））の侵すことなき洲（避難所）を造るべし。",
+      "action": "今日の最初の誘惑に対し、踏みとどまる場所を心に一つ作る。",
+      "quote": "奮起によって、〔気づきを〕怠らないことによって、自制によって、さらに、調御によって、思慮ある者は、洲を作るがよい──それを、激流が押し流さないものとして。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "自制・調御で流されない洲を作る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第25偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第25偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-005",
+          "text": "發行不放逸，約以自調心，慧能作錠明，不返冥淵中。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第5頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P09",
+      "category": "effort",
+      "verse": 25,
+      "observe": "奮励により、不放逸により、自制により、また調御（ちょうご）により、賢慮ある者は瀑流（煩悩（ぼんのう））の侵すことなき洲（避難所）を造るべし。",
+      "action": "衝動的な行動の前に、一度深呼吸して立ち止まる。",
+      "quote": "奮起によって、〔気づきを〕怠らないことによって、自制によって、さらに、調御によって、思慮ある者は、洲を作るがよい──それを、激流が押し流さないものとして。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "自制・調御で流されない洲を作る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第25偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第25偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-005",
+          "text": "發行不放逸，約以自調心，慧能作錠明，不返冥淵中。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品第5頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P10",
+      "category": "mindfulness",
+      "verse": 26,
+      "observe": "痴鈍愚昧の輩は放逸に耽り、賢慮ある者は不放逸を護ること、最上の宝を〔護る〕が如し。",
+      "action": "スマホや娯楽への逃避を一度止め、大切なことに集中する。",
+      "quote": "怠ることに専念するのが、愚者たちであり、思慮浅き人たちである。しかしながら、思慮ある者は、怠らないことに〔専念する〕──最勝の財を守るように。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "愚は放逸に耽り、智は不放逸を宝として守る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第26偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第26偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-006",
+          "text": "愚人意難解，貪亂好諍訟，上智常重慎，護斯為寶尊。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b–c 放逸品第6頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P11",
+      "category": "mindfulness",
+      "verse": 26,
+      "observe": "痴鈍愚昧の輩は放逸に耽り、賢慮ある者は不放逸を護ること、最上の宝を〔護る〕が如し。",
+      "action": "今日最も大切な仕事を、惰性から最初に守る。",
+      "quote": "怠ることに専念するのが、愚者たちであり、思慮浅き人たちである。しかしながら、思慮ある者は、怠らないことに〔専念する〕──最勝の財を守るように。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "愚は放逸に耽り、智は不放逸を宝として守る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第26偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第26偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-006",
+          "text": "愚人意難解，貪亂好諍訟，上智常重慎，護斯為寶尊。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b–c 放逸品第6頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P12",
+      "category": "mindfulness",
+      "verse": 27,
+      "observe": "放逸に耽るべからず、欲楽に親しむべからず。 不放逸にして禅定に住する者のみ、大安楽に達し得ればなり。",
+      "action": "快楽への衝動を観察し、今本当に必要なものだけを選ぶ。",
+      "quote": "怠ることに専念してはならない。欲望の歓楽や親愛〔の情〕に〔耽溺しては〕ならない。なぜなら、〔気づきを〕怠ることなく、〔常に〕瞑想している者は、広大なる安楽に至り得るからである。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "放逸と欲楽に耽らず、禅定で大安楽へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第27偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第27偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-007",
+          "text": "莫貪莫好諍，亦莫嗜欲樂，思心不放逸，可以獲大安。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562c 放逸品第7頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P13",
+      "category": "mindfulness",
+      "verse": 27,
+      "observe": "放逸に耽るべからず、欲楽に親しむべからず。 不放逸にして禅定に住する者のみ、大安楽に達し得ればなり。",
+      "action": "夜、今日欲楽に流された場面を一つ正直に見る。",
+      "quote": "怠ることに専念してはならない。欲望の歓楽や親愛〔の情〕に〔耽溺しては〕ならない。なぜなら、〔気づきを〕怠ることなく、〔常に〕瞑想している者は、広大なる安楽に至り得るからである。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "放逸と欲楽に耽らず、禅定で大安楽へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第27偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第27偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-007",
+          "text": "莫貪莫好諍，亦莫嗜欲樂，思心不放逸，可以獲大安。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562c 放逸品第7頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P14",
+      "category": "view",
+      "verse": 28,
+      "observe": "識者が不放逸により放逸を退くる時、かかる賢者は智慧の高閣に登り、憂を去って憂ある衆愚を瞰下す、あたかも山上に立てる人が地上の人を〔瞰下する〕如く。",
+      "action": "気分が落ちたとき、「放逸のせいではないか」と静かに観る。",
+      "quote": "賢者が、〔気づきを〕怠らないことによって、怠ることを除く、そのとき、智慧（慧・般若）の高楼に登って、憂いなき者となり、憂いある人々を〔見る〕。山に立つ者が、地に立つ者たちを〔見る〕ように、慧者は、愚者たちを、〔智慧の眼で〕注視する。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "不放逸で智慧の高楼に立ち愚を観る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第28偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第28偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-008",
+          "text": "放逸如自禁，能却之為賢，已昇智慧閣，去危為即安，明智觀於愚，譬如山與地。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562c 放逸品第8頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P15",
+      "category": "effort",
+      "verse": 29,
+      "observe": "放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。",
+      "action": "作業中、眠気や惰性を感じたら姿勢を整えて集中し直す。",
+      "quote": "怠りある者たちのなかにいながら怠らない者がいる。眠りについた者たちのなかにいながら多く起きている者がいる。駿馬が、駄馬を〔置き去りにする〕ように、思慮深き者は、〔怠りある者たちを〕捨棄して行く。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "放逸の中でも目覚め、先へ進む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第29偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第29偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-009",
+          "text": "居亂而身正，彼為獨覺悟，是力過師子，棄惡為大智。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562c 放逸品第9頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P16",
+      "category": "effort",
+      "verse": 29,
+      "observe": "放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。",
+      "action": "周囲が怠けていても、自分の責任を静かに果たす。",
+      "quote": "怠りある者たちのなかにいながら怠らない者がいる。眠りについた者たちのなかにいながら多く起きている者がいる。駿馬が、駄馬を〔置き去りにする〕ように、思慮深き者は、〔怠りある者たちを〕捨棄して行く。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "放逸の中でも目覚め、先へ進む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第29偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第29偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-009",
+          "text": "居亂而身正，彼為獨覺悟，是力過師子，棄惡為大智。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562c 放逸品第9頌",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P17",
+      "category": "effort",
+      "verse": 30,
+      "observe": "摩伽婆（マガヴァ）（帝釈天）は不放逸によりて諸天の最高位に達せり。 人は不放逸を称讃し、放逸は常に非難せらる。",
+      "action": "約束・期限を今日一つ確実に守り、信頼を積む。",
+      "quote": "〔気づきを〕怠らないことによって、天〔の神々〕たちのなかの最勝〔の地位〕に至ったのが、マガヴァント（帝釈天・インドラ神）である。怠らないことを、〔賢者たちは〕賞賛する。怠ることは、〔賢者たちによって〕常に非難されてきた。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進"
+      ],
+      "pathReason": "不放逸により最高位に至り、放逸は非難される",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第30偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第30偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "none",
+          "pin": "放逸品（T210 第10品）",
+          "note": "パーリ偈30は『法句経』T210放逸品に内容対応する偈がない（蘇錦坤對照表）。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品（章全体）"
+        }
+      }
+    },
+    {
+      "id": "DP2-P18",
+      "category": "effort",
+      "verse": 31,
+      "observe": "不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、大小の繋縛（けばく）を火の如くに焼きつつ往く。",
+      "action": "朝、怠けそうな状況を一つ予測し、その対策を立てる。",
+      "quote": "怠らないことに喜びある比丘は、あるいは、怠ることに恐怖を見る者であり、束縛するもの（結）を、微細なるものも、粗大なるものも、火のように焼き尽くしながら去り行く。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "放逸を畏れ、大小の結を焼き尽くす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第31偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第31偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "放逸品（T210 第10品）",
+          "t210": "T210-10-013",
+          "text": "比丘謹慎樂，放逸多憂愆，變諍小致大，積惡入火焰。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562c 放逸品第13頌",
+          "note": "パーリ第31偈 ↔ 漢訳放逸品第13頌（品内番号ずれ）",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/"
+        }
+      }
+    },
+    {
+      "id": "DP2-P19",
+      "category": "mindfulness",
+      "verse": 32,
+      "observe": "不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、既に涅槃に近づき、決して退転することなし。",
+      "action": "夜、今日の不放逸の実践を一つ数え、明日への励みにする。",
+      "quote": "怠らないことに喜びある比丘は、あるいは、怠ることに恐怖を見る者であり、〔境涯の〕遍き衰退は有りえず、まさしく、涅槃の現前にある。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "不放逸により涅槃に近づき退転しない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 怠らないことの章 第32偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２章・不放逸品 第32偈（#ch02-02）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-02"
+        },
+        "chinese": {
+          "status": "none",
+          "pin": "放逸品（T210 第10品）",
+          "note": "パーリ偈32は『法句経』T210放逸品に内容対応する偈がない（蘇錦坤對照表）。",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap02/",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0562",
+          "satLocus": "大正蔵 T4.562b 放逸品（章全体）"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "21": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "不放逸は不死の道、放逸は死の道"
+    },
+    "22": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "不放逸を歓び、聖者の境を楽しむ"
+    },
+    "23": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正精進"
+      ],
+      "reason": "禅定に住し精進して涅槃を得る"
+    },
+    "24": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "奮起・念・清行の不放逸で威徳が増す"
+    },
+    "25": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "自制・調御で流されない洲を作る"
+    },
+    "26": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "愚は放逸に耽り、智は不放逸を宝として守る"
+    },
+    "27": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "放逸と欲楽に耽らず、禅定で大安楽へ"
+    },
+    "28": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "不放逸で智慧の高楼に立ち愚を観る"
+    },
+    "29": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "放逸の中でも目覚め、先へ進む"
+    },
+    "30": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進"
+      ],
+      "reason": "不放逸により最高位に至り、放逸は非難される"
+    },
+    "31": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "放逸を畏れ、大小の結を焼き尽くす"
+    },
+    "32": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "不放逸により涅槃に近づき退転しない"
+    }
+  }
+}

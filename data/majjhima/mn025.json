@@ -1,0 +1,782 @@
+{
+  "chapter": 25,
+  "sutta": 25,
+  "title": "中部 第25経・撒餌経（撒餌の経）",
+  "shortTitle": "撒餌経（撒餌の経）",
+  "mapNote": "根本五十経篇 · 譬喩法品（アラナ：撒餌の経）",
+  "suttas": [
+    "MN 25 撒餌経（撒餌の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第25経（撒餌経／撒餌の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含178獵師経（T26）を段落対応でマッピング。撒餌は五妙欲（色·声·香·味·触）。旧スタブの「法の餌」は経典にないため、第三群の見解執着に対応。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・撒餌の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・獵師経（T1.718c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+        "note": "獵師·五欲·四群鹿·魔王不至処。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第25経・撒餌経（撒餌の経）",
+    "shortTitle": "撒餌経（撒餌の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "朝、魔の撒餌（五妙欲）に触れないよう一つ決める",
+        "chapterHint": "撒餌経（撒餌の経）",
+        "fromPrev": "見直しが、今朝の餌への接触を変える",
+        "toNext": "触のあと、好ましい受が見える",
+        "todayObserve": "撒餌＝五妙欲、猟師＝悪魔。深入りして耽溺→驕慢→放逸→魔の欲するまま——朝、今日「魔の餌」に触れないよう一つ決める。",
+        "todayAction": "朝、今日「魔の餌」に触れないよう一つ決める",
+        "when": [
+          "朝に餌を決めた",
+          "五妙欲に触れた"
+        ],
+        "sources": [
+          "MN25-P01"
+        ],
+        "leadQuote": "比丘たちよ、猟師は、獣類たちに、撒餌を、このように撒きます。『獣類たちは、わたし…",
+        "secondaryObserve": "五欲功德"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "香·味·触の受を餌と見て深入りしない",
+        "chapterHint": "撒餌経（撒餌の経）",
+        "fromPrev": "接触のあと、好ましい香·味·触の受が立つ",
+        "toNext": "受に乗ると色·声·味への欲しがりへ",
+        "todayObserve": "五妙欲の香·味·触——鼻·舌·身の好ましい対象も撒餌——今日、覚えた香·味·触に「餌」と一瞬見て、触れない。",
+        "todayAction": "今日、覚えた香·味·触に「餌」と一瞬見て、触れない",
+        "when": [
+          "香·味·触を覚えた",
+          "餌と見た"
+        ],
+        "sources": [
+          "MN25-P04"
+        ],
+        "leadQuote": "比丘たちよ、『撒餌』とは……五つの欲望の属性……鼻によって識知されるべき諸々の臭…",
+        "secondaryObserve": "身知觸"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "色·声·味への欲しがりを撒餌と見て乗らない",
+        "chapterHint": "撒餌経（撒餌の経）",
+        "fromPrev": "受のあと、もっと欲しいが立つ",
+        "toNext": "止めないと触·見解の掴みへ",
+        "todayObserve": "五妙欲の色——好ましい色形への深入りは第一群の堕ち方——今日、見た色に「餌」と一瞬見て、触れない。",
+        "todayAction": "今日、見た色に「餌」と一瞬見て、触れない",
+        "when": [
+          "色·声に引かれた",
+          "食事を餌と混同しそう"
+        ],
+        "sources": [
+          "MN25-P02",
+          "MN25-P03",
+          "MN25-P05"
+        ],
+        "leadQuote": "比丘たちよ、『撒餌』とは、まさに、これは、五つの欲望の属性（五妙欲：色・声・香・…",
+        "secondaryObserve": "五妙欲の声——好ましい音声への耽溺もまた魔の撒餌——今日、聞いた声に「餌」と一瞬見て、触れない。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "触と見解への掴みを魔の網として緩める",
+        "chapterHint": "撒餌経（撒餌の経）",
+        "fromPrev": "欲しがりのあと、触·法見の掴みが手前",
+        "toNext": "掴むと放逸·苦が見える",
+        "todayObserve": "第三群——餌の近くで耽溺せず食べるが、見解の網に囲まれて解き放たれない。触の対象にも深入りしない——今日、触の対象に「餌」と一瞬見て、触れない。",
+        "todayAction": "今日、触の対象に「餌」と一瞬見て、触れない",
+        "when": [
+          "触に掴まった",
+          "見解に執着した"
+        ],
+        "sources": [
+          "MN25-P06",
+          "MN25-P07"
+        ],
+        "leadQuote": "……第三の沙門や婆羅門たちは……悪魔が撒いたこの撒餌に……近しく依拠して、棲処を…",
+        "secondaryObserve": "第三群の見解——世界の常·無常、如来の死後などへの執着も魔の巣。経典に「法の餌」という六欲はない——今日、知った法に「執着·餌」と一瞬見て、触れない。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦を深入り·耽溺·放逸の結果として見る",
+        "chapterHint": "撒餌経（撒餌の経）",
+        "fromPrev": "掴んだ結果として、魔の欲するままの患が見える",
+        "toNext": "見れば、第四群の離しへ",
+        "todayObserve": "第一群——深入り·耽溺·驕慢·放逸の結果、魔の欲するまま。苦は餌に触れた流れ——今日の苦を「餌に触れた結果」と一度見る。",
+        "todayAction": "今日の苦を「餌に触れた結果」と一度見る",
+        "when": [
+          "苦が残った",
+          "餌に触れたと見た"
+        ],
+        "sources": [
+          "MN25-P09"
+        ],
+        "leadQuote": "……第一の……ものは……深入りして耽溺し……驕慢を惹起し……放逸を惹起し……〔悪…",
+        "secondaryObserve": "不脫魔王境界"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "concentration"
+        ],
+        "pathLabel": "第四群のように餌に触れず、魔の赴かない所へ離す",
+        "chapterHint": "撒餌経（撒餌の経）",
+        "fromPrev": "苦が見えれば、深入りせず解き放つ",
+        "toNext": "離せば、夜の餌の見直しへ",
+        "todayObserve": "第四群——悪魔の赴かない所に棲処を営み、深入りせず、驕慢·放逸せず、完全に解き放たれる——今日、一つの「餌」に触れず、避ける。",
+        "todayAction": "今日、一つの「餌」に触れず、避ける",
+        "when": [
+          "餌を避けた",
+          "定に向かった"
+        ],
+        "sources": [
+          "MN25-P08"
+        ],
+        "leadQuote": "……第四の沙門や婆羅門たちは……『それなら、さあ、わたしたちは、すなわち、そして…",
+        "secondaryObserve": "魔王所不至之處"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "餌に触れた瞬間を認め、内の魔（欲·執着）を観る",
+        "chapterHint": "撒餌経（撒餌の経）",
+        "fromPrev": "一日の欲は、朝からの撒餌の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "悪魔の赴かない所——初禅〜想受滅。夜、餌に触れた瞬間を認め、見なきところへ向かう——就寝前、今日「餌に触れた」瞬間を一つ認め、明日触れない。",
+        "todayAction": "就寝前、今日「餌に触れた」瞬間を一つ認め、明日触れない",
+        "when": [
+          "一日を閉じるとき",
+          "内の魔を観た夜"
+        ],
+        "sources": [
+          "MN25-P10",
+          "MN25-P11"
+        ],
+        "leadQuote": "比丘たちよ、では、どのように、そして、悪魔の、さらに、悪魔の衆の、赴かない所があ…",
+        "secondaryObserve": "猟師＝悪魔パーピマント、撒餌＝五妙欲。外を責めるより、内の欲·執着としての魔の領域を観る——今日、外の誘惑より内の「魔（欲·執着）」を観る。"
+      }
+    ],
+    "focusNodeId": "craving",
+    "focusReason": "撒餌の経は五妙欲という魔の餌への深入り·耽溺が主題。既定の焦点は欲しがる。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN25-P01",
+      "category": "mindfulness",
+      "ref": "MN 25",
+      "section": "撒餌＝五妙欲",
+      "observe": "撒餌＝五妙欲、猟師＝悪魔。深入りして耽溺→驕慢→放逸→魔の欲するまま——朝、今日「魔の餌」に触れないよう一つ決める。",
+      "action": "朝、今日「魔の餌」に触れないよう一つ決める",
+      "quote": "比丘たちよ、猟師は、獣類たちに、撒餌を、このように撒きます。『獣類たちは、わたしが撒いたこの撒餌に深入りして耽溺し、諸々の食料を食べるであろう。……放逸の者たちとして存しながら、〔猟師の〕欲するままに為される者たちと成るであろう──この撒餌において』と。……『撒餌』とは、まさに、これは、五つの欲望の属性（五妙欲：色・声・香・味・触）の同義語です。『猟師』とは、まさに、これは、悪魔パーピマントの同義語です。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "朝、魔の撒餌（五妙欲）に触れないよう一つ決める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·撒餌＝五妙欲",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-bait",
+          "text": "獵師食者，當知五欲功德，眼知色、耳知聲、鼻知香、舌知味、身知觸。獵師者，當知是惡魔王也。獵師眷屬者，當知是魔王眷屬也。群鹿者，當知是沙門、梵志也。",
+          "satLocus": "大正蔵 T1.719a 獵師経",
+          "note": "獵師食＝撒餌＝五欲功德。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P02",
+      "category": "intention",
+      "ref": "MN 25",
+      "section": "色の撒餌",
+      "observe": "五妙欲の色——好ましい色形への深入りは第一群の堕ち方——今日、見た色に「餌」と一瞬見て、触れない。",
+      "action": "今日、見た色に「餌」と一瞬見て、触れない",
+      "quote": "比丘たちよ、『撒餌』とは、まさに、これは、五つの欲望の属性（五妙欲：色・声・香・味・触）の同義語です。……眼によって識知されるべき諸々の色形（色）で、好ましく愛らしく意に適い、愛しい形態にして欲望を伴った貪るべきもの……。（第一の群——深入りして耽溺し、驕慢·放逸し、猟師の欲するままに為される。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "好ましい色を餌と見て欲しがりに乗らない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·色の撒餌",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-rupa",
+          "text": "獵師食者，當知五欲功德，眼知色……。第一沙門、梵志近食魔王食……便憍恣放逸……不脫魔王境界。",
+          "satLocus": "大正蔵 T1.719a 獵師経",
+          "note": "眼知色＝色の撒餌。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P03",
+      "category": "intention",
+      "ref": "MN 25",
+      "section": "声の撒餌",
+      "observe": "五妙欲の声——好ましい音声への耽溺もまた魔の撒餌——今日、聞いた声に「餌」と一瞬見て、触れない。",
+      "action": "今日、聞いた声に「餌」と一瞬見て、触れない",
+      "quote": "比丘たちよ、『撒餌』とは……五つの欲望の属性……耳によって識知されるべき諸々の音声（声）で……貪るべきもの……。……第一の沙門や婆羅門たちは、悪魔が撒いたこの撒餌に……深入りして耽溺し……放逸の者たちとして存しながら、〔悪魔の〕欲するままに為される者たちと成りました。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "好ましい声を餌と見て欲しがりに乗らない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·声の撒餌",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-sadda",
+          "text": "耳知聲……。第一沙門、梵志近食魔王食，世間信施食，彼近食已，便憍恣放逸……。",
+          "satLocus": "大正蔵 T1.719a 獵師経",
+          "note": "耳知聲＝声の撒餌。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P04",
+      "category": "mindfulness",
+      "ref": "MN 25",
+      "section": "香·味·触の撒餌",
+      "observe": "五妙欲の香·味·触——鼻·舌·身の好ましい対象も撒餌——今日、覚えた香·味·触に「餌」と一瞬見て、触れない。",
+      "action": "今日、覚えた香·味·触に「餌」と一瞬見て、触れない",
+      "quote": "比丘たちよ、『撒餌』とは……五つの欲望の属性……鼻によって識知されるべき諸々の臭気（香）で……舌によって識知されるべき諸々の味感（味）で……身によって識知されるべき諸々の感触（触・所触）で……貪るべきもの……。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "香·味·触の受を餌と見て深入りしない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·香·味·触の撒餌",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-gandha",
+          "text": "鼻知香、舌知味、身知觸。獵師食者，當知是五欲功德也。",
+          "satLocus": "大正蔵 T1.719a 獵師経",
+          "note": "香·味·触＝五欲の残部。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P05",
+      "category": "livelihood",
+      "ref": "MN 25",
+      "section": "第二群·味と財貨",
+      "observe": "第二群——極端に離間しても痩せ細り、活力が衰退し餌に戻る。食事は修行の助けとして正しく用いる——食事を「餌のためでなく、清らかな修行の助けのため」と確認する。",
+      "action": "食事を「餌のためでなく、清らかな修行の助けのため」と確認する",
+      "quote": "……第二の沙門や婆羅門たちは……『それなら、さあ、わたしたちは、全てにわたり、撒餌の食料から、世の財貨から、離間するのだ』と。……夏の最後の月となり……身体は……極度の痩せ細りに……活力と精進は、遍く衰退しました。……まさしく、その、悪魔が撒いたこの撒餌に……戻りました。……深入りして耽溺し……〔悪魔の〕欲するままに為される者たちと成りました。（極端な離間だけでは解き放たれない——味·財貨の餌に戻る。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "食事を餌の耽溺ではなく修行の助けとして用いる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·第二群·味と財貨",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-second",
+          "text": "第二沙門、梵志……捨獵師食，離於恐怖，依無事處……彼春後月諸草水盡，身體極羸，氣力衰退……便隨魔王、魔王眷屬……亦不脫魔王境界。",
+          "satLocus": "大正蔵 T1.719a–b 獵師経",
+          "note": "第二群——極端離間の後に戻る。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P06",
+      "category": "mindfulness",
+      "ref": "MN 25",
+      "section": "第三群·近住",
+      "observe": "第三群——餌の近くで耽溺せず食べるが、見解の網に囲まれて解き放たれない。触の対象にも深入りしない——今日、触の対象に「餌」と一瞬見て、触れない。",
+      "action": "今日、触の対象に「餌」と一瞬見て、触れない",
+      "quote": "……第三の沙門や婆羅門たちは……悪魔が撒いたこの撒餌に……近しく依拠して、棲処を営みました。……深入りせずして耽溺することなく、諸々の食料を食べ……驕慢を惹起しませんでした。……放逸を惹起しませんでした。しかしながら、また、まさに、このような見解ある者たちと成りました。『世〔界〕は、常久である』ともまた……『如来は、死後に……』ともまた。……第三の……ものもまた、悪魔の神通の威力から完全に完全に解き放たれませんでした。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "触の対象への掴みを餌と見て離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·第三群·近住",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-third",
+          "text": "第三群鹿……依住不遠，住不遠已，不近食獵師食，不近食已，便不憍恣放逸……（而猟師以棒網囲之，得其巣穴——仍不脱。）",
+          "satLocus": "大正蔵 T1.719b–c 獵師経",
+          "note": "第三群——近くで耽溺せずも網に囲まれる。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P07",
+      "category": "view",
+      "ref": "MN 25",
+      "section": "第三群·見解",
+      "observe": "第三群の見解——世界の常·無常、如来の死後などへの執着も魔の巣。経典に「法の餌」という六欲はない——今日、知った法に「執着·餌」と一瞬見て、触れない。",
+      "action": "今日、知った法に「執着·餌」と一瞬見て、触れない",
+      "quote": "しかしながら、また、まさに、このような見解ある者たちと成りました。『世〔界〕は、常久である』ともまた、『世〔界〕は、常久ではない』ともまた……『如来は、死後に、まさしく、有ることもなく、有ることがないこともない』ともまた。比丘たちよ、まさに、このように、それらの第三の沙門や婆羅門たちもまた、悪魔の神通の威力から完全に完全に解き放たれませんでした。（見解·議論への執着もまた、魔の網に囲まれる巣。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "見解·法への執着も魔の網として掴みを緩める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·第三群·見解",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-views",
+          "text": "第三沙門、梵志……不近食已，便不憍恣放逸……然彼猶有見……（パーリ：常久·無常等の見解。漢訳も第三はなお魔境を脱せず。）",
+          "satLocus": "大正蔵 T1.719b–c 獵師経",
+          "note": "旧「法の餌」は経典にない。見解の執着に対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P08",
+      "category": "effort",
+      "ref": "MN 25",
+      "section": "第四群·解き放ち",
+      "observe": "第四群——悪魔の赴かない所に棲処を営み、深入りせず、驕慢·放逸せず、完全に解き放たれる——今日、一つの「餌」に触れず、避ける。",
+      "action": "今日、一つの「餌」に触れず、避ける",
+      "quote": "……第四の沙門や婆羅門たちは……『それなら、さあ、わたしたちは、すなわち、そして、悪魔の、さらに、悪魔の衆の、赴かない所で、そこで、棲処を営むのだ。……深入りせずして耽溺することなく……驕慢を惹起しないのだ……〔悪魔の〕欲するままに為される者たちと成らないのだ』と。……第四の沙門や婆羅門たちは、悪魔の神通の威力から完全に完全に解き放たれました。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "第四群のように餌に触れず、魔の赴かない所へ離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·第四群·解き放ち",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-fourth",
+          "text": "第四沙門、梵志……依住於魔王、魔王眷屬所不至之處……不近食……不憍恣放逸……便不隨魔王、魔王眷屬……已脫魔王境界。",
+          "satLocus": "大正蔵 T1.719c–720a 獵師経",
+          "note": "第四群——魔の不至処。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P09",
+      "category": "view",
+      "ref": "MN 25",
+      "section": "第一群·苦",
+      "observe": "第一群——深入り·耽溺·驕慢·放逸の結果、魔の欲するまま。苦は餌に触れた流れ——今日の苦を「餌に触れた結果」と一度見る。",
+      "action": "今日の苦を「餌に触れた結果」と一度見る",
+      "quote": "……第一の……ものは……深入りして耽溺し……驕慢を惹起し……放逸を惹起し……〔悪魔の〕欲するままに為される者たちと成りました……悪魔の神通の威力から完全に完全に解き放たれませんでした。……それは、たとえば、また、それらの第一の獣類たちのように……。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "苦を深入り·耽溺の結果として見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·第一群·苦",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-first-dukkha",
+          "text": "第一沙門、梵志近食魔王食……便憍恣放逸，放逸已，便隨魔王、魔王眷屬，如是……不脫魔王境界。",
+          "satLocus": "大正蔵 T1.719a 獵師経",
+          "note": "近食→憍恣放逸＝餌に触れた結果。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P10",
+      "category": "mindfulness",
+      "ref": "MN 25",
+      "section": "魔の赴かない所",
+      "observe": "悪魔の赴かない所——初禅〜想受滅。夜、餌に触れた瞬間を認め、見なきところへ向かう——就寝前、今日「餌に触れた」瞬間を一つ認め、明日触れない。",
+      "action": "就寝前、今日「餌に触れた」瞬間を一つ認め、明日触れない",
+      "quote": "比丘たちよ、では、どのように、そして、悪魔の、さらに、悪魔の衆の、赴かない所があるのですか。比丘たちよ、ここに、比丘が……第一の瞑想（初禅）を成就して〔世に〕住みます。……『比丘として、悪魔を盲者に作り為した──悪魔の眼を跡形なく打倒して、パーピマントの見なきところに至り』〔と〕説かれます。……表象と感覚の止滅（想受滅）を成就して……諸々の煩悩は、完全に滅尽したものと成ります。……『……パーピマントの見なきところに至り、世における執着を超えた者となり』〔と〕説かれます。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "夜、餌に触れた瞬間を認め、魔の見なきところを思い出す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·魔の赴かない所",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-jhana",
+          "text": "云何魔王、魔王眷屬所不至之處？……入初禪……乃至……想知滅定……令魔盲無眼，至無見處。",
+          "satLocus": "大正蔵 T1.720a–b 獵師経",
+          "note": "四禅·無色·滅尽＝魔の不至処（漢訳は四無量等も列す場合あり）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN25-P11",
+      "category": "view",
+      "ref": "MN 25",
+      "section": "猟師＝悪魔",
+      "observe": "猟師＝悪魔パーピマント、撒餌＝五妙欲。外を責めるより、内の欲·執着としての魔の領域を観る——今日、外の誘惑より内の「魔（欲·執着）」を観る。",
+      "action": "今日、外の誘惑より内の「魔（欲·執着）」を観る",
+      "quote": "比丘たちよ、『撒餌』とは……五つの欲望の属性……『猟師』とは……悪魔パーピマント……『獣類たち』とは……沙門や婆羅門たち……。……第四の……ものは、悪魔の神通の威力から完全に完全に解き放たれました。……悪魔の……赴かない所で……棲処を営む。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "外の誘惑より内の欲·執着としての魔を観る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・撒餌の経（MN25）·猟師＝悪魔",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 撒餌経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含178・獵師経（T26）",
+          "t26": "T26-178-mara",
+          "text": "獵師者，當知是惡魔王也。……獵師食者，當知是五欲功德也。",
+          "satLocus": "大正蔵 T1.719a 獵師経",
+          "note": "魔＝五欲の猟師。内の欲·執着として観る実践に対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0718c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

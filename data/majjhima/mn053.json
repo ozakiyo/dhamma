@@ -1,0 +1,424 @@
+{
+  "chapter": 53,
+  "sutta": 53,
+  "title": "中部 第53経（有学経）",
+  "shortTitle": "有学経",
+  "mapNote": "中分五十経篇 · 居士品",
+  "suttas": [
+    "MN 53 有学経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "有学経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第53経（有学経）",
+    "shortTitle": "有学経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "感覚の門での接触に念を置く",
+        "chapterHint": "有学経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN53-P01",
+          "MN53-P02",
+          "MN53-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "有学経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN53-P01",
+          "MN53-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "有学経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN53-P04",
+          "MN53-P08"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "有学経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN53-P04",
+          "MN53-P08"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "有学経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN53-P05",
+          "MN53-P10"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "有学経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN53-P01",
+          "MN53-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "有学経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN53-P02",
+          "MN53-P03"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN53-P01",
+      "category": "prep",
+      "ref": "MN 53",
+      "section": "導",
+      "observe": "有学経——学びの途上にある比丘、七覚支·四念処",
+      "action": "朝、自分が「有学」か「無学」か一度問う",
+      "quote": "有学の比丘——七覚支·四念処に善住む"
+    },
+    {
+      "id": "MN53-P02",
+      "category": "work",
+      "ref": "MN 53",
+      "section": "七覚",
+      "observe": "七覚支——念·擇法·精進·喜·猗·定·捨",
+      "action": "今日、七覚支の一つを意識する",
+      "quote": "念覚支·擇法覚支·精進覚支·喜覚支·猗覚支·定覚支·捨覚支"
+    },
+    {
+      "id": "MN53-P03",
+      "category": "work",
+      "ref": "MN 53",
+      "section": "四念",
+      "observe": "四念処——身·受·心·法",
+      "action": "今日、身·受·心·法の一つに念を置く",
+      "quote": "身念処·受念処·心念処·法念処——四念処なり"
+    },
+    {
+      "id": "MN53-P04",
+      "category": "desire",
+      "ref": "MN 53",
+      "section": "有学",
+      "observe": "有学——煩悩の滅尽に至らず、仍は学ぶ",
+      "action": "まだ学ぶべきことを一つ確認する",
+      "quote": "有学——漏尽に至らず、仍は学ぶ、七覚支を修す"
+    },
+    {
+      "id": "MN53-P05",
+      "category": "suffering",
+      "ref": "MN 53",
+      "section": "五盖",
+      "observe": "五盖——有学を妨げる",
+      "action": "五盖の一つを名づけ、対治する",
+      "quote": "貪欲·瞋恚·睡眠·掉悔·疑——この五盖を除却せよ"
+    },
+    {
+      "id": "MN53-P06",
+      "category": "prep",
+      "ref": "MN 53",
+      "section": "正見",
+      "observe": "正見——有学の根本",
+      "action": "正見は「苦·集·滅·道」にあると確認する",
+      "quote": "正見——有学の根本、漏尽の因なり"
+    },
+    {
+      "id": "MN53-P07",
+      "category": "work",
+      "ref": "MN 53",
+      "section": "精進",
+      "observe": "正精進——不善を除却、善を修習",
+      "action": "今日、不善を一つ除却、善を一つ修習する",
+      "quote": "正精進——已生の不善を除却、未生の善を生ぜしめ"
+    },
+    {
+      "id": "MN53-P08",
+      "category": "people",
+      "ref": "MN 53",
+      "section": "対有学",
+      "observe": "学びの途上にある比丘——漸次に学ぶ",
+      "action": "修行を段階的に進める",
+      "quote": "有学の比丘——漸次に学び、漏尽に至る"
+    },
+    {
+      "id": "MN53-P09",
+      "category": "desire",
+      "ref": "MN 53",
+      "section": "欲",
+      "observe": "欲——有学を妨げる",
+      "action": "快楽への執着を一つ手放す",
+      "quote": "欲——有学を妨げ、漏尽に至らしめず"
+    },
+    {
+      "id": "MN53-P10",
+      "category": "suffering",
+      "ref": "MN 53",
+      "section": "漏",
+      "observe": "有漏——仍は漏あり",
+      "action": "執着を「漏」と名づけ、手放す",
+      "quote": "有学——仍は有漏、漏尽に至らず"
+    },
+    {
+      "id": "MN53-P11",
+      "category": "night",
+      "ref": "MN 53",
+      "section": "結",
+      "observe": "有学経——七覚支·四念処",
+      "action": "就寝前、今日の念·覚支を振り返る",
+      "quote": "有学の比丘——七覚支·四念処に善住む"
+    }
+  ]
+}

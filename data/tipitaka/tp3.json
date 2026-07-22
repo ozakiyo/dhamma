@@ -1,0 +1,124 @@
+{
+  "chapter": 3,
+  "title": "一切経・地図 第3章（長部）",
+  "shortTitle": "長部",
+  "mapNote": "34経——全景・大論議・仏の生涯",
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "TP3-P01",
+      "category": "prep",
+      "ref": "長部",
+      "observe": "長部は全34経——1経が長く、仏教の「全景」を描く",
+      "action": "長部は通読より、名経から入ることを心に決める",
+      "quote": "ディーガ・ニカーヤ——長い説法の集"
+    },
+    {
+      "id": "TP3-P02",
+      "category": "work",
+      "ref": "DN 2",
+      "observe": "沙門果経——修行の段階と、現生で得られる実り",
+      "action": "「長部・入門5経」の沙門果経ペアを一つ実践する",
+      "quote": "段階的に沙門果を説く"
+    },
+    {
+      "id": "TP3-P03",
+      "category": "speech",
+      "ref": "DN 1",
+      "observe": "梵網経——62見解と、論じない十の未証の事",
+      "action": "答えのない議論に、今日は参加しない",
+      "quote": "如来は未証の事柄を論じない"
+    },
+    {
+      "id": "TP3-P04",
+      "category": "people",
+      "ref": "DN 4",
+      "observe": "小経——真の端正は生まれではなく五支の清浄",
+      "action": "人を肩書きより、今日の言動で見る",
+      "quote": "五支の清浄を具足する者"
+    },
+    {
+      "id": "TP3-P05",
+      "category": "people",
+      "ref": "DN 12",
+      "observe": "ローヒッチャ経——相手を責めず、利益のために説く",
+      "action": "正論を言う前に、相手の利益を一つ考える",
+      "quote": "相手を責めず、時宜を得て説く"
+    },
+    {
+      "id": "TP3-P06",
+      "category": "suffering",
+      "ref": "DN 16",
+      "observe": "大般泥洹経——無常・四依・最後の教え",
+      "action": "「あらゆる行は無常」を、今日変わった一つの事物に当てはめる",
+      "quote": "諸行無常。変易して滅する所の法なり"
+    },
+    {
+      "id": "TP3-P07",
+      "category": "prep",
+      "ref": "DN 22",
+      "observe": "長部にも念住の教え（大念処経など）がある",
+      "action": "長部は「背景」、念住の実践は中部・相応部も参照と覚える",
+      "quote": "この身に身の念処を修せ"
+    },
+    {
+      "id": "TP3-P08",
+      "category": "desire",
+      "ref": "長部",
+      "observe": "長部には宇宙論や社会描写も多い——核心は戒・定・慧",
+      "action": "長い記述の中から、今日の行いに通じる一節だけを拾う",
+      "quote": "精髄を知り、非精髄を知れ"
+    },
+    {
+      "id": "TP3-P09",
+      "category": "night",
+      "ref": "長部",
+      "observe": "長部の位置——五部の「入口・全景」",
+      "action": "夜、長部で学んだテーマが他部のどこに続くか一つ想像する",
+      "quote": "地図の第一象限——全景"
+    }
+  ]
+}

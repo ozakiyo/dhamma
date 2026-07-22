@@ -1,0 +1,76 @@
+{
+  "collections": [
+    {
+      "id": "tipitaka",
+      "name": "一切経・地図",
+      "subtitle": "三藏·五部·8章",
+      "indexFile": "tipitaka/index.json",
+      "chapterLabel": "章",
+      "refLabel": "参照",
+      "sortOrder": 0
+    },
+    {
+      "id": "digha",
+      "name": "長部",
+      "subtitle": "34経·長部全体",
+      "indexFile": "digha/index.json",
+      "chapterLabel": "経",
+      "refLabel": "DN",
+      "sortOrder": 1
+    },
+    {
+      "id": "majjhima",
+      "name": "中部",
+      "subtitle": "152経·中部全体",
+      "indexFile": "majjhima/index.json",
+      "chapterLabel": "経",
+      "refLabel": "MN",
+      "sortOrder": 2
+    },
+    {
+      "id": "anguttara",
+      "name": "増支部",
+      "subtitle": "11集·増支部全体",
+      "indexFile": "anguttara/index.json",
+      "chapterLabel": "章",
+      "refLabel": "AN",
+      "sortOrder": 3
+    },
+    {
+      "id": "samyutta",
+      "name": "相応部",
+      "subtitle": "56相応·相応部全体",
+      "indexFile": "samyutta/index.json",
+      "chapterLabel": "相応",
+      "refLabel": "SN",
+      "sortOrder": 4
+    },
+    {
+      "id": "khuddaka",
+      "name": "小部",
+      "subtitle": "15経典·小部全体",
+      "indexFile": "khuddaka/index.json",
+      "chapterLabel": "章",
+      "refLabel": "Dhp/Ud等",
+      "sortOrder": 5
+    },
+    {
+      "id": "suttanipata",
+      "name": "経集",
+      "subtitle": "5品·経集全体",
+      "indexFile": "suttanipata/index.json",
+      "chapterLabel": "品",
+      "refLabel": "Snp",
+      "sortOrder": 6
+    },
+    {
+      "id": "dhammapada",
+      "name": "ダンマパダ",
+      "subtitle": "小部·26章",
+      "indexFile": "index.json",
+      "chapterLabel": "章",
+      "refLabel": "偈",
+      "sortOrder": 7
+    }
+  ]
+}

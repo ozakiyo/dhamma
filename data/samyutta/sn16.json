@@ -1,0 +1,375 @@
+{
+  "chapter": 16,
+  "samyutta": 16,
+  "title": "相応部 第16章（迦葉相応）",
+  "shortTitle": "迦葉",
+  "mapNote": "SN 16——迦葉相応",
+  "suttas": [
+    "SN 16 迦葉相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（因縁篇）",
+    "verify": "南伝大蔵経 第13巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN16-P01",
+      "category": "prep",
+      "ref": "SN 16.1",
+      "section": "導·衣",
+      "observe": "大迦葉、三衣を讃える——知足の衣、知足こそ美しき",
+      "action": "朝、「知足の衣」と意図を置く",
+      "quote": "大迦葉は、三衣を讃えた。知足の衣、知足こそ美しき"
+    },
+    {
+      "id": "SN16-P02",
+      "category": "prep",
+      "ref": "SN 16.2",
+      "section": "食",
+      "observe": "大迦葉、托鉢の食を讃える——知足の食、少なくても足る",
+      "action": "朝、食事に「知足の食」と意図を置く",
+      "quote": "大迦葉は、托鉢の食を讃えた。知足の食、少なくても足る"
+    },
+    {
+      "id": "SN16-P03",
+      "category": "prep",
+      "ref": "SN 16.3",
+      "section": "住",
+      "observe": "大迦葉、樹下·空露地を讃える——知足の住、少なくても足る",
+      "action": "今日、住まい·環境に「知足」と意図を置く",
+      "quote": "大迦葉は、樹下·空露地を讃えた。知足の住、少なくても足る"
+    },
+    {
+      "id": "SN16-P04",
+      "category": "prep",
+      "ref": "SN 16.4",
+      "section": "正見",
+      "observe": "知足は正見の表れ——欲に縛られぬ自由",
+      "action": "今日、「足るを知る」が正見の表れと確認する",
+      "quote": "知足は、正見の表れ。欲に縛られぬ自由なり"
+    },
+    {
+      "id": "SN16-P05",
+      "category": "prep",
+      "ref": "SN 16.5",
+      "section": "破衣",
+      "observe": "迦葉は破れた衣を繕う——新しい物を求めぬ",
+      "action": "「新しいものが欲しい」が来たら「破衣を繕う如く」と観る",
+      "quote": "迦葉は、破れた衣を繕う。新しい物を、求めず"
+    },
+    {
+      "id": "SN16-P06",
+      "category": "suffering",
+      "ref": "SN 16.6",
+      "section": "不足",
+      "observe": "不足感は苦——「もっと」への執着",
+      "action": "「足りない」が来たら「不足感は苦」と名づける",
+      "quote": "不足感は、苦なり。「もっと」への執着、苦の因"
+    },
+    {
+      "id": "SN16-P07",
+      "category": "suffering",
+      "ref": "SN 16.7",
+      "section": "欲",
+      "observe": "多くを求める欲——迦葉が対治した欲",
+      "action": "欲が来たら「多くを求める欲」と観る",
+      "quote": "多くを求める欲、迦葉が対治した欲なり"
+    },
+    {
+      "id": "SN16-P08",
+      "category": "suffering",
+      "ref": "SN 16.8",
+      "section": "憍",
+      "observe": "豊かさへの憍——知足なき者の苦",
+      "action": "豊かさを誇りたくなったら「憍は苦」と観る",
+      "quote": "豊かさへの憍、知足なき者の苦なり"
+    },
+    {
+      "id": "SN16-P09",
+      "category": "suffering",
+      "ref": "SN 16.9",
+      "section": "散乱",
+      "observe": "物への散乱——多くを持つは心を乱す",
+      "action": "物が増えたとき「散乱の因」と観る",
+      "quote": "物への散乱、多くを持つは心を乱す"
+    },
+    {
+      "id": "SN16-P10",
+      "category": "suffering",
+      "ref": "SN 16.10",
+      "section": "縛",
+      "observe": "物質への縛——知足なき者は奴隷",
+      "action": "物への執着が来たら「縛られている」と観る",
+      "quote": "物質への縛、知足なき者は奴隷なり"
+    },
+    {
+      "id": "SN16-P11",
+      "category": "desire",
+      "ref": "SN 16.11",
+      "section": "衣",
+      "observe": "良い衣への欲——迦葉は三衣で足る",
+      "action": "衣への欲が来たら「三衣で足る」と唱える",
+      "quote": "良い衣への欲、迦葉は三衣で足る"
+    },
+    {
+      "id": "SN16-P12",
+      "category": "desire",
+      "ref": "SN 16.12",
+      "section": "食",
+      "observe": "美味への欲——托鉢の食で足る",
+      "action": "食への欲が来たら「托鉢の食で足る」と観る",
+      "quote": "美味への欲、托鉢の食で足る"
+    },
+    {
+      "id": "SN16-P13",
+      "category": "desire",
+      "ref": "SN 16.13",
+      "section": "住",
+      "observe": "快適な住への欲——樹下で足る",
+      "action": "住環境への欲が来たら「樹下で足る」と観る",
+      "quote": "快適な住への欲、樹下で足る"
+    },
+    {
+      "id": "SN16-P14",
+      "category": "desire",
+      "ref": "SN 16.14",
+      "section": "対治",
+      "observe": "欲を対治す——知足を修す",
+      "action": "今日、一つの欲（衣·食·住）を知足で対治する",
+      "quote": "欲を対治せ。知足を、修せ"
+    },
+    {
+      "id": "SN16-P15",
+      "category": "desire",
+      "ref": "SN 16.15",
+      "section": "離欲",
+      "observe": "離欲こそ迦葉の道——少なくても足る",
+      "action": "今日、一つの執着を手放し、知足を確認する",
+      "quote": "離欲こそ、迦葉の道。少なくても、足る"
+    },
+    {
+      "id": "SN16-P16",
+      "category": "speech",
+      "ref": "SN 16.16",
+      "section": "讃知足",
+      "observe": "知足を讃える——迦葉の教え",
+      "action": "今日、知足について、感謝の言葉を一つ口にする",
+      "quote": "知足を讃えよ。迦葉の教えなり"
+    },
+    {
+      "id": "SN16-P17",
+      "category": "speech",
+      "ref": "SN 16.17",
+      "section": "誠実",
+      "observe": "自分の不足を誠実に認める——飾らない",
+      "action": "今日、自分の欲·不足を誠実に一つ認める",
+      "quote": "自分の不足を、誠実に認めよ。飾るな"
+    },
+    {
+      "id": "SN16-P18",
+      "category": "speech",
+      "ref": "SN 16.18",
+      "section": "問法",
+      "observe": "知足について正しい問いを持て",
+      "action": "今日、知足·少欲について、一つ問いを持つ",
+      "quote": "知足について、正しい問いを持て"
+    },
+    {
+      "id": "SN16-P19",
+      "category": "speech",
+      "ref": "SN 16.19",
+      "section": "黙",
+      "observe": "自慢·誇りの言葉を語るな——知足者は謙虚",
+      "action": "今日、自慢·誇りの言葉を一つ避ける",
+      "quote": "自慢·誇りの言葉、語るな。知足者は、謙虚なり"
+    },
+    {
+      "id": "SN16-P20",
+      "category": "speech",
+      "ref": "SN 16.20",
+      "section": "教え",
+      "observe": "知足の教えを語る——他を励ます",
+      "action": "今日、知足の利益を、誰かに一つ伝える",
+      "quote": "知足の教えを語れ。他を、励ませ"
+    },
+    {
+      "id": "SN16-P21",
+      "category": "people",
+      "ref": "SN 16.21",
+      "section": "師",
+      "observe": "迦葉を敬う——知足の模範",
+      "action": "今日、知足の模範（善友·経典）に敬意を表す",
+      "quote": "迦葉を敬え。知足の模範なり"
+    },
+    {
+      "id": "SN16-P22",
+      "category": "people",
+      "ref": "SN 16.22",
+      "section": "善友",
+      "observe": "知足を共に修す——互いに励ます",
+      "action": "今日、知足について、善友と一つ話題を共有する",
+      "quote": "知足を共に修せ。互いに、励ませ"
+    },
+    {
+      "id": "SN16-P23",
+      "category": "people",
+      "ref": "SN 16.23",
+      "section": "対人",
+      "observe": "人の物を羨まない——知足の対人",
+      "action": "羨ましさが来たら「知足」と一度止まる",
+      "quote": "人の物を羨むな。知足、対人の要なり"
+    },
+    {
+      "id": "SN16-P24",
+      "category": "people",
+      "ref": "SN 16.24",
+      "section": "敬法",
+      "observe": "法を敬う者は知足を学ぶ",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬う者、知足を学ぶ"
+    },
+    {
+      "id": "SN16-P25",
+      "category": "people",
+      "ref": "SN 16.25",
+      "section": "森林",
+      "observe": "森林に住む者を敬う——迦葉の如く",
+      "action": "今日、静か·少欲の生活を一つ選ぶ",
+      "quote": "森林に住む者を敬え。迦葉の如く"
+    },
+    {
+      "id": "SN16-P26",
+      "category": "work",
+      "ref": "SN 16.26",
+      "section": "森林",
+      "observe": "森林に住み、少欲を修す——迦葉の行",
+      "action": "今日、15分間、静かな場所で修行する",
+      "quote": "森林に住み、少欲を修せ。迦葉の行なり"
+    },
+    {
+      "id": "SN16-P27",
+      "category": "work",
+      "ref": "SN 16.27",
+      "section": "精進",
+      "observe": "精進すれば、知足は深まる",
+      "action": "怠けたいとき、一つの修行行為を行う",
+      "quote": "精進すれば、知足は深まる"
+    },
+    {
+      "id": "SN16-P28",
+      "category": "work",
+      "ref": "SN 16.28",
+      "section": "正念",
+      "observe": "正念を保てば、欲の注意奪取を防ぐ",
+      "action": "今日、一つの対象に正念を置く",
+      "quote": "正念を保てば、欲の注意奪取を防ぐ"
+    },
+    {
+      "id": "SN16-P29",
+      "category": "work",
+      "ref": "SN 16.29",
+      "section": "解脱",
+      "observe": "解脱こそ迦葉の頂点——物質を超える",
+      "action": "今日の目的を「物質ではなく解脱」と確認する",
+      "quote": "解脱こそ、迦葉の頂点。物質を、超えよ"
+    },
+    {
+      "id": "SN16-P30",
+      "category": "work",
+      "ref": "SN 16.30",
+      "section": "戒",
+      "observe": "戒を守れば、知足は自然に起こる",
+      "action": "今日、戒（正行）を一つ意識的に守る",
+      "quote": "戒を守れば、知足は自然に起こる"
+    },
+    {
+      "id": "SN16-P31",
+      "category": "night",
+      "ref": "SN 16.31",
+      "section": "振り返り",
+      "observe": "今日、知足はできたか",
+      "action": "就寝前、今日「足る」を知れた瞬間を一つ振り返る",
+      "quote": "足るを知れば、安らかなり"
+    },
+    {
+      "id": "SN16-P32",
+      "category": "night",
+      "ref": "SN 16.32",
+      "section": "欲",
+      "observe": "今日、衣·食·住への欲はあったか",
+      "action": "就寝前、欲の瞬間を一つ認め、明日の対策を決める",
+      "quote": "欲を知れば、知足の道が開ける"
+    },
+    {
+      "id": "SN16-P33",
+      "category": "night",
+      "ref": "SN 16.33",
+      "section": "散乱",
+      "observe": "今日、物への散乱はあったか",
+      "action": "就寝前、散乱の瞬間を一つ見る",
+      "quote": "散乱を知れば、知足に近づく"
+    },
+    {
+      "id": "SN16-P34",
+      "category": "night",
+      "ref": "SN 16.34",
+      "section": "精進",
+      "observe": "今日、少欲の精進はできたか",
+      "action": "就寝前、今日の修行を一つ確認する",
+      "quote": "精進すれば、知足は深まる"
+    },
+    {
+      "id": "SN16-P35",
+      "category": "night",
+      "ref": "SN 16.35",
+      "section": "総括",
+      "observe": "迦葉相応の要——知足の衣·食·住、少なくても足る",
+      "action": "就寝前、「知足こそ美しき」と一句唱える",
+      "quote": "知足の衣·食·住、少なくても足る。知足こそ、美しき"
+    }
+  ]
+}

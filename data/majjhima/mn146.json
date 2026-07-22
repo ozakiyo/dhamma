@@ -1,0 +1,424 @@
+{
+  "chapter": 146,
+  "sutta": 146,
+  "title": "中部 第146経（教難陀迦経）",
+  "shortTitle": "教難陀迦経",
+  "mapNote": "後分五十経篇 · 六処品",
+  "suttas": [
+    "MN 146 教難陀迦経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "教難陀迦経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第146経（教難陀迦経）",
+    "shortTitle": "教難陀迦経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "感覚の門での接触に念を置く",
+        "chapterHint": "教難陀迦経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN146-P01",
+          "MN146-P03",
+          "MN146-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "教難陀迦経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN146-P01",
+          "MN146-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "教難陀迦経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN146-P04",
+          "MN146-P06"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "教難陀迦経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN146-P04",
+          "MN146-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "教難陀迦経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN146-P02",
+          "MN146-P08"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "教難陀迦経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN146-P01",
+          "MN146-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "教難陀迦経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN146-P03",
+          "MN146-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN146-P01",
+      "category": "prep",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "難陀迦は尼衆に——無常の教え",
+      "action": "今日、無常を一つ観る",
+      "quote": "難陀迦は、尼衆に無常を説いた"
+    },
+    {
+      "id": "MN146-P02",
+      "category": "suffering",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "六入は無常——眼·耳·鼻·舌·身·意",
+      "action": "今日、六根の一つが無常と見る",
+      "quote": "六入は無常である。眼·耳·鼻·舌·身·意"
+    },
+    {
+      "id": "MN146-P03",
+      "category": "work",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "六触·十八意も無常",
+      "action": "今日、接触と心の対象が無常と見る",
+      "quote": "六触·十八意も無常である"
+    },
+    {
+      "id": "MN146-P04",
+      "category": "desire",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "六入に執着——苦の種",
+      "action": "今日、六根への執着を一つ手放す",
+      "quote": "六入に執着すれば、苦の種となる"
+    },
+    {
+      "id": "MN146-P05",
+      "category": "prep",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "見このように者——無我の観察",
+      "action": "今日、六入を「私ではない」と見る",
+      "quote": "見如是者——六入は、人·我·人我なき"
+    },
+    {
+      "id": "MN146-P06",
+      "category": "people",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "尼衆への教え——平等",
+      "action": "今日、誰にでも無常を説ける",
+      "quote": "難陀迦は、尼衆に平等に教えた"
+    },
+    {
+      "id": "MN146-P07",
+      "category": "speech",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "無常の説法——簡潔",
+      "action": "今日、無常を簡潔に伝える",
+      "quote": "無常を、簡潔に説け"
+    },
+    {
+      "id": "MN146-P08",
+      "category": "suffering",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "六入の滅——苦の滅",
+      "action": "今日、六入の執着が滅すれば苦も滅すると見る",
+      "quote": "六入の執着が滅すれば、苦も滅する"
+    },
+    {
+      "id": "MN146-P09",
+      "category": "work",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "熱心·正知·念——六入に",
+      "action": "今日、六入の一つに熱心·正知·念",
+      "quote": "熱心·正知·念をもって、六入を観よ"
+    },
+    {
+      "id": "MN146-P10",
+      "category": "desire",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "楽受に執着——六入の危険",
+      "action": "今日、快い六入に執着しない",
+      "quote": "楽受に執着すれば、六入が危険となる"
+    },
+    {
+      "id": "MN146-P11",
+      "category": "night",
+      "ref": "MN 146",
+      "section": "教難陀迦",
+      "observe": "一日の六入——無常で振り返る",
+      "action": "就寝前、今日の六入を無常として振り返る",
+      "quote": "六入を、無常として振り返れ"
+    }
+  ]
+}

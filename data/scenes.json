@@ -1,0 +1,14 @@
+{
+  "title": "八正道・場面",
+  "description": "場面は八正道の8支で分ける。選ぶと、その支に対応する部・章が一覧される。",
+  "factors": [
+    { "id": "view", "name": "正見", "short": "正見", "order": 1 },
+    { "id": "intention", "name": "正思惟", "short": "思惟", "order": 2 },
+    { "id": "speech", "name": "正語", "short": "正語", "order": 3 },
+    { "id": "action", "name": "正業", "short": "正業", "order": 4 },
+    { "id": "livelihood", "name": "正命", "short": "正命", "order": 5 },
+    { "id": "effort", "name": "正精進", "short": "精進", "order": 6 },
+    { "id": "mindfulness", "name": "正念", "short": "正念", "order": 7 },
+    { "id": "concentration", "name": "正定", "short": "正定", "order": 8 }
+  ]
+}

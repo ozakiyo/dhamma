@@ -1,0 +1,168 @@
+{
+  "chapter": 30,
+  "sutta": 30,
+  "title": "長部 第30経（相経）",
+  "shortTitle": "相経",
+  "mapNote": "DN 30——相経",
+  "suttas": [
+    "DN 30 相経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（集篇）",
+    "verify": "南伝大蔵経 第8巻下"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN30-P01",
+      "category": "prep",
+      "ref": "DN 30",
+      "section": "導",
+      "observe": "三十二相——大丈夫に具わる相、在家なら転輪王、出家なら覚者",
+      "action": "朝、「相を執るな、因を学べ」と意図を置く",
+      "quote": "三十二相を具える者、在家なら転輪王、出家なら覚者となる"
+    },
+    {
+      "id": "DN30-P02",
+      "category": "prep",
+      "ref": "DN 30",
+      "section": "相",
+      "observe": "相は果——宿因·善行の結果として現れる",
+      "action": "今日、美しい結果を見たとき「其の因は何か」と一度問う",
+      "quote": "三十二相は、宿因·善行の果として現れる"
+    },
+    {
+      "id": "DN30-P03",
+      "category": "work",
+      "ref": "DN 30",
+      "section": "因",
+      "observe": "一相一因——長寿相は殺すことを離れた因、広長舌相是慈善語の因",
+      "action": "今日、一つの善行（不殺·正語·布施等）を、未来の「相」の因として行う",
+      "quote": "長寿相は、殺生を離れた因から生じる"
+    },
+    {
+      "id": "DN30-P04",
+      "category": "work",
+      "ref": "DN 30",
+      "section": "正語",
+      "observe": "広長舌相——真実·柔軟·利益·和解の語",
+      "action": "今日、真実で利益ある言葉を一つ口にする",
+      "quote": "広長舌相は、真実·柔軟·利益·和解の語の因から生じる"
+    },
+    {
+      "id": "DN30-P05",
+      "category": "desire",
+      "ref": "DN 30",
+      "section": "相執",
+      "observe": "相に執着する——相を見て慢心·比較",
+      "action": "外見·地位を見たとき「相は無常」と一度観る",
+      "quote": "相に執着するな。相も無常なり"
+    },
+    {
+      "id": "DN30-P06",
+      "category": "desire",
+      "ref": "DN 30",
+      "section": "慢",
+      "observe": "「私は相が良い」——相への慢心",
+      "action": "優れた外見·才能を誇りたくなったら「相の慢」と観る",
+      "quote": "相を誇る慢、これ苦の因なり"
+    },
+    {
+      "id": "DN30-P07",
+      "category": "suffering",
+      "ref": "DN 30",
+      "section": "無相",
+      "observe": "相がない者への軽蔑——相ををもって人を判断する苦",
+      "action": "外見で人を判断しそうになったら、一度止まる",
+      "quote": "相を以て人を判断する者、苦しむ"
+    },
+    {
+      "id": "DN30-P08",
+      "category": "speech",
+      "ref": "DN 30",
+      "section": "真実",
+      "observe": "真実語——三十二相の因",
+      "action": "今日、一度も虚偽を言わないと決める（小さな約束から）",
+      "quote": "真実語を説く者、広長舌相の因を作る"
+    },
+    {
+      "id": "DN30-P09",
+      "category": "people",
+      "ref": "DN 30",
+      "section": "不杀",
+      "observe": "不杀——長寿相の因、他者への慈",
+      "action": "今日、故意に他者（人·虫等）を害さない",
+      "quote": "殺生を離れた者、長寿相の因を作る"
+    },
+    {
+      "id": "DN30-P10",
+      "category": "people",
+      "ref": "DN 30",
+      "section": "布施",
+      "observe": "布施——相好の因",
+      "action": "今日、布施（物·時間·労力）を一つ行う",
+      "quote": "布施を行う者、相好の因を作る"
+    },
+    {
+      "id": "DN30-P11",
+      "category": "night",
+      "ref": "DN 30",
+      "section": "因",
+      "observe": "今日、どんな「因」を作ったか——不杀·正語·布施",
+      "action": "就寝前、今日の善行を一つ振り返り、因として喜ぶ",
+      "quote": "因を作れ。相は、因の果なり"
+    },
+    {
+      "id": "DN30-P12",
+      "category": "night",
+      "ref": "DN 30",
+      "section": "総括",
+      "observe": "三十二相の要——相を執らず、因を学び、善行を積む",
+      "action": "就寝前、「今日の因」を静かに確認する",
+      "quote": "相を執るな。因を学び、善行を積め"
+    }
+  ]
+}

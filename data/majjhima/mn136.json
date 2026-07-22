@@ -1,0 +1,422 @@
+{
+  "chapter": 136,
+  "sutta": 136,
+  "title": "中部 第136経（大業分別経）",
+  "shortTitle": "大業分別経",
+  "mapNote": "後分五十経篇 · 分別品",
+  "suttas": [
+    "MN 136 大業分別経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "大業分別経のペア分布から割り当て",
+    "chapterTitle": "中部 第136経（大業分別経）",
+    "shortTitle": "大業分別経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "大業分別経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN136-P01",
+          "MN136-P03",
+          "MN136-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "大業分別経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN136-P01",
+          "MN136-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "大業分別経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN136-P04",
+          "MN136-P06"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "大業分別経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN136-P04",
+          "MN136-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "大業分別経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN136-P02",
+          "MN136-P08"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "大業分別経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN136-P01",
+          "MN136-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "大業分別経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN136-P03",
+          "MN136-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN136-P01",
+      "category": "prep",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "四種の業——黑·白·黑白·非黑非白",
+      "action": "今日、自分の行いが四種のどれか問う",
+      "quote": "四種の業がある——黑業·白業·黑白業·非黑非白業"
+    },
+    {
+      "id": "MN136-P02",
+      "category": "suffering",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "慧·悲·捨の三解脱門——非黑非白業",
+      "action": "今日、執着を一つ手放す",
+      "quote": "非黑非白業は、慧·悲·捨の三解脱門である"
+    },
+    {
+      "id": "MN136-P03",
+      "category": "work",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "業を滅する業——非黑非白",
+      "action": "今日、古い不善業の習慣を一つ断つ",
+      "quote": "非黑非白業は、他の業を滅する"
+    },
+    {
+      "id": "MN136-P04",
+      "category": "people",
+      "ref": "MN 136",
+      "section": "識遷",
+      "observe": "薩諦の誤解——識は遷流しない",
+      "action": "今日、「私の識が移る」と決めつけない",
+      "quote": "薩諦は誤った——識は遷流しない。縁起により生じる"
+    },
+    {
+      "id": "MN136-P05",
+      "category": "prep",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "黑業は黑報——不善の結果",
+      "action": "今日、不善業を一つ止める",
+      "quote": "黑業は黑報を生む。不善の結果である"
+    },
+    {
+      "id": "MN136-P06",
+      "category": "desire",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "白業は白報——善だが執着あれば輪廻",
+      "action": "今日、善業に執着しない",
+      "quote": "白業は白報を生む。執着あれば輪廻に属する"
+    },
+    {
+      "id": "MN136-P07",
+      "category": "speech",
+      "ref": "MN 136",
+      "section": "識遷",
+      "observe": "誤った教えは害をなす——正しい業説",
+      "action": "今日、確信のない教えを語らない",
+      "quote": "誤った教えは、聞く者を害する。正しい業説を守れ"
+    },
+    {
+      "id": "MN136-P08",
+      "category": "suffering",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "黑白業は苦——善不善混在",
+      "action": "今日、善と不善が混在する行いを避ける",
+      "quote": "黑白業は、苦を生む。善不善が混在する"
+    },
+    {
+      "id": "MN136-P09",
+      "category": "work",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "非黑非白は解脱——四種の頂",
+      "action": "今日、解脱への一歩を意識する",
+      "quote": "非黑非白業は、解脱である。四種の頂"
+    },
+    {
+      "id": "MN136-P10",
+      "category": "people",
+      "ref": "MN 136",
+      "section": "導",
+      "observe": "世尊は薩諦を正す——誤解は正される",
+      "action": "今日、誤解に気づいたら素直に改める",
+      "quote": "世尊は、薩諦の誤解を正し、正しい業説を説いた"
+    },
+    {
+      "id": "MN136-P11",
+      "category": "night",
+      "ref": "MN 136",
+      "section": "業分別",
+      "observe": "一日の業——四種のどれか",
+      "action": "就寝前、今日の行いを四種の業で分類する",
+      "quote": "今日の業は、四種のどれか。未来を作る"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "chapter": 81,
+  "sutta": 81,
+  "title": "中部 第81経（陶師経）",
+  "shortTitle": "陶師経",
+  "mapNote": "中分五十経篇 · 王品",
+  "suttas": [
+    "MN 81 陶師経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "release",
+    "focusReason": "陶師経のペア分布から割り当て",
+    "chapterTitle": "中部 第81経（陶師経）",
+    "shortTitle": "陶師経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "陶師経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN81-P01",
+          "MN81-P04"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "陶師経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN81-P04",
+          "MN81-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "陶師経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN81-P02",
+          "MN81-P03"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "陶師経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN81-P02",
+          "MN81-P03"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "陶師経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN81-P07",
+          "MN81-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "陶師経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN81-P01",
+          "MN81-P04",
+          "MN81-P05"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "陶師経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN81-P01",
+          "MN81-P05"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN81-P01",
+      "category": "work",
+      "ref": "MN 81",
+      "section": "導",
+      "observe": "頼吒惒羅は、迦葉仏の在家弟子として僧団への供養を欠かさなかった",
+      "action": "今日、誰かの修行を支える小さな行いを一つ決める",
+      "quote": "頼吒惒羅は、病比丘の普那を看護し、自らの陶業をもって彼を養った"
+    },
+    {
+      "id": "MN81-P02",
+      "category": "people",
+      "ref": "MN 81",
+      "section": "看護",
+      "observe": "病の比丘を、王の位より優先して看護した",
+      "action": "弱っている人に、今日一つ具体的な手助けをする",
+      "quote": "友よ、汝は王となるな。我は病比丘を看護し続けよう"
+    },
+    {
+      "id": "MN81-P03",
+      "category": "desire",
+      "ref": "MN 81",
+      "section": "王の誘い",
+      "observe": "王の位を断り、欲の少ない信を選んだ",
+      "action": "地位や報酬の誘いに、一呼吸置いて答える",
+      "quote": "我は王とならず。比丘の看護を続ける"
+    },
+    {
+      "id": "MN81-P04",
+      "category": "prep",
+      "ref": "MN 81",
+      "section": "過去の縁",
+      "observe": "世尊は前世、頼吒惒羅の友として法を聞いた",
+      "action": "長い縁のある人への感謝を、心の中で一度述べる",
+      "quote": "その時の我は、頼吒惒羅の友・幼きジョーティパーラであった"
+    },
+    {
+      "id": "MN81-P05",
+      "category": "work",
+      "ref": "MN 81",
+      "section": "供養",
+      "observe": "四資具の供養を、懈怠なく続けた在家の模範",
+      "action": "自分の仕事の中から、誰かの安穏に資するものを一つ見出す",
+      "quote": "頼吒惒羅は、四資具を比丘に供養し、それを欠かさなかった"
+    },
+    {
+      "id": "MN81-P06",
+      "category": "speech",
+      "ref": "MN 81",
+      "section": "勧め",
+      "observe": "幼き友を、三帰依の場へ導こうとした",
+      "action": "今日、誰かに法の縁を一つ、無理なく示す",
+      "quote": "来たれ、友よ。我ら、沙門の前に行き、法を聞こう"
+    },
+    {
+      "id": "MN81-P07",
+      "category": "suffering",
+      "ref": "MN 81",
+      "section": "病",
+      "observe": "病は誰にも来る——頼吒惒羅はそれを看護の機会とした",
+      "action": "自分か他者の病を、避けず向き合う時間を取る",
+      "quote": "病比丘普那を、頼吒惒羅は棄てず看護した"
+    },
+    {
+      "id": "MN81-P08",
+      "category": "people",
+      "ref": "MN 81",
+      "section": "母の信",
+      "observe": "母もまた、頼吒惒羅に倣い供養を続けた",
+      "action": "家族や身近な人の善い行いを、一つ認める",
+      "quote": "母もまた、頼吒惒羅の志に倣い、四資具を供養した"
+    },
+    {
+      "id": "MN81-P09",
+      "category": "prep",
+      "ref": "MN 81",
+      "section": "結",
+      "observe": "世尊は頼吒惒羅を、在家弟子の最上として称えた",
+      "action": "在家のまま信を保つ者の功徳を、今日一度思い出す",
+      "quote": "頼吒惒羅は、在家の信者の中で最上の者である"
+    },
+    {
+      "id": "MN81-P10",
+      "category": "work",
+      "ref": "MN 81",
+      "section": "陶業",
+      "observe": "俗業を続けながら、心は法に向けていた",
+      "action": "手の仕事の合間に、心を一度整える",
+      "quote": "頼吒惒羅は陶師として働きながら、法を護持した"
+    },
+    {
+      "id": "MN81-P11",
+      "category": "night",
+      "ref": "MN 81",
+      "section": "結",
+      "observe": "供養と看護——頼吒惒羅の一日は他者の安穏に結ばれた",
+      "action": "就寝前、今日誰かの安穏に資した行いを一つ振り返る",
+      "quote": "頼吒惒羅は、四資具を比丘に供養し、それを欠かさなかった"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "chapter": 86,
+  "sutta": 86,
+  "title": "中部 第86経（鴦掘摩経）",
+  "shortTitle": "鴦掘摩経",
+  "mapNote": "中分五十経篇 · 王品",
+  "suttas": [
+    "MN 86 鴦掘摩経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "鴦掘摩経のペア分布から割り当て",
+    "chapterTitle": "中部 第86経（鴦掘摩経）",
+    "shortTitle": "鴦掘摩経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "鴦掘摩経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN86-P02",
+          "MN86-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "鴦掘摩経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN86-P04",
+          "MN86-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "鴦掘摩経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN86-P01",
+          "MN86-P06"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "鴦掘摩経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN86-P01",
+          "MN86-P04",
+          "MN86-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "鴦掘摩経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN86-P03",
+          "MN86-P10"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "鴦掘摩経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN86-P02",
+          "MN86-P05"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "鴦掘摩経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN86-P02",
+          "MN86-P08"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN86-P01",
+      "category": "people",
+      "ref": "MN 86",
+      "section": "導",
+      "observe": "指鬘は千人を殺した者——仏は彼を導いた",
+      "action": "今日、見捨てたい人にも、一瞬慈心を向ける",
+      "quote": "指鬘よ、止まれ。如来は止まれと説く"
+    },
+    {
+      "id": "MN86-P02",
+      "category": "work",
+      "ref": "MN 86",
+      "section": "改心",
+      "observe": "指鬘は、仏の言葉を聞いて、武器を捨てた",
+      "action": "怒りや攻撃の衝動が来たら、一歩立ち止まる",
+      "quote": "指鬘は、武器を捨て、仏の前に帰依した"
+    },
+    {
+      "id": "MN86-P03",
+      "category": "suffering",
+      "ref": "MN 86",
+      "section": "暴力",
+      "observe": "暴力の報は、暴力として返って来る",
+      "action": "今日、暴力の連鎖を断つ選択を一つする",
+      "quote": "殺生者は、短命の報を受ける"
+    },
+    {
+      "id": "MN86-P04",
+      "category": "speech",
+      "ref": "MN 86",
+      "section": "恶语",
+      "observe": "恶语は、自他を苦しめる",
+      "action": "恶语を吐く前に、一呼吸置く",
+      "quote": "恶语を吐く者は、恶语を聞く報を受ける"
+    },
+    {
+      "id": "MN86-P05",
+      "category": "prep",
+      "ref": "MN 86",
+      "section": "改心",
+      "observe": "指鬘は、改心して阿羅漢となった",
+      "action": "過去の過ちを、改心の始まりとして受け入れる",
+      "quote": "指鬘は、改心して、漏尽の解脱を得た"
+    },
+    {
+      "id": "MN86-P06",
+      "category": "people",
+      "ref": "MN 86",
+      "section": "母",
+      "observe": "指鬘は、母を殺そうとした——最も近い者への暴力",
+      "action": "最も近い人への怒りを、今日一つ手放す",
+      "quote": "指鬘は、母を殺そうとしたが、仏に止められた"
+    },
+    {
+      "id": "MN86-P07",
+      "category": "desire",
+      "ref": "MN 86",
+      "section": "瞋",
+      "observe": "瞋は、暴力の燃料である",
+      "action": "瞋が起きたら、それを名付けて観察する",
+      "quote": "瞋恚は、不善心所である"
+    },
+    {
+      "id": "MN86-P08",
+      "category": "work",
+      "ref": "MN 86",
+      "section": "精進",
+      "observe": "指鬘は、改心後、厳しい修行を続けた",
+      "action": "今日、過去の過ちを覆す一歩を踏む",
+      "quote": "指鬘は、改心後、精進して修行した"
+    },
+    {
+      "id": "MN86-P09",
+      "category": "speech",
+      "ref": "MN 86",
+      "section": "正语",
+      "observe": "正语を修すれば、恶语の報を免れる",
+      "action": "今日、正语を一つ選んで話す",
+      "quote": "正语を修する者は、柔軟な言葉の報を受ける"
+    },
+    {
+      "id": "MN86-P10",
+      "category": "suffering",
+      "ref": "MN 86",
+      "section": "业",
+      "observe": "過去の业は来る——改心は未来の业を変える",
+      "action": "今日の行いが、未来の報になると思い出す",
+      "quote": "我、この业をなした——其の報を受く"
+    },
+    {
+      "id": "MN86-P11",
+      "category": "night",
+      "ref": "MN 86",
+      "section": "结",
+      "observe": "指鬘の改心——誰もが変わりうる",
+      "action": "就寝前、今日一つ改心した点を振り返る",
+      "quote": "指鬘は、改心して、漏尽の解脱を得た"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "chapter": 46,
+  "sutta": 46,
+  "title": "中部 第46経（得法大経）",
+  "shortTitle": "得法大経",
+  "mapNote": "根本五十経篇 · 双小品",
+  "suttas": [
+    "MN 46 得法大経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 根本五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "得法大経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第46経（得法大経）",
+    "shortTitle": "得法大経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "得法大経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN46-P01",
+          "MN46-P04"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "得法大経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN46-P01",
+          "MN46-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "得法大経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN46-P03",
+          "MN46-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "教えや見解を誤って掴まない",
+        "chapterHint": "得法大経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN46-P03",
+          "MN46-P05",
+          "MN46-P08"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "得法大経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN46-P02",
+          "MN46-P07"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "得法大経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN46-P01",
+          "MN46-P04"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "得法大経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN46-P04",
+          "MN46-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN46-P01",
+      "category": "prep",
+      "ref": "MN 46",
+      "section": "導",
+      "observe": "得法大経——得法小経の詳説、裸形行者の誤見",
+      "action": "朝、因果の見方が縁起に沿っているか問う",
+      "quote": "裸形行者よ、汝等の見は正しくない——詳説す"
+    },
+    {
+      "id": "MN46-P02",
+      "category": "suffering",
+      "ref": "MN 46",
+      "section": "過去五因",
+      "observe": "過去の苦——自作·他作·共作·勝天·無因の五見",
+      "action": "苦の因を五見のどれか問い、正見に戻す",
+      "quote": "過去の苦は自作·他作·共作·勝天·無因——この五見、皆正しくない"
+    },
+    {
+      "id": "MN46-P03",
+      "category": "desire",
+      "ref": "MN 46",
+      "section": "未来五果",
+      "observe": "未来の苦——同じ五見の誤り",
+      "action": "未来への見方が誤っていないか問う",
+      "quote": "未来の苦は自作·他作·共作·勝天·無因——この五見、皆正しくない"
+    },
+    {
+      "id": "MN46-P04",
+      "category": "work",
+      "ref": "MN 46",
+      "section": "縁起",
+      "observe": "縁起——自作の業、他作·共作·勝天·無因にではない",
+      "action": "今日の行いが未来の因になると確認する",
+      "quote": "衆生の苦楽は自作の業——縁起を知れ、他作·無因に非ず"
+    },
+    {
+      "id": "MN46-P05",
+      "category": "people",
+      "ref": "MN 46",
+      "section": "対裸形",
+      "observe": "裸形行者への詳説——正しく論駁",
+      "action": "誤見を正すとき、詳しく正しく示す",
+      "quote": "汝等の見は正しくない——我、詳説して正しく示す"
+    },
+    {
+      "id": "MN46-P06",
+      "category": "prep",
+      "ref": "MN 46",
+      "section": "四諦",
+      "observe": "四諦——苦·集·滅·道のあるがままに知",
+      "action": "四諦の一つを意識する",
+      "quote": "これが苦·これが苦の集·これが苦の滅·これが苦の滅道——如実知るべし"
+    },
+    {
+      "id": "MN46-P07",
+      "category": "suffering",
+      "ref": "MN 46",
+      "section": "業",
+      "observe": "身語意の業——苦楽の因",
+      "action": "今日の身語意が未来の因になると確認する",
+      "quote": "身語意の業——これ、苦楽の因なり"
+    },
+    {
+      "id": "MN46-P08",
+      "category": "desire",
+      "ref": "MN 46",
+      "section": "邪見",
+      "observe": "無因見·勝天見——苦の因を誤る",
+      "action": "「運命·神·偶然」に委ねていないか問う",
+      "quote": "無因にして苦あり——これ、邪見なり、正しくない"
+    },
+    {
+      "id": "MN46-P09",
+      "category": "work",
+      "ref": "MN 46",
+      "section": "八正道",
+      "observe": "八正道——正見に基づく道",
+      "action": "八正道の一つを意識する",
+      "quote": "正見·正思惟·正語·正業·正命·正精進·正念·正定——八支聖道なり"
+    },
+    {
+      "id": "MN46-P10",
+      "category": "speech",
+      "ref": "MN 46",
+      "section": "論駁",
+      "observe": "誤見を正す——正語で詳説",
+      "action": "議論するとき、詳しく正しく示す",
+      "quote": "汝等の見は正しくない——正語にて、詳説して正しく示す"
+    },
+    {
+      "id": "MN46-P11",
+      "category": "people",
+      "ref": "MN 46",
+      "section": "結",
+      "observe": "裸形行者——正見に導かれる",
+      "action": "学びを行いに結び、正見を確認する",
+      "quote": "正見——縁起·四諦を知る、これ、正見なり"
+    },
+    {
+      "id": "MN46-P12",
+      "category": "night",
+      "ref": "MN 46",
+      "section": "結",
+      "observe": "得法大経——誤見を離れ縁起を知る",
+      "action": "就寝前、今日の見方を「縁起·四諦」として振り返る",
+      "quote": "衆生の苦楽は自作の業——縁起を知れ"
+    }
+  ]
+}

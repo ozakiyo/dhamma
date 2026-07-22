@@ -1,0 +1,422 @@
+{
+  "chapter": 85,
+  "sutta": 85,
+  "title": "中部 第85経（菩提王子経）",
+  "shortTitle": "菩提王子経",
+  "mapNote": "中分五十経篇 · 王品",
+  "suttas": [
+    "MN 85 菩提王子経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "craving",
+    "focusReason": "菩提王子経のペア分布から割り当て",
+    "chapterTitle": "中部 第85経（菩提王子経）",
+    "shortTitle": "菩提王子経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "菩提王子経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN85-P03",
+          "MN85-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "菩提王子経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN85-P03",
+          "MN85-P07"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "菩提王子経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN85-P01",
+          "MN85-P04",
+          "MN85-P06"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "菩提王子経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN85-P01",
+          "MN85-P04"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "菩提王子経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN85-P02",
+          "MN85-P08"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "菩提王子経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN85-P03",
+          "MN85-P05"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "菩提王子経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN85-P05",
+          "MN85-P10"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN85-P01",
+      "category": "desire",
+      "ref": "MN 85",
+      "section": "拒絶",
+      "observe": "摩揵陀は、美しい后を断り、身体の不浄を説いた",
+      "action": "外見への執着が来たら、身体の一部位を観察する",
+      "quote": "この身体は、疱·瘡·血·膿·汗·涙で満ちている"
+    },
+    {
+      "id": "MN85-P02",
+      "category": "suffering",
+      "ref": "MN 85",
+      "section": "六触",
+      "observe": "六触処から生じる触は、皆苦に属する",
+      "action": "快い触が来ても、それが変わることを知る",
+      "quote": "眼触色·耳触声·鼻触香·舌触味·身触触·意触法——これらは皆苦に属する"
+    },
+    {
+      "id": "MN85-P03",
+      "category": "prep",
+      "ref": "MN 85",
+      "section": "不浄",
+      "observe": "身体の三十二分を観て、貪を除く",
+      "action": "今日、髪·爪·歯·皮膚の一つを、あるがままにに観る",
+      "quote": "比丘は、この身体を、上から下·下から上、皮膜を包む肉に、如実に観る"
+    },
+    {
+      "id": "MN85-P04",
+      "category": "desire",
+      "ref": "MN 85",
+      "section": "六種の触",
+      "observe": "眼·耳·鼻·舌·身·意の触——皆執着の門",
+      "action": "感覚入力に、一呼吸の間を置く",
+      "quote": "この六触処は、皆触の生·触の縁である"
+    },
+    {
+      "id": "MN85-P05",
+      "category": "work",
+      "ref": "MN 85",
+      "section": "除貪",
+      "observe": "身体を観ることで、貪を除く道がある",
+      "action": "合間に、身体の一部位に念を置く",
+      "quote": "この身体を観ることで、貪を除く"
+    },
+    {
+      "id": "MN85-P06",
+      "category": "people",
+      "ref": "MN 85",
+      "section": "摩揵陀",
+      "observe": "摩揵陀は、后の誘惑を、法の教えで超えた",
+      "action": "誘惑の場面で、法の一節を思い出す",
+      "quote": "摩揵陀は、后の誘惑を断り、不浄の教えを説いた"
+    },
+    {
+      "id": "MN85-P07",
+      "category": "speech",
+      "ref": "MN 85",
+      "section": "教誡",
+      "observe": "世尊は、六触の苦をあるがままにに説いた",
+      "action": "快楽の話題で、苦の側面も一つ思い出す",
+      "quote": "この六触処は、皆苦に属する——如実に知るべきである"
+    },
+    {
+      "id": "MN85-P08",
+      "category": "suffering",
+      "ref": "MN 85",
+      "section": "縁起",
+      "observe": "触から受·愛·取·有が生じる",
+      "action": "快い触に、執着が生じる連鎖を一つ見る",
+      "quote": "触缘受、受缘爱、爱缘取、取缘有"
+    },
+    {
+      "id": "MN85-P09",
+      "category": "prep",
+      "ref": "MN 85",
+      "section": "解脱",
+      "observe": "触の集を知れば、触の滅を知る",
+      "action": "執着の起点を一つ特定し、そこで止める",
+      "quote": "触の集を知れば、触の滅を知る"
+    },
+    {
+      "id": "MN85-P10",
+      "category": "work",
+      "ref": "MN 85",
+      "section": "念",
+      "observe": "身体の不浄観は、正念の実践である",
+      "action": "今日、身体の一部位を、十呼吸観察する",
+      "quote": "この身体を、如実に観る——これが身念の道である"
+    },
+    {
+      "id": "MN85-P11",
+      "category": "night",
+      "ref": "MN 85",
+      "section": "結",
+      "observe": "身体は疱·瘡·血で満ちる——夜もそれは変わらない",
+      "action": "就寝前、身体の不浄を一つ観て、貪を手放す",
+      "quote": "この身体は、疱·瘡·血·膿で満ちている"
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+  "chapter": 7,
+  "shortTitle": "阿羅漢品（阿羅漢の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第7章（阿羅漢品／阿羅漢の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210羅漢品）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・阿羅漢の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第７章・阿羅漢品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・羅漢品（T4.565a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+    "shortTitle": "阿羅漢品（阿羅漢の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "どこに触れても、その場を清らかに住む",
+        "chapterHint": "阿羅漢品（阿羅漢の章）",
+        "fromPrev": "前夜の見方が、今朝の接触の土台になる",
+        "toNext": "阿羅漢の住む処は、どこでも楽しとなる",
+        "todayObserve": "村落に於ても、また森林に於ても、低地に於ても、また丘陵に於ても、阿羅漢の住する処、その地は楽し。",
+        "todayAction": "今日の環境がどうであれ、その場でできることを一つする",
+        "when": [
+          "場所が変わった",
+          "環境が整わない"
+        ],
+        "sources": [
+          "DP7-P11",
+          "DP7-P12"
+        ],
+        "leadQuote": "もしくは、村であろうが、林であろうが、もしくは、低地であろうが、高地であろうが、…",
+        "secondaryObserve": "場ではなく、住む心が地を楽しにする"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "不快を大地の如く受け、諸根を調御する",
+        "chapterHint": "阿羅漢品（阿羅漢の章）",
+        "fromPrev": "接触のあと、快・不快の受が立ち上がる",
+        "toNext": "受け流せれば欲しがりに落ちにくい",
+        "todayObserve": "敬虔なる聖者は、忍辱（にんにく）なること大地の如く、また門閾に似たり。 〔浄きこと〕泥土なき池〔水〕の如し。 この如き人には輪廻あることなし。",
+        "todayAction": "今日、何か不快なことが来ても、大地のように受け止めてみる",
+        "when": [
+          "不快が来た",
+          "慢心が立ち上がった"
+        ],
+        "sources": [
+          "DP7-P06",
+          "DP7-P07",
+          "DP7-P08"
+        ],
+        "leadQuote": "地に等しく、〔何ものにも〕遮られない者──インダの杭（城門に立てられた標柱）の如…",
+        "secondaryObserve": "諸根を調御し慢を断った者を、天も羨む"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "家・食・欲への欲しがりを離す",
+        "chapterHint": "阿羅漢品（阿羅漢の章）",
+        "fromPrev": "受が強まると、居場所と快楽への欲しがりへ落ちる",
+        "toNext": "止めないと蓄積と執着の掴みへ進む",
+        "todayObserve": "正念ある人は出家し、彼らは在家を喜ばず。 池を捨て去る鵞鳥の如く、彼らはいずれの家をも捨つ。",
+        "todayAction": "今日、「ここに居続けなければ」という執着を一つ軽くする",
+        "when": [
+          "居続けたい",
+          "もっと欲しい"
+        ],
+        "sources": [
+          "DP7-P03",
+          "DP7-P05",
+          "DP7-P13",
+          "DP7-P14"
+        ],
+        "leadQuote": "気づき（念）ある者たちは、〔家を〕出る。彼らは、家において喜ばない。湖を捨棄して…",
+        "secondaryObserve": "離欲の人は欲を求めず、空閑を楽しむ"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正命"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "livelihood"
+        ],
+        "pathLabel": "蓄積と依存の掴みを手放す",
+        "chapterHint": "阿羅漢品（阿羅漢の章）",
+        "fromPrev": "欲しがりが、地位・承認・蓄積に乗る手前",
+        "toNext": "掴むと跡が残り、鳥の道のようには離れられない",
+        "todayObserve": "蓄積することなく、正念食をなし、空にして無相の解脱を境とする人の道は、虚空に於ける鳥の〔道〕の如く、追随し難し。",
+        "todayAction": "今日、地位・承認・蓄積への執着を一つ手放して仕事する",
+        "when": [
+          "貯め込みたくなった",
+          "承認に掴まった"
+        ],
+        "sources": [
+          "DP7-P04"
+        ],
+        "leadQuote": "彼らに、蓄積が存在せず、彼らが、食のことを遍知しているなら──彼らの、解脱の境涯…",
+        "secondaryObserve": "空にして無相の道は、追随し難い"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "繋縛が苦悶を生むと見る",
+        "chapterHint": "阿羅漢品（阿羅漢の章）",
+        "fromPrev": "掴んだ結果として、心が重く苦悶する",
+        "toNext": "見れば、断ち離す道が開く",
+        "todayObserve": "〔有為の〕路を終えて憂患を離れ、一切に於て解脱し、一切の繋縛（けばく）を断ちたる人には苦悩なし。",
+        "todayAction": "今日、自分を縛っている「こうでなければ」という思いを一つ手放す",
+        "when": [
+          "こうでなければと苦しむ",
+          "束縛を感じる"
+        ],
+        "sources": [
+          "DP7-P01",
+          "DP7-P02"
+        ],
+        "leadQuote": "旅を終え憂いを離れる者に、一切所に解脱した者に、一切の拘束（繋）を捨棄した者に、…",
+        "secondaryObserve": "繋縛を断ちた者には苦悩がない"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "繋縛・妄信・願望を断ちて離す",
+        "chapterHint": "阿羅漢品（阿羅漢の章）",
+        "fromPrev": "執着と慢心が流れを加速させる",
+        "toNext": "意・語・業が寂静になれば、安穏に近づく",
+        "todayObserve": "妄信なく、無為（涅槃）を悟り、〔輪廻の〕繋縛（けばく）を断ち、〔善悪の〕契機を退け、欲望を捨てたる人こそ実に最上の人士なれ。",
+        "todayAction": "今日、信じ込みや思い込みを一つ疑ってみる",
+        "when": [
+          "信じ込みが強い",
+          "望みにしがみついた"
+        ],
+        "sources": [
+          "DP7-P01",
+          "DP7-P02",
+          "DP7-P09",
+          "DP7-P10"
+        ],
+        "leadQuote": "〔特定のものについて〕信なく、かつまた、作られざるもの（涅槃）について知あり、そ…",
+        "secondaryObserve": "正智の解脱者は、意・語・業が寂静である"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "欲を求めず静けさを味わったかを振り返る",
+        "chapterHint": "阿羅漢品（阿羅漢の章）",
+        "fromPrev": "一日の語り・行いは朝からの心の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "森林は楽しむべし。 衆人の楽しまざる処に於て、離欲の人は楽しまん。 彼らは欲楽を求めざればなり。",
+        "todayAction": "夜、スマホを置いて、ただ静かに座る時間を少し作る",
+        "when": [
+          "一日を閉じるとき",
+          "賑やかさに疲れた日"
+        ],
+        "sources": [
+          "DP7-P13",
+          "DP7-P14"
+        ],
+        "leadQuote": "すなわち、〔世俗の〕人が喜ばないところである、〔人里離れた〕諸々の林は、〔阿羅漢…",
+        "secondaryObserve": "スマホを置き、ただ静かに座る"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "阿羅漢品は繋縛の断尽・離欲・寂静が中心。既定の焦点は離す。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP7-P01",
+      "category": "view",
+      "verse": 90,
+      "observe": "〔有為の〕路を終えて憂患を離れ、一切に於て解脱し、一切の繋縛（けばく）を断ちたる人には苦悩なし。",
+      "action": "今日の取り組みを、執着なく淡々と続ける",
+      "quote": "旅を終え憂いを離れる者に、一切所に解脱した者に、一切の拘束（繋）を捨棄した者に、苦悶は見出されない。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "繋縛を断ちた者には苦悩がない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第90偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第90偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-001",
+          "text": "去離憂患，脫於一切，縛結已解，冷而無煖。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P02",
+      "category": "view",
+      "verse": 90,
+      "observe": "〔有為の〕路を終えて憂患を離れ、一切に於て解脱し、一切の繋縛（けばく）を断ちたる人には苦悩なし。",
+      "action": "今日、自分を縛っている「こうでなければ」という思いを一つ手放す",
+      "quote": "旅を終え憂いを離れる者に、一切所に解脱した者に、一切の拘束（繋）を捨棄した者に、苦悶は見出されない。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "繋縛を断ちた者には苦悩がない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第90偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第90偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-001",
+          "text": "去離憂患，脫於一切，縛結已解，冷而無煖。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P03",
+      "category": "mindfulness",
+      "verse": 91,
+      "observe": "正念ある人は出家し、彼らは在家を喜ばず。 池を捨て去る鵞鳥の如く、彼らはいずれの家をも捨つ。",
+      "action": "今日、「ここに居続けなければ」という執着を一つ軽くする",
+      "quote": "気づき（念）ある者たちは、〔家を〕出る。彼らは、家において喜ばない。湖を捨棄して〔去り行く〕白鳥たちのように、彼らは、家々を捨棄する。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "正念ある者は家に喜ばず、鵞鳥の如く離れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第91偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第91偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-002",
+          "text": "心淨得念，無所貪樂，已度癡淵，如鴈棄池。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第2頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P04",
+      "category": "mindfulness",
+      "verse": 92,
+      "observe": "蓄積することなく、正念食をなし、空にして無相の解脱を境とする人の道は、虚空に於ける鳥の〔道〕の如く、追随し難し。",
+      "action": "今日、地位・承認・蓄積への執着を一つ手放して仕事する",
+      "quote": "彼らに、蓄積が存在せず、彼らが、食のことを遍知しているなら──彼らの、解脱の境涯が、空にして、かつまた、相なきものであるなら──彼らの境遇（趣：死後に赴く所）は、虚空における鳥たちの〔行方〕のように、捉えどころがない。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "pathReason": "蓄積なく正念食し、空・無相の道は捉え難い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第92偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第92偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-003",
+          "text": "量腹而食，無所藏積，心空無想，度眾行地，如空中鳥，遠逝無礙。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P05",
+      "category": "mindfulness",
+      "verse": 93,
+      "observe": "煩悩を滅尽し、飲食に捉われず、空にして無相の解脱を境とする人の跡は、虚空に於ける鳥の〔跡〕の如く、追随し難し。",
+      "action": "今日、食事・消費への「もっと」という衝動を一度観察する",
+      "quote": "彼の、諸々の煩悩が完全に滅尽し、そして、〔彼が〕食に依存なき者であるなら──彼の、解脱の境涯が、空にして、かつまた、相なきものであるなら──彼の境処（境地・歩み）は、虚空における鳥たちの〔足跡〕のように、捉えどころがない。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "漏尽し飲食に捉われぬ足跡は鳥の如し",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第93偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第93偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-004",
+          "text": "世間習盡，不復仰食，虛心無患，已到脫處，譬如飛鳥，暫下輒逝。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P06",
+      "category": "mindfulness",
+      "verse": 94,
+      "observe": "諸根寂静に帰して、御者によく調御（ちょうご）せられし馬の如く、慢を断ち、煩悩を滅尽せる人、天神といえどもこの如き人を羨む。",
+      "action": "今日、慢心（自分の方が上だ・すごい）が出たとき、静かに手放す",
+      "quote": "彼の、諸々の〔感官の〕機能（根）が、馭者によって善く調御された馬たちのように、〔心の〕止寂（奢摩他・止）に至ったなら、〔我想の〕思量（慢）を捨棄した煩悩なき者を、そのような者である彼を、天〔の神々〕たちもまた羨む。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "諸根を調御し慢を断った者を天も羨む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第94偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第94偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-005",
+          "text": "制根從正，如馬調御，捨憍慢習，為天所敬。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P07",
+      "category": "mindfulness",
+      "verse": 95,
+      "observe": "敬虔なる聖者は、忍辱（にんにく）なること大地の如く、また門閾に似たり。 〔浄きこと〕泥土なき池〔水〕の如し。 この如き人には輪廻あることなし。",
+      "action": "今日、何か不快なことが来ても、大地のように受け止めてみる",
+      "quote": "地に等しく、〔何ものにも〕遮られない者──インダの杭（城門に立てられた標柱）の如く、そのように善き掟の者──泥土を離去した〔澄んだ〕湖のような者──そのような者に、諸々の輪廻は有ることなくある。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "大地の如く忍辱し、泥土なき池の如く浄い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第95偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第95偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-006",
+          "text": "不怒如地，不動如山，真人無垢，生死世絕。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P08",
+      "category": "mindfulness",
+      "verse": 95,
+      "observe": "敬虔なる聖者は、忍辱（にんにく）なること大地の如く、また門閾に似たり。 〔浄きこと〕泥土なき池〔水〕の如し。 この如き人には輪廻あることなし。",
+      "action": "今日の苦境を「大地のように受け取る」と意識して通り抜ける",
+      "quote": "地に等しく、〔何ものにも〕遮られない者──インダの杭（城門に立てられた標柱）の如く、そのように善き掟の者──泥土を離去した〔澄んだ〕湖のような者──そのような者に、諸々の輪廻は有ることなくある。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "大地の如く忍辱し、泥土なき池の如く浄い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第95偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第95偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-006",
+          "text": "不怒如地，不動如山，真人無垢，生死世絕。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P09",
+      "category": "speech",
+      "verse": 96,
+      "observe": "正智によりて解脱し、安穏を得たる聖者の意は寂静なり。 語もまた業も寂静なり。",
+      "action": "今日、言葉を発する前に心が穏やかかどうかを一度確認する",
+      "quote": "彼の意は、寂静と成る──そして、言葉も、さらに、行為も、寂静と〔成る〕──正しい了知による解脱者にして寂静なる者、そのような者であるなら。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "pathReason": "正智の解脱者は意・語・業が寂静である",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第96偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第96偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-007",
+          "text": "心已休息，言行亦止，從正解脫，寂然歸滅。",
+          "satLocus": "大正蔵 T4.565a 羅漢品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P10",
+      "category": "view",
+      "verse": 97,
+      "observe": "妄信なく、無為（涅槃）を悟り、〔輪廻の〕繋縛（けばく）を断ち、〔善悪の〕契機を退け、欲望を捨てたる人こそ実に最上の人士なれ。",
+      "action": "今日、信じ込みや思い込みを一つ疑ってみる",
+      "quote": "〔特定のものについて〕信なく、かつまた、作られざるもの（涅槃）について知あり、そして、〔輪廻の〕鎖を断ち切る、その人──〔造悪の〕機会を打ち砕き、〔自利の〕願望を吐き捨てた者──彼は、まさに、最上の人士である。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "妄信なく涅槃を知り、望みを捨てた者が最上",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第97偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第97偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-008",
+          "text": "棄欲無着，缺三界障，望意已絕，是謂上人。",
+          "satLocus": "大正蔵 T4.565b 羅漢品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P11",
+      "category": "mindfulness",
+      "verse": 98,
+      "observe": "村落に於ても、また森林に於ても、低地に於ても、また丘陵に於ても、阿羅漢の住する処、その地は楽し。",
+      "action": "今日の環境がどうであれ、その場でできることを一つする",
+      "quote": "もしくは、村であろうが、林であろうが、もしくは、低地であろうが、高地であろうが、そこにおいて、阿羅漢（人格完成者）たちが住むなら、その地は、喜ぶべきものとなる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "阿羅漢の住む処は、どこでも楽し",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第98偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第98偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-009",
+          "text": "在聚在野，平地高岸，應真所過，莫不蒙祐。",
+          "satLocus": "大正蔵 T4.565b 羅漢品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P12",
+      "category": "mindfulness",
+      "verse": 98,
+      "observe": "村落に於ても、また森林に於ても、低地に於ても、また丘陵に於ても、阿羅漢の住する処、その地は楽し。",
+      "action": "今日、職場や家庭に、自分が楽しい空気を一つ持ち込む",
+      "quote": "もしくは、村であろうが、林であろうが、もしくは、低地であろうが、高地であろうが、そこにおいて、阿羅漢（人格完成者）たちが住むなら、その地は、喜ぶべきものとなる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "阿羅漢の住む処は、どこでも楽し",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第98偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第98偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-009",
+          "text": "在聚在野，平地高岸，應真所過，莫不蒙祐。",
+          "satLocus": "大正蔵 T4.565b 羅漢品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P13",
+      "category": "mindfulness",
+      "verse": 99,
+      "observe": "森林は楽しむべし。 衆人の楽しまざる処に於て、離欲の人は楽しまん。 彼らは欲楽を求めざればなり。",
+      "action": "今日、賑やかな娯楽から離れ、静けさを一度味わう",
+      "quote": "すなわち、〔世俗の〕人が喜ばないところである、〔人里離れた〕諸々の林は、〔阿羅漢たちにとっては〕喜ぶべきものとなる。貪欲を離れた者たちは、〔そこにおいて〕喜ぶであろう。彼らは、欲望〔の対象〕を探し求める者たちにあらず。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "離欲の人は欲を求めず、空閑を楽しむ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第99偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第99偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-010",
+          "text": "彼樂空閑，眾人不能，快哉無婬，無所欲求。",
+          "satLocus": "大正蔵 T4.565b 羅漢品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP7-P14",
+      "category": "mindfulness",
+      "verse": 99,
+      "observe": "森林は楽しむべし。 衆人の楽しまざる処に於て、離欲の人は楽しまん。 彼らは欲楽を求めざればなり。",
+      "action": "夜、スマホを置いて、ただ静かに座る時間を少し作る",
+      "quote": "すなわち、〔世俗の〕人が喜ばないところである、〔人里離れた〕諸々の林は、〔阿羅漢たちにとっては〕喜ぶべきものとなる。貪欲を離れた者たちは、〔そこにおいて〕喜ぶであろう。彼らは、欲望〔の対象〕を探し求める者たちにあらず。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "離欲の人は欲を求めず、空閑を楽しむ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 阿羅漢の章 第99偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第７章・阿羅漢品 第99偈（#ch02-07）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-07"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "羅漢品（T210 第15品）",
+          "t210": "T210-15-010",
+          "text": "彼樂空閑，眾人不能，快哉無婬，無所欲求。",
+          "satLocus": "大正蔵 T4.565b 羅漢品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0565",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap07/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "90": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "繋縛を断ちた者には苦悩がない"
+    },
+    "91": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "正念ある者は家に喜ばず、鵞鳥の如く離れる"
+    },
+    "92": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "reason": "蓄積なく正念食し、空・無相の道は捉え難い"
+    },
+    "93": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "漏尽し飲食に捉われぬ足跡は鳥の如し"
+    },
+    "94": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "諸根を調御し慢を断った者を天も羨む"
+    },
+    "95": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "大地の如く忍辱し、泥土なき池の如く浄い"
+    },
+    "96": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "reason": "正智の解脱者は意・語・業が寂静である"
+    },
+    "97": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "妄信なく涅槃を知り、望みを捨てた者が最上"
+    },
+    "98": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "阿羅漢の住む処は、どこでも楽し"
+    },
+    "99": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "離欲の人は欲を求めず、空閑を楽しむ"
+    }
+  }
+}

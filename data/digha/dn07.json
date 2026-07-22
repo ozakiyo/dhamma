@@ -1,0 +1,159 @@
+{
+  "chapter": 7,
+  "sutta": 7,
+  "title": "長部 第7経（耶離経）",
+  "shortTitle": "耶離経",
+  "mapNote": "DN 7——耶離経",
+  "suttas": [
+    "DN 7 耶離経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（戒初篇）",
+    "verify": "南伝大蔵経 第6巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN7-P01",
+      "category": "prep",
+      "ref": "DN 7",
+      "section": "正見",
+      "observe": "「魂と身は同一か別か」——どちらも固定見に落ちる",
+      "action": "朝、今日の考えが「是か非か」の二択に陥っていないか問う",
+      "quote": "魂と身は同一か、別か——我、両方を許さず"
+    },
+    {
+      "id": "DN7-P02",
+      "category": "suffering",
+      "ref": "DN 7",
+      "section": "無常",
+      "observe": "五蘊は無常——固定された「我」も「身」もない",
+      "action": "今日、一つの感覚·感情が「変わるもの」だと一度見る",
+      "quote": "色·受·想·行·識は、無常·苦·無我なり"
+    },
+    {
+      "id": "DN7-P03",
+      "category": "work",
+      "ref": "DN 7",
+      "section": "観察",
+      "observe": "五蘊を観察すれば、魂身の戯論が止む",
+      "action": "今日、五蘊のうち一つ（身·受·想·行·識）を意識して観る",
+      "quote": "五蘊を如実知れば、魂身の見は消える"
+    },
+    {
+      "id": "DN7-P04",
+      "category": "desire",
+      "ref": "DN 7",
+      "section": "我見",
+      "observe": "「永続する魂」への執着は、滅見への反動から生じる",
+      "action": "「私は永遠だ」という感覚が来たら、一度手放す",
+      "quote": "常見·断見——是れ、我見の二端なり"
+    },
+    {
+      "id": "DN7-P05",
+      "category": "speech",
+      "ref": "DN 7",
+      "section": "問答",
+      "observe": "深い問いには、戯論を超えた答えがある",
+      "action": "今日、議論で行き詰まったら「五蘊を観る」方向に話を戻す",
+      "quote": "耶離は、魂身を問う。如来、五蘊の無常を説く"
+    },
+    {
+      "id": "DN7-P06",
+      "category": "prep",
+      "ref": "DN 7",
+      "section": "中道",
+      "observe": "同一も別もない——中道は固定見を離れる",
+      "action": "今日、極端な見解（全て同じ/全て別）を一度手放す",
+      "quote": "同一も別も非ず。中道を説く"
+    },
+    {
+      "id": "DN7-P07",
+      "category": "suffering",
+      "ref": "DN 7",
+      "section": "苦",
+      "observe": "固定見は苦の因——執着が生じ、争いが起きる",
+      "action": "今日の争いの根に「固定見」がないか一度問う",
+      "quote": "見に執着すれば、苦が生じ、諍いが起きる"
+    },
+    {
+      "id": "DN7-P08",
+      "category": "night",
+      "ref": "DN 7",
+      "section": "振り返り",
+      "observe": "夜、今日の戯論——どこで固定見に陥ったか",
+      "action": "就寝前、今日「是か非か」で考えた問題を一つ手放す",
+      "quote": "戯論を離れ、五蘊を観察せ"
+    },
+    {
+      "id": "DN7-P09",
+      "category": "people",
+      "ref": "DN 7",
+      "section": "質問",
+      "observe": "耶離の問いは誠実——答えは観察にある",
+      "action": "今日、誰かの深い問いを、答えを急がず聴く",
+      "quote": "耶離、外道なれど、誠実に問う。如来、正しく答える"
+    },
+    {
+      "id": "DN7-P10",
+      "category": "work",
+      "ref": "DN 7",
+      "section": "正念",
+      "observe": "正念は、概念の固定を緩める",
+      "action": "今日、一呼吸で「今この受身」を観る",
+      "quote": "正念を以て、五蘊を観察す"
+    },
+    {
+      "id": "DN7-P11",
+      "category": "desire",
+      "ref": "DN 7",
+      "section": "執着",
+      "observe": "身への執着も魂への執着も、同じ苦の根",
+      "action": "今日、身体·自我への執着を一つ名づけて手放す",
+      "quote": "身執·我執——是れ、苦の集起なり"
+    }
+  ]
+}

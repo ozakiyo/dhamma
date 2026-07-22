@@ -1,0 +1,424 @@
+{
+  "chapter": 127,
+  "sutta": 127,
+  "title": "中部 第127経（阿那律経）",
+  "shortTitle": "阿那律経",
+  "mapNote": "後分五十経篇 · 空品",
+  "suttas": [
+    "MN 127 阿那律経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "release",
+    "focusReason": "阿那律経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第127経（阿那律経）",
+    "shortTitle": "阿那律経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "阿那律経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN127-P01",
+          "MN127-P02"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "阿那律経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN127-P01",
+          "MN127-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "阿那律経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN127-P03",
+          "MN127-P04"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "阿那律経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN127-P03",
+          "MN127-P04"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "阿那律経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN127-P06",
+          "MN127-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "散乱を離れ、定へ戻る",
+        "chapterHint": "阿那律経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN127-P01",
+          "MN127-P02",
+          "MN127-P05"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "阿那律経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN127-P02",
+          "MN127-P08"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN127-P01",
+      "category": "prep",
+      "ref": "MN 127",
+      "section": "大人",
+      "observe": "阿那律は大人相を具す——信·戒·聞·捨·定·慧",
+      "action": "今日、六つの徳のどれか一つを意識する",
+      "quote": "阿那律は、大人の相を具している——信·戒·聞·捨·定·慧"
+    },
+    {
+      "id": "MN127-P02",
+      "category": "work",
+      "ref": "MN 127",
+      "section": "天眼",
+      "observe": "天眼を修す——心の清浄が基",
+      "action": "今日、心を清める行いを一つ行う",
+      "quote": "阿那律は、天眼を修した。心の清浄が、その基である"
+    },
+    {
+      "id": "MN127-P03",
+      "category": "people",
+      "ref": "MN 127",
+      "section": "種姓",
+      "observe": "種姓ではなく業——行いが未来を決める",
+      "action": "今日、出身ではなく今日の行いに集中する",
+      "quote": "種姓ではなく、業である。行いが、未来を決める"
+    },
+    {
+      "id": "MN127-P04",
+      "category": "desire",
+      "ref": "MN 127",
+      "section": "種姓",
+      "observe": "高種姓を誇る慢心——業の法則",
+      "action": "今日、自分の優越感を一度手放す",
+      "quote": "高種姓を誇る者は、業の法則を知らない"
+    },
+    {
+      "id": "MN127-P05",
+      "category": "prep",
+      "ref": "MN 127",
+      "section": "六念",
+      "observe": "六念——仏·法·僧·戒·捨·天",
+      "action": "今日、六念の一つを声に出して思い出す",
+      "quote": "比丘は、六念に住むべきである——仏·法·僧·戒·捨·天"
+    },
+    {
+      "id": "MN127-P06",
+      "category": "suffering",
+      "ref": "MN 127",
+      "section": "種姓",
+      "observe": "卑種姓でも業が善なら——善趣に生る",
+      "action": "今日、境遇を嘆かず行いを整える",
+      "quote": "卑種姓でも、業が善なら、善趣に生る"
+    },
+    {
+      "id": "MN127-P07",
+      "category": "speech",
+      "ref": "MN 127",
+      "section": "大人",
+      "observe": "大人は語り少なく——実践で示す",
+      "action": "今日、語るより行うを優先する",
+      "quote": "大人は、語り少なく、行いで示す"
+    },
+    {
+      "id": "MN127-P08",
+      "category": "work",
+      "ref": "MN 127",
+      "section": "天眼",
+      "observe": "天眼は他を見るためではなく——自らの修行",
+      "action": "今日、他人の評価ではなく自分の心を見る",
+      "quote": "天眼は、自らの修行のためである。他人を裁くためではない"
+    },
+    {
+      "id": "MN127-P09",
+      "category": "people",
+      "ref": "MN 127",
+      "section": "導",
+      "observe": "阿那律への問い——大人の相",
+      "action": "今日、自分の「大人の相」を一つ確かめる",
+      "quote": "比丘たちは、阿那律に問う——あなたは、どのように大人の相を具したか"
+    },
+    {
+      "id": "MN127-P10",
+      "category": "desire",
+      "ref": "MN 127",
+      "section": "六念",
+      "observe": "天念は慢心に——天界への執着",
+      "action": "今日、将来の報酬ではなく今の捨を修す",
+      "quote": "天念は、天界への執着を生む。捨を修せ"
+    },
+    {
+      "id": "MN127-P11",
+      "category": "night",
+      "ref": "MN 127",
+      "section": "六念",
+      "observe": "一日を六念で締める——信·戒·聞·捨·定·慧",
+      "action": "就寝前、六念の一つを静かに思い出す",
+      "quote": "比丘は、六念に住むべきである"
+    }
+  ]
+}

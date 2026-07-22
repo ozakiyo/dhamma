@@ -1,0 +1,375 @@
+{
+  "chapter": 17,
+  "samyutta": 17,
+  "title": "相応部 第17章（利得と供養相応）",
+  "shortTitle": "利得と供養",
+  "mapNote": "SN 17——利得と供養相応",
+  "suttas": [
+    "SN 17 利得と供養相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（因縁篇）",
+    "verify": "南伝大蔵経 第13巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN17-P01",
+      "category": "prep",
+      "ref": "SN 17.1",
+      "section": "導·利得",
+      "observe": "利得と供養は、比丘を悩ます——少しの者も逃れず",
+      "action": "朝、「利得·供養は鉤ののように」と意図を置く",
+      "quote": "諸比丘、利得と供養は、比丘を悩ます。少しの者も、逃れず"
+    },
+    {
+      "id": "SN17-P02",
+      "category": "prep",
+      "ref": "SN 17.2",
+      "section": "供養",
+      "observe": "供養への執着——誉れ·礼拝·供物の危険",
+      "action": "誉れが来たら「供養の危険」と一度止まる",
+      "quote": "供養への執着、誉れ·礼拝·供物の危険なり"
+    },
+    {
+      "id": "SN17-P03",
+      "category": "prep",
+      "ref": "SN 17.3",
+      "section": "鉤",
+      "observe": "利得は悪魔の鉤——魚が餌にかかる如く",
+      "action": "利得の誘惑が来たら「悪魔の鉤」と想像する",
+      "quote": "利得は、悪魔の鉤のように。魚が餌にかかる如く"
+    },
+    {
+      "id": "SN17-P04",
+      "category": "prep",
+      "ref": "SN 17.4",
+      "section": "正見",
+      "observe": "利得を正しく見る——執着の対象としての危険",
+      "action": "今日、利得·供養を「危険」と正しく見る",
+      "quote": "利得を正しく見よ。執着の対象として、危険なり"
+    },
+    {
+      "id": "SN17-P05",
+      "category": "prep",
+      "ref": "SN 17.5",
+      "section": "少",
+      "observe": "利得から逃れる者は少ない——大海の流れの如く",
+      "action": "今日の選択を「利得から逃れるか」と一度問う",
+      "quote": "利得から逃れる者、少し。大海の流れのように"
+    },
+    {
+      "id": "SN17-P06",
+      "category": "suffering",
+      "ref": "SN 17.6",
+      "section": "苦",
+      "observe": "利得への執着は苦——失う恐れ·慢·争い",
+      "action": "利得を失う恐れが来たら「これ苦」と名づける",
+      "quote": "利得への執着は、苦なり。失う恐れ·慢·争い、苦の因"
+    },
+    {
+      "id": "SN17-P07",
+      "category": "suffering",
+      "ref": "SN 17.7",
+      "section": "慢",
+      "observe": "供養への慢——誉れが慢を生む",
+      "action": "誉れの後に慢が来たら「供養の慢」と観る",
+      "quote": "供養への慢、誉れが慢を生む"
+    },
+    {
+      "id": "SN17-P08",
+      "category": "suffering",
+      "ref": "SN 17.8",
+      "section": "争",
+      "observe": "利得の争い——供養·地位の争い",
+      "action": "争いが起きそうなとき「利得の争い」と観る",
+      "quote": "利得の争い、供養·地位の争いなり"
+    },
+    {
+      "id": "SN17-P09",
+      "category": "suffering",
+      "ref": "SN 17.9",
+      "section": "堕落",
+      "observe": "利得により堕落——解脱を遠ざける",
+      "action": "快い誉れが来たら「堕落の危険」と観る",
+      "quote": "利得により堕落す。解脱を、遠ざける"
+    },
+    {
+      "id": "SN17-P10",
+      "category": "suffering",
+      "ref": "SN 17.10",
+      "section": "縛",
+      "observe": "利得に縛られる——奴隷になる",
+      "action": "利得への執着が来たら「縛られている」と観る",
+      "quote": "利得に縛られる者、奴隷なり"
+    },
+    {
+      "id": "SN17-P11",
+      "category": "desire",
+      "ref": "SN 17.11",
+      "section": "欲",
+      "observe": "利得への欲——もっと欲しい",
+      "action": "「もっと欲しい」が来たら「利得の欲」と名づける",
+      "quote": "利得への欲、「もっと欲しい」——これ苦の因"
+    },
+    {
+      "id": "SN17-P12",
+      "category": "desire",
+      "ref": "SN 17.12",
+      "section": "誉",
+      "observe": "誉れへの欲——人から認められたい",
+      "action": "認められたい欲が来たら「誉れの欲」と観る",
+      "quote": "誉れへの欲、人から認められたい——これ苦の因"
+    },
+    {
+      "id": "SN17-P13",
+      "category": "desire",
+      "ref": "SN 17.13",
+      "section": "供",
+      "observe": "供養への欲——物·礼拝·追随",
+      "action": "供養への欲が来たら、一度手を引く",
+      "quote": "供養への欲、物·礼拝·追随——これ苦の因"
+    },
+    {
+      "id": "SN17-P14",
+      "category": "desire",
+      "ref": "SN 17.14",
+      "section": "対治",
+      "observe": "利得の欲を対治す——無常·無我を観る",
+      "action": "今日、利得·誉れへの執着を一つ手放す",
+      "quote": "利得の欲を対治せ。無常·無我を、観れ"
+    },
+    {
+      "id": "SN17-P15",
+      "category": "desire",
+      "ref": "SN 17.15",
+      "section": "離欲",
+      "observe": "離欲こそ利得を超える——執着を離れよ",
+      "action": "今日、一つの利得·誉れへの執着を手放す",
+      "quote": "離欲を以て、利得を超えよ。執着を、離れよ"
+    },
+    {
+      "id": "SN17-P16",
+      "category": "speech",
+      "ref": "SN 17.16",
+      "section": "誠実",
+      "observe": "利得のために虚偽を語るな",
+      "action": "今日、利得のための虚偽·誇大を一つ避ける",
+      "quote": "利得のために、虚偽を語るな"
+    },
+    {
+      "id": "SN17-P17",
+      "category": "speech",
+      "ref": "SN 17.17",
+      "section": "黙",
+      "observe": "誉れを求めて語るな——黙ることも智慧",
+      "action": "今日、誉れを求める不必要な発言を一つ避ける",
+      "quote": "誉れを求めて、語るな。黙ることも、智慧なり"
+    },
+    {
+      "id": "SN17-P18",
+      "category": "speech",
+      "ref": "SN 17.18",
+      "section": "正語",
+      "observe": "正語を守れ——利得のための諂媚を離れる",
+      "action": "今日、真実·利益·適時の言葉を一つ選ぶ",
+      "quote": "正語を守れ。利得のための諂媚を、離れよ"
+    },
+    {
+      "id": "SN17-P19",
+      "category": "speech",
+      "ref": "SN 17.19",
+      "section": "問法",
+      "observe": "利得の危険について正しい問いを持て",
+      "action": "今日、利得·供養の危険について、一つ問いを持つ",
+      "quote": "利得の危険について、正しい問いを持て"
+    },
+    {
+      "id": "SN17-P20",
+      "category": "speech",
+      "ref": "SN 17.20",
+      "section": "讃",
+      "observe": "利得を離れた者を讃える",
+      "action": "今日、少欲·知足の者について、感謝の言葉を一つ",
+      "quote": "利得を離れた者を、讃えよ"
+    },
+    {
+      "id": "SN17-P21",
+      "category": "people",
+      "ref": "SN 17.21",
+      "section": "供養者",
+      "observe": "供養者に諂媚するな——正行を失う",
+      "action": "供養者の前で、正行を一つ意識する",
+      "quote": "供養者に諂媚するな。正行を、失う"
+    },
+    {
+      "id": "SN17-P22",
+      "category": "people",
+      "ref": "SN 17.22",
+      "section": "善友",
+      "observe": "善友は利得を警告する——悪友は誉れる",
+      "action": "今日、善友の助言を一つ受け入れる",
+      "quote": "善友は、利得を警告す。悪友は、誉れる"
+    },
+    {
+      "id": "SN17-P23",
+      "category": "people",
+      "ref": "SN 17.23",
+      "section": "対人",
+      "observe": "人の誉れに飲まれない",
+      "action": "人に誉められたとき、一度止まり、慢を観る",
+      "quote": "人の誉れに、飲まれるな"
+    },
+    {
+      "id": "SN17-P24",
+      "category": "people",
+      "ref": "SN 17.24",
+      "section": "敬法",
+      "observe": "法を敬う者は利得を軽んじる",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬う者、利得を軽んじる"
+    },
+    {
+      "id": "SN17-P25",
+      "category": "people",
+      "ref": "SN 17.25",
+      "section": "共学",
+      "observe": "共に利得の危険を見る——互いに警告する",
+      "action": "今日、利得·供養の危険について、誰かと一つ話題を共有する",
+      "quote": "共に利得の危険を見よ。互いに、警告せ"
+    },
+    {
+      "id": "SN17-P26",
+      "category": "work",
+      "ref": "SN 17.26",
+      "section": "防護",
+      "observe": "利得の鉤を防護す——正念·正知",
+      "action": "今日、誉れ·供養の場面で、正念·正知を保つ",
+      "quote": "利得の鉤を防護せ。正念·正知を、保て"
+    },
+    {
+      "id": "SN17-P27",
+      "category": "work",
+      "ref": "SN 17.27",
+      "section": "精進",
+      "observe": "精進すれば、利得に動かされぬ",
+      "action": "怠けたいとき、利得のためでない修行を一つ行う",
+      "quote": "精進すれば、利得に動かされず"
+    },
+    {
+      "id": "SN17-P28",
+      "category": "work",
+      "ref": "SN 17.28",
+      "section": "知足",
+      "observe": "知足を修す——利得の対治",
+      "action": "今日、「足るを知る」練習を一つ行う",
+      "quote": "知足を修せ。利得の対治なり"
+    },
+    {
+      "id": "SN17-P29",
+      "category": "work",
+      "ref": "SN 17.29",
+      "section": "解脱",
+      "observe": "解脱こそ目的——利得·供養ではない",
+      "action": "今日の目的を「利得ではなく解脱」と確認する",
+      "quote": "解脱こそ、目的なり。利得·供養に、非ず"
+    },
+    {
+      "id": "SN17-P30",
+      "category": "work",
+      "ref": "SN 17.30",
+      "section": "戒",
+      "observe": "戒を守れば、利得の誘惑に強くなる",
+      "action": "今日、戒を一つ意識的に守る",
+      "quote": "戒を守れば、利得の誘惑に強くなる"
+    },
+    {
+      "id": "SN17-P31",
+      "category": "night",
+      "ref": "SN 17.31",
+      "section": "振り返り",
+      "observe": "今日、利得·供養の誘惑はあったか",
+      "action": "就寝前、誉れ·供養の瞬間を一つ振り返る",
+      "quote": "利得の誘惑を知れば、対治の道が開ける"
+    },
+    {
+      "id": "SN17-P32",
+      "category": "night",
+      "ref": "SN 17.32",
+      "section": "慢",
+      "observe": "今日、誉れによる慢はあったか",
+      "action": "就寝前、慢の瞬間を一つ認め、手放す",
+      "quote": "慢を知れば、解脱に近づく"
+    },
+    {
+      "id": "SN17-P33",
+      "category": "night",
+      "ref": "SN 17.33",
+      "section": "知足",
+      "observe": "今日、「足る」を知れたか",
+      "action": "就寝前、足りているものを三つ思い浮かべる",
+      "quote": "足るを知れば、利得に動かされず"
+    },
+    {
+      "id": "SN17-P34",
+      "category": "night",
+      "ref": "SN 17.34",
+      "section": "精進",
+      "observe": "今日、利得のためでない精進はできたか",
+      "action": "就寝前、今日の修行を一つ確認する",
+      "quote": "利得のためでない精進、これ真の精進なり"
+    },
+    {
+      "id": "SN17-P35",
+      "category": "night",
+      "ref": "SN 17.35",
+      "section": "総括",
+      "observe": "利得相応の要——利得は悪魔の鉤、離欲こそ解脱",
+      "action": "就寝前、「利得は悪魔の鉤」と一句唱える",
+      "quote": "利得は、悪魔の鉤のように。離欲こそ、解脱の道なり"
+    }
+  ]
+}

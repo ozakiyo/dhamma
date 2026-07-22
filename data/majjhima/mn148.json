@@ -1,0 +1,424 @@
+{
+  "chapter": 148,
+  "sutta": 148,
+  "title": "中部 第148経（六六経）",
+  "shortTitle": "六六経",
+  "mapNote": "後分五十経篇 · 六処品",
+  "suttas": [
+    "MN 148 六六経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "六六経は六処が主題",
+    "chapterTitle": "中部 第148経（六六経）",
+    "shortTitle": "六六経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "六と六の接触をあるがままに見る",
+        "chapterHint": "六六経",
+        "fromPrev": "六処が対象に触れる",
+        "toNext": "見誤れば愛取へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN148-P01",
+          "MN148-P03",
+          "MN148-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "六六経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN148-P01",
+          "MN148-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "六六経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN148-P04",
+          "MN148-P07"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "六六経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN148-P04",
+          "MN148-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "六六経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN148-P02",
+          "MN148-P08"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "六六経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN148-P01",
+          "MN148-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "六六経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN148-P03",
+          "MN148-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN148-P01",
+      "category": "prep",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六六法——六内処から六有身止",
+      "action": "今日、六内処の一つを意識する",
+      "quote": "六六法がある——六内処·六外処·六識·六触·六受·六愛·六取·六有·六生·六老·六老·六有身·六有身止"
+    },
+    {
+      "id": "MN148-P02",
+      "category": "suffering",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六内処·六外処·六識——縁起",
+      "action": "今日、内·外·識の縁起を一つ観る",
+      "quote": "六内処·六外処·六識、縁起により生じる"
+    },
+    {
+      "id": "MN148-P03",
+      "category": "work",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六触·六受·六愛——苦の連鎖",
+      "action": "今日、触→受→愛の連鎖を一つ断つ",
+      "quote": "六触·六受·六愛——苦の連鎖"
+    },
+    {
+      "id": "MN148-P04",
+      "category": "desire",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六取·六有——輪廻の環",
+      "action": "今日、取·有への執着を一つ手放す",
+      "quote": "六取·六有——輪廻の環"
+    },
+    {
+      "id": "MN148-P05",
+      "category": "prep",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六生·六老·六有身止——滅",
+      "action": "今日、生·老·有身止を意識する",
+      "quote": "六生·六老·六有身止——滅の環"
+    },
+    {
+      "id": "MN148-P06",
+      "category": "speech",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六六の説法——体系",
+      "action": "今日、複雑な縁起を一つ整理する",
+      "quote": "六六は、縁起の体系である"
+    },
+    {
+      "id": "MN148-P07",
+      "category": "people",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "聞衆への教え——六六",
+      "action": "今日、縁起の一环を誰かに説明する",
+      "quote": "聞衆に、六六を説いた"
+    },
+    {
+      "id": "MN148-P08",
+      "category": "suffering",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六有身——苦の身",
+      "action": "今日、有身が苦と見る",
+      "quote": "六有身は、苦の身である"
+    },
+    {
+      "id": "MN148-P09",
+      "category": "work",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六有身止——解脱",
+      "action": "今日、有身止への一歩を意識する",
+      "quote": "六有身止——解脱である"
+    },
+    {
+      "id": "MN148-P10",
+      "category": "desire",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "六愛——苦の集",
+      "action": "今日、愛を一つ手放す",
+      "quote": "六愛は、苦の集である"
+    },
+    {
+      "id": "MN148-P11",
+      "category": "night",
+      "ref": "MN 148",
+      "section": "六六",
+      "observe": "一日の六六——縁起で振り返る",
+      "action": "就寝前、今日の触·受·愛を振り返る",
+      "quote": "六六を、縁起として振り返れ"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "chapter": 51,
+  "sutta": 51,
+  "title": "中部 第51経（カンダラカ経）",
+  "shortTitle": "カンダラカ経",
+  "mapNote": "中分五十経篇 · 居士品",
+  "suttas": [
+    "MN 51 カンダラカ経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "カンダラカ経のペア分布から割り当て",
+    "chapterTitle": "中部 第51経（カンダラカ経）",
+    "shortTitle": "カンダラカ経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "カンダラカ経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN51-P02",
+          "MN51-P08"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "カンダラカ経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN51-P04",
+          "MN51-P08"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "カンダラカ経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN51-P01",
+          "MN51-P03"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "カンダラカ経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN51-P01",
+          "MN51-P03",
+          "MN51-P04"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "カンダラカ経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN51-P05",
+          "MN51-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "カンダラカ経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN51-P02",
+          "MN51-P08"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "カンダラカ経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN51-P02",
+          "MN51-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN51-P01",
+      "category": "people",
+      "ref": "MN 51",
+      "section": "導",
+      "observe": "カンダラカ——静かな僧団を見て、正しく法を行うと称える",
+      "action": "共同体の静けさを損なう言動を一つ控える",
+      "quote": "ゴータマ尊者はこの僧団を、法に従い正しく行うせしめる"
+    },
+    {
+      "id": "MN51-P02",
+      "category": "work",
+      "ref": "MN 51",
+      "section": "四念処",
+      "observe": "学びの途上は四念処に善住——身·受·心·法",
+      "action": "身·受·心·法のうち一つに念を置く",
+      "quote": "比丘は身において身を観察し、熱心に、正知し、念じて住む——世間の貪著と苦悩を除くために"
+    },
+    {
+      "id": "MN51-P03",
+      "category": "people",
+      "ref": "MN 51",
+      "section": "在家",
+      "observe": "在家の者の在家者も四念処を修せる",
+      "action": "仕事の合間に、身体感覚か呼吸に一瞬戻る",
+      "quote": "在家の者の在家者も、心を四念処に常に善く安置する"
+    },
+    {
+      "id": "MN51-P04",
+      "category": "speech",
+      "ref": "MN 51",
+      "section": "掩心",
+      "observe": "人は自心を隠す心う、動物は率直",
+      "action": "言葉と心が違う場面を一つ認め、正直に整える",
+      "quote": "人々は己の心を隠す心い隠す。動物は率直なり"
+    },
+    {
+      "id": "MN51-P05",
+      "category": "suffering",
+      "ref": "MN 51",
+      "section": "四人",
+      "observe": "四種の人——自分を苦しめる·他者を苦しめる·両方を苦しめる·中道",
+      "action": "今日の行いが四種のどれか、一度問う",
+      "quote": "自己をも苦しめるせず、他の衆生をも苦しめるせず——この生において静まるし、静かに滅するし、清涼にして、楽を体験し、天のようなののように生きるする者"
+    },
+    {
+      "id": "MN51-P06",
+      "category": "desire",
+      "ref": "MN 51",
+      "section": "自苦",
+      "observe": "自分を苦しめるの行者——裸の·時を外れた食·刺床等、身を酷使する",
+      "action": "今日、結果を急ぐあまり身を酷使していないか問う",
+      "quote": "これらの諸方法を修習し、不断にこの身体を苦しめるする"
+    },
+    {
+      "id": "MN51-P07",
+      "category": "desire",
+      "ref": "MN 51",
+      "section": "他苦",
+      "observe": "他者を苦しめるの行者——屠殺·盗み·血腥の業",
+      "action": "今日、直接間接に他者の苦を招く選択を避ける",
+      "quote": "山羊を屠る者、豚を屠る者……鳥獣を捕る者、盗賊、処刑人——これ、他を苦しめる者なり"
+    },
+    {
+      "id": "MN51-P08",
+      "category": "prep",
+      "ref": "MN 51",
+      "section": "中道",
+      "observe": "第四の人——如来の説く段階的道：戒→根護→念→足るを知る→禅定→慧",
+      "action": "今日、道の次第のうち一段階（例：足るを知る）を意識する",
+      "quote": "自己をも苦しめるせず、他の衆生をも苦しめるせず——如来の説く次第の道を歩む者は、この生において静まるし、静かに滅するし、清涼にして、楽を体験し、天のようなののように生きるする——と称される"
+    },
+    {
+      "id": "MN51-P09",
+      "category": "work",
+      "ref": "MN 51",
+      "section": "中道",
+      "observe": "中道の修行者——五つの蓋除から煩悩の滅尽まで、段階を踏む",
+      "action": "苦·集·滅·道の一つに意識を向ける",
+      "quote": "彼はあるがままにに苦を知り、あるがままにに苦集を知り、あるがままにに苦滅を知り、あるがままにに苦滅に至る道を知る"
+    },
+    {
+      "id": "MN51-P10",
+      "category": "people",
+      "ref": "MN 51",
+      "section": "結",
+      "observe": "ビッサは早く帰るした——聞いて信じ、詳しく説くを聞けば更に益",
+      "action": "誰かに助言するとき、一つの段階から始める",
+      "quote": "比夜提が暫しこの処に座し留まりたらば、私はこの四種の人について詳しく説きたものを"
+    }
+  ]
+}

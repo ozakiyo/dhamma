@@ -1,0 +1,1393 @@
+{
+  "title": "ダンマパダ 第14章・仏陀品（覚者の章）",
+  "chapter": 14,
+  "shortTitle": "仏陀品（覚者の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第14章（仏陀品／覚者の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（主にT210述佛品、一部利養品・未対応あり）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・覚者の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第１４章・仏陀品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・述佛品（T4.567b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第14章・仏陀品（覚者の章）",
+    "shortTitle": "仏陀品（覚者の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "view",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "稀有な人の生と法に触れ、覚者の境地を仰ぐ",
+        "chapterHint": "仏陀品（覚者の章）",
+        "fromPrev": "前夜の感謝が、今朝の稀有な機会への気づきになる",
+        "toNext": "教えへの接触のあと、忍辱の受が試される",
+        "todayObserve": "人と生まるるは難く、人間の生存は難し。 妙法を聞くことは難く、諸仏の出世は難し。",
+        "todayAction": "今朝、「今日も生きていること・教えを知っていること」を一息で感謝する",
+        "when": [
+          "朝の始まり",
+          "教えに触れた"
+        ],
+        "sources": [
+          "DP14-P01",
+          "DP14-P02",
+          "DP14-P06",
+          "DP14-P07",
+          "DP14-P20"
+        ],
+        "leadQuote": "むずかしきは、人間〔の生〕の獲得あること。むずかしきは、死すべき者たちに生命ある…",
+        "secondaryObserve": "覚者の勝利は失われず、誰も導けない"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "action"
+        ],
+        "pathLabel": "不快の受を忍辱として受け、他を害さない",
+        "chapterHint": "仏陀品（覚者の章）",
+        "fromPrev": "接触のあと、理不尽・不快の受が来る",
+        "toNext": "受けた痛みを、欲への欲しがりへ落とさない",
+        "todayObserve": "忍辱（にんにく）・忍受は最上の苦行にして、涅槃は最勝なりと諸仏は説く。 実に他を害する出家なく、他を悩ます沙門なし。",
+        "todayAction": "今日、理不尽・不快に「忍耐」を一つ実践する",
+        "when": [
+          "理不尽を感じた",
+          "耐え難いと感じた"
+        ],
+        "sources": [
+          "DP14-P10",
+          "DP14-P11"
+        ],
+        "leadQuote": "「忍耐と忍受は、最高の苦行である。涅槃は、最高〔の安楽〕である」〔と〕、覚者たち…",
+        "secondaryObserve": "忍辱は最上、他を害する者は出家にあらず"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "欲は甘味少なく苦と知り、渇愛を緩める",
+        "chapterHint": "仏陀品（覚者の章）",
+        "fromPrev": "受が強まると、満たされない欲への欲しがりへ",
+        "toNext": "止めないと外の依所への掴みへ進む",
+        "todayObserve": "金貨の雨によりても欲心の満足あることなし。 欲は甘味少なく苦なりと知りて賢者は、",
+        "todayAction": "「もっと欲しい」と思ったとき、欲は永遠に満たされないと静かに知る",
+        "when": [
+          "もっと欲しいと感じた",
+          "快楽に引かれた"
+        ],
+        "sources": [
+          "DP14-P15"
+        ],
+        "leadQuote": "諸々の欲望〔の対象〕にたいし、貨幣の雨をもってしても、満足〔の思い〕は見出されな…",
+        "secondaryObserve": "渇愛の網すら覚者を導けない"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "渇愛の網を掴まず、覚者の境地を仰ぐ",
+        "chapterHint": "仏陀品（覚者の章）",
+        "fromPrev": "欲しがりが、纏綿たる愛欲の網として掴む手前",
+        "toNext": "掴むと外の依所へ逃げ、苦が太る",
+        "todayObserve": "羅網を具して纏綿（てんめん）たる愛欲すら、そを何処にも導き得ざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。",
+        "todayAction": "欲求に引っ張られたとき、「この欲は私の主人ではない」と静かに知る",
+        "when": [
+          "欲に導かれそう",
+          "網にかかったと感じた"
+        ],
+        "sources": [
+          "DP14-P03"
+        ],
+        "leadQuote": "彼に、執着の網が〔存在せず〕、どこにであれ、誘い導くための渇愛が存在しないなら、…",
+        "secondaryObserve": "渇愛の網すら覚者を導けない"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "外の依所では苦から脱せず、四聖諦へ立ち返る",
+        "chapterHint": "仏陀品（覚者の章）",
+        "fromPrev": "掴んだ結果として、依所なき苦が熟す",
+        "toNext": "見れば、三宝と諸仏の教えへ向き直る",
+        "todayObserve": "恐怖に駆られて人は、山岳に、森林に、園苑に、聖樹に、種々なる依所を求む。 然れどもこは安全なる依所にあらず。 最上の依所にあらず。 かかる依所に赴くとも、一切の苦より脱することなし。",
+        "todayAction": "不安・恐怖を感じたとき、外側の安心だけに頼っていないか観る",
+        "when": [
+          "安心を外に求め過ぎた",
+          "苦から逃れられない"
+        ],
+        "sources": [
+          "DP14-P17"
+        ],
+        "leadQuote": "恐怖に怯えた人間たちは、まさに、帰依所として、多くのものに行き着く──諸々の山に…",
+        "secondaryObserve": "かかる依所に赴くとも、一切の苦より脱することなし"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "action",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正業",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "action",
+          "mindfulness"
+        ],
+        "pathLabel": "諸仏の教えどおりに行い、三宝に帰依して離す",
+        "chapterHint": "仏陀品（覚者の章）",
+        "fromPrev": "外への執着が流れを加速させる",
+        "toNext": "離すと、供養と和合の見直しへつながる",
+        "todayObserve": "一切の悪をなさず、善を行い、自己の心を浄む。 これ諸仏の教えなり。",
+        "todayAction": "今日一日の指針をこの三つにする",
+        "when": [
+          "教えどおりに生きたい",
+          "三宝に立ち返りたい"
+        ],
+        "sources": [
+          "DP14-P04",
+          "DP14-P05",
+          "DP14-P08",
+          "DP14-P09",
+          "DP14-P12",
+          "DP14-P13",
+          "DP14-P14",
+          "DP14-P16",
+          "DP14-P18",
+          "DP14-P19"
+        ],
+        "leadQuote": "一切の悪を為さないこと、善を成就すること、自らの心を遍く清めること──これは、覚…",
+        "secondaryObserve": "三宝に帰依し、四聖諦を見る"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "仏法僧の安楽と供養の功徳を見直す",
+        "chapterHint": "仏陀品（覚者の章）",
+        "fromPrev": "一日の行いは、和合と敬意の跡",
+        "toNext": "見直しが、翌朝の稀有な機会への気づきになる",
+        "todayObserve": "諸仏の現わるるは快く、正法を説くは快し。 僧衆の和合するは快く、和合せる人々の修行は快し。",
+        "todayAction": "今日、教えの言葉に触れる時間を「快い」と感じながら受け取る",
+        "when": [
+          "一日を閉じるとき",
+          "教えへの感謝を確かめる"
+        ],
+        "sources": [
+          "DP14-P21",
+          "DP14-P22",
+          "DP14-P23",
+          "DP14-P24"
+        ],
+        "leadQuote": "安楽なるは、覚者たちの生起あること。安楽なるは、正なる法（教え）の説示あること。…",
+        "secondaryObserve": "虚妄を超えた者への供養の功徳は計り知れない"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "仏陀品は諸仏の教えと三宝帰依による離しが中心。既定の焦点は離す。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP14-P01",
+      "category": "view",
+      "verse": 179,
+      "observe": "その勝利は決して凌駕せられず、その勝利にはこの世に於て何人も及ぶあたわざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。",
+      "action": "今朝、最良の在り方を目指して、まず一歩だけ踏み出す",
+      "quote": "彼の勝利は、失われることがない。彼の勝利に、世において、誰であれ、行き着くことはない。彼を、覚者（ブッダ）を、終極なき境涯の者を、〔特定の〕境処なき者を、どのような境処をもってして、〔あなたたちは〕導くというのだろう。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "覚者の勝利は失われず、誰も導けない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第179偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第179偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-001",
+          "text": "己勝不受惡，一切勝世間，叡智廓無疆，開蒙令入道。",
+          "satLocus": "大正蔵 T4.567b 述佛品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P02",
+      "category": "view",
+      "verse": 179,
+      "observe": "その勝利は決して凌駕せられず、その勝利にはこの世に於て何人も及ぶあたわざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。",
+      "action": "苦境の中で、「解放への道が存在する」と知りながら歩む",
+      "quote": "彼の勝利は、失われることがない。彼の勝利に、世において、誰であれ、行き着くことはない。彼を、覚者（ブッダ）を、終極なき境涯の者を、〔特定の〕境処なき者を、どのような境処をもってして、〔あなたたちは〕導くというのだろう。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "覚者の勝利は失われず、誰も導けない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第179偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第179偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-001",
+          "text": "己勝不受惡，一切勝世間，叡智廓無疆，開蒙令入道。",
+          "satLocus": "大正蔵 T4.567b 述佛品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P03",
+      "category": "mindfulness",
+      "verse": 180,
+      "observe": "羅網を具して纏綿（てんめん）たる愛欲すら、そを何処にも導き得ざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。",
+      "action": "欲求に引っ張られたとき、「この欲は私の主人ではない」と静かに知る",
+      "quote": "彼に、執着の網が〔存在せず〕、どこにであれ、誘い導くための渇愛が存在しないなら、彼を、覚者を、終極なき境涯の者を、〔特定の〕境処なき者を、どのような境処をもってして、〔あなたたちは〕導くというのだろう。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "渇愛の網すら覚者を導けない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第180偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第180偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-002",
+          "text": "決網無罣礙，愛盡無所積，佛意深無極，未踐迹令踐。",
+          "satLocus": "大正蔵 T4.567b 述佛品第2頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P04",
+      "category": "concentration",
+      "verse": 181,
+      "observe": "禅定に専念し、賢明にして出家の寂静を喜び、正覚を得て憶念に富む賢者は、諸天すらこれを羨む。",
+      "action": "今朝、静かに坐して一分だけ心を整えてから動き始める",
+      "quote": "彼ら、瞑想（禅・静慮：禅定の境地）を追求する慧者たち、離欲と寂止に喜びある者たち──彼らを、正覚者たちを、気づき（念）ある者たちを、天〔の神々〕たちもまた羨む。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "pathReason": "禅定と寂静を喜ぶ覚者を、天も羨む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第181偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第181偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-003",
+          "text": "勇健立一心，出家日夜滅，根斷無欲意，學正念清明。",
+          "satLocus": "大正蔵 T4.567b 述佛品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P05",
+      "category": "concentration",
+      "verse": 181,
+      "observe": "禅定に専念し、賢明にして出家の寂静を喜び、正覚を得て憶念に富む賢者は、諸天すらこれを羨む。",
+      "action": "今日の中に「静かさ・正念があった瞬間」を一つ見つけて振り返る",
+      "quote": "彼ら、瞑想（禅・静慮：禅定の境地）を追求する慧者たち、離欲と寂止に喜びある者たち──彼らを、正覚者たちを、気づき（念）ある者たちを、天〔の神々〕たちもまた羨む。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "pathReason": "禅定と寂静を喜ぶ覚者を、天も羨む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第181偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第181偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-003",
+          "text": "勇健立一心，出家日夜滅，根斷無欲意，學正念清明。",
+          "satLocus": "大正蔵 T4.567b 述佛品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P06",
+      "category": "view",
+      "verse": 182,
+      "observe": "人と生まるるは難く、人間の生存は難し。 妙法を聞くことは難く、諸仏の出世は難し。",
+      "action": "今朝、「今日も生きていること・教えを知っていること」を一息で感謝する",
+      "quote": "むずかしきは、人間〔の生〕の獲得あること。むずかしきは、死すべき者たちに生命あること。むずかしきは、正なる法（教え）の聴聞あること。むずかしきは、覚者たちの生起あること。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "人の生・法の聴聞・覚者の生起は難し",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第182偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第182偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-005",
+          "text": "得生人道難，生壽亦難得，世間有佛難，佛法難得聞。",
+          "satLocus": "大正蔵 T4.567b 述佛品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P07",
+      "category": "view",
+      "verse": 182,
+      "observe": "人と生まるるは難く、人間の生存は難し。 妙法を聞くことは難く、諸仏の出世は難し。",
+      "action": "今日の仕事を「稀有な機会の一つ」として丁寧に行う",
+      "quote": "むずかしきは、人間〔の生〕の獲得あること。むずかしきは、死すべき者たちに生命あること。むずかしきは、正なる法（教え）の聴聞あること。むずかしきは、覚者たちの生起あること。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "人の生・法の聴聞・覚者の生起は難し",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第182偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第182偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-005",
+          "text": "得生人道難，生壽亦難得，世間有佛難，佛法難得聞。",
+          "satLocus": "大正蔵 T4.567b 述佛品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P08",
+      "category": "action",
+      "verse": 183,
+      "observe": "一切の悪をなさず、善を行い、自己の心を浄む。 これ諸仏の教えなり。",
+      "action": "今日一日の指針をこの三つにする",
+      "quote": "一切の悪を為さないこと、善を成就すること、自らの心を遍く清めること──これは、覚者たちの教えである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "悪をなさず、善を行い、心を浄める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第183偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第183偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-011",
+          "text": "諸惡莫作，諸善奉行，自淨其意，是諸佛教。",
+          "satLocus": "大正蔵 T4.567b 述佛品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P09",
+      "category": "action",
+      "verse": 183,
+      "observe": "一切の悪をなさず、善を行い、自己の心を浄む。 これ諸仏の教えなり。",
+      "action": "三つのうち一つでも実践できたなら、それを明日の励みにする",
+      "quote": "一切の悪を為さないこと、善を成就すること、自らの心を遍く清めること──これは、覚者たちの教えである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "悪をなさず、善を行い、心を浄める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第183偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第183偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-011",
+          "text": "諸惡莫作，諸善奉行，自淨其意，是諸佛教。",
+          "satLocus": "大正蔵 T4.567b 述佛品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P10",
+      "category": "mindfulness",
+      "verse": 184,
+      "observe": "忍辱（にんにく）・忍受は最上の苦行にして、涅槃は最勝なりと諸仏は説く。 実に他を害する出家なく、他を悩ます沙門なし。",
+      "action": "今日、理不尽・不快に「忍耐」を一つ実践する",
+      "quote": "「忍耐と忍受は、最高の苦行である。涅槃は、最高〔の安楽〕である」〔と〕、覚者たちは説く。他者を害する者は、まさに、出家者にあらず。他者を悩ましている者が、沙門と成ることはない。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "忍辱は最上、他を害する者は出家にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第184偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第184偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-009",
+          "text": "觀行忍第一，佛說泥洹最，捨罪作沙門，無嬈害於彼。",
+          "satLocus": "大正蔵 T4.567b 述佛品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P11",
+      "category": "mindfulness",
+      "verse": 184,
+      "observe": "忍辱（にんにく）・忍受は最上の苦行にして、涅槃は最勝なりと諸仏は説く。 実に他を害する出家なく、他を悩ます沙門なし。",
+      "action": "今日、誰かを傷つける言動を一つ避ける",
+      "quote": "「忍耐と忍受は、最高の苦行である。涅槃は、最高〔の安楽〕である」〔と〕、覚者たちは説く。他者を害する者は、まさに、出家者にあらず。他者を悩ましている者が、沙門と成ることはない。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "忍辱は最上、他を害する者は出家にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第184偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第184偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-009",
+          "text": "觀行忍第一，佛說泥洹最，捨罪作沙門，無嬈害於彼。",
+          "satLocus": "大正蔵 T4.567b 述佛品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P12",
+      "category": "mindfulness",
+      "verse": 185,
+      "observe": "謗らず害（そこな）わず、戒律を厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。 これ諸仏の教えなり。",
+      "action": "今日、人を謗る言葉・陰口を一つ飲み込む",
+      "quote": "〔他者を〕批判しないこと、害さないこと、そして、戒条（波羅提木叉：戒律条項）において統御すること、かつまた、食について量を知ること、かつまた、辺境に臥坐すること、さらに、卓越の心（瞑想）に専念すること──これは、覚者たちの教えである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "謗らず害わず、戒・少食・独坐・禅定",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第185偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第185偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-010",
+          "text": "不嬈亦不惱，如戒一切持，少食捨身貪，有行幽隱處，意諦以有黠，是能奉佛教。",
+          "satLocus": "大正蔵 T4.567b 述佛品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P13",
+      "category": "mindfulness",
+      "verse": 185,
+      "observe": "謗らず害（そこな）わず、戒律を厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。 これ諸仏の教えなり。",
+      "action": "今日の食事で「適量」を意識して守る",
+      "quote": "〔他者を〕批判しないこと、害さないこと、そして、戒条（波羅提木叉：戒律条項）において統御すること、かつまた、食について量を知ること、かつまた、辺境に臥坐すること、さらに、卓越の心（瞑想）に専念すること──これは、覚者たちの教えである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "謗らず害わず、戒・少食・独坐・禅定",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第185偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第185偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-010",
+          "text": "不嬈亦不惱，如戒一切持，少食捨身貪，有行幽隱處，意諦以有黠，是能奉佛教。",
+          "satLocus": "大正蔵 T4.567b 述佛品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P14",
+      "category": "mindfulness",
+      "verse": 185,
+      "observe": "謗らず害（そこな）わず、戒律を厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。 これ諸仏の教えなり。",
+      "action": "今日、静かに一人で考える時間を15分確保する",
+      "quote": "〔他者を〕批判しないこと、害さないこと、そして、戒条（波羅提木叉：戒律条項）において統御すること、かつまた、食について量を知ること、かつまた、辺境に臥坐すること、さらに、卓越の心（瞑想）に専念すること──これは、覚者たちの教えである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "謗らず害わず、戒・少食・独坐・禅定",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第185偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第185偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-010",
+          "text": "不嬈亦不惱，如戒一切持，少食捨身貪，有行幽隱處，意諦以有黠，是能奉佛教。",
+          "satLocus": "大正蔵 T4.567b 述佛品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P15",
+      "category": "mindfulness",
+      "verse": 186,
+      "observe": "金貨の雨によりても欲心の満足あることなし。 欲は甘味少なく苦なりと知りて賢者は、",
+      "action": "「もっと欲しい」と思ったとき、欲は永遠に満たされないと静かに知る",
+      "quote": "諸々の欲望〔の対象〕にたいし、貨幣の雨をもってしても、満足〔の思い〕は見出されない。「諸々の欲望〔の対象〕は、悦楽少なく、苦しみである」〔と〕、かくのごとく識知して、賢者は──",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "欲は甘味少なく苦、満足はない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第186偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第186偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "利養品（T210 第33品）",
+          "t210": "T210-33-003",
+          "text": "天雨七寶，欲猶無厭，樂少苦多，覺者為賢。",
+          "satLocus": "大正蔵 T4.569c 利養品第3頌",
+          "note": "パーリ覚者の章186はT210述佛品ではなく利養品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/"
+        }
+      }
+    },
+    {
+      "id": "DP14-P16",
+      "category": "mindfulness",
+      "verse": 187,
+      "observe": "天上の欲楽に於ても喜悦せず。 正等覚者の弟子は愛欲を滅尽するを喜ぶ。",
+      "action": "快楽・享楽より「欲から自由である状態」を今日少しだけ育てる",
+      "quote": "彼は、天の諸々の欲望〔の対象〕にたいしてさえも、喜びには到達しない。渇愛の滅尽に喜びある者が、正等覚者（ブッダ）の弟子と成る。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "天上の欲楽にも喜悦せず、渇愛を滅す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第187偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第187偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "利養品（T210 第33品）",
+          "t210": "T210-33-004",
+          "text": "雖有天欲，慧捨無貪，樂離恩愛，為佛弟子。",
+          "satLocus": "大正蔵 T4.569c 利養品第4頌",
+          "note": "パーリ覚者の章187はT210述佛品ではなく利養品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/"
+        }
+      }
+    },
+    {
+      "id": "DP14-P17",
+      "category": "view",
+      "verse": 188,
+      "observe": "恐怖に駆られて人は、山岳に、森林に、園苑に、聖樹に、種々なる依所を求む。 然れどもこは安全なる依所にあらず。 最上の依所にあらず。 かかる依所に赴くとも、一切の苦より脱することなし。",
+      "action": "不安・恐怖を感じたとき、外側の安心だけに頼っていないか観る",
+      "quote": "恐怖に怯えた人間たちは、まさに、帰依所として、多くのものに行き着く──諸々の山に、さらに、諸々の林に、諸々の林園や樹木や塔廟に。 まさに、この帰依所は、平安にあらず。この帰依所は、最上にあらず。この帰依所を頼りにしても、一切の苦しみからは解放されない。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "恐怖で外の依所を求めても、苦から解放されない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第188-189偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第188-189偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-014",
+          "text": "或多自歸，山川樹神，廟立圖像，祭祀求福。",
+          "satLocus": "大正蔵 T4.567b 述佛品第14頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P18",
+      "category": "view",
+      "verse": 190,
+      "observe": "仏と法と僧とに帰依する者は、正智によりて四種の聖諦を見る。 苦と、苦の因と、苦の滅と、苦の滅尽に至る八支の聖道、〔すなわちこれなり〕。 こは安全なる依所なり。 最上の依所なり。 かかる依所に赴きて、一切の苦より脱す。",
+      "action": "今朝、三宝を心の拠り所として静かに一念する",
+      "quote": "しかしながら、彼が、帰依所として、そして、覚者（仏：ブッダ）のもとに、かつまた、法（法：ダンマ）のもとに、さらに、僧団（僧：サンガ）のもとに、赴いたなら、〔彼は〕四つの聖なる真理（四聖諦）を、正しい智慧によって見る。 苦しみを、苦しみの生起を、そして、苦しみの超越を、さらに、苦しみの寂止に至る、聖なる八つの支分ある道（八正道・八聖道）を、〔これらの四つの聖なる真理を見る〕。 まさに、この帰依所は、平安である。この帰依所は、最上である。この帰依所を頼りにして、一切の苦しみから解放される。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "三宝に帰依し、四聖諦を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第190-192偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第190-192偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-016",
+          "text": "如有自歸，佛法聖眾，道德四諦，必見正慧。",
+          "satLocus": "大正蔵 T4.567b 述佛品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P19",
+      "category": "view",
+      "verse": 190,
+      "observe": "仏と法と僧とに帰依する者は、正智によりて四種の聖諦を見る。 苦と、苦の因と、苦の滅と、苦の滅尽に至る八支の聖道、〔すなわちこれなり〕。 こは安全なる依所なり。 最上の依所なり。 かかる依所に赴きて、一切の苦より脱す。",
+      "action": "苦しいとき、外の慰めより真理・教え・善き仲間に立ち返る",
+      "quote": "しかしながら、彼が、帰依所として、そして、覚者（仏：ブッダ）のもとに、かつまた、法（法：ダンマ）のもとに、さらに、僧団（僧：サンガ）のもとに、赴いたなら、〔彼は〕四つの聖なる真理（四聖諦）を、正しい智慧によって見る。 苦しみを、苦しみの生起を、そして、苦しみの超越を、さらに、苦しみの寂止に至る、聖なる八つの支分ある道（八正道・八聖道）を、〔これらの四つの聖なる真理を見る〕。 まさに、この帰依所は、平安である。この帰依所は、最上である。この帰依所を頼りにして、一切の苦しみから解放される。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "三宝に帰依し、四聖諦を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第190-192偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第190-192偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-016",
+          "text": "如有自歸，佛法聖眾，道德四諦，必見正慧。",
+          "satLocus": "大正蔵 T4.567b 述佛品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P20",
+      "category": "view",
+      "verse": 193,
+      "observe": "聖者は得難し。 彼は随所に生まるるものにあらず。 かかる賢者の生まるる所、その氏族は繁栄す。",
+      "action": "今日、良き師・善知識の存在を軽んぜず、敬意を示す",
+      "quote": "得難きは、善き生まれの人士である。彼は、一切所において生まれず、そこにおいて、その慧者が生まれるなら、その家は、安楽に満ち栄える。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "聖者は得難く、生まれる所は安楽に栄える",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第193偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第193偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-020",
+          "text": "明人難值，亦不比有，其所生處，族親蒙慶。",
+          "satLocus": "大正蔵 T4.567c 述佛品第20頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P21",
+      "category": "mindfulness",
+      "verse": 194,
+      "observe": "諸仏の現わるるは快く、正法を説くは快し。 僧衆の和合するは快く、和合せる人々の修行は快し。",
+      "action": "今日、教えの言葉に触れる時間を「快い」と感じながら受け取る",
+      "quote": "安楽なるは、覚者たちの生起あること。安楽なるは、正なる法（教え）の説示あること。安楽なるは、僧団の和合あること。和合者たちの苦行は、安楽である。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "仏出世・正法・僧和合・修行は安楽",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第194偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第194偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-021",
+          "text": "諸佛興快，說經道快，眾聚和快，和則常安。",
+          "satLocus": "大正蔵 T4.567c 述佛品第21頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P22",
+      "category": "mindfulness",
+      "verse": 194,
+      "observe": "諸仏の現わるるは快く、正法を説くは快し。 僧衆の和合するは快く、和合せる人々の修行は快し。",
+      "action": "今日、良き仲間と過ごす時間を一つ大切にする",
+      "quote": "安楽なるは、覚者たちの生起あること。安楽なるは、正なる法（教え）の説示あること。安楽なるは、僧団の和合あること。和合者たちの苦行は、安楽である。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "仏出世・正法・僧和合・修行は安楽",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第194偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第194偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "述佛品（T210 第22品）",
+          "t210": "T210-22-021",
+          "text": "諸佛興快，說經道快，眾聚和快，和則常安。",
+          "satLocus": "大正蔵 T4.567c 述佛品第21頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP14-P23",
+      "category": "mindfulness",
+      "verse": 195,
+      "observe": "まさに供養を受くべき、虚妄を逸脱し憂患を超越せる仏陀、或いは仏弟子を供養する者、 この如き寂静にして畏怖なき人を供養する者の、その大功徳は、何人によりても計量せられ難し。",
+      "action": "今日、真に尊敬できる人や教えに敬意を示す行動を一つする",
+      "quote": "覚者たちを、もしくは、弟子たちであろうが、供養に値する者たちを供養しているなら──戯論（分別妄想）を超え行き、憂いと嘆きを超え渡った者たちを〔供養しているなら〕── 涅槃に到達し、何も恐れない、そのような者たちである、彼らを供養しているなら──この功徳〔の量〕を、これなるものと計測するのは、たとえ、何をもってしても、できないであろう（その功徳の量は計り知れない）。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "虚妄を超えた者への供養",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第195-196偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第195-196偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ覚者の章195はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/"
+        }
+      }
+    },
+    {
+      "id": "DP14-P24",
+      "category": "mindfulness",
+      "verse": 195,
+      "observe": "まさに供養を受くべき、虚妄を逸脱し憂患を超越せる仏陀、或いは仏弟子を供養する者、 この如き寂静にして畏怖なき人を供養する者の、その大功徳は、何人によりても計量せられ難し。",
+      "action": "今日の善い出会い・教えへの感謝を一つ書き留める",
+      "quote": "覚者たちを、もしくは、弟子たちであろうが、供養に値する者たちを供養しているなら──戯論（分別妄想）を超え行き、憂いと嘆きを超え渡った者たちを〔供養しているなら〕── 涅槃に到達し、何も恐れない、そのような者たちである、彼らを供養しているなら──この功徳〔の量〕を、これなるものと計測するのは、たとえ、何をもってしても、できないであろう（その功徳の量は計り知れない）。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "虚妄を超えた者への供養",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 覚者の章 第195-196偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１４章・仏陀品 第195-196偈（#ch02-14）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-14"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ覚者の章195はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0567",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap14/"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "179": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "覚者の勝利は失われず、誰も導けない"
+    },
+    "180": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "渇愛の網すら覚者を導けない"
+    },
+    "181": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "reason": "禅定と寂静を喜ぶ覚者を、天も羨む"
+    },
+    "182": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "人の生・法の聴聞・覚者の生起は難し"
+    },
+    "183": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "悪をなさず、善を行い、心を浄める"
+    },
+    "184": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "忍辱は最上、他を害する者は出家にあらず"
+    },
+    "185": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "謗らず害わず、戒・少食・独坐・禅定"
+    },
+    "186": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "欲は甘味少なく苦、満足はない"
+    },
+    "187": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "天上の欲楽にも喜悦せず、渇愛を滅す"
+    },
+    "188": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "恐怖で外の依所を求めても、苦から解放されない"
+    },
+    "189": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "外の依所では一切の苦から解放されない"
+    },
+    "190": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "三宝に帰依し、四聖諦を見る"
+    },
+    "191": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "苦・集・滅・道を正智で見る"
+    },
+    "192": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "三宝の帰依は最上の依所"
+    },
+    "193": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "聖者は得難く、生まれる所は安楽に栄える"
+    },
+    "194": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "仏出世・正法・僧和合・修行は安楽"
+    },
+    "195": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "虚妄を超えた者への供養"
+    },
+    "196": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "その功徳は計り知れない"
+    }
+  }
+}

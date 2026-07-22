@@ -1,0 +1,820 @@
+{
+  "chapter": 27,
+  "sutta": 27,
+  "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+  "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+  "mapNote": "根本五十経篇 · 譬喩法品（アラナ：象跡の喩えの小経）",
+  "suttas": [
+    "MN 27 象跡喩小経（象跡の喩えの小経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第27経（象跡喩小経／象跡の喩えの小経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリMN27（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含146象跡喻経（T26）。足跡だけでは結論せず、漏尽で初めて「正等覚·法善説·僧善趣」と結論する。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・象跡の喩えの小経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・象跡喻経（T1.656c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+        "note": "善象師·在家出家·戒·知足·根·禅·漏尽。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+    "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "action"
+        ],
+        "pathLabel": "足跡に触れても結論を急がず、学処を意識する",
+        "chapterHint": "象跡喩小経（象跡の喩えの小経）",
+        "fromPrev": "見直しが、今朝の段階確認を変える",
+        "toNext": "触のあと、衣食·飲食の受が見える",
+        "todayObserve": "熟練の象追跡者——大きな足跡だけでは「大きな牡象」と結論しない。実物を見るまで追う——修行の次の段階に飛びつかず、今の段階を確認する。",
+        "todayAction": "修行の次の段階に飛びつかず、今の段階を確認する",
+        "when": [
+          "段階を確認した",
+          "戒を意識した"
+        ],
+        "sources": [
+          "MN27-P01",
+          "MN27-P03"
+        ],
+        "leadQuote": "婆羅門よ、象跡の喩えは、まだ詳細に完成されていません。……熟練した牡象の追跡者は…",
+        "secondaryObserve": "出家して学処·別解脱を守護し、微細な罪にも畏怖を懐く——五戒·語四のうち守るべき一つを意識する。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正命"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "livelihood"
+        ],
+        "pathLabel": "知足と飲食の正知で受を見る",
+        "chapterHint": "象跡喩小経（象跡の喩えの小経）",
+        "fromPrev": "接触のあと、足りる·味わう受が立つ",
+        "toNext": "受に乗ると享楽·在家の欲しがりへ",
+        "todayObserve": "衣は覆形、食は充躯——鷹が翼とともに飛ぶように知足——足りているものに目を向け、欲を一段減らす。",
+        "todayAction": "足りているものに目を向け、欲を一段減らす",
+        "when": [
+          "足りていると見た",
+          "食事に正知した"
+        ],
+        "sources": [
+          "MN27-P05",
+          "MN27-P07"
+        ],
+        "leadQuote": "彼は、この聖なる戒聚を成就して、さらに、きわめて知足を行じます。衣は形を覆うため…",
+        "secondaryObserve": "出入·屈伸·飲食·語黙に正知——食事の最初の三口に、覚知を置く。"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "在家の塵労と享楽への欲しがりを減らす",
+        "chapterHint": "象跡喩小経（象跡の喩えの小経）",
+        "fromPrev": "受のあと、障害·娯楽への欲しがりが立つ",
+        "toNext": "止めないと眼門の掴みへ",
+        "todayObserve": "在家は狭く塵労——信を得て家から家なきへ。障害を一つ減らす——在家の中で障害を一つ減らす行いをする。",
+        "todayAction": "在家の中で障害を一つ減らす行いをする",
+        "when": [
+          "障害を一つ減らした",
+          "享楽を節度した"
+        ],
+        "sources": [
+          "MN27-P02",
+          "MN27-P04"
+        ],
+        "leadQuote": "在家者、あるいは、在家の子……が、その法を聞きます。……『在家の生活は、狭く、塵…",
+        "secondaryObserve": "時ならぬ食·歌舞観覧等を遠ざける聖戒——今日、一つの享楽（SNS·娯楽）を節度する。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "眼門への掴みを護り、相を味わわない",
+        "chapterHint": "象跡喩小経（象跡の喩えの小経）",
+        "fromPrev": "欲しがりのあと、色·相の掴みが手前",
+        "toNext": "掴むと業の苦が見える",
+        "todayObserve": "諸根を守護——色を見ても想を味わわず、眼門を護る——スマホを開く前に「眼の門を護る」と一呼吸置く。",
+        "todayAction": "スマホを開く前に「眼の門を護る」と一呼吸置く",
+        "when": [
+          "スマホを開く前",
+          "眼門を護った"
+        ],
+        "sources": [
+          "MN27-P06"
+        ],
+        "leadQuote": "……さらに、諸々の根を守護し……正念によって閉塞し……恒に正知を起こします。もし…",
+        "secondaryObserve": "守護眼根"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "view",
+          "action"
+        ],
+        "pathLabel": "行い·業が苦の趣を分けると見る",
+        "chapterHint": "象跡喩小経（象跡の喩えの小経）",
+        "fromPrev": "掴んだ結果として、業の患が見える",
+        "toNext": "見れば、五蓋の対治と定へ",
+        "todayObserve": "有情の死·再生の智——業の差異をあるがままに見る。身口意は善か不善か——今日の身口意の行いが、善業か不善業か確かめる。",
+        "todayAction": "今日の身口意の行いが、善業か不善業か確かめる",
+        "when": [
+          "善不善を確かめた",
+          "来世の因を問うた"
+        ],
+        "sources": [
+          "MN27-P10",
+          "MN27-P11"
+        ],
+        "leadQuote": "……彼は、有情の死と再生の智へ心を向けます。……業の差異により、有情が劣った処·…",
+        "secondaryObserve": "宿命随念の智——足跡だがいまだ結論ではない。行いが来世の因になりうるか——今日の行いが「来世の因」になりうるか、静かに問う。"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "concentration",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正定",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "concentration",
+          "effort"
+        ],
+        "pathLabel": "五蓋を対治し、如来の足跡としての定へ離す",
+        "chapterHint": "象跡喩小経（象跡の喩えの小経）",
+        "fromPrev": "苦が見えれば、蓋を名づけて離す",
+        "toNext": "離せば、結論を急がない見直しへ",
+        "todayObserve": "五蓋を断じ初禅——如来の足跡だが、いまだ結論しない——修行を妨げた蓋を一つ名づけ、対治する。",
+        "todayAction": "修行を妨げた蓋を一つ名づけ、対治する",
+        "when": [
+          "蓋を名づけた",
+          "定に向かった"
+        ],
+        "sources": [
+          "MN27-P08"
+        ],
+        "leadQuote": "彼は、この五蓋——心の穢れであり、慧を羸弱にするもの——を断じ、諸々の欲望から離…",
+        "secondaryObserve": "如來所屈"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "view",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "進歩を足跡として見直し、漏尽まで結論を急がない",
+        "chapterHint": "象跡喩小経（象跡の喩えの小経）",
+        "fromPrev": "一日の段階は、朝からの追跡の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "二·三·四禅も足跡——小さな進歩に満足せず、結論を急がない——小さな進歩に満足せず、次の段階を謙虚に見る。",
+        "todayAction": "小さな進歩に満足せず、次の段階を謙虚に見る",
+        "when": [
+          "一日を閉じるとき",
+          "未証を言わなかった夜"
+        ],
+        "sources": [
+          "MN27-P09",
+          "MN27-P12"
+        ],
+        "leadQuote": "……第二禅……第三禅……第四禅……。婆羅門よ、これが、『如来の足跡』……と説かれ…",
+        "secondaryObserve": "漏尽——ここで初めて「正等覚·法善説·僧善趣」の結論。未証を知ったと言わない——未証のことを「知った」と言わない。"
+      }
+    ],
+    "focusNodeId": "review",
+    "focusReason": "象跡喩小経は足跡だけでは結論せず、漏尽で初めて結論するのが主題。既定の焦点は見直す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN27-P01",
+      "category": "mindfulness",
+      "ref": "MN 27",
+      "section": "象跡·結論を急がない",
+      "observe": "熟練の象追跡者——大きな足跡だけでは「大きな牡象」と結論しない。実物を見るまで追う——修行の次の段階に飛びつかず、今の段階を確認する。",
+      "action": "修行の次の段階に飛びつかず、今の段階を確認する",
+      "quote": "婆羅門よ、象跡の喩えは、まだ詳細に完成されていません。……熟練した牡象の追跡者は、長大で広大な大きな象の足跡を見ても、いまだ、『これは、まさに、大きな牡象である』と結論を下しません。……矮小な牝象……高い牝象……母象……にも大きな足跡があるからです。……根もとに、あるいは、露地に、歩み·立ち·坐り·横たわっている、その牡象を見るとき、そこで、『これは、かの大きな牡象である』と結論を下します。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "足跡に触れても結論を急がず、今の段階を確認する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·象跡·結論を急がない",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-tracker",
+          "text": "卑盧異學說象跡喻，猶不善作，亦不具足……。譬善象師……見大象跡……或不信……及見彼象……便作是念：『若有此跡，必是大象。』",
+          "satLocus": "大正蔵 T1.656c 象跡喻経",
+          "note": "不善作不具足＝まだ詳細に完成されていない。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P02",
+      "category": "intention",
+      "ref": "MN 27",
+      "section": "在家·出家",
+      "observe": "在家は狭く塵労——信を得て家から家なきへ。障害を一つ減らす——在家の中で障害を一つ減らす行いをする。",
+      "action": "在家の中で障害を一つ減らす行いをする",
+      "quote": "在家者、あるいは、在家の子……が、その法を聞きます。……『在家の生活は、狭く、塵労の処である。出家は、露わで広大である。……わたしは、いま、在家にあって、鎖に鎖されている。……それなら、さあ、わたしは……剃除して袈裟を着け、信をもって家から家なきへ出家しよう』と。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正命"
+      ],
+      "pathReason": "在家の塵労への欲しがりを減らし、障害を一つ落とす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·在家·出家",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-pabbajja",
+          "text": "在家至狹，塵勞之處，出家學道，發露曠大。……至信、捨家、無家、學道。",
+          "satLocus": "大正蔵 T1.656c–657a 象跡喻経",
+          "note": "在家至狭·出家曠大。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P03",
+      "category": "action",
+      "ref": "MN 27",
+      "section": "学処·戒",
+      "observe": "出家して学処·別解脱を守護し、微細な罪にも畏怖を懐く——五戒·語四のうち守るべき一つを意識する。",
+      "action": "五戒·語四のうち守るべき一つを意識する",
+      "quote": "彼は、出家して……禁戒を修習し、別解脱を守護します。……威儀·礼節を善く摂し、微細な罪をも見て畏怖を懐き、学処を受持します。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "学処に触れ、守るべき戒を一つ意識する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·学処·戒",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-sila",
+          "text": "出家已……修習禁戒，守護從解脫。……見纖芥罪，常懷畏怖，受持學戒。",
+          "satLocus": "大正蔵 T1.657a 象跡喻経",
+          "note": "禁戒·從解脱＝学処·別解脱。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P04",
+      "category": "intention",
+      "ref": "MN 27",
+      "section": "享楽を遠ざける",
+      "observe": "時ならぬ食·歌舞観覧等を遠ざける聖戒——今日、一つの享楽（SNS·娯楽）を節度する。",
+      "action": "今日、一つの享楽（SNS·娯楽）を節度する",
+      "quote": "……時ならぬ食を捨て……歌舞·音楽·演劇の観覧を遠ざける……。（聖なる戒聚の一部——享楽·装飾·金銀等から離れる学処。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "享楽への欲しがりを節度する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·享楽を遠ざける",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-restraint",
+          "text": "（聖戒聚の中に、非時食·観聴等を離れる学処が含まれる。）",
+          "satLocus": "大正蔵 T1.657a–b 象跡喻経",
+          "note": "享楽を遠ざける戒支。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P05",
+      "category": "livelihood",
+      "ref": "MN 27",
+      "section": "知足",
+      "observe": "衣は覆形、食は充躯——鷹が翼とともに飛ぶように知足——足りているものに目を向け、欲を一段減らす。",
+      "action": "足りているものに目を向け、欲を一段減らす",
+      "quote": "彼は、この聖なる戒聚を成就して、さらに、きわめて知足を行じます。衣は形を覆うために取り、食は躯を充たすために取ります。……あたかも、また、鷹が、両翼とともに空中を飛翔するように。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "足りている衣食の受に知足し、欲を一段減らす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·知足",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-santutthi",
+          "text": "復行極知足，衣取覆形，食取充軀……猶如鷹鳥，與兩翅俱，飛翔空中。",
+          "satLocus": "大正蔵 T1.657b 象跡喻経",
+          "note": "極知足·鷹鳥の喩。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P06",
+      "category": "mindfulness",
+      "ref": "MN 27",
+      "section": "根の守護",
+      "observe": "諸根を守護——色を見ても想を味わわず、眼門を護る——スマホを開く前に「眼の門を護る」と一呼吸置く。",
+      "action": "スマホを開く前に「眼の門を護る」と一呼吸置く",
+      "quote": "……さらに、諸々の根を守護し……正念によって閉塞し……恒に正知を起こします。もし、眼によって色を見るも、想を受けず、また、色を味わわず……眼根を守護します。……耳·鼻·舌·身·意についても、また、同様です。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "眼門への掴みを護り、相を味わわない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·根の守護",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-indriya",
+          "text": "復守護諸根……若眼見色，然不受想，亦不味色……守護眼根。",
+          "satLocus": "大正蔵 T1.657b 象跡喻経",
+          "note": "守護諸根。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P07",
+      "category": "mindfulness",
+      "ref": "MN 27",
+      "section": "正知",
+      "observe": "出入·屈伸·飲食·語黙に正知——食事の最初の三口に、覚知を置く。",
+      "action": "食事の最初の三口に、覚知を置く",
+      "quote": "……さらに、出入に正知し……屈伸·低仰……衣鉢を善く著け、行·住·坐·臥、眠·寤·語·黙、すべてにおいて正知します。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "飲食の受に正知を置く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·正知",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-sampajanna",
+          "text": "復正知出入……行住坐臥，眠寤語默，皆正知之。",
+          "satLocus": "大正蔵 T1.657c 象跡喻経",
+          "note": "正知出入。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P08",
+      "category": "concentration",
+      "ref": "MN 27",
+      "section": "五蓋·初禅",
+      "observe": "五蓋を断じ初禅——如来の足跡だが、いまだ結論しない——修行を妨げた蓋を一つ名づけ、対治する。",
+      "action": "修行を妨げた蓋を一つ名づけ、対治する",
+      "quote": "彼は、この五蓋——心の穢れであり、慧を羸弱にするもの——を断じ、諸々の欲望から離れ、諸々の不善の法から離れ、有覚·有観、離より生じる喜·楽ある、初禅を成就して遊行します。婆羅門よ、これが、『如来の足跡』……と説かれます。しかしながら、聖なる弟子は、いまだ、これをもって結論を下しません。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正精進"
+      ],
+      "pathReason": "五蓋を名づけ対治し、初禅の足跡へ離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·五蓋·初禅",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-jhana",
+          "text": "彼斷此五蓋、心穢、慧羸，離欲、離惡不善之法……逮初禪成就遊。是謂如來所屈……然彼不以此為訖……。",
+          "satLocus": "大正蔵 T1.657c 象跡喻経",
+          "note": "五蓋·初禅·不以此為訖。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P09",
+      "category": "view",
+      "ref": "MN 27",
+      "section": "禅定·いまだ結論せず",
+      "observe": "二·三·四禅も足跡——小さな進歩に満足せず、結論を急がない——小さな進歩に満足せず、次の段階を謙虚に見る。",
+      "action": "小さな進歩に満足せず、次の段階を謙虚に見る",
+      "quote": "……第二禅……第三禅……第四禅……。婆羅門よ、これが、『如来の足跡』……と説かれます。しかしながら、聖なる弟子は、いまだ、『世尊は正等覚である。法は善く説かれ、僧伽は善く趣いている』と結論を下しません。（結論へ向かいつつあるが、いまだ至っていない。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "禅定の進歩を足跡として見直し、結論を急がない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·禅定·いまだ結論せず",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-not-yet",
+          "text": "逮第二禪……第三……第四……。然彼不以此為訖，世尊……等正覺……聖眾善趣。",
+          "satLocus": "大正蔵 T1.657c–658a 象跡喻経",
+          "note": "不以此為訖＝いまだ結論せず。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P10",
+      "category": "view",
+      "ref": "MN 27",
+      "section": "宿命智",
+      "observe": "宿命随念の智——足跡だがいまだ結論ではない。行いが来世の因になりうるか——今日の行いが「来世の因」になりうるか、静かに問う。",
+      "action": "今日の行いが「来世の因」になりうるか、静かに問う",
+      "quote": "このように定心が……不動と成ったとき、彼は、宿命智通の証得へ心を向けます。彼は、多くの種類の過去の生を……特徴と詳細とともに随念します。婆羅門よ、これもまた、『如来の足跡』……と説かれます。しかしながら、聖なる弟子は、いまだ、これをもって結論を下しません。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "行いが苦の因になりうるかを宿命の視点で見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·宿命智",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-pubbe",
+          "text": "（定心清淨已，趣向宿命智通——漢訳も三明の流れで説く。）",
+          "satLocus": "大正蔵 T1.658a 象跡喻経",
+          "note": "宿命智＝如来所屈の一だが未だ訖に非ず。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P11",
+      "category": "view",
+      "ref": "MN 27",
+      "section": "死生智",
+      "observe": "有情の死·再生の智——業の差異をあるがままに見る。身口意は善か不善か——今日の身口意の行いが、善業か不善業か確かめる。",
+      "action": "今日の身口意の行いが、善業か不善業か確かめる",
+      "quote": "……彼は、有情の死と再生の智へ心を向けます。……業の差異により、有情が劣った処·勝れた処へ趣くことを、あるがままに見ます。婆羅門よ、これもまた、『如来の足跡』……と説かれます。しかしながら、聖なる弟子は、いまだ、これをもって結論を下しません。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正業"
+      ],
+      "pathReason": "身口意の業が趣の苦·楽を分けると見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·死生智",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-cutupapata",
+          "text": "（趣向生死智——業により趣くを如実に見る。）",
+          "satLocus": "大正蔵 T1.658a 象跡喻経",
+          "note": "死生智。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN27-P12",
+      "category": "view",
+      "ref": "MN 27",
+      "section": "漏尽·結論の完成",
+      "observe": "漏尽——ここで初めて「正等覚·法善説·僧善趣」の結論。未証を知ったと言わない——未証のことを「知った」と言わない。",
+      "action": "未証のことを「知った」と言わない",
+      "quote": "……彼は、漏尽智通の証得へ心を向けます。『これは、諸々の漏である』……『これは、漏の滅尽へ至る道である』と、如実に了知します。……欲漏……有漏……無明漏から心が解脱します。……『生は滅尽し、梵行は完成された。為すべきことは為された。〔もはや〕他に、この場へと〔赴くことは〕ない』と了知します。婆羅門よ、ここで、聖なる弟子は、結論に至ります——『世尊は正等覚である。法は善く説かれ、僧伽は善く趣いている』と。……この点において、象跡の喩えは、詳細に完成されました。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "漏尽の結論まで未証を知ったと言わず見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・象跡の喩えの小経／パーリMN27）",
+          "locus": "中部・象跡の喩えの小経（MN27）·漏尽·結論の完成",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 象跡喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含146・象跡喻経（T26）",
+          "t26": "T26-146-asava",
+          "text": "趣向漏盡智通作證……解脫已，便知解脫，生已盡，梵行已立，所作已辦，不更受有，知如真。彼以此為訖，世尊……等正覺，世尊所說法善，如來弟子聖眾善趣。",
+          "satLocus": "大正蔵 T1.658a 象跡喻経",
+          "note": "以此為訖＝ここで結論が完成。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0656c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

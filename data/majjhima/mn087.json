@@ -1,0 +1,424 @@
+{
+  "chapter": 87,
+  "sutta": 87,
+  "title": "中部 第87経（愛生経）",
+  "shortTitle": "愛生経",
+  "mapNote": "中分五十経篇 · 王品",
+  "suttas": [
+    "MN 87 愛生経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "suffering",
+    "focusReason": "愛生経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第87経（愛生経）",
+    "shortTitle": "愛生経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "愛生経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN87-P03",
+          "MN87-P06"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "愛生経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN87-P03",
+          "MN87-P08"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "愛生経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN87-P04",
+          "MN87-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "愛生経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN87-P04",
+          "MN87-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦の立ち上がりを正見で見る",
+        "chapterHint": "愛生経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN87-P01",
+          "MN87-P02",
+          "MN87-P07"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "愛生経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN87-P03",
+          "MN87-P06"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "愛生経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN87-P06",
+          "MN87-P11"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN87-P01",
+      "category": "suffering",
+      "ref": "MN 87",
+      "section": "導",
+      "observe": "父は、愛する息子の死に、深く苦しんだ",
+      "action": "失ったものへの悲しみを、避けずに認める",
+      "quote": "我が子が死んだ——我、どうして生きるべきか"
+    },
+    {
+      "id": "MN87-P02",
+      "category": "suffering",
+      "ref": "MN 87",
+      "section": "愛",
+      "observe": "世尊の教え——愛あるだから、憂いある",
+      "action": "執着の対象を一つ、名付けて観る",
+      "quote": "愛ある故に、憂いある。愛ある故に、恐怖ある"
+    },
+    {
+      "id": "MN87-P03",
+      "category": "prep",
+      "ref": "MN 87",
+      "section": "十想",
+      "observe": "世尊は、比丘に十の想を教えた——無常·不浄·苦等",
+      "action": "今日、無常想を一つ、具体物に当てはめる",
+      "quote": "比丘たち、この十の想を修せ——無常想·不浄想·苦想·無我想"
+    },
+    {
+      "id": "MN87-P04",
+      "category": "desire",
+      "ref": "MN 87",
+      "section": "愛",
+      "observe": "愛は、憂い·恐怖·苦の種である",
+      "action": "愛着が強いものに、無常を一瞬付け加える",
+      "quote": "愛ある故に、憂いある。愛ある故に、苦ある"
+    },
+    {
+      "id": "MN87-P05",
+      "category": "people",
+      "ref": "MN 87",
+      "section": "父",
+      "observe": "父は、法を聞いて、一部分の苦を超えた",
+      "action": "苦しむ人に、法の一節を、時宜に合わせて示す",
+      "quote": "父は、法を聞いて、一部分の苦を超えた"
+    },
+    {
+      "id": "MN87-P06",
+      "category": "work",
+      "ref": "MN 87",
+      "section": "十想",
+      "observe": "十の想を修すれば、愛着を弱める",
+      "action": "今日、十想の一つを、五呼吸修する",
+      "quote": "この十の想を修する者は、愛着を除く"
+    },
+    {
+      "id": "MN87-P07",
+      "category": "suffering",
+      "ref": "MN 87",
+      "section": "縁起",
+      "observe": "愛は、触·受から生じる",
+      "action": "悲しみの連鎖を、触→受→愛と辿る",
+      "quote": "触缘受、受缘爱——爱ある故に、憂いある"
+    },
+    {
+      "id": "MN87-P08",
+      "category": "prep",
+      "ref": "MN 87",
+      "section": "無常",
+      "observe": "無常想は、愛着の執着を除く",
+      "action": "愛する人·物に、無常を一呼吸付け加える",
+      "quote": "無常想を修する者は、我見を除く"
+    },
+    {
+      "id": "MN87-P09",
+      "category": "desire",
+      "ref": "MN 87",
+      "section": "不浄",
+      "observe": "不浄想は、欲を除く",
+      "action": "欲が起きたら、不浄想を一つ思い出す",
+      "quote": "不浄想を修する者は、欲を除く"
+    },
+    {
+      "id": "MN87-P10",
+      "category": "speech",
+      "ref": "MN 87",
+      "section": "教誡",
+      "observe": "世尊は、愛の苦を、あるがままにに説いた",
+      "action": "今日、愛の苦を語るとき、縁起を添える",
+      "quote": "爱ある故に、憂いある——如実に知るべきである"
+    },
+    {
+      "id": "MN87-P11",
+      "category": "night",
+      "ref": "MN 87",
+      "section": "結",
+      "observe": "愛あるだから憂いある——夜、今日の愛着を一つ振り返る",
+      "action": "就寝前、今日執着したものを一つ、手放す",
+      "quote": "爱ある故に、憂いある。爱ある故に、恐怖ある"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "chapter": 54,
+  "sutta": 54,
+  "title": "中部 第54経（哺多利経）",
+  "shortTitle": "哺多利経",
+  "mapNote": "中分五十経篇 · 居士品",
+  "suttas": [
+    "MN 54 哺多利経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "哺多利経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第54経（哺多利経）",
+    "shortTitle": "哺多利経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "哺多利経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN54-P02",
+          "MN54-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "哺多利経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN54-P02",
+          "MN54-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "哺多利経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN54-P01",
+          "MN54-P06"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "教えや見解を誤って掴まない",
+        "chapterHint": "哺多利経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN54-P01",
+          "MN54-P05",
+          "MN54-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "哺多利経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN54-P01",
+          "MN54-P02"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "哺多利経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN54-P02",
+          "MN54-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "哺多利経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN54-P03",
+          "MN54-P04"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN54-P01",
+      "category": "people",
+      "ref": "MN 54",
+      "section": "導",
+      "observe": "哺多利——財産を子に譲っても、真の世俗の執着を断つではない",
+      "action": "今日、「断ったつもり」の執着が残っていないか問う",
+      "quote": "あなたが述べる世俗の執着を断つは、聖なる者の法·律と異なる"
+    },
+    {
+      "id": "MN54-P02",
+      "category": "prep",
+      "ref": "MN 54",
+      "section": "八法",
+      "observe": "聖なる者の法·律——八法が世俗の執着を断つに導く",
+      "action": "今日、八法のうち一つを意識して歩む",
+      "quote": "聖なる者の法·律において、この八法は世俗の執着を断つに導く。とは何か。不殺すことに依り、殺すことを捨て去る……"
+    },
+    {
+      "id": "MN54-P03",
+      "category": "work",
+      "ref": "MN 54",
+      "section": "八法",
+      "observe": "不殺すこと——結び・蓋·煩悩を生む、聖なる弟子は正しく断つする",
+      "action": "今日、直接·間接に他者の生命を害する選択を避ける",
+      "quote": "聖なる弟子はこう考える：『どのようなの結縛が、私を殺すこと者とせば、私はそれを捨て去り正しく断つする……』"
+    },
+    {
+      "id": "MN54-P04",
+      "category": "work",
+      "ref": "MN 54",
+      "section": "八法",
+      "observe": "盗み——智者も後に譴責す、悪い生まれの因",
+      "action": "今日、得たものの出所を一度問い、不正を避ける",
+      "quote": "私は盗みをすれば、智者は知り、盗みの縁だからこの身が滅びた後、悪い生まれに生ずべしと知る"
+    },
+    {
+      "id": "MN54-P05",
+      "category": "speech",
+      "ref": "MN 54",
+      "section": "八法",
+      "observe": "真実の言葉·仲を裂かない——結を正しく断つし、煩悩を遠ざける",
+      "action": "今日、仲を裂く言葉·嘘を一つ止める",
+      "quote": "真実の言葉に依り、嘘を捨て去る。仲を裂かないに依り、両舌を捨て去る"
+    },
+    {
+      "id": "MN54-P06",
+      "category": "desire",
+      "ref": "MN 54",
+      "section": "八法",
+      "observe": "不貪求・不怒り——在家の心の縄を断つ",
+      "action": "今日「欲しい」「憎い」の執着を一つ手放す",
+      "quote": "不貪求に依り、貪求を捨て去る。不瞋恚に依り、瞋恚を捨て去る"
+    },
+    {
+      "id": "MN54-P07",
+      "category": "desire",
+      "ref": "MN 54",
+      "section": "八法",
+      "observe": "不忿怒・不増上慢——結び・蓋としての慢と怒",
+      "action": "今日、慢る心·怒る心のどちらか一つを観察する",
+      "quote": "不忿怒に依り、忿怒を捨て去る。不増上慢に依り、増上慢を捨て去る"
+    },
+    {
+      "id": "MN54-P08",
+      "category": "desire",
+      "ref": "MN 54",
+      "section": "喩",
+      "observe": "欲は骨のたとえ——飢犬が血付き骨を啮んでも満たされない",
+      "action": "快楽の裏に「骨のたとえ」を一瞬思い出す",
+      "quote": "世尊は説く。欲は、骨ののように。苦が多い、苦しみ多し、この中に災害多し"
+    },
+    {
+      "id": "MN54-P09",
+      "category": "desire",
+      "ref": "MN 54",
+      "section": "喩",
+      "observe": "欲は肉塊·炬火·火坑·夢·借物·木の実——七喩の教え",
+      "action": "今日強く「欲しい」と感じた対象を、喩えの一つで見る",
+      "quote": "欲は、肉塊ののように……欲は、松明ののように……欲は、火坑ののように……欲は、夢ののように……欲は、借り物ののように……欲は、木の実ののように"
+    },
+    {
+      "id": "MN54-P10",
+      "category": "work",
+      "ref": "MN 54",
+      "section": "喩",
+      "observe": "正しい慧で欲を見て、世間の利得を滅尽する",
+      "action": "今日、一つの欲を「正しい慧で見る」と一呼吸置く",
+      "quote": "あるがままにに正しい慧を以て欲を見れば、世間の利得を滅尽する"
+    },
+    {
+      "id": "MN54-P11",
+      "category": "prep",
+      "ref": "MN 54",
+      "section": "結",
+      "observe": "一切処·一切方で俗事を断つ——聖なる弟子の道",
+      "action": "今日、執着の一つを「俗事」と名づけて緩める",
+      "quote": "聖なる者の法·律において、あらゆる場所・あらゆる方向において、世俗の執着を断つとなる"
+    },
+    {
+      "id": "MN54-P12",
+      "category": "people",
+      "ref": "MN 54",
+      "section": "結",
+      "observe": "哺多利——聞いて帰依し、在家信者となる",
+      "action": "今日、法を聞いたら、供養の仕方を正す",
+      "quote": "私は世尊に帰依し、法に帰依し、比丘僧に帰依する。私を在家信者と認めてください"
+    }
+  ]
+}

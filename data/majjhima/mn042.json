@@ -1,0 +1,431 @@
+{
+  "chapter": 42,
+  "sutta": 42,
+  "title": "中部 第42経（鞞蘭若村婆羅門経）",
+  "shortTitle": "鞞蘭若村婆羅門経",
+  "mapNote": "根本五十経篇 · 双小品",
+  "suttas": [
+    "MN 42 鞞蘭若村婆羅門経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 根本五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "鞞蘭若村婆羅門経のペア分布から割り当て",
+    "chapterTitle": "中部 第42経（鞞蘭若村婆羅門経）",
+    "shortTitle": "鞞蘭若村婆羅門経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "鞞蘭若村婆羅門経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN42-P01",
+          "MN42-P04",
+          "MN42-P07"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "鞞蘭若村婆羅門経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN42-P01",
+          "MN42-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "鞞蘭若村婆羅門経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN42-P03",
+          "MN42-P06"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "鞞蘭若村婆羅門経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN42-P03",
+          "MN42-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "鞞蘭若村婆羅門経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN42-P02",
+          "MN42-P08"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "鞞蘭若村婆羅門経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN42-P01",
+          "MN42-P04"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "鞞蘭若村婆羅門経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN42-P04",
+          "MN42-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN42-P01",
+      "category": "prep",
+      "ref": "MN 42",
+      "section": "導",
+      "observe": "鞞蘭若村の婆羅門——生まれの婆羅門を尊ぶが、行いの婆羅門を知らない",
+      "action": "朝、人を評価するとき「生まれ」より「行い」を先に見る",
+      "quote": "婆羅門は生まれによりて婆羅門と称す——然れども、行いによりて真の婆羅門となり"
+    },
+    {
+      "id": "MN42-P02",
+      "category": "suffering",
+      "ref": "MN 42",
+      "section": "毒蛇",
+      "observe": "毒蛇の譬喩——誤った修行は自らを害す",
+      "action": "教えを極端に掴んでいないか、一度問う",
+      "quote": "毒蛇を誤って掴むがように——尾を掴めば咬まれ、自ら害を招く"
+    },
+    {
+      "id": "MN42-P03",
+      "category": "desire",
+      "ref": "MN 42",
+      "section": "五毒",
+      "observe": "五種の毒——貪·瞋·痴·慢·見",
+      "action": "今日、五毒の一つを名づけ、手放す",
+      "quote": "貪欲·瞋恚·愚痴·慢·見——この五毒を除却せよ"
+    },
+    {
+      "id": "MN42-P04",
+      "category": "work",
+      "ref": "MN 42",
+      "section": "戒",
+      "observe": "真の婆羅門——戒を守り、善業を修する",
+      "action": "今日、戒·約束の一つを確かに守る",
+      "quote": "殺生を離れ、盗みを離れ、邪行を離れる——これ、戒具足なり"
+    },
+    {
+      "id": "MN42-P05",
+      "category": "speech",
+      "ref": "MN 42",
+      "section": "語",
+      "observe": "真の婆羅門——真实語·和合語を語る",
+      "action": "今日、嘘·仲割れの言葉を止める",
+      "quote": "真实語にして、両舌を離れ、粗恶语を離れる——これ、語具足なり"
+    },
+    {
+      "id": "MN42-P06",
+      "category": "people",
+      "ref": "MN 42",
+      "section": "対婆羅門",
+      "observe": "生まれの婆羅門と行いの婆羅門——後者を尊ぶ",
+      "action": "人を見るとき、行いを先に評価する",
+      "quote": "生まれによりて婆羅門と称す者、行いによりて非婆羅門なり"
+    },
+    {
+      "id": "MN42-P07",
+      "category": "prep",
+      "ref": "MN 42",
+      "section": "正見",
+      "observe": "布施·供養に結果がある——邪見を離れる",
+      "action": "今日、善い行いに未来の縁があると一度認める",
+      "quote": "布施·大布施·供養·大供養に結果があると見る——これ、正見なり"
+    },
+    {
+      "id": "MN42-P08",
+      "category": "suffering",
+      "ref": "MN 42",
+      "section": "業報",
+      "observe": "不善業は地獄·畜生·餓鬼の因",
+      "action": "苦を感じたら、身語意の因を一つ辿る",
+      "quote": "法に反する行のだから、このように衆生は悪趣・下劣・堕所・地獄に生ず"
+    },
+    {
+      "id": "MN42-P09",
+      "category": "work",
+      "ref": "MN 42",
+      "section": "禅定",
+      "observe": "真の婆羅門——五盖を除却し、禅定に入る",
+      "action": "今日、五盖の一つを対治する",
+      "quote": "五盖を除却し、初禅·二禅·三禅·四禅に入る——これ、禅定具足なり"
+    },
+    {
+      "id": "MN42-P10",
+      "category": "desire",
+      "ref": "MN 42",
+      "section": "漏尽",
+      "observe": "真の婆羅門——煩悩の滅尽·心解脱·慧解脱",
+      "action": "執着を「漏」と名づけ、一つ手放す",
+      "quote": "諸漏の滅尽により、無漏、心解脱、慧解脱、于現法自証通智、自証具足住"
+    },
+    {
+      "id": "MN42-P11",
+      "category": "people",
+      "ref": "MN 42",
+      "section": "結",
+      "observe": "婆羅門——帰依",
+      "action": "学びを行いに結び、帰依の心を一度確認する",
+      "quote": "願わくは世尊、我らを優婆塞として認め給え——終生帰依す"
+    },
+    {
+      "id": "MN42-P12",
+      "category": "night",
+      "ref": "MN 42",
+      "section": "結",
+      "observe": "鞞蘭若村——行いの婆羅門こそ真の婆羅門",
+      "action": "就寝前、今日の行いを「真の婆羅門の行」として振り返る",
+      "quote": "行いによりて真の婆羅門となり——生まれに依らず"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "title": "ダンマパダ（全26章・精選版）",
+  "source": "南伝大蔵経（日本仏教学院）",
+  "totalPairs": 547,
+  "chapters": [
+    {
+      "id": 1,
+      "file": "ch1.json",
+      "title": "ダンマパダ 第1章・双品（対なるものの章）",
+      "shortTitle": "双品（対なるものの章）",
+      "pairCount": 35,
+      "verseCount": 21
+    },
+    {
+      "id": 2,
+      "file": "ch2.json",
+      "title": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+      "shortTitle": "不放逸品（怠らないことの章）",
+      "pairCount": 19,
+      "verseCount": 12
+    },
+    {
+      "id": 3,
+      "file": "ch3.json",
+      "title": "ダンマパダ 第3章・心品（心の章）",
+      "shortTitle": "心品（心の章）",
+      "pairCount": 16,
+      "verseCount": 11
+    },
+    {
+      "id": 4,
+      "file": "ch4.json",
+      "title": "ダンマパダ 第4章・花品（花の章）",
+      "shortTitle": "花品（花の章）",
+      "pairCount": 18,
+      "verseCount": 14
+    },
+    {
+      "id": 5,
+      "file": "ch5.json",
+      "title": "ダンマパダ 第5章・愚品（愚者の章）",
+      "shortTitle": "愚品（愚者の章）",
+      "pairCount": 19,
+      "verseCount": 15
+    },
+    {
+      "id": 6,
+      "file": "ch6.json",
+      "title": "ダンマパダ 第6章・賢品（賢者の章）",
+      "shortTitle": "賢品（賢者の章）",
+      "pairCount": 17,
+      "verseCount": 13
+    },
+    {
+      "id": 7,
+      "file": "ch7.json",
+      "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+      "shortTitle": "阿羅漢品（阿羅漢の章）",
+      "pairCount": 14,
+      "verseCount": 10
+    },
+    {
+      "id": 8,
+      "file": "ch8.json",
+      "title": "ダンマパダ 第8章・千品（千の章）",
+      "shortTitle": "千品（千の章）",
+      "pairCount": 23,
+      "verseCount": 13
+    },
+    {
+      "id": 9,
+      "file": "ch9.json",
+      "title": "ダンマパダ 第9章・悪品（悪の章）",
+      "shortTitle": "悪品（悪の章）",
+      "pairCount": 20,
+      "verseCount": 11
+    },
+    {
+      "id": 10,
+      "file": "ch10.json",
+      "title": "ダンマパダ 第10章・刀杖品（棒の章）",
+      "shortTitle": "刀杖品（棒の章）",
+      "pairCount": 26,
+      "verseCount": 12
+    },
+    {
+      "id": 11,
+      "file": "ch11.json",
+      "title": "ダンマパダ 第11章・老品（老の章）",
+      "shortTitle": "老品（老の章）",
+      "pairCount": 19,
+      "verseCount": 9
+    },
+    {
+      "id": 12,
+      "file": "ch12.json",
+      "title": "ダンマパダ 第12章・自己品（自己の章）",
+      "shortTitle": "自己品（自己の章）",
+      "pairCount": 18,
+      "verseCount": 10
+    },
+    {
+      "id": 13,
+      "file": "ch13.json",
+      "title": "ダンマパダ 第13章・世品（世の章）",
+      "shortTitle": "世品（世の章）",
+      "pairCount": 21,
+      "verseCount": 11
+    },
+    {
+      "id": 14,
+      "file": "ch14.json",
+      "title": "ダンマパダ 第14章・仏陀品（覚者の章）",
+      "shortTitle": "仏陀品（覚者の章）",
+      "pairCount": 24,
+      "verseCount": 14
+    },
+    {
+      "id": 15,
+      "file": "ch15.json",
+      "title": "ダンマパダ 第15章・安楽品（安楽の章）",
+      "shortTitle": "安楽品（安楽の章）",
+      "pairCount": 20,
+      "verseCount": 12
+    },
+    {
+      "id": 16,
+      "file": "ch16.json",
+      "title": "ダンマパダ 第16章・愛好品（愛しいものの章）",
+      "shortTitle": "愛好品（愛しいものの章）",
+      "pairCount": 17,
+      "verseCount": 12
+    },
+    {
+      "id": 17,
+      "file": "ch17.json",
+      "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+      "shortTitle": "忿怒品（忿激の章）",
+      "pairCount": 19,
+      "verseCount": 13
+    },
+    {
+      "id": 18,
+      "file": "ch18.json",
+      "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+      "shortTitle": "垢穢品（垢の章）",
+      "pairCount": 24,
+      "verseCount": 20
+    },
+    {
+      "id": 19,
+      "file": "ch19.json",
+      "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+      "shortTitle": "法住品（法に依って立つ者の章）",
+      "pairCount": 21,
+      "verseCount": 10
+    },
+    {
+      "id": 20,
+      "file": "ch20.json",
+      "title": "ダンマパダ 第20章・道品（道の章）",
+      "shortTitle": "道品（道の章）",
+      "pairCount": 20,
+      "verseCount": 17
+    },
+    {
+      "id": 21,
+      "file": "ch21.json",
+      "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+      "shortTitle": "雑品（雑駁なるものの章）",
+      "pairCount": 18,
+      "verseCount": 16
+    },
+    {
+      "id": 22,
+      "file": "ch22.json",
+      "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+      "shortTitle": "地獄品（地獄の章）",
+      "pairCount": 15,
+      "verseCount": 14
+    },
+    {
+      "id": 23,
+      "file": "ch23.json",
+      "title": "ダンマパダ 第23章・象品（象の章）",
+      "shortTitle": "象品（象の章）",
+      "pairCount": 15,
+      "verseCount": 14
+    },
+    {
+      "id": 24,
+      "file": "ch24.json",
+      "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+      "shortTitle": "愛欲品（渇愛の章）",
+      "pairCount": 26,
+      "verseCount": 26
+    },
+    {
+      "id": 25,
+      "file": "ch25.json",
+      "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+      "shortTitle": "比丘品（比丘の章）",
+      "pairCount": 23,
+      "verseCount": 23
+    },
+    {
+      "id": 26,
+      "file": "ch26.json",
+      "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+      "shortTitle": "婆羅門品（婆羅門の章）",
+      "pairCount": 40,
+      "verseCount": 40
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "chapter": 55,
+  "sutta": 55,
+  "title": "中部 第55経（ヂーヷカ経）",
+  "shortTitle": "ヂーヷカ経",
+  "mapNote": "中分五十経篇 · 居士品",
+  "suttas": [
+    "MN 55 ヂーヷカ経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "release",
+    "focusReason": "ヂーヷカ経のペア分布から割り当て",
+    "chapterTitle": "中部 第55経（ヂーヷカ経）",
+    "shortTitle": "ヂーヷカ経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "ヂーヷカ経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN55-P01",
+          "MN55-P02"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "ヂーヷカ経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN55-P01",
+          "MN55-P08"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "ヂーヷカ経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN55-P04",
+          "MN55-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "ヂーヷカ経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN55-P04",
+          "MN55-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "ヂーヷカ経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN55-P06",
+          "MN55-P07"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "ヂーヷカ経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN55-P01",
+          "MN55-P02",
+          "MN55-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "ヂーヷカ経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN55-P02",
+          "MN55-P03"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN55-P01",
+      "category": "prep",
+      "ref": "MN 55",
+      "section": "導",
+      "observe": "耆婆——特別に頼んでの肉について、そしるか真実か問う",
+      "action": "今日の選択が、直接·間接に他者の苦を招いていないか問う",
+      "quote": "特別に頼んでの肉を、私は正しく知って受ける——この説は、私をそしるする事実でないの語なり"
+    },
+    {
+      "id": "MN55-P02",
+      "category": "work",
+      "ref": "MN 55",
+      "section": "三種",
+      "observe": "三種類の肉を受けず——すなわち、自分で見た・聞いた・疑う",
+      "action": "自分のために害がなされたと知れるものを、今日一つ避ける",
+      "quote": "私は三種類の状態において肉を受けず。とは何か。自分で見た・聞いた・疑うである"
+    },
+    {
+      "id": "MN55-P03",
+      "category": "work",
+      "ref": "MN 55",
+      "section": "三種",
+      "observe": "三種類の肉を受けよ——すなわち、見ていない・聞いていない・疑わない",
+      "action": "疑いがある選択は、今日一つ控える",
+      "quote": "私は三種類の状態において肉を受く。とは何か。見ていない・聞いていない・疑わないである"
+    },
+    {
+      "id": "MN55-P04",
+      "category": "desire",
+      "ref": "MN 55",
+      "section": "食",
+      "observe": "食に貪着·迷う·しがみつくせず、災害を見て、離れることの知で受ける",
+      "action": "食事の前に、貪着なく受けると一呼吸確認する",
+      "quote": "彼は食に貪着せず、迷うせず、しがみつくせず、災害を見て、離れることの知を以て受ける"
+    },
+    {
+      "id": "MN55-P05",
+      "category": "people",
+      "ref": "MN 55",
+      "section": "慈",
+      "observe": "慈住·悲住·喜住·捨住——食は過ちのないの食",
+      "action": "今日、与えるる·受ける場面で慈心を一つ置く",
+      "quote": "彼は、慈の住·悲の住·喜の住·捨の住において、過ちのないの食を受ける"
+    },
+    {
+      "id": "MN55-P06",
+      "category": "suffering",
+      "ref": "MN 55",
+      "section": "別請",
+      "observe": "特別に頼んでで殺す者——五事の善くない結果",
+      "action": "今日、自分のため他者に害を依頼していないか問う",
+      "quote": "特別に頼んでして如来または如来の弟子のために生き物を殺す者は、五事により多くの善くない結果を生ず"
+    },
+    {
+      "id": "MN55-P07",
+      "category": "suffering",
+      "ref": "MN 55",
+      "section": "別請",
+      "observe": "生物が殺される時——苦痛・憂いを受ける",
+      "action": "他者の苦が自分の快楽の因になっていないか見る",
+      "quote": "彼生物を縛って連れて来り、苦痛・憂いを受ける……正に殺される時、苦痛・憂いを受ける"
+    },
+    {
+      "id": "MN55-P08",
+      "category": "speech",
+      "ref": "MN 55",
+      "section": "誹謗",
+      "observe": "そしるは事実でない·存在しないの語——法に従う説を受け入れず",
+      "action": "今日、聞いた批判が事実か、一度確かめてから信じる",
+      "quote": "彼らは、私に事実でない·存在しない·真実でないの語を以てそしるす"
+    },
+    {
+      "id": "MN55-P09",
+      "category": "work",
+      "ref": "MN 55",
+      "section": "結",
+      "observe": "比丘たちは清らかな食·過ちのないの食——在俗も同じ心構え",
+      "action": "今日の衣食が「身体を保つため」か「欲のため」か問う",
+      "quote": "比丘たちは、実に清らかな食を食し、実に過ちのないの食を食す"
+    },
+    {
+      "id": "MN55-P10",
+      "category": "people",
+      "ref": "MN 55",
+      "section": "結",
+      "observe": "耆婆——聞いて喜び、生涯帰依の在家信者となる",
+      "action": "今日学んだ一節を、行いに結びつけて一日を終える",
+      "quote": "どうか、世尊、私を今後、生涯、仏·法·僧に帰依するる在家信者と認めてください"
+    }
+  ]
+}

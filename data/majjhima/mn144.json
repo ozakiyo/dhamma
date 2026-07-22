@@ -1,0 +1,424 @@
+{
+  "chapter": 144,
+  "sutta": 144,
+  "title": "中部 第144経（教闡陀経）",
+  "shortTitle": "教闡陀経",
+  "mapNote": "後分五十経篇 · 六処品",
+  "suttas": [
+    "MN 144 教闡陀経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "教闡陀経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第144経（教闡陀経）",
+    "shortTitle": "教闡陀経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "感覚の門での接触に念を置く",
+        "chapterHint": "教闡陀経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN144-P01",
+          "MN144-P03",
+          "MN144-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "教闡陀経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN144-P01",
+          "MN144-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "教闡陀経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN144-P04",
+          "MN144-P07"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "教闡陀経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN144-P04",
+          "MN144-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "教闡陀経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN144-P02",
+          "MN144-P08"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "教闡陀経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN144-P01",
+          "MN144-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "教闡陀経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN144-P03",
+          "MN144-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN144-P01",
+      "category": "prep",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "闡陀の病——堪忍し難い苦",
+      "action": "今日、苦に耐えられぬ時、教えを思い出す",
+      "quote": "闡陀は、堪忍し難い苦に臥した"
+    },
+    {
+      "id": "MN144-P02",
+      "category": "suffering",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "闡陀の自害——責められぬ",
+      "action": "今日、他者の苦しい選択を裁かない",
+      "quote": "闡陀は、堪忍し難い苦のため刃物を執った。責められない"
+    },
+    {
+      "id": "MN144-P03",
+      "category": "work",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "我慢なき自害——阿羅漢",
+      "action": "今日、慢心なく苦と向き合う",
+      "quote": "闡陀は、我慢なく自害した。阿羅漢であった"
+    },
+    {
+      "id": "MN144-P04",
+      "category": "people",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "比丘たちの非難——世尊の正す",
+      "action": "今日、見えない苦を決めつけない",
+      "quote": "比丘たちは非難した。世尊は、闡陀を正した"
+    },
+    {
+      "id": "MN144-P05",
+      "category": "prep",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "苦の限界——誰もが異なる",
+      "action": "今日、自分の限界を認め、他者のも認める",
+      "quote": "苦の限界は、人それぞれである"
+    },
+    {
+      "id": "MN144-P06",
+      "category": "speech",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "非難の前に——状況を確かめる",
+      "action": "今日、非難する前に全体を確かめる",
+      "quote": "非難する前に、状況を確かめよ"
+    },
+    {
+      "id": "MN144-P07",
+      "category": "desire",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "我慢あれば——自害も罪",
+      "action": "今日、慢心が苦を増していないか問う",
+      "quote": "我慢あれば、自害も罪となる"
+    },
+    {
+      "id": "MN144-P08",
+      "category": "suffering",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "闡陀は煩悩の滅尽——苦の終",
+      "action": "今日、解脱の可能性を信じる",
+      "quote": "闡陀は漏尽した。苦の終であった"
+    },
+    {
+      "id": "MN144-P09",
+      "category": "work",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "堪忍し難い苦——慈悲の対象",
+      "action": "今日、苦しむ人に慈悲を向ける",
+      "quote": "堪忍し難い苦は、慈悲の対象である"
+    },
+    {
+      "id": "MN144-P10",
+      "category": "people",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "善友の教え——闡陀への",
+      "action": "今日、苦しむ人に適切な教えを",
+      "quote": "善友は、闡陀に教えを説いた"
+    },
+    {
+      "id": "MN144-P11",
+      "category": "night",
+      "ref": "MN 144",
+      "section": "教闡陀",
+      "observe": "一日の苦——限界と慈悲で振り返る",
+      "action": "就寝前、今日の苦と他者の苦を思う",
+      "quote": "苦の限界を認め、慈悲で振り返れ"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "chapter": 18,
+  "sutta": 18,
+  "title": "長部 第18経（大穴経）",
+  "shortTitle": "大穴経",
+  "mapNote": "DN 18——大穴経",
+  "suttas": [
+    "DN 18 大穴経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（大篇）",
+    "verify": "南伝大蔵経 第7巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN18-P01",
+      "category": "prep",
+      "ref": "DN 18",
+      "section": "大穴",
+      "observe": "闍尼沙——ビンビサーラ王の生まれ変わり。修行の徳が天界を決める",
+      "action": "朝、「今日の行いが後の縁になる」と一度意識する",
+      "quote": "仏法を修す者、其の徳に依り、上位の天界に生れる"
+    },
+    {
+      "id": "DN18-P02",
+      "category": "work",
+      "ref": "DN 18",
+      "section": "布薩",
+      "observe": "三十三天の布薩——新天神は色光が勝り、法を修すべき",
+      "action": "今日、修行仲間と法の一節を共有する",
+      "quote": "新天神、其の色光は他を凌ぎ、法を修すべし"
+    },
+    {
+      "id": "DN18-P03",
+      "category": "work",
+      "ref": "DN 18",
+      "section": "四神足",
+      "observe": "四神足——欲·精進·心·思惟。神通の基盤",
+      "action": "今日、修行への「欲」（志）を一度確認する",
+      "quote": "四神足あり——欲·精進·心·思惟。これを修す"
+    },
+    {
+      "id": "DN18-P04",
+      "category": "work",
+      "ref": "DN 18",
+      "section": "三径路",
+      "observe": "三径路——布施·戒·禅。天界への正しい道",
+      "action": "今日、布施·戒·禅のうち一つを意識して実践する",
+      "quote": "三径路あり——布施·戒·禅。これを修す"
+    },
+    {
+      "id": "DN18-P05",
+      "category": "work",
+      "ref": "DN 18",
+      "section": "四念処",
+      "observe": "四念処——諸天も修すべき観察",
+      "action": "今日、身·受·心·法のうち一つを五分間観る",
+      "quote": "四念処を修せ。身·受·心·法を観ず"
+    },
+    {
+      "id": "DN18-P06",
+      "category": "prep",
+      "ref": "DN 18",
+      "section": "三宝",
+      "observe": "三宝に帰依し、法を行う者——善い生処に至る",
+      "action": "朝、三宝に帰依する——「仏·法·僧に帰依す」",
+      "quote": "三宝に帰依し、法を行う者、善い生処に至る"
+    },
+    {
+      "id": "DN18-P07",
+      "category": "suffering",
+      "ref": "DN 18",
+      "section": "死生",
+      "observe": "死後の生処——行いの結果。迷信ではなく縁起",
+      "action": "今日の行いを「後の縁」と結びつけて一度見る",
+      "quote": "死者の生処は、其の行いに依る"
+    },
+    {
+      "id": "DN18-P08",
+      "category": "people",
+      "ref": "DN 18",
+      "section": "信者",
+      "observe": "那提迦の村民——死後の命運を知りたいと求める",
+      "action": "今日、信頼できる人に修行の状態を正直に話す",
+      "quote": "村民、世尊に問う。「死者はいずこに生れるや」"
+    },
+    {
+      "id": "DN18-P09",
+      "category": "night",
+      "ref": "DN 18",
+      "section": "大穴",
+      "observe": "天界の話——目的は天界ではなく、解脱への道",
+      "action": "就寝前、今日の布施·戒·禅の一つを振り返る",
+      "quote": "天界は方便なり。解脱の道を修せ"
+    },
+    {
+      "id": "DN18-P10",
+      "category": "desire",
+      "ref": "DN 18",
+      "section": "天界",
+      "observe": "天界への執着も取——真の道は八聖道",
+      "action": "快楽·天界を想像する衝動を「取」と名づけ、手放す",
+      "quote": "天界に執着するな。八聖道を修せ"
+    },
+    {
+      "id": "DN18-P11",
+      "category": "speech",
+      "ref": "DN 18",
+      "section": "五髻",
+      "observe": "五髻童子の歌——法を讃える声が天界を集める",
+      "action": "今日、法の一節を声に出して読む",
+      "quote": "五髻童子、法を讃える歌を唱え、諸天を集める"
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "chapter": 31,
+  "sutta": 31,
+  "title": "中部 第31経・牛角林小経（牛角林の小経）",
+  "shortTitle": "牛角林小経（牛角林の小経）",
+  "mapNote": "根本五十経篇 · 双大品（アラナ：牛角林の小経）",
+  "suttas": [
+    "MN 31 牛角林小経（牛角林の小経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第31経（牛角林小経／牛角林の小経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリMN31（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含185牛角娑羅林（T26）。阿那律·難提·金毘羅の水乳調和、慈身口意、身別心一、托鉢の無言協力、四禅〜想受滅·漏尽。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・牛角林の小経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典（キャッシュ外の場合はパーリ忠実なアラナ調和訳）"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・牛角娑羅林（T1.729b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+        "note": "合一無諍·慈身口意·第四禅。對照表: 法雨道場（中阿含185）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第31経・牛角林小経（牛角林の小経）",
+    "shortTitle": "牛角林小経（牛角林の小経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "speech"
+        ],
+        "pathLabel": "和合の心に触れ、実践として語る",
+        "chapterHint": "牛角林小経（牛角林の小経）",
+        "fromPrev": "見直しが、今朝の調和の一歩を変える",
+        "toNext": "触のあと、共住·行為の受が見える",
+        "todayObserve": "牛角林の三尊者——和合·水乳·慈眼。朝、調和して法を生きる心を一つ決める。朝、今日「調和して法を論ず」心を一つ決める。",
+        "todayAction": "朝、今日「調和して法を論ず」心を一つ決める",
+        "when": [
+          "調和の心を決めた",
+          "三尊者を思い出した"
+        ],
+        "sources": [
+          "MN31-P01",
+          "MN31-P03",
+          "MN31-P10"
+        ],
+        "leadQuote": "そのとき、尊者阿那律·尊者難提·尊者金毘羅は、牛角の娑羅林に住していた。……世尊…",
+        "secondaryObserve": "阿那律·難提·金毘羅をモデルに、調和を一つ実践する。今日、牛角林の三比丘を思い出し、調和を一つ実践する。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "action"
+        ],
+        "pathLabel": "行為と共住の時に念を置き、調和の受として過ごす",
+        "chapterHint": "牛角林小経（牛角林の小経）",
+        "fromPrev": "接触のあと、共住の受が立つ",
+        "toNext": "受に乗ると争いたい欲しがりへ",
+        "todayObserve": "不放逸——托鉢の段取りを無言で助け合う。一つの行為に念·正知。今日、一つの行為に「念·正知」を置く。",
+        "todayAction": "今日、一つの行為に「念·正知」を置く",
+        "when": [
+          "念·正知を置いた",
+          "調和として過ごした"
+        ],
+        "sources": [
+          "MN31-P04",
+          "MN31-P07"
+        ],
+        "leadQuote": "世尊！わたしたちは、不放逸·熱心·精励に住しています。托鉢から先に帰る者が座·飲…",
+        "secondaryObserve": "共住の喜び——和合·無言の協力·定·漏尽への道。今日、共住者·家族との時間を「調和·法論」として過ごす。"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "内の争いたい欲しがりを手放す",
+        "chapterHint": "牛角林小経（牛角林の小経）",
+        "fromPrev": "受のあと、争いたい心が立つ",
+        "toNext": "止めないと他心への掴みへ",
+        "todayObserve": "不可の心を手放し、彼らの心に随う——内の争いたい心を離す。今日、内の「争いたい心」を一度手放す。",
+        "todayAction": "今日、内の「争いたい心」を一度手放す",
+        "when": [
+          "争いたい心を手放した"
+        ],
+        "sources": [
+          "MN31-P11"
+        ],
+        "leadQuote": "わたしは、自分の心を捨て、彼らの心に随う——わたしには、いまだかつて、ひとつも不…",
+        "secondaryObserve": "未曾有一不可心"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "他心への掴みより、まず自分の慈心を観る",
+        "chapterHint": "牛角林小経（牛角林の小経）",
+        "fromPrev": "欲しがりのあと、他心推量の掴みが手前",
+        "toNext": "掴むと争いの苦が見える",
+        "todayObserve": "身は別でも心は一——他心を推量する前に、自分の慈·捨己心を観る。（旧語「天眼」は本経の主題ではない。）今日、他者の心を「推量」する前に、自分の心を観る。",
+        "todayAction": "今日、他者の心を「推量」する前に、自分の心を観る",
+        "when": [
+          "推量の前に自分の心を観た"
+        ],
+        "sources": [
+          "MN31-P06"
+        ],
+        "leadQuote": "世尊！わたしは、これら尊者たちに、公·私ともに、身·口·意によって慈を行じます。…",
+        "secondaryObserve": "身別心一"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "intention",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正思惟",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "action"
+        ],
+        "pathLabel": "争いは苦——水乳·慈眼で和む",
+        "chapterHint": "牛角林小経（牛角林の小経）",
+        "fromPrev": "掴んだ結果として、争いの苦が見える",
+        "toNext": "見れば、争いの語を止め定へ離す",
+        "todayObserve": "争わず、水と乳のように混じり、慈眼で見る——身口意の慈。今日、共修者·家族と争わず、和みて過ごす。",
+        "todayAction": "今日、共修者·家族と争わず、和みて過ごす",
+        "when": [
+          "争わず和みた"
+        ],
+        "sources": [
+          "MN31-P02"
+        ],
+        "leadQuote": "世尊！わたしたちは、和合し、互いに喜び、争わず、水と乳のように混じり、互いに慈眼…",
+        "secondaryObserve": "水乳·慈眼"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "concentration",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正定",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "concentration",
+          "speech"
+        ],
+        "pathLabel": "争いの語を止め、欲から離れて定へ",
+        "chapterHint": "牛角林小経（牛角林の小経）",
+        "fromPrev": "苦が見えれば、語を止め離生喜楽へ",
+        "toNext": "離せば、夜の調和の見直しへ",
+        "todayObserve": "不放逸に住しつつ四禅に入る——離生喜楽の方向。今日、一呼吸で「離生喜楽」の方向に心を向ける。",
+        "todayAction": "今日、一呼吸で「離生喜楽」の方向に心を向ける",
+        "when": [
+          "離生喜楽へ向けた",
+          "争いの語を止めた"
+        ],
+        "sources": [
+          "MN31-P05",
+          "MN31-P09"
+        ],
+        "leadQuote": "欲から離れ、不善の法から離れ、……初禅に入り住む。……第二禅……第三禅……第四禅…",
+        "secondaryObserve": "語を破らず、口の慈——争いの言葉を一度止める。今日、法について語るとき、争いの言葉を一度止める。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "view",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "調和·法論の瞬間を一つ振り返る",
+        "chapterHint": "牛角林小経（牛角林の小経）",
+        "fromPrev": "一日の離しは、朝からの水乳の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "夜、水乳の調和と不放逸を振り返る。就寝前、今日「調和·法論」した瞬間を一つ振り返る。",
+        "todayAction": "就寝前、今日「調和·法論」した瞬間を一つ振り返る",
+        "when": [
+          "一日を閉じるとき"
+        ],
+        "sources": [
+          "MN31-P08"
+        ],
+        "leadQuote": "和合し、争わず、水乳のごとく、慈眼をもって見る。不放逸·熱心·精励に住する——（…",
+        "secondaryObserve": "常共和合"
+      }
+    ],
+    "focusNodeId": "contact",
+    "focusReason": "牛角林小経は水乳·慈眼·身口意の慈で和合して住むのが主題。既定の焦点は接触。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN31-P01",
+      "category": "mindfulness",
+      "ref": "MN 31",
+      "section": "牛角林·三尊者",
+      "observe": "牛角林の三尊者——和合·水乳·慈眼。朝、調和して法を生きる心を一つ決める。朝、今日「調和して法を論ず」心を一つ決める。",
+      "action": "朝、今日「調和して法を論ず」心を一つ決める",
+      "quote": "そのとき、尊者阿那律·尊者難提·尊者金毘羅は、牛角の娑羅林に住していた。……世尊は問う——「そなたたちは、和合し、互いに喜び、争わず、水と乳のように混じり、互いに慈眼をもって見ているか」と。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "朝、和合の心に触れて一つ決める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·牛角林·三尊者",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-nidana",
+          "text": "尊者阿那律陀、尊者難提、尊者金毘羅……常共和合，安隱無諍，一心一師，合一水乳。",
+          "satLocus": "大正蔵 T1.729c–730a 牛角娑羅林",
+          "note": "三尊者·合一無諍·水乳。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P02",
+      "category": "intention",
+      "ref": "MN 31",
+      "section": "水乳·慈眼",
+      "observe": "争わず、水と乳のように混じり、慈眼で見る——身口意の慈。今日、共修者·家族と争わず、和みて過ごす。",
+      "action": "今日、共修者·家族と争わず、和みて過ごす",
+      "quote": "世尊！わたしたちは、和合し、互いに喜び、争わず、水と乳のように混じり、互いに慈眼をもって見ています。……わたしは、これら尊者たちに、公·私ともに、身·口·意によって慈を行じます。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正思惟",
+        "正業"
+      ],
+      "pathReason": "争いは苦を太らせる——和みて過ごす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·水乳·慈眼",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-metta",
+          "text": "我常向彼梵行行慈身業，見與不見，等無有異，行慈口業，行慈意業，見與不見，等無有異。",
+          "satLocus": "大正蔵 T1.730a 牛角娑羅林",
+          "note": "慈身口意·見不見等。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P03",
+      "category": "speech",
+      "ref": "MN 31",
+      "section": "実践を論ず",
+      "observe": "共住の法は教義争いではなく、慈と不放逸の実践で示される。今日、誰かと法·修行について語る機会があれば、実践を論ず。",
+      "action": "今日、誰かと法·修行について語る機会があれば、実践を論ず",
+      "quote": "世尊は法話をもって教え·励まし·奮い立たせ·喜ばせた。（三尊者の共住は、教義の争いではなく、身口意の慈と不放逸の行で示される。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "法に触れるときは実践を論じ、争いを避ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·実践を論ず",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-practice",
+          "text": "常共和合，安隱無諍……得人上之法，而有差降安樂住止。",
+          "satLocus": "大正蔵 T1.730a–b 牛角娑羅林",
+          "note": "和合の実践＝人上の法の安楽住。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P04",
+      "category": "mindfulness",
+      "ref": "MN 31",
+      "section": "不放逸·無言の協力",
+      "observe": "不放逸——托鉢の段取りを無言で助け合う。一つの行為に念·正知。今日、一つの行為に「念·正知」を置く。",
+      "action": "今日、一つの行為に「念·正知」を置く",
+      "quote": "世尊！わたしたちは、不放逸·熱心·精励に住しています。托鉢から先に帰る者が座·飲水·塵捨てを整え……。水が空なら手招きで助け合い、そのために語を破らない——このように不放逸に住します。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "一つの行為の受に念·正知を置く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·不放逸·無言の協力",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-duties",
+          "text": "若彼乞食有前還者，便敷床汲水……若不能者，則以手招，共抬舉之，但不相語。",
+          "satLocus": "大正蔵 T1.729c–730a 牛角娑羅林",
+          "note": "托鉢の段取り·手招·不相語。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P05",
+      "category": "concentration",
+      "ref": "MN 31",
+      "section": "四禅",
+      "observe": "不放逸に住しつつ四禅に入る——離生喜楽の方向。今日、一呼吸で「離生喜楽」の方向に心を向ける。",
+      "action": "今日、一呼吸で「離生喜楽」の方向に心を向ける",
+      "quote": "欲から離れ、不善の法から離れ、……初禅に入り住む。……第二禅……第三禅……第四禅に入り住む。これは、不放逸·熱心·精励に住しつつ得た、人上の法·安楽住である。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正精進"
+      ],
+      "pathReason": "欲·不善から離れ、離生喜楽の方向へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·四禅",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-jhana",
+          "text": "我等離欲、離惡不善之法，至得第四禪成就遊。",
+          "satLocus": "大正蔵 T1.730b 牛角娑羅林",
+          "note": "至第四禅成就遊。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P06",
+      "category": "mindfulness",
+      "ref": "MN 31",
+      "section": "身別心一",
+      "observe": "身は別でも心は一——他心を推量する前に、自分の慈·捨己心を観る。（旧語「天眼」は本経の主題ではない。）今日、他者の心を「推量」する前に、自分の心を観る。",
+      "action": "今日、他者の心を「推量」する前に、自分の心を観る",
+      "quote": "世尊！わたしは、これら尊者たちに、公·私ともに、身·口·意によって慈を行じます。……『わたしは、いま、自分の心を捨て、彼らの心に随おう』と。身は別でも、心は一である——わたしには、そう見えます。（他者の心を推量する前に、まず自分の慈心を観る。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "他心への掴みより、まず自分の慈心を観る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·身別心一",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-one-mind",
+          "text": "我今寧可自捨己心，隨彼諸賢心。我便自捨己心，隨彼諸賢心，我未曾有一不可心。",
+          "satLocus": "大正蔵 T1.730a 牛角娑羅林",
+          "note": "捨己心隨彼心＝身別心一。天眼ではない。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P07",
+      "category": "mindfulness",
+      "ref": "MN 31",
+      "section": "共住の安楽",
+      "observe": "共住の喜び——和合·無言の協力·定·漏尽への道。今日、共住者·家族との時間を「調和·法論」として過ごす。",
+      "action": "今日、共住者·家族との時間を「調和·法論」として過ごす",
+      "quote": "和合し、互いに喜び、争わず、水と乳のように混じり、慈眼をもって見る。……不放逸に住し、四禅乃至想受滅·漏尽に至る——共住の安楽は、調和·協力·定にある。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "共住の時を調和の受として過ごす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·共住の安楽",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-sukha",
+          "text": "常共和合，安隱無諍，一心一師，合一水乳，得人上之法，而有差降安樂住止。",
+          "satLocus": "大正蔵 T1.730a–b 牛角娑羅林",
+          "note": "安樂住止＝共住の安楽。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P08",
+      "category": "view",
+      "ref": "MN 31",
+      "section": "夜の調和",
+      "observe": "夜、水乳の調和と不放逸を振り返る。就寝前、今日「調和·法論」した瞬間を一つ振り返る。",
+      "action": "就寝前、今日「調和·法論」した瞬間を一つ振り返る",
+      "quote": "和合し、争わず、水乳のごとく、慈眼をもって見る。不放逸·熱心·精励に住する——（夜に、今日の調和·協力を一つ振り返る。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "夜、調和·法論の瞬間を一つ振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·夜の調和",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-review",
+          "text": "常共和合，安隱無諍，一心一師，合一水乳。",
+          "satLocus": "大正蔵 T1.730a 牛角娑羅林",
+          "note": "夜の見直しの根拠＝常共和合。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P09",
+      "category": "speech",
+      "ref": "MN 31",
+      "section": "語を破らず",
+      "observe": "語を破らず、口の慈——争いの言葉を一度止める。今日、法について語るとき、争いの言葉を一度止める。",
+      "action": "今日、法について語るとき、争いの言葉を一度止める",
+      "quote": "水が空なら手招きで助け合い、そのために語を破らない。……公·私ともに、口によって慈を行じる。（争いの言葉を返さず、和みて住む。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "争いの言葉を一度止め、口の慈へ離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·語を破らず",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-speech",
+          "text": "則以手招，共抬舉之，但不相語。……行慈口業，見與不見，等無有異。",
+          "satLocus": "大正蔵 T1.729c–730a 牛角娑羅林",
+          "note": "不相語·慈口業。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P10",
+      "category": "mindfulness",
+      "ref": "MN 31",
+      "section": "導·三尊者の幸い",
+      "observe": "阿那律·難提·金毘羅をモデルに、調和を一つ実践する。今日、牛角林の三比丘を思い出し、調和を一つ実践する。",
+      "action": "今日、牛角林の三比丘を思い出し、調和を一つ実践する",
+      "quote": "尊者阿那律·難提·金毘羅は、牛角の娑羅林に住し、和合·無諍·水乳·慈眼·不放逸·人上の法に安楽住した。……ヴァッジの人々は、まことに幸いである——これら三尊者がそこに住むがゆえに。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "三尊者のモデルに触れ、調和を一つ実践する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·導·三尊者の幸い",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-model",
+          "text": "尊者阿那律陀、尊者難提、尊者金毘羅……常共和合，安隱無諍。",
+          "satLocus": "大正蔵 T1.729c–730a 牛角娑羅林",
+          "note": "三尊者を調和のモデルとする。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN31-P11",
+      "category": "intention",
+      "ref": "MN 31",
+      "section": "不可の心を手放す",
+      "observe": "不可の心を手放し、彼らの心に随う——内の争いたい心を離す。今日、内の「争いたい心」を一度手放す。",
+      "action": "今日、内の「争いたい心」を一度手放す",
+      "quote": "わたしは、自分の心を捨て、彼らの心に随う——わたしには、いまだかつて、ひとつも不可の心がない。（調和は外の条件より、内の争わない心·不可の心を手放すことに依る。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "内の争いたい欲しがりを一度手放す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・牛角林の小経／パーリMN31）",
+          "locus": "中部・牛角林の小経（MN31）·不可の心を手放す",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 牛角林小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含185・牛角娑羅林（T26）",
+          "t26": "T26-185-let-go",
+          "text": "自捨己心，隨彼諸賢心，我未曾有一不可心。……常安隱，無有所乏。",
+          "satLocus": "大正蔵 T1.730a 牛角娑羅林",
+          "note": "未曾有一不可心＝争いたい心を手放す。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0729b27",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

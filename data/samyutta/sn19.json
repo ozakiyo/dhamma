@@ -1,0 +1,375 @@
+{
+  "chapter": 19,
+  "samyutta": 19,
+  "title": "相応部 第19章（勒叉那相応）",
+  "shortTitle": "勒叉那",
+  "mapNote": "SN 19——勒叉那相応",
+  "suttas": [
+    "SN 19 勒叉那相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（因縁篇）",
+    "verify": "南伝大蔵経 第13巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN19-P01",
+      "category": "prep",
+      "ref": "SN 19.1",
+      "section": "導·腹",
+      "observe": "大腹の比丘——悪口·中傷の業報、身体に現れる",
+      "action": "朝、「語業の報は身体に現れる」と意図を置く",
+      "quote": "大腹の比丘あり。悪口·中傷の業報、身体に現る"
+    },
+    {
+      "id": "SN19-P02",
+      "category": "prep",
+      "ref": "SN 19.2",
+      "section": "痩",
+      "observe": "痩せた比丘——背後の中傷の業報",
+      "action": "悪口を避ける意図を、朝に置く",
+      "quote": "痩せた比丘あり。背後の中傷の業報、身体に現る"
+    },
+    {
+      "id": "SN19-P03",
+      "category": "prep",
+      "ref": "SN 19.3",
+      "section": "醜",
+      "observe": "醜い比丘——怒り·嫉妬の業報",
+      "action": "怒り·嫉妬が来たら「業報の因」と観る",
+      "quote": "醜い比丘あり。瞋·嫉妬の業報、身体に現る"
+    },
+    {
+      "id": "SN19-P04",
+      "category": "prep",
+      "ref": "SN 19.4",
+      "section": "正見",
+      "observe": "業報を正しく見る——行為の結果は逃れぬ",
+      "action": "今日、一つの行為を「業報として」と見る",
+      "quote": "業報を正しく見よ。行為の結果、逃れず"
+    },
+    {
+      "id": "SN19-P05",
+      "category": "prep",
+      "ref": "SN 19.5",
+      "section": "勒叉那",
+      "observe": "勒叉那比丘、地獄の業報を見る——目連が示す",
+      "action": "今日、不善業の結果を一度思う",
+      "quote": "勒叉那比丘、地獄の業報を見た。目連が、示した"
+    },
+    {
+      "id": "SN19-P06",
+      "category": "suffering",
+      "ref": "SN 19.6",
+      "section": "悪口",
+      "observe": "悪口の苦——言葉が身体を形作る",
+      "action": "悪口を言いたくなったら、一度止まる",
+      "quote": "悪口の苦、言葉が身体を形作る"
+    },
+    {
+      "id": "SN19-P07",
+      "category": "suffering",
+      "ref": "SN 19.7",
+      "section": "中傷",
+      "observe": "中傷の苦——背後の語りが身体を弱める",
+      "action": "背後で人を語りたくなったら、一度止まる",
+      "quote": "中傷の苦、背後の語りが身体を弱める"
+    },
+    {
+      "id": "SN19-P08",
+      "category": "suffering",
+      "ref": "SN 19.8",
+      "section": "瞋",
+      "observe": "怒りの苦——顔·身体に現れる",
+      "action": "怒りが来たら「身体に現れる業報」と観る",
+      "quote": "瞋の苦、顔·身体に現る"
+    },
+    {
+      "id": "SN19-P09",
+      "category": "suffering",
+      "ref": "SN 19.9",
+      "section": "嫉妬",
+      "observe": "嫉妬の苦——醜さの因",
+      "action": "嫉妬が来たら「業報の因」と名づける",
+      "quote": "嫉妬の苦、醜さの因なり"
+    },
+    {
+      "id": "SN19-P10",
+      "category": "suffering",
+      "ref": "SN 19.10",
+      "section": "懈怠",
+      "observe": "懈怠の苦——眠り·無気力の因",
+      "action": "怠けたいとき「懈怠の業報」と観る",
+      "quote": "懈怠の苦、眠り·無気力の因なり"
+    },
+    {
+      "id": "SN19-P11",
+      "category": "desire",
+      "ref": "SN 19.11",
+      "section": "悪口",
+      "observe": "悪口への傾き——人を贬めたい欲",
+      "action": "人を贬めたい欲が来たら、一度手を引く",
+      "quote": "悪口への傾き、人を贬めたい欲——これ苦の因"
+    },
+    {
+      "id": "SN19-P12",
+      "category": "desire",
+      "ref": "SN 19.12",
+      "section": "中傷",
+      "observe": "中傷への傾き——背後で語りたい欲",
+      "action": "背後で語りたい欲が来たら、一度止まる",
+      "quote": "中傷への傾き、背後で語りたい欲——これ苦の因"
+    },
+    {
+      "id": "SN19-P13",
+      "category": "desire",
+      "ref": "SN 19.13",
+      "section": "瞋",
+      "observe": "怒りへの傾き——怒りを放ちたい欲",
+      "action": "怒りを放ちたい欲が来たら、呼吸に戻る",
+      "quote": "瞋への傾き、怒りを放ちたい欲——これ苦の因"
+    },
+    {
+      "id": "SN19-P14",
+      "category": "desire",
+      "ref": "SN 19.14",
+      "section": "対治",
+      "observe": "不善業への傾きを対治す——正語·慈心",
+      "action": "今日、正語·慈心の一つを意識的に行う",
+      "quote": "不善業への傾きを対治せ。正語·慈心を、修せ"
+    },
+    {
+      "id": "SN19-P15",
+      "category": "desire",
+      "ref": "SN 19.15",
+      "section": "離欲",
+      "observe": "離欲こそ業報を断つ——不善業を止める",
+      "action": "今日、一つの不善語·不善意を止める",
+      "quote": "離欲を以て、業報を断て。不善業を、止めよ"
+    },
+    {
+      "id": "SN19-P16",
+      "category": "speech",
+      "ref": "SN 19.16",
+      "section": "正語",
+      "observe": "正語を守れ——悪口·中傷·だらだらとした雑談を離れる",
+      "action": "今日、悪口·中傷·だらだらとした雑談を一つ避ける",
+      "quote": "正語を守れ。悪口·中傷·綺語を、離れよ"
+    },
+    {
+      "id": "SN19-P17",
+      "category": "speech",
+      "ref": "SN 19.17",
+      "section": "誠実",
+      "observe": "誠実な言葉——虚偽·誹謗を語るな",
+      "action": "今日、真実·利益·適時の言葉を一つ選ぶ",
+      "quote": "誠実な言葉を語れ。虚偽·誹謗を、語るな"
+    },
+    {
+      "id": "SN19-P18",
+      "category": "speech",
+      "ref": "SN 19.18",
+      "section": "黙",
+      "observe": "不必要な語·中傷を避ける——黙ることも正語",
+      "action": "今日、中傷·不必要な語を一つ避ける",
+      "quote": "不必要な語·中傷を避けよ。黙ることも、正語なり"
+    },
+    {
+      "id": "SN19-P19",
+      "category": "speech",
+      "ref": "SN 19.19",
+      "section": "讃",
+      "observe": "善業·正語を讃える",
+      "action": "今日、正語の者について、感謝の言葉を一つ",
+      "quote": "善業·正語を、讃えよ"
+    },
+    {
+      "id": "SN19-P20",
+      "category": "speech",
+      "ref": "SN 19.20",
+      "section": "問法",
+      "observe": "業報について正しい問いを持て",
+      "action": "今日、業報·正語について、一つ問いを持つ",
+      "quote": "業報について、正しい問いを持て"
+    },
+    {
+      "id": "SN19-P21",
+      "category": "people",
+      "ref": "SN 19.21",
+      "section": "対人",
+      "observe": "対人の前に正語を——悪口·中傷を避ける",
+      "action": "人と話す前に「正語か」と一度問う",
+      "quote": "対人の前に、正語を。悪口·中傷を、避けよ"
+    },
+    {
+      "id": "SN19-P22",
+      "category": "people",
+      "ref": "SN 19.22",
+      "section": "善友",
+      "observe": "善友は正語を教える——悪友は中傷を教える",
+      "action": "今日、善友の正語を一つ受け入れる",
+      "quote": "善友は、正語を教える。悪友は、中傷を教える"
+    },
+    {
+      "id": "SN19-P23",
+      "category": "people",
+      "ref": "SN 19.23",
+      "section": "慈悲",
+      "observe": "業報を見れば、衆生に慈悲を",
+      "action": "今日、衆生の業報を思い、慈悲の意を一つ向ける",
+      "quote": "業報を見れば、衆生に慈悲を"
+    },
+    {
+      "id": "SN19-P24",
+      "category": "people",
+      "ref": "SN 19.24",
+      "section": "敬法",
+      "observe": "法を敬う者は正語を守る",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬う者、正語を守る"
+    },
+    {
+      "id": "SN19-P25",
+      "category": "people",
+      "ref": "SN 19.25",
+      "section": "共学",
+      "observe": "共に正語を修す——互いに警告する",
+      "action": "今日、正語について、誰かと一つ話題を共有する",
+      "quote": "共に正語を修せ。互いに、警告せ"
+    },
+    {
+      "id": "SN19-P26",
+      "category": "work",
+      "ref": "SN 19.26",
+      "section": "観察",
+      "observe": "業報を観る——身体は業の鏡",
+      "action": "今日、身体の一状態を「業報として」と観る",
+      "quote": "業報を観れ。身体は、業の鏡なり"
+    },
+    {
+      "id": "SN19-P27",
+      "category": "work",
+      "ref": "SN 19.27",
+      "section": "精進",
+      "observe": "精進すれば、不善業は弱まる",
+      "action": "怠けたいとき、一つの善業を行う",
+      "quote": "精進すれば、不善業は弱まる"
+    },
+    {
+      "id": "SN19-P28",
+      "category": "work",
+      "ref": "SN 19.28",
+      "section": "正念",
+      "observe": "正念を保てば、悪口の前に止まれる",
+      "action": "今日、話す前に正念を一呼吸置く",
+      "quote": "正念を保てば、悪口の前に止まれる"
+    },
+    {
+      "id": "SN19-P29",
+      "category": "work",
+      "ref": "SN 19.29",
+      "section": "戒",
+      "observe": "戒を守れば、正語は自然に起こる",
+      "action": "今日、戒（正語）を一つ意識的に守る",
+      "quote": "戒を守れば、正語は自然に起こる"
+    },
+    {
+      "id": "SN19-P30",
+      "category": "work",
+      "ref": "SN 19.30",
+      "section": "解脱",
+      "observe": "解脱こそ業報を超える——輪廻を断つ",
+      "action": "今日の目的を「業報を超え、解脱に至る」と確認する",
+      "quote": "解脱こそ、業報を超える。輪廻を、断て"
+    },
+    {
+      "id": "SN19-P31",
+      "category": "night",
+      "ref": "SN 19.31",
+      "section": "振り返り",
+      "observe": "今日、悪口·中傷はなかったか",
+      "action": "就寝前、語業を一つ振り返り、明日の対策を決める",
+      "quote": "語業を振り返れ。業報を、知れ"
+    },
+    {
+      "id": "SN19-P32",
+      "category": "night",
+      "ref": "SN 19.32",
+      "section": "瞋",
+      "observe": "今日、怒り·嫉妬はなかったか",
+      "action": "就寝前、怒り·嫉妬の瞬間を一つ認め、手放す",
+      "quote": "瞋·嫉妬を知れば、正語に近づく"
+    },
+    {
+      "id": "SN19-P33",
+      "category": "night",
+      "ref": "SN 19.33",
+      "section": "正語",
+      "observe": "今日、正語は守れたか",
+      "action": "就寝前、正語を守れた瞬間を一つ確認する",
+      "quote": "正語を守れば、業報は善くなる"
+    },
+    {
+      "id": "SN19-P34",
+      "category": "night",
+      "ref": "SN 19.34",
+      "section": "精進",
+      "observe": "今日、善業の精進はできたか",
+      "action": "就寝前、今日の善業を一つ確認する",
+      "quote": "善業の精進、これ業報を善くする"
+    },
+    {
+      "id": "SN19-P35",
+      "category": "night",
+      "ref": "SN 19.35",
+      "section": "総括",
+      "observe": "勒叉那相応の要——語業の報は身体に現れる、正語を守れ",
+      "action": "就寝前、「語業の報は身体に現れる」と一句唱える",
+      "quote": "語業の報、身体に現る。正語を守れ"
+    }
+  ]
+}

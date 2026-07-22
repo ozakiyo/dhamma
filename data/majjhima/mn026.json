@@ -1,0 +1,858 @@
+{
+  "chapter": 26,
+  "sutta": 26,
+  "title": "中部 第26経・聖求経（聖求の経）",
+  "shortTitle": "聖求経（聖求の経）",
+  "mapNote": "根本五十経篇 · 譬喩法品（アラナ：聖求の経／Pāsarāsi）",
+  "suttas": [
+    "MN 26 聖求経（聖求の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第26経（聖求経／聖求の経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリMN26（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含204羅摩経（T26）。パーリは聖求·二師·梵天勧請·五欲·罠山·禅定が中心。漢訳は五比丘教示に二邊·八正道·四諦を含む（段差はnoteで明示）。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・聖求の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典（聖求／わな山）"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・羅摩経（T1.775c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+        "note": "聖求·非聖求·阿羅羅·欝陀羅·五比丘·五欲。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第26経・聖求経（聖求の経）",
+    "shortTitle": "聖求経（聖求の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "speech"
+        ],
+        "pathLabel": "朝、聖求か非聖求か問い、学ぶ姿勢で法に触れる",
+        "chapterHint": "聖求経（聖求の経）",
+        "fromPrev": "見直しが、今朝の欲しさの接触を変える",
+        "toNext": "触のあと、証明したい受や学ぶ受が見える",
+        "todayObserve": "探求は二つ——聖ならざる求（生老病死等の法を追う）と、聖なる求（災患を知り涅槃を求む）——朝、今日の「欲しい」がこの岸の快楽か、彼岸の安らぎか一度問う。",
+        "todayAction": "朝、今日の「欲しい」がこの岸の快楽か、彼岸の安らぎか一度問う",
+        "when": [
+          "朝に欲しさを問うた",
+          "学ぶ姿勢で聞いた"
+        ],
+        "sources": [
+          "MN26-P01",
+          "MN26-P07"
+        ],
+        "leadQuote": "比丘たちよ、二つの探求があります。聖なる探求と、聖ならざる探求です。…",
+        "secondaryObserve": "サハンパティ梵天の勧請——眼に塵の少なき有情あり、法を聞かずして衰退する。不死の門を開け——今日、相手の準備が整うまで、言葉を一度控える。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "深法を急いで証明したい受を止め、学ぶ姿勢で受ける",
+        "chapterHint": "聖求経（聖求の経）",
+        "fromPrev": "接触のあと、理解したい·証明したい受が立つ",
+        "toNext": "受に乗ると非聖の欲しがりへ",
+        "todayObserve": "証得の法は深遠·見難い。人々は執着を好み、縁起と涅槃は見難い——急いで証明しようとしない——今日、深い法を急いで証明しようとする衝動を一度止める。",
+        "todayAction": "今日、深い法を急いで証明しようとする衝動を一度止める",
+        "when": [
+          "急いで証明したくなった",
+          "学ぶ姿勢で受けた"
+        ],
+        "sources": [
+          "MN26-P06",
+          "MN26-P08"
+        ],
+        "leadQuote": "そこで、わたしに、このような〔思いが〕有りました。『わたしによって証得された、こ…",
+        "secondaryObserve": "五比丘への初教——精励のときの世話に報い、まず彼らに法を説く。学ぶ姿勢で聞く——今日、誰かから学ぶ姿勢を一つ執着する。"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "非聖求と五欲の欲しがりを罠として緩める",
+        "chapterHint": "聖求経（聖求の経）",
+        "fromPrev": "受のあと、生老と同じ法・五欲への欲しがりが立つ",
+        "toNext": "止めないと定·私慢の掴みへ",
+        "todayObserve": "非聖求——自ら生·老·病·死·憂·穢汚の法を有しながら、妻子·財貨など同じ法を求め、縛られ狂い執着する——今日、快楽の裏に「いつか終わる」を一瞬思い出す。",
+        "todayAction": "今日、快楽の裏に「いつか終わる」を一瞬思い出す",
+        "when": [
+          "快楽を追った",
+          "五欲に引かれた"
+        ],
+        "sources": [
+          "MN26-P02",
+          "MN26-P09"
+        ],
+        "leadQuote": "比丘たちよ、聖ならざる探求とは、何ですか。比丘たちよ、ここに、或る者が、自ら生の…",
+        "secondaryObserve": "五欲——縛られ狂い執着し、災患を見ず出要を知らねば魔の思うまま。罠の山に捕らわれた鹿——今日強く「欲しい」と感じた対象の愛を、一度緩める。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "view",
+          "effort"
+        ],
+        "pathLabel": "最上の定への私慢·油断を離し、涅槃に導くかを問う",
+        "chapterHint": "聖求経（聖求の経）",
+        "fromPrev": "欲しがりのあと、「これで足りる」掴みが手前",
+        "toNext": "掴むと二邊の苦が見える",
+        "todayObserve": "二師の定——無所有処·非想非非想処。厭離·離貪·涅槃に導かず不充分と知り去る——今日、過度な私慢と油断のどちらに偏っていないか確認する。",
+        "todayAction": "今日、過度な私慢と油断のどちらに偏っていないか確認する",
+        "when": [
+          "私慢が出た",
+          "定で足りると掴んだ"
+        ],
+        "sources": [
+          "MN26-P04"
+        ],
+        "leadQuote": "そこで、わたしに、このような〔思いが〕有りました。『この法は、厭離に導かず、離貪…",
+        "secondaryObserve": "不趣涅槃"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "view",
+          "effort"
+        ],
+        "pathLabel": "快楽逃避と自苦の二邊の苦を見て中道へ",
+        "chapterHint": "聖求経（聖求の経）",
+        "fromPrev": "掴んだ結果として、二邊の患が見える",
+        "toNext": "見れば、聖求と出要の離しへ",
+        "todayObserve": "二邊（漢訳）——欲楽への耽溺と自苦。非聖求の快楽逃避と「定で足りる」固執のどちらにも偏らない——今日、快楽への逃避と苦行への固執のどちらかに偏っていないか問う。",
+        "todayAction": "今日、快楽への逃避と苦行への固執のどちらかに偏っていないか問う",
+        "when": [
+          "快楽に逃げた",
+          "自苦に偏った"
+        ],
+        "sources": [
+          "MN26-P11"
+        ],
+        "leadQuote": "（漢訳・羅摩経）五比丘！當知有二邊行，諸為道者所不當學：一曰著欲樂下賤業，凡人所…",
+        "secondaryObserve": "二邊行"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "view",
+          "effort"
+        ],
+        "pathLabel": "災患を知り涅槃を求め、罠山から逃れ解脱の知へ",
+        "chapterHint": "聖求経（聖求の経）",
+        "fromPrev": "苦が見えれば、聖求と八正道の一歩へ",
+        "toNext": "離せば、夜の四諦·縁起の見直しへ",
+        "todayObserve": "聖求——生等の災患を知り、生なき無上の安穏なる涅槃を探し求める——一つの苦について「害い（害）」を静かに認める。",
+        "todayAction": "一つの苦について「害い（害）」を静かに認める",
+        "when": [
+          "害いを認めた",
+          "執着が弱まった"
+        ],
+        "sources": [
+          "MN26-P03",
+          "MN26-P05",
+          "MN26-P10"
+        ],
+        "leadQuote": "比丘たちよ、聖なる探求とは、何ですか。比丘たちよ、ここに、或る者が、自ら生の法を…",
+        "secondaryObserve": "五比丘も聖求を体得——解脱は不動、これ最後の生、再生は無い——今日、執着が弱まった瞬間を「解脱の知」と認める。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "今日の苦を聖求·四諦で見分け、二種の探求を振り返る",
+        "chapterHint": "聖求経（聖求の経）",
+        "fromPrev": "一日の欲しさは、朝からの探求の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "聖求の見分け——今日の苦を生·老·病·死·憂·穢汚のどれか／災患と逃れ（涅槃）で見る。漢訳は苦·集·滅·道の如実知もあり——今日の苦一つを、四諦の四句のどれに当てはまるか静かに見分ける。",
+        "todayAction": "今日の苦一つを、四諦の四句のどれに当てはまるか静かに見分ける",
+        "when": [
+          "一日を閉じるとき",
+          "四諦を振り返った夜"
+        ],
+        "sources": [
+          "MN26-P12",
+          "MN26-P13"
+        ],
+        "leadQuote": "自ら生の法を有しながら、生の法における災患を知り、生なき、無上の安穏なる涅槃を探…",
+        "secondaryObserve": "夜、二つの探求を振り返る——今日、非聖求に流れたか、聖求（災患を知り涅槃へ）を修したか——就寝前、今日四諦·縁起のうちどれを修したか一つ振り返り、明日も続ける。"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "聖求経は災患を知り無上の安穏なる涅槃を探し求めるのが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN26-P01",
+      "category": "mindfulness",
+      "ref": "MN 26",
+      "section": "二種の探求",
+      "observe": "探求は二つ——聖ならざる求（生老病死等の法を追う）と、聖なる求（災患を知り涅槃を求む）——朝、今日の「欲しい」がこの岸の快楽か、彼岸の安らぎか一度問う。",
+      "action": "朝、今日の「欲しい」がこの岸の快楽か、彼岸の安らぎか一度問う",
+      "quote": "比丘たちよ、二つの探求があります。聖なる探求と、聖ならざる探求です。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "朝、今日の欲しさが聖求か非聖求か問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·二種の探求",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-two",
+          "text": "有二種求，一曰聖求，二曰非聖求。",
+          "satLocus": "大正蔵 T1.776a 羅摩経",
+          "note": "二種求＝聖求·非聖求。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P02",
+      "category": "intention",
+      "ref": "MN 26",
+      "section": "聖ならざる探求",
+      "observe": "非聖求——自ら生·老·病·死·憂·穢汚の法を有しながら、妻子·財貨など同じ法を求め、縛られ狂い執着する——今日、快楽の裏に「いつか終わる」を一瞬思い出す。",
+      "action": "今日、快楽の裏に「いつか終わる」を一瞬思い出す",
+      "quote": "比丘たちよ、聖ならざる探求とは、何ですか。比丘たちよ、ここに、或る者が、自ら生の法を有しながら、生の法を探し求めます。自ら老の法を有しながら、老の法を……病……死……憂……穢汚の法を探し求めます。……妻子・奴婢・山羊・鶏・象牛馬・金銀——それらに縛られ、狂い、執着して、自ら生の法を有しながら生の法を探し求める——これが、聖ならざる探求です。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正見"
+      ],
+      "pathReason": "生老等と同じ法への欲しがりを非聖求として見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·聖ならざる探求",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-anariya",
+          "text": "云何非聖求？……兒子、兄弟……象馬、牛羊、奴婢、錢財……眾生於中觸染貪著，憍慠受入，不見災患，不見出要，而取用之。……是謂非聖求。",
+          "satLocus": "大正蔵 T1.776a 羅摩経",
+          "note": "非聖求——病老死等の法を求める。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P03",
+      "category": "view",
+      "ref": "MN 26",
+      "section": "聖なる探求",
+      "observe": "聖求——生等の災患を知り、生なき無上の安穏なる涅槃を探し求める——一つの苦について「害い（害）」を静かに認める。",
+      "action": "一つの苦について「害い（害）」を静かに認める",
+      "quote": "比丘たちよ、聖なる探求とは、何ですか。比丘たちよ、ここに、或る者が、自ら生の法を有しながら、生の法における災患を知り、生なき、無上の安穏なる涅槃を探し求めます。自ら老……病……死……憂……穢汚の法を有しながら、その災患を知り、老なき……穢汚なき、無上の安穏なる涅槃を探し求めます。比丘たちよ、これが、聖なる探求です。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "災患を認め、無上の安穏なる涅槃へ向き直る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·聖なる探求",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-ariya",
+          "text": "云何聖求耶？……我今寧可求無病無上安隱涅槃，求無老、無死……無穢污法無上安隱涅槃。",
+          "satLocus": "大正蔵 T1.776a 羅摩経",
+          "note": "聖求——無病等の無上安隱涅槃。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P04",
+      "category": "view",
+      "ref": "MN 26",
+      "section": "二師の定",
+      "observe": "二師の定——無所有処·非想非非想処。厭離·離貪·涅槃に導かず不充分と知り去る——今日、過度な私慢と油断のどちらに偏っていないか確認する。",
+      "action": "今日、過度な私慢と油断のどちらに偏っていないか確認する",
+      "quote": "そこで、わたしに、このような〔思いが〕有りました。『この法は、厭離に導かず、離貪に導かず、滅尽に導かず、寂静に導かず、勝智に導かず、正覚に導かず、涅槃に導かない。それは、ただ、無所有処への再生に至るまでのものである』と。……『……それは、ただ、非想非非想処への再生に至るまでのものである』と。この法が不充分であると了知して、わたしは不満を抱き、去りました。（アーラーラ・カーラーマ／ウッダカ・ラーマプッタのもとでの最上の定。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "最上の定への私慢·油断を離し、涅槃に導くかを問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·二師の定",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-teachers",
+          "text": "此法不趣智，不趣覺，不趣涅槃，我今寧可捨此法，更求無病無上安隱涅槃……。（阿羅羅伽羅摩·欝陀羅羅摩子。）",
+          "satLocus": "大正蔵 T1.776b–777a 羅摩経",
+          "note": "不趣涅槃＝パーリの厭離等に導かず。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P05",
+      "category": "effort",
+      "ref": "MN 26",
+      "section": "罠山·出要",
+      "observe": "五欲の罠山から逃れ、魔の見なき処（初禅等）へ。漢訳は二邊を捨て八正道を取る——今日、八正道のうち一つを意識して歩む。",
+      "action": "今日、八正道のうち一つを意識して歩む",
+      "quote": "比丘たちよ、五つの欲望の属性があります。……色・声・香・味・触……。……災患を見、出要を了知して受ける者——罠の山に捕らわれぬ鹿のごとく……。……諸々の欲望から離れて……第一の瞑想を成就して住む者は、『悪魔を盲者に作り為した……パーピマントの見なきところに至り』と説かれます。（漢訳羅摩経では、五比丘への教示に二邊を捨て八正道を取る段もあり。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "八正道の一歩で罠山から逃れ、魔の見なき処へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·罠山·出要",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-path",
+          "text": "捨此二邊，有取中道……謂八正道，正見乃至正定，是謂為八。……有五欲功德……見災患，見出要，而取用之。",
+          "satLocus": "大正蔵 T1.777c–778b 羅摩経",
+          "note": "漢訳は八正道と五欲出要。パーリは罠山·禅定を詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P06",
+      "category": "mindfulness",
+      "ref": "MN 26",
+      "section": "深法·執着を好む世",
+      "observe": "証得の法は深遠·見難い。人々は執着を好み、縁起と涅槃は見難い——急いで証明しようとしない——今日、深い法を急いで証明しようとする衝動を一度止める。",
+      "action": "今日、深い法を急いで証明しようとする衝動を一度止める",
+      "quote": "そこで、わたしに、このような〔思いが〕有りました。『わたしによって証得された、この法は、深遠で、見難く、了知し難く、寂静で、勝れ、思惟の領分を超え、微妙で、賢者の知るべきものである。しかしながら、人々は執着を好み、執着を愛し、執着を楽しむ。……縁起……一切の行の止滅……渇愛の滅尽……涅槃は、彼らにとって見難い。もし、わたしが法を説くなら、他者たちがわたしを了知しないかもしれず、それはわたしにとって疲弊と悩苦と成るであろう』と。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "深法を急いで証明したい受を一度止める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·深法·執着を好む世",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-deep",
+          "text": "（パーリ詳説：法は深遠·見難く、人々は執着を好む。漢訳は成道後すぐ五比丘を選ぶ流れが主で、梵天勧請段は薄い／欠く場合あり。）",
+          "satLocus": "大正蔵 T1.777a 羅摩経（対照）",
+          "note": "深法·執着を好む世はパーリ中心。對照表で羅摩経対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P07",
+      "category": "speech",
+      "ref": "MN 26",
+      "section": "梵天勧請",
+      "observe": "サハンパティ梵天の勧請——眼に塵の少なき有情あり、法を聞かずして衰退する。不死の門を開け——今日、相手の準備が整うまで、言葉を一度控える。",
+      "action": "今日、相手の準備が整うまで、言葉を一度控える",
+      "quote": "そこで、サハンパティ梵天は……わたしの前に現れ……こう言いました。『尊き方よ、世尊は、法を説いてください。善逝は、法を説いてください。眼に塵の少なき有情たちがいます。彼らは、法を聞かずに衰退します。法を了知する者たちがあるでしょう』と。……『不死の門は、開かれました。耳ある者たちは、信を発してください』と。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正語",
+        "正思惟"
+      ],
+      "pathReason": "相手の準備が整うまで語を控え、塵の少なき耳を待つ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·梵天勧請",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-teach",
+          "text": "我至波羅［木＊奈］，擊妙甘露鼓，轉無上法輪，世所未曾轉。（パーリ：梵天勧請「願世尊說法……眼塵少者……」。）",
+          "satLocus": "大正蔵 T1.777b 羅摩経",
+          "note": "説法の決意。パーリの梵天勧請に対応する実践（相手の準備）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P08",
+      "category": "mindfulness",
+      "ref": "MN 26",
+      "section": "五比丘への初教",
+      "observe": "五比丘への初教——精励のときの世話に報い、まず彼らに法を説く。学ぶ姿勢で聞く——今日、誰かから学ぶ姿勢を一つ執着する。",
+      "action": "今日、誰かから学ぶ姿勢を一つ執着する",
+      "quote": "そこで、わたしに、このような〔思いが〕有りました。『五人の比丘たちは、わたしにとって多くを為した。わたしが精励していたとき、彼らはわたしを世話した。それなら、さあ、わたしは、まず彼らに法を説示しよう』と。……わたしは、五人の比丘たちを説得することができました。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "学ぶ姿勢で法に触れ、初教を受ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·五比丘への初教",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-five",
+          "text": "昔五比丘為我執勞，多所饒益……我今寧可為五比丘先說法耶？……五比丘！我如來、無所著、正盡覺，汝等莫稱我本姓字……。",
+          "satLocus": "大正蔵 T1.777b–c 羅摩経",
+          "note": "五比丘への初教。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P09",
+      "category": "intention",
+      "ref": "MN 26",
+      "section": "五欲·罠山",
+      "observe": "五欲——縛られ狂い執着し、災患を見ず出要を知らねば魔の思うまま。罠の山に捕らわれた鹿——今日強く「欲しい」と感じた対象の愛を、一度緩める。",
+      "action": "今日強く「欲しい」と感じた対象の愛を、一度緩める",
+      "quote": "比丘たちよ、五つの欲望の属性があります。眼によって識知されるべき諸々の色形……身によって識知されるべき諸々の感触……。……それらに縛られ、狂い、執着し、災患を見ず、出要を了知せずして受ける者は、不幸に落ち、滅び、魔の思うままの所にある、と了知されるべきです。……たとえば、また、林野の鹿が、罠の山に捕らえられて横たわっているとします……。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "五欲への欲しがりを罠山として緩める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·五欲·罠山",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-kama",
+          "text": "有五欲功德可愛、可樂……眼知色，耳知聲……身知觸。……不見災患，不見出要，而取用之。當知彼隨弊魔……為魔羂所纏。猶如野鹿，為纏所纏……。",
+          "satLocus": "大正蔵 T1.778a 羅摩経",
+          "note": "五欲·魔羂＝パーリの五欲·罠山。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P10",
+      "category": "view",
+      "ref": "MN 26",
+      "section": "解脱の知見",
+      "observe": "五比丘も聖求を体得——解脱は不動、これ最後の生、再生は無い——今日、執着が弱まった瞬間を「解脱の知」と認める。",
+      "action": "今日、執着が弱まった瞬間を「解脱の知」と認める",
+      "quote": "まさに、このように教え示され、教え諭されながら、五人の比丘たちは、自ら生の法を有しながら、生の法における災患を知り、生なき、無上の安穏なる涅槃を探し求め——そして、それを得ました。…………わたしに、知見が生じました。『わたしの解脱は、不動である。これは、最後の生である。いまや、再生は無い』と。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "執着が弱まった瞬間を不動の解脱の知として認める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·解脱の知見",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-vimutti",
+          "text": "生知生見，定道品法，生已盡，梵行已立，所作已辦，不更受有，知如真。……是說無病無上安隱涅槃……。",
+          "satLocus": "大正蔵 T1.777c / T1.778c 羅摩経",
+          "note": "解脱の知見＝不動·最後の生。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P11",
+      "category": "view",
+      "ref": "MN 26",
+      "section": "二邊（漢訳対応）",
+      "observe": "二邊（漢訳）——欲楽への耽溺と自苦。非聖求の快楽逃避と「定で足りる」固執のどちらにも偏らない——今日、快楽への逃避と苦行への固執のどちらかに偏っていないか問う。",
+      "action": "今日、快楽への逃避と苦行への固執のどちらかに偏っていないか問う",
+      "quote": "（漢訳・羅摩経）五比丘！當知有二邊行，諸為道者所不當學：一曰著欲樂下賤業，凡人所行；二曰自煩自苦，非賢聖求法，無義相應。五比丘！捨此二邊，有取中道……謂八正道，正見乃至正定。（パーリ聖求経は同段で五欲·罠山·禅定を説く。非聖求の快楽執着と、定のみで足りると見る偏りを、二邊の実践に対応させる。）",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "快楽逃避と自苦の二邊の苦を見て中道へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·二邊（漢訳対応）",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-extremes",
+          "text": "當知有二邊行，諸為道者所不當學：一曰著欲樂下賤業，凡人所行；二曰自煩自苦，非賢聖求法，無義相應。捨此二邊，有取中道……。",
+          "satLocus": "大正蔵 T1.777c 羅摩経",
+          "note": "二邊は漢訳に明示。パーリMN26は同段で五欲·罠を説く。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P12",
+      "category": "view",
+      "ref": "MN 26",
+      "section": "災患と四諦",
+      "observe": "聖求の見分け——今日の苦を生·老·病·死·憂·穢汚のどれか／災患と逃れ（涅槃）で見る。漢訳は苦·集·滅·道の如実知もあり——今日の苦一つを、四諦の四句のどれに当てはまるか静かに見分ける。",
+      "action": "今日の苦一つを、四諦の四句のどれに当てはまるか静かに見分ける",
+      "quote": "自ら生の法を有しながら、生の法における災患を知り、生なき、無上の安穏なる涅槃を探し求める。……老……病……死……憂……穢汚……。（漢訳では漏尽の知見として苦·集·滅·道を如実に知る段もあり。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "今日の苦を聖求の見分け（災患·逃れ）／四諦で照らす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·災患と四諦",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-sacca",
+          "text": "彼知此苦如真，知此苦習、知此苦滅、知此苦滅道如真。知此漏如真……解脫已便知解脫……。",
+          "satLocus": "大正蔵 T1.778b 羅摩経",
+          "note": "四諦·漏の如実知（漢訳）。パーリは聖求の災患·涅槃の見分け。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN26-P13",
+      "category": "mindfulness",
+      "ref": "MN 26",
+      "section": "夜の聖求",
+      "observe": "夜、二つの探求を振り返る——今日、非聖求に流れたか、聖求（災患を知り涅槃へ）を修したか——就寝前、今日四諦·縁起のうちどれを修したか一つ振り返り、明日も続ける。",
+      "action": "就寝前、今日四諦·縁起のうちどれを修したか一つ振り返り、明日も続ける",
+      "quote": "比丘たちよ、二つの探求があります。聖なる探求と、聖ならざる探求です。……聖なる探求とは……災患を知り、無上の安穏なる涅槃を探し求めることです。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "夜、二種の探求と修した法を一つ振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・聖求の経／パーリMN26）",
+          "locus": "中部・聖求の経（MN26）·夜の聖求",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 聖求経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含204・羅摩経（T26）",
+          "t26": "T26-204-close",
+          "text": "有二種求，一曰聖求，二曰非聖求。……是說無病無上安隱涅槃……。",
+          "satLocus": "大正蔵 T1.776a / T1.778c 羅摩経",
+          "note": "二種求と涅槃の総括。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0775c01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

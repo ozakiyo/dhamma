@@ -1,0 +1,375 @@
+{
+  "chapter": 6,
+  "samyutta": 6,
+  "title": "相応部 第6章（梵天相応）",
+  "shortTitle": "梵天",
+  "mapNote": "SN 6——梵天相応",
+  "suttas": [
+    "SN 6 梵天相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（有偈篇）",
+    "verify": "南伝大蔵経 第12巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN6-P01",
+      "category": "prep",
+      "ref": "SN 6.1",
+      "section": "導·請法",
+      "observe": "梵天サハンパティ、仏の成道後「世間は法を聞けぬ」と請う——教えの開始",
+      "action": "朝、「法を聞く·伝える」ことの尊さを意図する",
+      "quote": "梵天サハンパティは、世尊に請う。「衆生は、法を聞けぬ。どうか、法を説いてください」"
+    },
+    {
+      "id": "SN6-P02",
+      "category": "prep",
+      "ref": "SN 6.1",
+      "section": "請法",
+      "observe": "仏は最初、教えを止めようとした——衆生の理解の難しさ",
+      "action": "「説いても無駄」と思いそうになったら、梵天の請いを想起する",
+      "quote": "世尊は、衆生の理解の難しさを知り、教えを止めようとした"
+    },
+    {
+      "id": "SN6-P03",
+      "category": "prep",
+      "ref": "SN 6.2",
+      "section": "稀有",
+      "observe": "仏の出現は稀有——梵天もこのを知る",
+      "action": "今日、仏教·善友·法に出会えた稀有さを一度感謝する",
+      "quote": "如来の出現は、稀有なり。梵天も、此を知る"
+    },
+    {
+      "id": "SN6-P04",
+      "category": "prep",
+      "ref": "SN 6.5",
+      "section": "正見",
+      "observe": "梵天も正見を讃える——法こそ最高",
+      "action": "今日、正見（縁起·四諦）を一つ確認する",
+      "quote": "正見を讃えよ。法こそ、最高なり"
+    },
+    {
+      "id": "SN6-P05",
+      "category": "prep",
+      "ref": "SN 6.10",
+      "section": "慈悲",
+      "observe": "梵天の請いは慈悲——衆生のために法を求める",
+      "action": "今日、誰かのために法·善を一つ行う",
+      "quote": "衆生のために法を求める——これ慈悲なり"
+    },
+    {
+      "id": "SN6-P06",
+      "category": "suffering",
+      "ref": "SN 6.1",
+      "section": "暗",
+      "observe": "世間は暗い——法なき衆生の苦",
+      "action": "世間の苦（争い·無知）を見たとき「法なき暗」と観る",
+      "quote": "世間は暗い。法なき衆生、苦しみの中に在り"
+    },
+    {
+      "id": "SN6-P07",
+      "category": "suffering",
+      "ref": "SN 6.2",
+      "section": "稀有",
+      "observe": "仏がいなければ、衆生は苦の中——稀有の出現",
+      "action": "法に出会えたことを、一度深く感謝する",
+      "quote": "如来なき世間、衆生は苦の中に在り"
+    },
+    {
+      "id": "SN6-P08",
+      "category": "suffering",
+      "ref": "SN 6.4",
+      "section": "無明",
+      "observe": "梵天も、衆生の無明を知る",
+      "action": "無知から来る苦を見たとき「無明の苦」と名づける",
+      "quote": "衆生の無明、これ苦の因なり"
+    },
+    {
+      "id": "SN6-P09",
+      "category": "suffering",
+      "ref": "SN 6.7",
+      "section": "輪廻",
+      "observe": "梵天界も輪廻の中——梵天も生死を受ける",
+      "action": "「天界に行けば安らか」という思いを、一度問う",
+      "quote": "梵天界も、輪廻の中に在り"
+    },
+    {
+      "id": "SN6-P10",
+      "category": "suffering",
+      "ref": "SN 6.10",
+      "section": "無常",
+      "observe": "梵天の寿も無常——最長の寿も尽きる",
+      "action": "長期的な計画を「無常の中」と観る",
+      "quote": "梵天の寿も、尽きれば、再び生死を受く"
+    },
+    {
+      "id": "SN6-P11",
+      "category": "desire",
+      "ref": "SN 6.3",
+      "section": "慢",
+      "observe": "梵天の慢——「私は最高」",
+      "action": "優越感が来たら「梵天の慢」と観る",
+      "quote": "梵天の慢——「我は最高」——これも苦の因"
+    },
+    {
+      "id": "SN6-P12",
+      "category": "desire",
+      "ref": "SN 6.5",
+      "section": "有",
+      "observe": "梵天界への有愛——最高の存在への執着",
+      "action": "「この状態を保ちたい」という執着が来たら、有愛と観る",
+      "quote": "梵天界への有愛、これ執着なり"
+    },
+    {
+      "id": "SN6-P13",
+      "category": "desire",
+      "ref": "SN 6.7",
+      "section": "対治",
+      "observe": "梵天も法を求める——欲より法",
+      "action": "欲と法が衝突したら、法を選ぶ",
+      "quote": "欲より、法を取れ"
+    },
+    {
+      "id": "SN6-P14",
+      "category": "desire",
+      "ref": "SN 6.8",
+      "section": "離欲",
+      "observe": "離欲こそ梵天を超える",
+      "action": "今日、一つの執着を手放す",
+      "quote": "離欲を以て、梵天界を超えよ"
+    },
+    {
+      "id": "SN6-P15",
+      "category": "desire",
+      "ref": "SN 6.10",
+      "section": "解脱",
+      "observe": "解脱こそ梵天の頂点",
+      "action": "今日の目的を「梵天界ではなく解脱」と確認する",
+      "quote": "解脱こそ、梵天の頂点なり"
+    },
+    {
+      "id": "SN6-P16",
+      "category": "speech",
+      "ref": "SN 6.1",
+      "section": "請",
+      "observe": "梵天の請——「どうか、法を説いてください」",
+      "action": "今日、法を学び·伝える機会を一つ求める",
+      "quote": "どうか、法を説いてください——梵天の請なり"
+    },
+    {
+      "id": "SN6-P17",
+      "category": "speech",
+      "ref": "SN 6.2",
+      "section": "讃",
+      "observe": "梵天は仏を讃える——稀有の出現",
+      "action": "今日、仏·法·僧について感謝の言葉を一つ口にする",
+      "quote": "如来の出現、稀有なり——梵天は、此を讃える"
+    },
+    {
+      "id": "SN6-P18",
+      "category": "speech",
+      "ref": "SN 6.5",
+      "section": "正語",
+      "observe": "梵天の言葉——真理を讃える",
+      "action": "今日、真理を讃える言葉を一つ口にする",
+      "quote": "真理を讃える言葉、これ正語なり"
+    },
+    {
+      "id": "SN6-P19",
+      "category": "speech",
+      "ref": "SN 6.8",
+      "section": "説法",
+      "observe": "法を説くことの尊さ——梵天も請う",
+      "action": "今日、誰かに法·善について一節を伝える",
+      "quote": "法を説くこと、尊きなり"
+    },
+    {
+      "id": "SN6-P20",
+      "category": "speech",
+      "ref": "SN 6.10",
+      "section": "誠実",
+      "observe": "梵天の誠実な請い——飾らず",
+      "action": "今日、飾らず誠実な言葉を一つ口にする",
+      "quote": "誠実な請い、飾らず"
+    },
+    {
+      "id": "SN6-P21",
+      "category": "people",
+      "ref": "SN 6.1",
+      "section": "梵天",
+      "observe": "梵天も仏に請う——最高の存在も法を求める",
+      "action": "今日、誰かから学ぶ謙虚さを一つ持つ",
+      "quote": "梵天も、世尊に請う。最高の存在も、法を求める"
+    },
+    {
+      "id": "SN6-P22",
+      "category": "people",
+      "ref": "SN 6.2",
+      "section": "衆生",
+      "observe": "梵天は衆生を思う——慈悲の対象",
+      "action": "今日、誰かの苦を一度思い、慈心を送る",
+      "quote": "梵天は、衆生を思う。慈悲の対象なり"
+    },
+    {
+      "id": "SN6-P23",
+      "category": "people",
+      "ref": "SN 6.5",
+      "section": "善友",
+      "observe": "梵天は善友——法を請う者",
+      "action": "今日、善友に一つ感謝を伝える",
+      "quote": "法を請う者、善友なり"
+    },
+    {
+      "id": "SN6-P24",
+      "category": "people",
+      "ref": "SN 6.8",
+      "section": "後学",
+      "observe": "梵天の請いは、後学のために",
+      "action": "今日、後学·初心者を一つ励ます",
+      "quote": "後学のために、法を請う"
+    },
+    {
+      "id": "SN6-P25",
+      "category": "people",
+      "ref": "SN 6.10",
+      "section": "敬法",
+      "observe": "梵天も法を敬う",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬ぶ者、梵天も敬う"
+    },
+    {
+      "id": "SN6-P26",
+      "category": "work",
+      "ref": "SN 6.1",
+      "section": "教",
+      "observe": "教えること——仏は梵天の請いに応じた",
+      "action": "今日、誰かに学びを一つ伝える",
+      "quote": "梵天の請いに応じ、世尊は、法を説いた"
+    },
+    {
+      "id": "SN6-P27",
+      "category": "work",
+      "ref": "SN 6.2",
+      "section": "聞",
+      "observe": "聞くこと——稀有の法を聞く",
+      "action": "今日、法の一節を声に出して読む",
+      "quote": "稀有の法を聞け"
+    },
+    {
+      "id": "SN6-P28",
+      "category": "work",
+      "ref": "SN 6.5",
+      "section": "修",
+      "observe": "修すること——聞いて修す",
+      "action": "今日、聞いた法を一つ実践する",
+      "quote": "聞いて修す——これ道なり"
+    },
+    {
+      "id": "SN6-P29",
+      "category": "work",
+      "ref": "SN 6.8",
+      "section": "精進",
+      "observe": "梵天も精進を讃える",
+      "action": "今日、怠けたい衝動が来たら、一つの修行を行う",
+      "quote": "精進を讃えよ"
+    },
+    {
+      "id": "SN6-P30",
+      "category": "work",
+      "ref": "SN 6.10",
+      "section": "解脱",
+      "observe": "解脱こそ究竟——梵天界を超える",
+      "action": "今日の修行の目的を「解脱」と確認する",
+      "quote": "解脱こそ、究竟なり"
+    },
+    {
+      "id": "SN6-P31",
+      "category": "night",
+      "ref": "SN 6.1",
+      "section": "請",
+      "observe": "今日、法を聞いた·伝えたか",
+      "action": "就寝前、今日の法の接触を一つ振り返る",
+      "quote": "法を聞き、法を伝えよ"
+    },
+    {
+      "id": "SN6-P32",
+      "category": "night",
+      "ref": "SN 6.2",
+      "section": "稀有",
+      "observe": "今日、稀有の出会い（法·善友）があったか",
+      "action": "就寝前、稀有な出会いに感謝する",
+      "quote": "稀有の出会いに、感謝せよ"
+    },
+    {
+      "id": "SN6-P33",
+      "category": "night",
+      "ref": "SN 6.5",
+      "section": "慈悲",
+      "observe": "今日、衆生のために何かしたか",
+      "action": "就寝前、誰かのためにしたことを一つ確認する",
+      "quote": "衆生のために、一歩を"
+    },
+    {
+      "id": "SN6-P34",
+      "category": "night",
+      "ref": "SN 6.8",
+      "section": "離欲",
+      "observe": "今日、手放した執着はあったか",
+      "action": "就寝前、手放した執着を一つ認める",
+      "quote": "手放せば、心は軽くなる"
+    },
+    {
+      "id": "SN6-P35",
+      "category": "night",
+      "ref": "SN 6.10",
+      "section": "総括",
+      "observe": "梵天相応の要——法を請い、聞き、修し、解脱へ",
+      "action": "就寝前、「稀有の法を聞き、修す」と一句唱える",
+      "quote": "梵天は法を請う。聞き、修し、解脱に至れ"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "chapter": 110,
+  "sutta": 110,
+  "title": "中部 第110経（満月小経）",
+  "shortTitle": "満月小経",
+  "mapNote": "後分五十経篇 · 天臂品",
+  "suttas": [
+    "MN 110 満月小経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "満月小経のペア分布から割り当て",
+    "chapterTitle": "中部 第110経（満月小経）",
+    "shortTitle": "満月小経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "満月小経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN110-P01",
+          "MN110-P03",
+          "MN110-P04"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "満月小経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN110-P01",
+          "MN110-P03"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "満月小経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN110-P05",
+          "MN110-P10"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "満月小経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN110-P05",
+          "MN110-P09"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "満月小経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN110-P02",
+          "MN110-P06"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "満月小経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN110-P01",
+          "MN110-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "満月小経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN110-P04",
+          "MN110-P08"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN110-P01",
+      "category": "prep",
+      "ref": "MN 110",
+      "section": "導",
+      "observe": "不断経——六入処と無我",
+      "action": "今日、六入処の一つを、一つ問う",
+      "quote": "眼·耳·鼻·舌·身·意——これを、如何に観るべきか"
+    },
+    {
+      "id": "MN110-P02",
+      "category": "suffering",
+      "ref": "MN 110",
+      "section": "六入",
+      "observe": "六入処皆苦",
+      "action": "今日、六入処の一つに、苦を一瞬付け加える",
+      "quote": "六入処皆苦——これが正見である"
+    },
+    {
+      "id": "MN110-P03",
+      "category": "prep",
+      "ref": "MN 110",
+      "section": "無我",
+      "observe": "六入処皆無我",
+      "action": "今日、六入処の一つに、無我を付け加える",
+      "quote": "眼無我、耳無我、鼻無我、舌無我、身無我、意無我"
+    },
+    {
+      "id": "MN110-P04",
+      "category": "work",
+      "ref": "MN 110",
+      "section": "観",
+      "observe": "六入処を観て、我見を除く",
+      "action": "今日、六入処の一つを、十呼吸観察する",
+      "quote": "六入処を観て、我見を除く"
+    },
+    {
+      "id": "MN110-P05",
+      "category": "desire",
+      "ref": "MN 110",
+      "section": "取",
+      "observe": "六入処への取は、苦の因",
+      "action": "今日、六入処への取を、一つ手放す",
+      "quote": "六入処への取は、苦の因である"
+    },
+    {
+      "id": "MN110-P06",
+      "category": "suffering",
+      "ref": "MN 110",
+      "section": "触",
+      "observe": "六入処から触が生じ、触から苦が生じる",
+      "action": "今日、触→苦の連鎖を、一つ見る",
+      "quote": "六入処縁触、触縁受、受縁苦"
+    },
+    {
+      "id": "MN110-P07",
+      "category": "prep",
+      "ref": "MN 110",
+      "section": "正見",
+      "observe": "正見は、六入処をあるがままに知る",
+      "action": "今日、正見で、六入処を一つあるがままに知る",
+      "quote": "正見は、六入処を如実知る"
+    },
+    {
+      "id": "MN110-P08",
+      "category": "work",
+      "ref": "MN 110",
+      "section": "念",
+      "observe": "六入処を念ずれば、解脱に至る",
+      "action": "今日、六入処の一つに、念を五呼吸置く",
+      "quote": "六入処を念ずれば、解脱に至る"
+    },
+    {
+      "id": "MN110-P09",
+      "category": "speech",
+      "ref": "MN 110",
+      "section": "教誡",
+      "observe": "世尊は、六入処と無我を説いた",
+      "action": "今日、無我の教えを、誰かに一つ伝える",
+      "quote": "世尊は、六入処と無我を説いた"
+    },
+    {
+      "id": "MN110-P10",
+      "category": "desire",
+      "ref": "MN 110",
+      "section": "不断",
+      "observe": "不断の執着——六入処への取",
+      "action": "今日、不断の執着を、一つ断つ",
+      "quote": "不断の執着——六入処への取である"
+    },
+    {
+      "id": "MN110-P11",
+      "category": "night",
+      "ref": "MN 110",
+      "section": "結",
+      "observe": "六入無我——夜、今日の取着を一つ振り返る",
+      "action": "就寝前、六入処への取を、一つ手放す",
+      "quote": "眼無我、耳無我、鼻無我、舌無我、身無我、意無我"
+    }
+  ]
+}

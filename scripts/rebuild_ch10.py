@@ -1,0 +1,418 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""Rebuild dhammapada ch10.json (刀杖品) to match ch1–ch9 source alignment."""
+import json
+from collections import defaultdict
+from pathlib import Path
+
+DATA = Path(__file__).resolve().parents[1] / "data"
+ARANA_URL = (
+    "https://sites.google.com/view/arana-tipitaka/"
+    "%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/"
+    "%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+)
+TB_URL = "https://true-buddhism.com/sutra/dhammapada/#ch02-10"
+SAT_URL = "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0566"
+MAP_URL = (
+    "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/"
+    "dhp-correspondence-tables/dhp-correspondence-tables-pali-chap10/"
+)
+
+QUOTES = {
+    129: "全ての者たちは、棒（武器）を恐れる。全ての者たちは、死魔に恐怖する。自己を喩えと為して（自らを引き合いにして）、〔他者を〕殺さず、〔他者をして他者を〕殺させないように。",
+    130: "全ての者たちは、棒を恐れる。全ての者たちにとって、生命は愛しきもの。自己を喩えと為して、〔他者を〕殺さず、〔他者をして他者を〕殺させないように。",
+    131: "彼が、安楽を欲する生類たちを棒で害するなら、自己の安楽を探し求めつつ、彼は、死してのち、安楽を得ない。",
+    132: "彼が、安楽を欲する生類たちを棒で害さないなら、自己の安楽を探し求めつつ、彼は、死してのち、安楽を得る。",
+    133: "誰にであれ、粗暴なことを言ってはならない。言われた者たちは、あなたに言い返すであろう。なぜなら、諸々の激昂の言説は、苦痛であり、諸々の報いの棒（報復）が、あなたを襲うからである。",
+    134: "それで、もし、あたかも、壊れた銅鑼のように、〔沈黙して〕自己を動かさないなら、あなたに、激昂は見出されず、〔まさに〕この、涅槃に至り得た者として、〔あなたは〕存する。",
+    135: "たとえば、牛飼いが、牛たちを、棒で餌場に追い立てるように、このように、そして、老は、さらに、死魔も、命あるものたちの寿命を追い立てる。",
+    136: "そこで、諸々の悪しき行為を為しつつ、愚者は、〔そのことを〕覚らない。思慮浅き者は、自らの諸々の行為によって、火に焼かれた者のように悩み苦しむ。",
+    137: "彼が、汚れ（悪意）なく棒（武器）なき者たちを、棒で汚すなら、〔彼は、以下に示す〕十のなかのどれか一つの状況に、まさしく、すみやかに遭遇する。",
+    138: "粗暴なる〔苦痛の〕感受（受：楽苦の知覚）に、〔財の〕衰退に、そして、肉体の破壊に、あるいは、また、重き病苦に、さらに、心の散乱に、至り得るであろう。",
+    139: "あるいは、王からの災禍に、そして、凶悪なる誹謗に、さらに、親族たちの完全なる滅尽に、そして、諸々の財物の崩壊に、〔至り得るであろう〕。",
+    140: "さらに、あるいは、彼の家々を、浄化の火が焼き尽くす。身体の破壊ののち、智慧浅き者として、彼は、地獄に再生する。",
+    141: "裸身の行にあらず、結髪〔の行〕にあらず、泥〔を塗る行〕にあらず、断食〔の行〕にあらず、あるいは、野臥〔の行〕に〔あらず〕、塵や埃〔をかぶること〕に〔あらず〕、うずくまったまま〔刻苦〕精励することに〔あらず〕──疑いを超えずにいる人間を清めるのは。",
+    142: "たとえ、もし、〔装いを〕十分に作り為しているとして（苦行者の姿をしていないとして）、〔心を動かさず〕平静に〔世を〕歩むなら──〔心が〕寂静で、〔自己が〕調御された、〔正道〕決定の梵行者（禁欲清浄行の実践者）となり、一切の生類にたいし、棒（武器）を置いて〔世を歩むなら〕──彼は、婆羅門（聖職者）である──彼は、沙門（修行者）である──彼は、比丘（行乞者）である。",
+    143: "恥〔の思い〕（慚）で〔身を〕慎む人として、どこの誰が、世において見出されるというのだろう。彼は、眠気を離れ目覚めている──賢馬が、〔打たれる前に〕鞭を〔注意深く避けている〕ように。",
+    144: "あたかも、鞭を入れた賢馬のように、〔あなたたちは〕熱情ある者たちとして、畏怖ある者たちとして、〔世に〕有れ。信によって、さらに、戒によって、かつまた、精進によって、禅定（定・三昧）によって、そして、法（真理）の判別によって、明知と行ないを成就した気づきの者たちとなり、この少なからざる苦しみを捨棄するのだ。",
+    145: "まさに、治水者たちは、水を誘導し、矢作りたちは、矢を調整し、大工たちは、木を矯正し、善き掟の者たちは、自己を調御する。",
+}
+
+OBSERVE = {
+    129: "一切の人は刀杖を怖れ、一切の人は死を恐る。 自己に思い比べて、〔他を〕殺すべからず、殺さしむべからず。",
+    130: "一切の人は刀杖を怖れ、一切の人は生を愛す。 自己に思い比べて、〔他を〕殺すべからず、殺さしむべからず。",
+    131: "自己の安楽を欲して、安楽を好む有情を、刀杖を以て害する者は、死後安楽を得ず。",
+    132: "自己の安楽を欲して、安楽を好む有情を、刀杖を以て害せざる者は、死後安楽を得。",
+    133: "粗暴の言を用うべからず。 言われし者また汝に言を返さん。 忿怒の言は実に苦なり。 刀杖かえって汝に触れん。",
+    134: "汝もし壊れたる銅鑼の如く、黙して言わざれば、汝は既に涅槃を得たるなり。 汝に忿怒あることなし。",
+    135: "牧者の杖を以て牛を牧場に駆る如く、老と死とは有情の寿命を駆る。",
+    136: "愚者は悪業をなして悟らず、暗鈍にして自己の業により苦しむこと、あたかも火に焼かるるが如し。",
+    137: "罪過なく、邪念なき人を刀杖を以て害する者は、忽ち〔下の如き〕十中の一事に遇うべし。",
+    138: "激しき苦痛、老衰、身体の毀損、或いは重き病苦、もしくは心の錯乱に遇うべし。",
+    139: "或いは国王より蒙る災禍、或いは恐るべき讒誣（ざんぶ）、或いは親族の離散、或いは財産の破滅に〔遇い〕、",
+    140: "或いはまた浄火彼の家を焼く。 愚痴なる者はその身滅びて後地獄に堕つ。",
+    141: "裸行も、螺髻（らけい）も、汚泥も、断食も、或いは地上の横臥も、塵垢身も、蹲踞も、疑惑を断ぜざる人を浄むることなし。",
+    142: "たとい〔その身を〕荘厳するとも、一切の有情に刀杖を加うることなく、寂静に住し、〔心を〕調御（ちょうご）し、自ら制し、梵行（ぼんぎょう）を持し、行う所平等なる者、彼は婆羅門なり、彼は沙門なり、彼は比丘なり。",
+    143: "この世に於て慚愧（ざんき）を以て自己を制する者ありや。 良馬の鞭を〔蒙らざる〕如く、彼は誹謗を蒙らず。",
+    144: "鞭を加えられし良馬の如く、汝らも努力奮励せよ、信仰と戒行と精進とにより、禅定と法の識別とにより、知と行とを具足して忘るることなく、この大なる苦を滅却せよ。",
+    145: "治水者は水を導き、箭匠は箭（や）を矯め、木匠は木を矯め、有徳者は自己を調御（ちょうご）す。",
+}
+
+CHINESE = {
+    129: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-001",
+          "text": "一切皆懼死，莫不畏杖痛，恕己可為譬，勿殺勿行杖。", "satLocus": "大正蔵 T4.566a 刀杖品第1頌"},
+    130: {"status": "unmapped", "pin": None, "t210": None, "text": None, "satLocus": None,
+          "note": "パーリ棒の章130はT210に対応なし（蘇錦坤對照表）。併記129の漢訳を参照。"},
+    131: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-002",
+          "text": "能常安群生，不加諸楚毒，現世不逢害，後世長安隱。", "satLocus": "大正蔵 T4.566a 刀杖品第2頌"},
+    132: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-002",
+          "text": "能常安群生，不加諸楚毒，現世不逢害，後世長安隱。", "satLocus": "大正蔵 T4.566a 刀杖品第2頌",
+          "note": "パーリ131–132はT210刀杖品第2頌にまとめて対応。"},
+    133: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-003",
+          "text": "不當麤言，言當畏報，惡往禍來，刀杖歸軀。", "satLocus": "大正蔵 T4.566a 刀杖品第3頌"},
+    134: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-004",
+          "text": "出言以善，如叩鐘磬，身無論議，度世則易。", "satLocus": "大正蔵 T4.566a 刀杖品第4頌"},
+    135: {"status": "mapped", "pin": "無常品（T210 第1品）", "t210": "T210-01-005",
+          "text": "譬人操杖，行牧食牛；老死猶然，亦養命去。", "satLocus": "大正蔵 T4.559a 無常品第5頌",
+          "note": "パーリ棒の章135はT210刀杖品ではなく無常品に対応（蘇錦坤對照表）。"},
+    136: {"status": "mapped", "pin": "愚闇品（T210 第13品）", "t210": "T210-13-014",
+          "text": "愚惷作惡，不能自解，殃追自焚，罪成熾燃。", "satLocus": "大正蔵 T4.564c 愚闇品第14頌",
+          "note": "パーリ棒の章136はT210刀杖品ではなく愚闇品に対応（蘇錦坤對照表）。"},
+    137: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-005",
+          "text": "歐杖良善，妄讒無罪，其殃十倍，災迅無赦。", "satLocus": "大正蔵 T4.566a 刀杖品第5頌"},
+    138: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-006",
+          "text": "生受酷痛，形體毀折，自然惱病，失意恍惚，", "satLocus": "大正蔵 T4.566a 刀杖品第6頌"},
+    139: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-007",
+          "text": "人所誣咎，或縣官厄，財產耗盡，親戚離別，", "satLocus": "大正蔵 T4.566a 刀杖品第7頌"},
+    140: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-008",
+          "text": "舍宅所有，災火焚燒，死入地獄，如是為十。", "satLocus": "大正蔵 T4.566a 刀杖品第8頌"},
+    141: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-009",
+          "text": "雖裸剪髮，長服草衣，沐浴踞石，奈癡結何？", "satLocus": "大正蔵 T4.566a 刀杖品第9頌"},
+    142: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-013",
+          "text": "自嚴以修法，滅損受淨行，杖不加群生，是沙門道人。", "satLocus": "大正蔵 T4.566b 刀杖品第13頌"},
+    143: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-011",
+          "text": "世儻有人，能知慚愧，是名誘進，如策良馬。", "satLocus": "大正蔵 T4.566a 刀杖品第11頌"},
+    144: {"status": "mapped", "pin": "刀杖品（T210 第18品）", "t210": "T210-18-012",
+          "text": "如策善馬，進道能遠，人有信戒，定意精進，受道慧成，便滅眾苦。", "satLocus": "大正蔵 T4.566a 刀杖品第12頌"},
+    145: {"status": "mapped", "pin": "明哲品（T210 第14品）", "t210": "T210-14-007",
+          "text": "弓工調角，水人調船，巧匠調木，智者調身。", "satLocus": "大正蔵 T4.565a 明哲品第7頌",
+          "note": "パーリ棒の章145はT210刀杖品ではなく明哲品に対応（蘇錦坤對照表）。賢品80と同一系統。"},
+}
+
+VERSE_PRACTICE = {
+    129: {"nidanaId": "contact", "pathFactors": ["正業", "正念"], "reason": "自己を喩えに、他を殺さず殺させない"},
+    130: {"nidanaId": "contact", "pathFactors": ["正業", "正念"], "reason": "生命を愛する如く、他を害さない"},
+    131: {"nidanaId": "craving", "pathFactors": ["正業", "正念"], "reason": "他を害して安楽を求めると、死後安楽を得ない"},
+    132: {"nidanaId": "release", "pathFactors": ["正業", "正念"], "reason": "害さずに安楽を求めれば、死後安楽を得る"},
+    133: {"nidanaId": "clinging", "pathFactors": ["正語", "正念"], "reason": "粗暴な言葉は刀杖となって自分に返る"},
+    134: {"nidanaId": "release", "pathFactors": ["正語", "正念"], "reason": "壊れた銅鑼のように黙すれば、怒りはない"},
+    135: {"nidanaId": "suffering", "pathFactors": ["正見", "正念"], "reason": "老と死が命を追い立てると知る"},
+    136: {"nidanaId": "suffering", "pathFactors": ["正見", "正念"], "reason": "悪業に気づかず、火に焼かれるように苦しむ"},
+    137: {"nidanaId": "clinging", "pathFactors": ["正業", "正念"], "reason": "罪過なき者を害すれば、十の災いにすみやかに遇う"},
+    138: {"nidanaId": "suffering", "pathFactors": ["正見", "正念"], "reason": "激痛・病苦・心の錯乱などに至る"},
+    139: {"nidanaId": "suffering", "pathFactors": ["正見", "正念"], "reason": "王災・誹謗・親族離散・財産崩壊に至る"},
+    140: {"nidanaId": "suffering", "pathFactors": ["正見", "正念"], "reason": "家が焼け、身滅びて地獄に堕つ"},
+    141: {"nidanaId": "contact", "pathFactors": ["正見", "正念"], "reason": "外形の苦行は、疑惑を断たねば心を浄めない"},
+    142: {"nidanaId": "release", "pathFactors": ["正業", "正念"], "reason": "一切有情に刀杖を加えず調御する者が真の修行者"},
+    143: {"nidanaId": "feeling", "pathFactors": ["正念", "正精進"], "reason": "慚愧で自己を制し、鞭を避ける良馬の如く"},
+    144: {"nidanaId": "release", "pathFactors": ["正精進", "正念"], "reason": "信・戒・精進・定で、この大なる苦を滅する"},
+    145: {"nidanaId": "review", "pathFactors": ["正念", "正精進"], "reason": "有徳者は職人が素材を整える如く自己を調御する"},
+}
+
+LABEL_TO_ID = {
+    "正見": "view", "正思惟": "intention", "正語": "speech", "正業": "action",
+    "正命": "livelihood", "正精進": "effort", "正念": "mindfulness", "正定": "concentration",
+}
+
+# Keep existing 26 pair IDs; combined verse groups share primary verse key
+PAIR_META = [
+    ("DP10-P01", 129), ("DP10-P02", 129),  # 129–130
+    ("DP10-P03", 131), ("DP10-P04", 131), ("DP10-P05", 131),  # 131–132
+    ("DP10-P06", 133), ("DP10-P07", 133), ("DP10-P08", 133),
+    ("DP10-P09", 134), ("DP10-P10", 134),
+    ("DP10-P11", 135), ("DP10-P12", 135),
+    ("DP10-P13", 136), ("DP10-P14", 136),
+    ("DP10-P15", 137), ("DP10-P16", 137), ("DP10-P17", 137),  # 137–140
+    ("DP10-P18", 141), ("DP10-P19", 141),
+    ("DP10-P20", 142), ("DP10-P21", 142),
+    ("DP10-P22", 143),
+    ("DP10-P23", 144), ("DP10-P24", 144),
+    ("DP10-P25", 145), ("DP10-P26", 145),
+]
+
+COMBINED = {
+    129: (129, 130),
+    131: (131, 132),
+    137: (137, 138, 139, 140),
+}
+
+
+def chinese_block(verse: int) -> dict:
+    c = dict(CHINESE[verse])
+    c["satUrl"] = SAT_URL
+    c["mapTableUrl"] = MAP_URL
+    if c.get("status") == "mapped":
+        c.setdefault(
+            "note",
+            "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。",
+        )
+    return c
+
+
+def main() -> None:
+    old = json.loads((DATA / "ch10.json").read_text(encoding="utf-8"))
+    actions = {p["id"]: p["action"] for p in old["pairs"]}
+
+    pairs = []
+    for pid, verse in PAIR_META:
+        vp = VERSE_PRACTICE[verse]
+        factors = vp["pathFactors"]
+        if verse in COMBINED:
+            parts = COMBINED[verse]
+            observe = " ".join(OBSERVE[v] for v in parts)
+            quote = " ".join(QUOTES[v] for v in parts)
+            a, b = parts[0], parts[-1]
+            pali_locus = f"小部・ダンマパダ 棒の章 第{a}-{b}偈"
+            modern_locus = f"第１０章・刀杖品 第{a}-{b}偈（#ch02-10）"
+            zh = chinese_block(a)
+            verse_out = a
+        else:
+            observe = OBSERVE[verse]
+            quote = QUOTES[verse]
+            pali_locus = f"小部・ダンマパダ 棒の章 第{verse}偈"
+            modern_locus = f"第１０章・刀杖品 第{verse}偈（#ch02-10）"
+            zh = chinese_block(verse)
+            verse_out = verse
+
+        pairs.append({
+            "id": pid,
+            "category": LABEL_TO_ID[factors[0]],
+            "verse": verse_out,
+            "observe": observe,
+            "action": actions[pid],
+            "quote": quote,
+            "nidanaId": vp["nidanaId"],
+            "pathFactors": factors,
+            "pathReason": vp["reason"],
+            "alignment": {
+                "pali": {"source": "アラナ精舎 経典ライブラリー", "locus": pali_locus, "url": ARANA_URL},
+                "modern": {
+                    "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+                    "locus": modern_locus,
+                    "url": TB_URL,
+                },
+                "chinese": zh,
+            },
+        })
+
+    by_nidana = defaultdict(list)
+    for p in pairs:
+        by_nidana[p["nidanaId"]].append(p["id"])
+
+    TITLE = "ダンマパダ 第10章・刀杖品（棒の章）"
+    SHORT = "刀杖品（棒の章）"
+    CATEGORIES = [
+        {"id": "view", "name": "正見", "short": "正見", "weekday": 1, "order": 1},
+        {"id": "intention", "name": "正思惟", "short": "思惟", "weekday": 2, "order": 2},
+        {"id": "speech", "name": "正語", "short": "正語", "weekday": 3, "order": 3},
+        {"id": "action", "name": "正業", "short": "正業", "weekday": 4, "order": 4},
+        {"id": "livelihood", "name": "正命", "short": "正命", "weekday": 5, "order": 5},
+        {"id": "effort", "name": "正精進", "short": "精進", "weekday": 6, "order": 6},
+        {"id": "mindfulness", "name": "正念", "short": "正念", "weekday": 0, "order": 7},
+        {"id": "concentration", "name": "正定", "short": "正定", "weekday": 0, "order": 8},
+    ]
+
+    nodes = [
+        {
+            "id": "contact", "weekday": 1, "categoryId": "action", "nidanaLabel": "接触",
+            "pathFactors": ["正業", "正念"], "pathFactorIds": ["action", "mindfulness"],
+            "pathLabel": "触れた相手を、自己を喩えに傷つけない",
+            "chapterHint": SHORT,
+            "fromPrev": "前夜の見直しが、今朝の非暴力の土台になる",
+            "toNext": "害する接触のあと、痛み・怒りの受が立ち上がる",
+            "todayObserve": OBSERVE[129],
+            "todayAction": actions["DP10-P01"],
+            "when": ["誰かを傷つけそうになった", "朝の始まり"],
+            "sources": by_nidana.get("contact", []),
+            "leadQuote": QUOTES[129][:40] + "…",
+            "secondaryObserve": "外形の苦行より、疑惑を断つことが浄めとなる",
+        },
+        {
+            "id": "feeling", "weekday": 2, "categoryId": "mindfulness", "nidanaLabel": "受ける",
+            "pathFactors": ["正念", "正精進"], "pathFactorIds": ["mindfulness", "effort"],
+            "pathLabel": "慚愧の感覚で身を慎み、鞭を避ける",
+            "chapterHint": SHORT,
+            "fromPrev": "接触のあと、恥・痛み・怒りの受が来る",
+            "toNext": "受けた痛みを、仕返しの欲しがりへ落とさない",
+            "todayObserve": OBSERVE[143],
+            "todayAction": actions["DP10-P22"],
+            "when": ["恥ずかしいと感じた", "言い返したくなった"],
+            "sources": by_nidana.get("feeling", []),
+            "leadQuote": QUOTES[143][:40] + "…",
+            "secondaryObserve": "良馬が鞭を避けるように、自己を制する",
+        },
+        {
+            "id": "craving", "weekday": 3, "categoryId": "action", "nidanaLabel": "欲しがる／拒む",
+            "pathFactors": ["正業", "正念"], "pathFactorIds": ["action", "mindfulness"],
+            "pathLabel": "自分の安楽のために他を害する欲しがりを止める",
+            "chapterHint": SHORT,
+            "fromPrev": "受が強まると、安楽のために他を踏み台にする欲しがりへ",
+            "toNext": "止めないと、粗暴な言葉・行為の掴みへ進む",
+            "todayObserve": OBSERVE[131],
+            "todayAction": actions["DP10-P03"],
+            "when": ["誰かを踏み台にしたくなった", "楽になるため傷つけそう"],
+            "sources": by_nidana.get("craving", []),
+            "leadQuote": QUOTES[131][:40] + "…",
+            "secondaryObserve": "害して得た安楽は、死後も安楽を生まない",
+        },
+        {
+            "id": "clinging", "weekday": 4, "categoryId": "speech", "nidanaLabel": "掴む",
+            "pathFactors": ["正語", "正念"], "pathFactorIds": ["speech", "mindfulness"],
+            "pathLabel": "粗暴な言葉と罪なき者への刀杖を掴むな",
+            "chapterHint": SHORT,
+            "fromPrev": "欲しがりが、「言い返す」「傷つける」と掴む手前",
+            "toNext": "掴むと報いの棒が自分に返り、苦が太る",
+            "todayObserve": OBSERVE[133],
+            "todayAction": actions["DP10-P06"],
+            "when": ["攻撃的な言葉が出そう", "無実の人を責めそう"],
+            "sources": by_nidana.get("clinging", []),
+            "leadQuote": QUOTES[133][:40] + "…",
+            "secondaryObserve": "罪過なき者を害すれば、十の災いにすみやかに遇う",
+        },
+        {
+            "id": "suffering", "weekday": 5, "categoryId": "view", "nidanaLabel": "苦が太る",
+            "pathFactors": ["正見", "正念"], "pathFactorIds": ["view", "mindfulness"],
+            "pathLabel": "刀杖の業は苦となり、老死も命を駆ると知る",
+            "chapterHint": SHORT,
+            "fromPrev": "掴んだ刀杖・粗言の結果として、苦が熟す",
+            "toNext": "見れば、害さない安楽と調御へ向き直る",
+            "todayObserve": OBSERVE[135],
+            "todayAction": actions["DP10-P11"],
+            "when": ["苦しんでいる", "老いと死を意識した"],
+            "sources": by_nidana.get("suffering", []),
+            "leadQuote": QUOTES[135][:40] + "…",
+            "secondaryObserve": "悪業に気づかぬ者は、火に焼かれるように苦しむ",
+        },
+        {
+            "id": "release", "weekday": 6, "categoryId": "effort", "nidanaLabel": "気づいて離す",
+            "pathFactors": ["正精進", "正念"], "pathFactorIds": ["effort", "mindfulness"],
+            "pathLabel": "刀杖を置き、信戒精進で苦から離す",
+            "chapterHint": SHORT,
+            "fromPrev": "害する流れが苦を加速させる",
+            "toNext": "離すと、調御された一日の見直しへつながる",
+            "todayObserve": OBSERVE[144],
+            "todayAction": actions["DP10-P23"],
+            "when": ["言い返さず黙したい", "精進を再開したい"],
+            "sources": by_nidana.get("release", []),
+            "leadQuote": QUOTES[144][:40] + "…",
+            "secondaryObserve": "一切有情に刀杖を加えず調御する者が真の修行者",
+        },
+        {
+            "id": "review", "weekday": 0, "categoryId": "mindfulness", "nidanaLabel": "夜に見直す",
+            "pathFactors": ["正念", "正精進"], "pathFactorIds": ["mindfulness", "effort"],
+            "pathLabel": "職人が素材を整えるように、今日の自己を調御したか見直す",
+            "chapterHint": SHORT,
+            "fromPrev": "一日の言葉・行いは朝からの心の跡",
+            "toNext": "見直しが、翌朝の非暴力の接触になる",
+            "todayObserve": OBSERVE[145],
+            "todayAction": actions["DP10-P25"],
+            "when": ["一日を閉じるとき", "自己調御を確かめる"],
+            "sources": by_nidana.get("review", []),
+            "leadQuote": QUOTES[145][:40] + "…",
+            "secondaryObserve": "有徳者は自己を調御す",
+        },
+    ]
+
+    out = {
+        "title": TITLE,
+        "chapter": 10,
+        "shortTitle": SHORT,
+        "source": {
+            "primary": "パーリ・ダンマパダ第10章（刀杖品／棒の章）偈単位対応",
+            "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（主にT210刀杖品、一部他品・未対応あり）を偈単位でマッピング。",
+            "verifyLinks": {
+                "pali": {"label": "アラナ精舎（ダンマパダ・棒の章）", "url": ARANA_URL, "note": "パーリ和訳出典"},
+                "modern": {"label": "true-buddhism（第１０章・刀杖品）", "url": TB_URL, "note": "南伝大蔵経系の現代語表記"},
+                "chinese": {"label": "SAT 法句経・刀杖品（T4.566a）", "url": SAT_URL, "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"},
+            },
+            "chineseMapTable": MAP_URL,
+        },
+        "categories": CATEGORIES,
+        "practicePath": {
+            "model": "dependent-origination-x-eightfold",
+            "chapterTitle": TITLE,
+            "shortTitle": SHORT,
+            "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+            "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+            "originNodes": [
+                {"id": "contact", "label": "接触"},
+                {"id": "feeling", "label": "受ける"},
+                {"id": "craving", "label": "欲しがる"},
+                {"id": "clinging", "label": "掴む"},
+                {"id": "suffering", "label": "苦"},
+                {"id": "release", "label": "離す"},
+                {"id": "review", "label": "見直す"},
+            ],
+            "pathFactors": [
+                {"id": "view", "label": "正見"}, {"id": "intention", "label": "正思惟"},
+                {"id": "speech", "label": "正語"}, {"id": "action", "label": "正業"},
+                {"id": "livelihood", "label": "正命"}, {"id": "effort", "label": "正精進"},
+                {"id": "mindfulness", "label": "正念"}, {"id": "concentration", "label": "正定"},
+            ],
+            "nodes": nodes,
+            "focusNodeId": "clinging",
+            "focusReason": "刀杖品は粗暴な言葉・罪なき者への加害を掴む制止が中心。既定の焦点は掴む。表示は現在の偈の縁起に合わせる。",
+            "selectionMode": "pair-nidana",
+        },
+        "pairs": pairs,
+        "versePracticeMap": {str(k): v for k, v in VERSE_PRACTICE.items()},
+    }
+
+    (DATA / "ch10.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print("wrote ch10.json", len(pairs))
+
+    PATH_ORDER = ["view", "intention", "speech", "action", "livelihood", "effort", "mindfulness", "concentration"]
+    entries = {k: [] for k in PATH_ORDER}
+    for ch_id in range(1, 11):
+        d = json.loads((DATA / f"ch{ch_id}.json").read_text(encoding="utf-8"))
+        by_path = defaultdict(list)
+        for p in d["pairs"]:
+            labels = set(p.get("pathFactors") or [])
+            cat = p.get("category")
+            for lab, pid in LABEL_TO_ID.items():
+                if lab in labels or cat == pid:
+                    by_path[pid].append(p["id"])
+        for pid in PATH_ORDER:
+            ids = sorted(set(by_path[pid]), key=lambda x: int(x.split("-P")[1]))
+            if not ids:
+                continue
+            entries[pid].append({
+                "collectionId": "dhammapada",
+                "collectionName": "ダンマパダ",
+                "chapterId": ch_id,
+                "shortTitle": d["shortTitle"],
+                "title": d["title"],
+                "pairCount": len(ids),
+                "pairIds": ids,
+            })
+
+    psi = {"version": 1, "scope": "dhammapada-ch1-ch10", "entries": entries}
+    (DATA / "path-scene-index.json").write_text(json.dumps(psi, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print("path-scene-index", psi["scope"])
+    for k, v in entries.items():
+        print(k, [(e["chapterId"], e["pairCount"]) for e in v])
+
+    valid = {"contact", "feeling", "craving", "clinging", "suffering", "release", "review"}
+    bad = [(p["id"], p["nidanaId"]) for p in pairs if p["nidanaId"] not in valid]
+    assert not bad, bad
+    assert len(pairs) == 26
+    assert all(p["id"] == f"DP10-P{i:02d}" for i, p in enumerate(pairs, 1))
+    assert set(VERSE_PRACTICE) == set(range(129, 146))
+    assert all(p["alignment"]["chinese"]["status"] in ("mapped", "unmapped") for p in pairs)
+    # combined pairs use primary verse chinese (129 mapped); single 130 not used as pair primary
+    assert all(p["alignment"]["chinese"]["status"] == "mapped" for p in pairs)
+    print("OK")
+
+
+if __name__ == "__main__":
+    main()

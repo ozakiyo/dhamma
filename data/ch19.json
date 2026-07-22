@@ -1,0 +1,1274 @@
+{
+  "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+  "chapter": 19,
+  "shortTitle": "法住品（法に依って立つ者の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第19章（法住品／法に依って立つ者の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210奉持品）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・法に依って立つ者の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第１９章・法住品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・奉持品（T4.569a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+    "shortTitle": "法住品（法に依って立つ者の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "view",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "外形に触れず、正邪を弁別して法に依って立つ",
+        "chapterHint": "法住品（法に依って立つ者の章）",
+        "fromPrev": "前夜の精進の見直しが、今朝の法住になる",
+        "toNext": "接触のあと、怨憎・畏怖の受が立ち上がる",
+        "todayObserve": "躁急に事を処するの故を以て、法住者たるにあらず。 正と邪とを二つながらよく弁別し、学識あり、 躁急ならず如法・平等に他を導き、正法を護り、賢慮ある者は、法住者と称せらる。",
+        "todayAction": "今日の仕事で、焦って判断する前に「これは正か邪か」を一度確認する",
+        "when": [
+          "焦って判断しそう",
+          "朝の始まり"
+        ],
+        "sources": [
+          "DP19-P01",
+          "DP19-P02",
+          "DP19-P07",
+          "DP19-P08",
+          "DP19-P13",
+          "DP19-P14"
+        ],
+        "leadQuote": "すなわち、無理やり義（道理）を導くことで、それによって、法（正義）に依って立つ者…",
+        "secondaryObserve": "如法・平等に導き、正法を護る者が法住者"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "怨憎・畏怖の受を平静に受け、賢者として住む",
+        "chapterHint": "法住品（法に依って立つ者の章）",
+        "fromPrev": "接触のあと、怨憎・畏怖の受が来る",
+        "toNext": "受けた不安を、外形への欲しがりへ落とさない",
+        "todayObserve": "多言の故を以て賢者たるにあらず。 平静にして怨憎なく、畏怖なき者は、賢者と称せらる。",
+        "todayAction": "話す前に、平静・恨みと憎しみのない状態を整える",
+        "when": [
+          "恐れを感じた",
+          "恨みと憎しみが湧いた"
+        ],
+        "sources": [
+          "DP19-P03",
+          "DP19-P04"
+        ],
+        "leadQuote": "すなわち、多く語るだけで、それによって、賢者と成るのではない。〔心が〕平安で、怨…",
+        "secondaryObserve": "平静・怨憎なく畏怖なき者が賢者"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "唯黙・外形への欲しがりを緩め、善を取る",
+        "chapterHint": "法住品（法に依って立つ者の章）",
+        "fromPrev": "受が強まると、外形だけの黙・見せかけへの欲しがりへ",
+        "toNext": "止めないと嫉妬・妄語の掴みへ進む",
+        "todayObserve": "愚昧にして無知ならば、〔唯〕寂黙（じゃくもく）の故を以て、牟尼（むに）（寂黙者・賢人）たるを得ず。 賢者もし権衡を執るが如くに善を取り、 悪を退くれば、彼は牟尼なり。 彼はこれによりて牟尼なり。 この世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。",
+        "todayAction": "黙っていても内心に判断・選択がなければ牟尼ではないと知る",
+        "when": [
+          "形だけの修行に安住しそう",
+          "善悪を選ばない"
+        ],
+        "sources": [
+          "DP19-P15",
+          "DP19-P16"
+        ],
+        "leadQuote": "迷乱した形態の無知なる者が、〔ただの〕沈黙によって、牟尼（沈黙の聖者）と成るので…",
+        "secondaryObserve": "善を取り悪を退く者が牟尼"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "speech"
+        ],
+        "pathLabel": "妄語・貪欲を掴まず、内実の戒を守る",
+        "chapterHint": "法住品（法に依って立つ者の章）",
+        "fromPrev": "欲しがりが、妄語・欲求として掴む手前",
+        "toNext": "掴むと外形だけの苦が太る",
+        "todayObserve": "剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。 欲望と貪欲とを有する者、いかで沙門たるべき。 大小すべての悪を鎮めたる者は諸悪を鎮めたるの故を以て、沙門と称せらる。",
+        "todayAction": "今日、外見や肩書きより「内なる戒」を一つ守る",
+        "when": [
+          "外見で取り繕おうとした",
+          "欲が修行を阻んだ"
+        ],
+        "sources": [
+          "DP19-P11",
+          "DP19-P12",
+          "DP19-P20"
+        ],
+        "leadQuote": "掟なく、偽りを話している者が、剃髪によって、沙門（修行者）と〔成るのでは〕ない。…",
+        "secondaryObserve": "戒を破り妄語を語れば沙門にあらず"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "嫉妬・虚偽の掴みが、端正ならざる苦になると知る",
+        "chapterHint": "法住品（法に依って立つ者の章）",
+        "fromPrev": "掴んだ結果として、外形の安易さの苦が熟す",
+        "toNext": "見れば、身で法を見る実践へ向き直る",
+        "todayObserve": "嫉妬・慳貪（けんどん）・虚偽ある者は、弁舌の故のみを以て、或いは容色の美の故を以て、端正の人たるにあらず。 かかる〔悪徳を〕断ち、根元より絶滅し、罪過を捨棄し、賢慮ある者は、端正の人と称せらる。",
+        "todayAction": "言葉巧みでも内面に嫉妬・虚偽があれば端正ではないと知る",
+        "when": [
+          "嫉妬が苦になった",
+          "虚偽が露呈した"
+        ],
+        "sources": [
+          "DP19-P09",
+          "DP19-P10"
+        ],
+        "leadQuote": "言葉遣いのみで、あるいは、蓮華の色艶あることで、嫉妬と物惜〔の思い〕ある狡猾の者…",
+        "secondaryObserve": "嫉妬・慳貪・虚偽ある者は端正にあらず"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "action",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正業",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "action",
+          "mindfulness"
+        ],
+        "pathLabel": "身で法を見、悪を鎮め、害さずに離す",
+        "chapterHint": "法住品（法に依って立つ者の章）",
+        "fromPrev": "外形への掴みが流れを加速させる",
+        "toNext": "離すと、滅尽への見直しへつながる",
+        "todayObserve": "多言の故を以て持法者たるにあらず。 聞くこと少なきも身を以て法を見、法を軽んぜざる者は、実に持法者なり。",
+        "todayAction": "今日、法の言葉を一つ実際の行動に移す",
+        "when": [
+          "法を実践したい",
+          "悪を鎮めたい"
+        ],
+        "sources": [
+          "DP19-P05",
+          "DP19-P06",
+          "DP19-P17"
+        ],
+        "leadQuote": "すなわち、多く語るだけで、それだけで、法（教え）を保つ者と〔成るのでは〕ない。し…",
+        "secondaryObserve": "一切の生類を害せざる者が聖者"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "effort",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "形式に満足せず、滅尽まで意を安んじず見直す",
+        "chapterHint": "法住品（法に依って立つ者の章）",
+        "fromPrev": "一日の行いは、外形か内実かの跡",
+        "toNext": "見直しが、翌朝の法住になる",
+        "todayObserve": "戒律・戒行のみによりても、或いはまた多聞によりても、或いは禅定の達成によりても、或いは独臥によりても、 我は凡夫の受け得ざる出家の楽に触るることなし。 比丘よ、煩悩の滅尽に達せざれば、決して意を安んずることなかれ。",
+        "todayAction": "今日の修行が満足すべきレベルに達していなければ、明日の精進の指針にする",
+        "when": [
+          "一日を閉じるとき",
+          "満足し過ぎた"
+        ],
+        "sources": [
+          "DP19-P18",
+          "DP19-P19",
+          "DP19-P21"
+        ],
+        "leadQuote": "「凡夫の慣れ親しむところならざる離欲の安楽を、〔わたしは〕体得する」〔と〕、比丘…",
+        "secondaryObserve": "煩悩の滅尽に達せざれば、決して意を安んずることなかれ"
+      }
+    ],
+    "focusNodeId": "contact",
+    "focusReason": "法住品は外形ではなく正邪の弁別で法に依って立つ接触が中心。既定の焦点は接触。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP19-P01",
+      "category": "view",
+      "verse": 256,
+      "observe": "躁急に事を処するの故を以て、法住者たるにあらず。 正と邪とを二つながらよく弁別し、学識あり、 躁急ならず如法・平等に他を導き、正法を護り、賢慮ある者は、法住者と称せらる。",
+      "action": "今日の仕事で、焦って判断する前に「これは正か邪か」を一度確認する",
+      "quote": "すなわち、無理やり義（道理）を導くことで、それによって、法（正義）に依って立つ者と成るのではない。しかしながら、彼が、賢者として、義（道理）を、さらに、義（道理）ならざることを、両者ともに〔正しく〕判別できるなら── 無理やりではなく、正しい法（正義）によって他者たちを導くなら、法（正義）の保護ある者であり、思慮ある者として、「法（正義）に依って立つ者」と呼ばれる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "躁急ではなく、正邪を弁別する者が法住者",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第256-257偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第256-257偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-001",
+          "text": "好經道者，不競於利，有利無利，無欲不惑。",
+          "satLocus": "大正蔵 T4.569a 奉持品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P02",
+      "category": "view",
+      "verse": 256,
+      "observe": "躁急に事を処するの故を以て、法住者たるにあらず。 正と邪とを二つながらよく弁別し、学識あり、 躁急ならず如法・平等に他を導き、正法を護り、賢慮ある者は、法住者と称せらる。",
+      "action": "今日、一つの判断に「法（正しい道理）」を指針にする",
+      "quote": "すなわち、無理やり義（道理）を導くことで、それによって、法（正義）に依って立つ者と成るのではない。しかしながら、彼が、賢者として、義（道理）を、さらに、義（道理）ならざることを、両者ともに〔正しく〕判別できるなら── 無理やりではなく、正しい法（正義）によって他者たちを導くなら、法（正義）の保護ある者であり、思慮ある者として、「法（正義）に依って立つ者」と呼ばれる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "躁急ではなく、正邪を弁別する者が法住者",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第256-257偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第256-257偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-001",
+          "text": "好經道者，不競於利，有利無利，無欲不惑。",
+          "satLocus": "大正蔵 T4.569a 奉持品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P03",
+      "category": "mindfulness",
+      "verse": 258,
+      "observe": "多言の故を以て賢者たるにあらず。 平静にして怨憎なく、畏怖なき者は、賢者と称せらる。",
+      "action": "話す前に、平静・恨みと憎しみのない状態を整える",
+      "quote": "すなわち、多く語るだけで、それによって、賢者と成るのではない。〔心が〕平安で、怨みなく、恐れなき者が、「賢者」と呼ばれる。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "平静・怨憎なく畏怖なき者が賢者",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第258偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第258偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-003",
+          "text": "所謂智者，不必辯言，無恐無懼，守善為智。",
+          "satLocus": "大正蔵 T4.569a 奉持品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P04",
+      "category": "mindfulness",
+      "verse": 258,
+      "observe": "多言の故を以て賢者たるにあらず。 平静にして怨憎なく、畏怖なき者は、賢者と称せらる。",
+      "action": "今日、恨みと憎しみ・畏怖が湧いたとき、それを観察して手放す",
+      "quote": "すなわち、多く語るだけで、それによって、賢者と成るのではない。〔心が〕平安で、怨みなく、恐れなき者が、「賢者」と呼ばれる。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "平静・怨憎なく畏怖なき者が賢者",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第258偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第258偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-003",
+          "text": "所謂智者，不必辯言，無恐無懼，守善為智。",
+          "satLocus": "大正蔵 T4.569a 奉持品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P05",
+      "category": "mindfulness",
+      "verse": 259,
+      "observe": "多言の故を以て持法者たるにあらず。 聞くこと少なきも身を以て法を見、法を軽んぜざる者は、実に持法者なり。",
+      "action": "今日、法の言葉を一つ実際の行動に移す",
+      "quote": "すなわち、多く語るだけで、それだけで、法（教え）を保つ者と〔成るのでは〕ない。しかしながら、彼が、たとえ、僅かでも、聞いて〔そののち〕、身体によって法（教え）を見るなら、彼が、法（教え）を怠らないなら、彼は、まさに、法（教え）を保つ者と成る。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "身を以て法を見、法を軽んぜざる者が持法者",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第259偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第259偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-004",
+          "text": "奉持法者，不以多言，雖素少聞，身依法行，守道不忘，可謂奉法。",
+          "satLocus": "大正蔵 T4.569a 奉持品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P06",
+      "category": "mindfulness",
+      "verse": 259,
+      "observe": "多言の故を以て持法者たるにあらず。 聞くこと少なきも身を以て法を見、法を軽んぜざる者は、実に持法者なり。",
+      "action": "今朝、今日実践する法の言葉を一つ選ぶ",
+      "quote": "すなわち、多く語るだけで、それだけで、法（教え）を保つ者と〔成るのでは〕ない。しかしながら、彼が、たとえ、僅かでも、聞いて〔そののち〕、身体によって法（教え）を見るなら、彼が、法（教え）を怠らないなら、彼は、まさに、法（教え）を保つ者と成る。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "身を以て法を見、法を軽んぜざる者が持法者",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第259偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第259偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-004",
+          "text": "奉持法者，不以多言，雖素少聞，身依法行，守道不忘，可謂奉法。",
+          "satLocus": "大正蔵 T4.569a 奉持品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P07",
+      "category": "view",
+      "verse": 260,
+      "observe": "頭髪白きの故を以て長老たるにあらず。 彼の齢は〔徒に〕熟せるのみ。 彼は空しく老いたる者と称せらる。 真実と法と不殺生と節制と調御（ちょうご）とを持し、〔心の〕垢穢を捨棄したる賢者は、長老と称せらる。",
+      "action": "年長者・上司が真実と法を持つか観察し、自分もそれを目指す",
+      "quote": "すなわち、彼に、白髪の頭があることで、それによって、彼が、長老（上座）と成るのではない。彼には、年齢の積み重ねがある〔だけのこと〕。〔彼は〕「無駄なる老いぼれ」と説かれる。 彼において、かつまた、真理があり、かつまた、法（教え）があるなら、不害があり、自制があり、調御があるなら、彼は、まさに、垢（汚れ）を吐き捨てた慧者であり、「長老」と呼ばれる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "白髪だけでは長老にならない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第260-261偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第260-261偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-005",
+          "text": "所謂長老，不必年耆，形熟髮白，惷愚而已。",
+          "satLocus": "大正蔵 T4.569a 奉持品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P08",
+      "category": "view",
+      "verse": 260,
+      "observe": "頭髪白きの故を以て長老たるにあらず。 彼の齢は〔徒に〕熟せるのみ。 彼は空しく老いたる者と称せらる。 真実と法と不殺生と節制と調御（ちょうご）とを持し、〔心の〕垢穢を捨棄したる賢者は、長老と称せらる。",
+      "action": "今日の行動を長老の基準で一つ確認する",
+      "quote": "すなわち、彼に、白髪の頭があることで、それによって、彼が、長老（上座）と成るのではない。彼には、年齢の積み重ねがある〔だけのこと〕。〔彼は〕「無駄なる老いぼれ」と説かれる。 彼において、かつまた、真理があり、かつまた、法（教え）があるなら、不害があり、自制があり、調御があるなら、彼は、まさに、垢（汚れ）を吐き捨てた慧者であり、「長老」と呼ばれる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "白髪だけでは長老にならない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第260-261偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第260-261偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-005",
+          "text": "所謂長老，不必年耆，形熟髮白，惷愚而已。",
+          "satLocus": "大正蔵 T4.569a 奉持品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P09",
+      "category": "mindfulness",
+      "verse": 262,
+      "observe": "嫉妬・慳貪（けんどん）・虚偽ある者は、弁舌の故のみを以て、或いは容色の美の故を以て、端正の人たるにあらず。 かかる〔悪徳を〕断ち、根元より絶滅し、罪過を捨棄し、賢慮ある者は、端正の人と称せらる。",
+      "action": "言葉巧みでも内面に嫉妬・虚偽があれば端正ではないと知る",
+      "quote": "言葉遣いのみで、あるいは、蓮華の色艶あることで、嫉妬と物惜〔の思い〕ある狡猾の者が、形姿善き人と成るのではない。 しかしながら、彼の、この〔汚点〕が断絶され、根元から殲滅され、完破されたなら、彼は、〔心の〕汚点（憎しみや怒りなどの悪意）を吐き捨てた思慮ある者であり、「形姿善き者」と説かれる。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "嫉妬・慳貪・虚偽ある者は端正にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第262-263偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第262-263偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-007",
+          "text": "所謂端正，非色如花，慳嫉虛飾，言行有違。",
+          "satLocus": "大正蔵 T4.569a 奉持品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P10",
+      "category": "mindfulness",
+      "verse": 262,
+      "observe": "嫉妬・慳貪（けんどん）・虚偽ある者は、弁舌の故のみを以て、或いは容色の美の故を以て、端正の人たるにあらず。 かかる〔悪徳を〕断ち、根元より絶滅し、罪過を捨棄し、賢慮ある者は、端正の人と称せらる。",
+      "action": "今日、一つの悪徳（嫉妬・吝嗇・虚偽）を意識して断つ",
+      "quote": "言葉遣いのみで、あるいは、蓮華の色艶あることで、嫉妬と物惜〔の思い〕ある狡猾の者が、形姿善き人と成るのではない。 しかしながら、彼の、この〔汚点〕が断絶され、根元から殲滅され、完破されたなら、彼は、〔心の〕汚点（憎しみや怒りなどの悪意）を吐き捨てた思慮ある者であり、「形姿善き者」と説かれる。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "嫉妬・慳貪・虚偽ある者は端正にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第262-263偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第262-263偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-007",
+          "text": "所謂端正，非色如花，慳嫉虛飾，言行有違。",
+          "satLocus": "大正蔵 T4.569a 奉持品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P11",
+      "category": "mindfulness",
+      "verse": 264,
+      "observe": "剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。 欲望と貪欲とを有する者、いかで沙門たるべき。 大小すべての悪を鎮めたる者は諸悪を鎮めたるの故を以て、沙門と称せらる。",
+      "action": "今日、外見や肩書きより「内なる戒」を一つ守る",
+      "quote": "掟なく、偽りを話している者が、剃髪によって、沙門（修行者）と〔成るのでは〕ない。〔悪しき〕欲求と貪欲〔の思い〕に関与している者が、どうして、沙門と成るのだろう。 しかしながら、彼が、諸々の悪を、微細なるものも、諸々の粗大なるものも、全てにわたり静めるなら、まさに、諸々の悪が静められたことから、〔彼は〕「沙門」と呼ばれる。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "戒を破り妄語を語れば沙門にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第264-265偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第264-265偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-009",
+          "text": "所謂沙門，非必除髮，妄語貪取，有欲如凡。",
+          "satLocus": "大正蔵 T4.569a 奉持品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P12",
+      "category": "mindfulness",
+      "verse": 264,
+      "observe": "剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。 欲望と貪欲とを有する者、いかで沙門たるべき。 大小すべての悪を鎮めたる者は諸悪を鎮めたるの故を以て、沙門と称せらる。",
+      "action": "今日、小さな悪（短気・不親切・怠惰）を一つ鎮める",
+      "quote": "掟なく、偽りを話している者が、剃髪によって、沙門（修行者）と〔成るのでは〕ない。〔悪しき〕欲求と貪欲〔の思い〕に関与している者が、どうして、沙門と成るのだろう。 しかしながら、彼が、諸々の悪を、微細なるものも、諸々の粗大なるものも、全てにわたり静めるなら、まさに、諸々の悪が静められたことから、〔彼は〕「沙門」と呼ばれる。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "戒を破り妄語を語れば沙門にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第264-265偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第264-265偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-009",
+          "text": "所謂沙門，非必除髮，妄語貪取，有欲如凡。",
+          "satLocus": "大正蔵 T4.569a 奉持品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P13",
+      "category": "mindfulness",
+      "verse": 266,
+      "observe": "他人に行乞（ぎょうこつ）するの故を以て、比丘たるにあらず。 一切の法を服膺（ふくよう）せる者のみ比丘なり。 〔行乞の故に〕然るにあらず。 この世に於て善と悪とを捨て、梵行（ぼんぎょう）を修し、慎重に世を行く者は、実に比丘と称せらる。",
+      "action": "今日、職業・役割の「名前」だけでなく「内実」で仕事をする",
+      "quote": "すなわち、他者たちに〔食を〕乞うだけで、それによって、彼は、比丘（行乞者）と成るのではない。腐臭の法（性質）を受持して〔世に有るなら〕、それだけでは、比丘と成らない。 彼が、この〔世において〕、そして、善を、さらに、悪を、〔両者ともに〕拒否して、梵行ある者（禁欲清浄行の実践者）となり、〔法を〕究めて、世を歩むなら、彼は、まさに、「比丘」と説かれる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "pathReason": "行乞だけでは比丘にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第266-267偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第266-267偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-011",
+          "text": "所謂比丘，非時乞食，邪行望彼，稱名而已。",
+          "satLocus": "大正蔵 T4.569a 奉持品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P14",
+      "category": "mindfulness",
+      "verse": 266,
+      "observe": "他人に行乞（ぎょうこつ）するの故を以て、比丘たるにあらず。 一切の法を服膺（ふくよう）せる者のみ比丘なり。 〔行乞の故に〕然るにあらず。 この世に於て善と悪とを捨て、梵行（ぼんぎょう）を修し、慎重に世を行く者は、実に比丘と称せらる。",
+      "action": "今日、善悪への執着を観察し、慎重に人と向き合う",
+      "quote": "すなわち、他者たちに〔食を〕乞うだけで、それによって、彼は、比丘（行乞者）と成るのではない。腐臭の法（性質）を受持して〔世に有るなら〕、それだけでは、比丘と成らない。 彼が、この〔世において〕、そして、善を、さらに、悪を、〔両者ともに〕拒否して、梵行ある者（禁欲清浄行の実践者）となり、〔法を〕究めて、世を歩むなら、彼は、まさに、「比丘」と説かれる。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "pathReason": "行乞だけでは比丘にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第266-267偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第266-267偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-011",
+          "text": "所謂比丘，非時乞食，邪行望彼，稱名而已。",
+          "satLocus": "大正蔵 T4.569a 奉持品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P15",
+      "category": "mindfulness",
+      "verse": 268,
+      "observe": "愚昧にして無知ならば、〔唯〕寂黙（じゃくもく）の故を以て、牟尼（むに）（寂黙者・賢人）たるを得ず。 賢者もし権衡を執るが如くに善を取り、 悪を退くれば、彼は牟尼なり。 彼はこれによりて牟尼なり。 この世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。",
+      "action": "黙っていても内心に判断・選択がなければ牟尼ではないと知る",
+      "quote": "迷乱した形態の無知なる者が、〔ただの〕沈黙によって、牟尼（沈黙の聖者）と成るのではない。しかしながら、彼が、〔あたかも〕秤（はかり）を掴んでいるかのように、賢者としてあり、優れているものを〔正しく〕取って── 諸々の悪を遍く避けるなら、彼は、牟尼であり、それによって、彼は、牟尼と〔成る〕。彼が、世において、〔善と悪の〕両者を〔あるがままに〕思い考えるなら、それによって、〔彼は〕「牟尼」〔と〕呼ばれる。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "唯寂黙だけでは牟尼にあらず、善を取れ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第268-269偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第268-269偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-013",
+          "text": "所謂仁明，非口不言，用心不淨，外順而已。",
+          "satLocus": "大正蔵 T4.569a 奉持品第13頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P16",
+      "category": "mindfulness",
+      "verse": 268,
+      "observe": "愚昧にして無知ならば、〔唯〕寂黙（じゃくもく）の故を以て、牟尼（むに）（寂黙者・賢人）たるを得ず。 賢者もし権衡を執るが如くに善を取り、 悪を退くれば、彼は牟尼なり。 彼はこれによりて牟尼なり。 この世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。",
+      "action": "今朝、今日の行動で「善を取り悪を退ける」判断を一つ意識する",
+      "quote": "迷乱した形態の無知なる者が、〔ただの〕沈黙によって、牟尼（沈黙の聖者）と成るのではない。しかしながら、彼が、〔あたかも〕秤（はかり）を掴んでいるかのように、賢者としてあり、優れているものを〔正しく〕取って── 諸々の悪を遍く避けるなら、彼は、牟尼であり、それによって、彼は、牟尼と〔成る〕。彼が、世において、〔善と悪の〕両者を〔あるがままに〕思い考えるなら、それによって、〔彼は〕「牟尼」〔と〕呼ばれる。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "唯寂黙だけでは牟尼にあらず、善を取れ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第268-269偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第268-269偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-013",
+          "text": "所謂仁明，非口不言，用心不淨，外順而已。",
+          "satLocus": "大正蔵 T4.569a 奉持品第13頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P17",
+      "category": "action",
+      "verse": 270,
+      "observe": "生類を害するの故を以て、聖者たるにあらず。 一切の生類を害せざるの故を以て、聖者と称せらる。",
+      "action": "今日、言葉・行動・心で生類を害することを一つ避ける",
+      "quote": "すなわち、〔祭祀において〕命あるものたちを害することで、それによって、聖者と成るのではない。全ての命あるものたちを害さないことで、〔彼は〕「聖者」と呼ばれる。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "一切の生類を害せざる者が聖者",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第270偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第270偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-015",
+          "text": "所謂有道，非救一物，普濟天下，無害為道。",
+          "satLocus": "大正蔵 T4.569a 奉持品第15頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P18",
+      "category": "view",
+      "verse": 271,
+      "observe": "戒律・戒行のみによりても、或いはまた多聞によりても、或いは禅定の達成によりても、或いは独臥によりても、 我は凡夫の受け得ざる出家の楽に触るることなし。 比丘よ、煩悩の滅尽に達せざれば、決して意を安んずることなかれ。",
+      "action": "今朝、「まだ達していない」謙虚さを持って今日の修行を始める",
+      "quote": "さにあらず──戒や掟のみによっても、かつまた、あるいは、多聞によっても、さらに、あるいは、禅定（定・三昧）を得ることによっても、あるいは、遠離の臥所によっても── 「凡夫の慣れ親しむところならざる離欲の安楽を、〔わたしは〕体得する」〔と〕、比丘よ、信頼〔の思い〕を起こしては〔ならない〕──煩悩の滅尽に至り得ていないあいだは（過信は禁物である）。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "戒律・多聞・禅定だけでは足りず、滅尽まで意を安んずるな",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第271-272偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第271-272偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-016",
+          "text": "戒眾不言，我行多誠，得定意者，要由閉損。",
+          "satLocus": "大正蔵 T4.569a 奉持品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P19",
+      "category": "view",
+      "verse": 271,
+      "observe": "戒律・戒行のみによりても、或いはまた多聞によりても、或いは禅定の達成によりても、或いは独臥によりても、 我は凡夫の受け得ざる出家の楽に触るることなし。 比丘よ、煩悩の滅尽に達せざれば、決して意を安んずることなかれ。",
+      "action": "今日の修行が満足すべきレベルに達していなければ、明日の精進の指針にする",
+      "quote": "さにあらず──戒や掟のみによっても、かつまた、あるいは、多聞によっても、さらに、あるいは、禅定（定・三昧）を得ることによっても、あるいは、遠離の臥所によっても── 「凡夫の慣れ親しむところならざる離欲の安楽を、〔わたしは〕体得する」〔と〕、比丘よ、信頼〔の思い〕を起こしては〔ならない〕──煩悩の滅尽に至り得ていないあいだは（過信は禁物である）。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "戒律・多聞・禅定だけでは足りず、滅尽まで意を安んずるな",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第271-272偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第271-272偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-016",
+          "text": "戒眾不言，我行多誠，得定意者，要由閉損。",
+          "satLocus": "大正蔵 T4.569a 奉持品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P20",
+      "category": "mindfulness",
+      "verse": 264,
+      "observe": "剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。 欲望と貪欲とを有する者、いかで沙門たるべき。 大小すべての悪を鎮めたる者は諸悪を鎮めたるの故を以て、沙門と称せらる。",
+      "action": "今日、「欲しい・認められたい」の欲が修行を阻んでいないか観察する",
+      "quote": "掟なく、偽りを話している者が、剃髪によって、沙門（修行者）と〔成るのでは〕ない。〔悪しき〕欲求と貪欲〔の思い〕に関与している者が、どうして、沙門と成るのだろう。 しかしながら、彼が、諸々の悪を、微細なるものも、諸々の粗大なるものも、全てにわたり静めるなら、まさに、諸々の悪が静められたことから、〔彼は〕「沙門」と呼ばれる。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "pathReason": "戒を破り妄語を語れば沙門にあらず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第264-265偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第264-265偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-009",
+          "text": "所謂沙門，非必除髮，妄語貪取，有欲如凡。",
+          "satLocus": "大正蔵 T4.569a 奉持品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP19-P21",
+      "category": "view",
+      "verse": 271,
+      "observe": "戒律・戒行のみによりても、或いはまた多聞によりても、或いは禅定の達成によりても、或いは独臥によりても、 我は凡夫の受け得ざる出家の楽に触るることなし。 比丘よ、煩悩の滅尽に達せざれば、決して意を安んずることなかれ。",
+      "action": "苦しいとき、「形式を守っているだけでは足りない」と知り、内実の修行に向かう",
+      "quote": "さにあらず──戒や掟のみによっても、かつまた、あるいは、多聞によっても、さらに、あるいは、禅定（定・三昧）を得ることによっても、あるいは、遠離の臥所によっても── 「凡夫の慣れ親しむところならざる離欲の安楽を、〔わたしは〕体得する」〔と〕、比丘よ、信頼〔の思い〕を起こしては〔ならない〕──煩悩の滅尽に至り得ていないあいだは（過信は禁物である）。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "戒律・多聞・禅定だけでは足りず、滅尽まで意を安んずるな",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 法に依って立つ者の章 第271-272偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１９章・法住品 第271-272偈（#ch02-19）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-19"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "奉持品（T210 第27品）",
+          "t210": "T210-27-016",
+          "text": "戒眾不言，我行多誠，得定意者，要由閉損。",
+          "satLocus": "大正蔵 T4.569a 奉持品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap19/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "256": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "躁急ではなく、正邪を弁別する者が法住者"
+    },
+    "257": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "如法・平等に導き、正法を護る者が法住者"
+    },
+    "258": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "平静・怨憎なく畏怖なき者が賢者"
+    },
+    "259": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "身を以て法を見、法を軽んぜざる者が持法者"
+    },
+    "260": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "白髪だけでは長老にならない"
+    },
+    "261": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "真実・法・不殺・節制・調御を持つ者が長老"
+    },
+    "262": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "嫉妬・慳貪・虚偽ある者は端正にあらず"
+    },
+    "263": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "悪徳を断ち、罪過を捨棄した者が端正"
+    },
+    "264": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正語"
+      ],
+      "reason": "戒を破り妄語を語れば沙門にあらず"
+    },
+    "265": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "大小すべての悪を鎮めた者が沙門"
+    },
+    "266": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "reason": "行乞だけでは比丘にあらず"
+    },
+    "267": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "善悪を捨て梵行を修し、慎重に世を行く者が比丘"
+    },
+    "268": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "唯寂黙だけでは牟尼にあらず、善を取れ"
+    },
+    "269": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "善を取り悪を退く者が牟尼"
+    },
+    "270": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "一切の生類を害せざる者が聖者"
+    },
+    "271": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "戒律・多聞・禅定だけでは足りず、滅尽まで意を安んずるな"
+    },
+    "272": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "煩悩の滅尽に達せざれば、意を安んずるな"
+    }
+  }
+}

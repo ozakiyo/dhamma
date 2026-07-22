@@ -1,0 +1,1417 @@
+{
+  "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+  "chapter": 18,
+  "shortTitle": "垢穢品（垢の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第18章（垢穢品／垢の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（主にT210塵垢品、一部未対応あり）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・垢の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第１８章・垢穢品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・塵垢品（T4.568b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第18章・垢穢品（垢の章）",
+    "shortTitle": "垢穢品（垢の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "view",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "死出の門と虚妄に触れ、旅路の糧と真実を選ぶ",
+        "chapterHint": "垢穢品（垢の章）",
+        "fromPrev": "前夜の無常の見直しが、今朝の精勤になる",
+        "toNext": "接触のあと、嫉妬・不満の受が立ち上がる",
+        "todayObserve": "汝は今や枯葉の如く、閻魔の使者また汝に近づけり。 汝は死出の門に立つ。 されど汝に旅路の糧なし。",
+        "todayAction": "今朝、「今日も糧（善業・修行）を積む」と一念する",
+        "when": [
+          "朝の始まり",
+          "虚妄に触れそう"
+        ],
+        "sources": [
+          "DP18-P01",
+          "DP18-P09",
+          "DP18-P10",
+          "DP18-P22",
+          "DP18-P24"
+        ],
+        "leadQuote": "今や、枯葉のような者として、〔あなたは〕存する。そして、夜魔（閻魔）の使者たちも…",
+        "secondaryObserve": "不誦・怠惰・放逸はそれぞれの垢"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "他人の得たものへの不満の受を、三昧を妨げる垢と知る",
+        "chapterHint": "垢穢品（垢の章）",
+        "fromPrev": "接触のあと、比較・嫉妬の受が来る",
+        "toNext": "受けた不満を、貪欲の欲しがりへ落とさない",
+        "todayObserve": "人は実に信ずる所に従い、好む所に従いて施与す。 他人の得たる飲食に対し、不満を抱く者は、昼も夜も三昧に入るを得ず。",
+        "todayAction": "誰かの幸運・成功に不満を感じたとき、それが三昧（集中・平静）を乱すと知る",
+        "when": [
+          "誰かの成功に不満を感じた",
+          "比べて苦しんだ"
+        ],
+        "sources": [
+          "DP18-P17"
+        ],
+        "leadQuote": "人は、まさに、信あるままに、浄信するままに、〔布施を〕施す。そこにおいて、彼（布…",
+        "secondaryObserve": "不満を抱く者は、昼も夜も三昧に入れない"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "貪欲・無明の垢への欲しがりを緩める",
+        "chapterHint": "垢穢品（垢の章）",
+        "fromPrev": "受が強まると、貪欲と非法への欲しがりへ落ちる",
+        "toNext": "止めないと悪業・詮索の掴みへ進む",
+        "todayObserve": "貪欲に等しき火なく、瞋恚（しんに）に等しき捕捉者なく、愚痴に等しき羅網なく、愛欲に等しき河流なし。",
+        "todayAction": "欲が強く燃えるとき、「これは火だ・この流れに乗ったら戻れない」と知る",
+        "when": [
+          "欲が燃えた",
+          "無知に安住しそう"
+        ],
+        "sources": [
+          "DP18-P11",
+          "DP18-P12",
+          "DP18-P16",
+          "DP18-P19"
+        ],
+        "leadQuote": "貪欲（貪）に等しい火は、存在しない。憤怒（瞋）に等しい捕捉者は、存在しない。迷妄…",
+        "secondaryObserve": "無明は最大の垢穢"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "action",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正業",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "action",
+          "mindfulness"
+        ],
+        "pathLabel": "悪業と他人の過失への掴みを断つ",
+        "chapterHint": "垢穢品（垢の章）",
+        "fromPrev": "欲しがりが、悪習慣・詮索として掴む手前",
+        "toNext": "掴むと錆の如く自己を蝕み、苦が太る",
+        "todayObserve": "鉄より生じたる垢穢（錆）が、鉄より生じて鉄を蝕むが如く、自己の業は悪業者を悪趣に導く。",
+        "todayAction": "今日、習慣的な悪い行動（不機嫌・怠惰・不誠実）を一つ止める",
+        "when": [
+          "悪い習慣を止められない",
+          "他人の過失を詮索した"
+        ],
+        "sources": [
+          "DP18-P07",
+          "DP18-P08",
+          "DP18-P13",
+          "DP18-P15",
+          "DP18-P21"
+        ],
+        "leadQuote": "鉄から現起した垢（錆）が、それ（鉄）から出起して、まさしく、それ〔自身〕を喰い尽…",
+        "secondaryObserve": "自己の悪業は錆の如く自己を蝕む"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "糧なき旅路と、自己の過失を見ない苦を知る",
+        "chapterHint": "垢穢品（垢の章）",
+        "fromPrev": "掴んだ結果として、老いと自己欺瞞の苦が熟す",
+        "toNext": "見れば、垢穢を払う精勤へ向き直る",
+        "todayObserve": "汝は今や齢既に傾き、閻魔の元に近づけり。 途上に汝の住所なく、また旅路の糧もなし。",
+        "todayAction": "「後でやろう」と思っていることの一つを、今日必ず行動に移す",
+        "when": [
+          "後回しが積もった",
+          "自分の過失が見えない"
+        ],
+        "sources": [
+          "DP18-P03",
+          "DP18-P20"
+        ],
+        "leadQuote": "そして、今や、衰失に導かれた者として、〔あなたは〕存する。夜魔の現前に進み行く者…",
+        "secondaryObserve": "他人の過失は見易く、自己の過失は見難い"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "自己の依所を造り、漸次に垢穢を払って離す",
+        "chapterHint": "垢穢品（垢の章）",
+        "fromPrev": "垢への掴みが流れを加速させる",
+        "toNext": "離すと、無常と不動の見直しへつながる",
+        "todayObserve": "賢慮ある者は、漸次に、少量ずつ、刹那刹那に、自己の垢穢を払うべし、あたかも鍛工が銀の〔鉱垢を除くが〕如く。",
+        "todayAction": "今日、心の垢穢を「一つだけ」払う",
+        "when": [
+          "少しずつ改善したい",
+          "垢を払いたい"
+        ],
+        "sources": [
+          "DP18-P02",
+          "DP18-P04",
+          "DP18-P05",
+          "DP18-P06",
+          "DP18-P14",
+          "DP18-P18"
+        ],
+        "leadQuote": "思慮ある者は、順次に、瞬間瞬間に、少しずつ、鍛冶屋が銀の〔垢を取り除く〕ように、…",
+        "secondaryObserve": "自己の依所を造り、速やかに精勤せよ"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "万象は常住ならず、今日の垢を払えたか見直す",
+        "chapterHint": "垢穢品（垢の章）",
+        "fromPrev": "一日の行いは、垢か清浄かの跡",
+        "toNext": "見直しが、翌朝の旅路の糧になる",
+        "todayObserve": "虚空に道なく、外道に沙門なし。 万象は常住ならず、諸仏に擾乱（じょうらん）なし。",
+        "todayAction": "今日の変化・驚き・不快を振り返り、「これも常住ならず」と手放す",
+        "when": [
+          "一日を閉じるとき",
+          "変化に動じた"
+        ],
+        "sources": [
+          "DP18-P23"
+        ],
+        "leadQuote": "まさしく、虚空に、足跡は存在せず、外に、沙門は存在しない。諸々の形成〔作用〕（諸…",
+        "secondaryObserve": "万象は常住ならず、諸仏に擾乱なし"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "垢穢品は漸次に心の垢を払い自己の依所を造ることが中心。既定の焦点は離す。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP18-P01",
+      "category": "view",
+      "verse": 235,
+      "observe": "汝は今や枯葉の如く、閻魔の使者また汝に近づけり。 汝は死出の門に立つ。 されど汝に旅路の糧なし。",
+      "action": "今朝、「今日も糧（善業・修行）を積む」と一念する",
+      "quote": "今や、枯葉のような者として、〔あなたは〕存する。そして、夜魔（閻魔）の使者たちもまた、あなたを待ち構えている。そして、〔あなたは〕旅路の門に立つ。そして、あなたには、〔旅の〕路銀さえも見出されない。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "枯葉の如く死出の門に立つ、旅路の糧を積め",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第235偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第235偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ垢の章235はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/"
+        }
+      }
+    },
+    {
+      "id": "DP18-P02",
+      "category": "effort",
+      "verse": 236,
+      "observe": "汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。 〔心の〕垢穢（くえ）を払い、罪過なくば、汝は天の聖地に至らん。",
+      "action": "今夜、今日の心の汚れ（憎しみ・怠惰・欲）を一つ観て手放す",
+      "quote": "〔まさに〕その〔あなた〕は、自己の洲（依り所）を作れ。すみやかに努めよ。賢者と成れ。〔世俗の〕垢を取り払った〔あなた〕は、穢れなき者となり、天の聖なる境地に近づくであろう。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "自己の依所を造り、垢穢を払え",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第236偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第236偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ垢の章236はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/"
+        }
+      }
+    },
+    {
+      "id": "DP18-P03",
+      "category": "view",
+      "verse": 237,
+      "observe": "汝は今や齢既に傾き、閻魔の元に近づけり。 途上に汝の住所なく、また旅路の糧もなし。",
+      "action": "「後でやろう」と思っていることの一つを、今日必ず行動に移す",
+      "quote": "そして、今や、衰失に導かれた者として、〔あなたは〕存する。夜魔の現前に進み行く者として、〔あなたは〕存する。途中、あなたに、住居は存在しない。そして、あなたには、〔旅の〕路銀さえも見出されない。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "齢は既に傾き、途上に住所も糧もない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第237偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第237偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-001",
+          "text": "生無善行，死墮惡道，往疾無間，到無資用。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P04",
+      "category": "effort",
+      "verse": 238,
+      "observe": "汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。 〔心の〕垢穢を払い、罪過なくば、汝は再び生と老とに近づかざるべし。",
+      "action": "苦しいとき、「心の垢穢を払う」という修行の方向を思い出す",
+      "quote": "〔まさに〕その〔あなた〕は、自己の洲（依り所）を作れ。すみやかに努めよ。賢者と成れ。〔世俗の〕垢を取り払った〔あなた〕は、穢れなき者となり、ふたたび、生と老に近づくことはないであろう。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "垢穢を払えば、再び生と老に近づかない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第238偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第238偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-002",
+          "text": "當求智慧，以然意錠，去垢勿污，可離苦形。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第2頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P05",
+      "category": "mindfulness",
+      "verse": 239,
+      "observe": "賢慮ある者は、漸次に、少量ずつ、刹那刹那に、自己の垢穢を払うべし、あたかも鍛工が銀の〔鉱垢を除くが〕如く。",
+      "action": "今日、心の垢穢を「一つだけ」払う",
+      "quote": "思慮ある者は、順次に、瞬間瞬間に、少しずつ、鍛冶屋が銀の〔垢を取り除く〕ように、自己の垢を取り払うがよい。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "漸次に少量ずつ、垢穢を払う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第239偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第239偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-003",
+          "text": "慧人以漸，安徐精進，洗除心垢，如工鍊金。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P06",
+      "category": "mindfulness",
+      "verse": 239,
+      "observe": "賢慮ある者は、漸次に、少量ずつ、刹那刹那に、自己の垢穢を払うべし、あたかも鍛工が銀の〔鉱垢を除くが〕如く。",
+      "action": "今日の仕事で一つだけ、昨日より丁寧にする",
+      "quote": "思慮ある者は、順次に、瞬間瞬間に、少しずつ、鍛冶屋が銀の〔垢を取り除く〕ように、自己の垢を取り払うがよい。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "漸次に少量ずつ、垢穢を払う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第239偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第239偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-003",
+          "text": "慧人以漸，安徐精進，洗除心垢，如工鍊金。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P07",
+      "category": "view",
+      "verse": 240,
+      "observe": "鉄より生じたる垢穢（錆）が、鉄より生じて鉄を蝕むが如く、自己の業は悪業者を悪趣に導く。",
+      "action": "今日、習慣的な悪い行動（不機嫌・怠惰・不誠実）を一つ止める",
+      "quote": "鉄から現起した垢（錆）が、それ（鉄）から出起して、まさしく、それ〔自身〕を喰い尽くすように、このように、諸々の自らの行為（業）は、罪行者を、悪しき境遇（悪趣）に導く。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "自己の悪業は錆の如く自己を蝕む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第240偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第240偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-004",
+          "text": "惡生於心，還自壞形，如鐵生垢，反食其身。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P08",
+      "category": "view",
+      "verse": 240,
+      "observe": "鉄より生じたる垢穢（錆）が、鉄より生じて鉄を蝕むが如く、自己の業は悪業者を悪趣に導く。",
+      "action": "今日の悪い習慣を一つ挙げ、明日の改善の指針にする",
+      "quote": "鉄から現起した垢（錆）が、それ（鉄）から出起して、まさしく、それ〔自身〕を喰い尽くすように、このように、諸々の自らの行為（業）は、罪行者を、悪しき境遇（悪趣）に導く。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "自己の悪業は錆の如く自己を蝕む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第240偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第240偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-004",
+          "text": "惡生於心，還自壞形，如鐵生垢，反食其身。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P09",
+      "category": "mindfulness",
+      "verse": 241,
+      "observe": "読誦（どくじゅ）せざるは聖典の垢穢、修復せざるは家屋の垢穢、懈怠（けたい）は美の垢穢、放逸は番士の垢穢なり。",
+      "action": "今日、「怠けてやっていない大切なこと」を一つ行う",
+      "quote": "不誦という垢あるのが、諸々の呪文である。不精という垢あるのが、諸々の家屋である。色艶には、怠惰という垢がある。〔心身を〕守っている者には、放逸という垢がある。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "不誦・怠惰・放逸はそれぞれの垢",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第241偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第241偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-005",
+          "text": "不誦為言垢，不勤為家垢，不嚴為色垢，放逸為事垢。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P10",
+      "category": "mindfulness",
+      "verse": 241,
+      "observe": "読誦（どくじゅ）せざるは聖典の垢穢、修復せざるは家屋の垢穢、懈怠（けたい）は美の垢穢、放逸は番士の垢穢なり。",
+      "action": "今朝、怠けている一つのことを今日やると決める",
+      "quote": "不誦という垢あるのが、諸々の呪文である。不精という垢あるのが、諸々の家屋である。色艶には、怠惰という垢がある。〔心身を〕守っている者には、放逸という垢がある。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "不誦・怠惰・放逸はそれぞれの垢",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第241偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第241偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-005",
+          "text": "不誦為言垢，不勤為家垢，不嚴為色垢，放逸為事垢。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P11",
+      "category": "mindfulness",
+      "verse": 242,
+      "observe": "不義は婦人の垢穢、吝嗇は施与者の垢穢、実に悪法（悪行）はこの世に於てもかの世に於ても垢穢なり。",
+      "action": "今日の行動・言葉で「不義にならないか」を一度確認する",
+      "quote": "婦女には、悪しき行ない（不品行）という垢がある。〔施物を〕施している者には、物惜という垢がある。まさに、諸々の悪しき法（性質）という垢がある──この世において、さらに、他〔の世〕において。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "不義・吝嗇・悪法はこの世にもかの世にも垢",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第242偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第242偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-006",
+          "text": "慳為惠施垢，不善為行垢，今世亦後世，惡法為常垢。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P12",
+      "category": "view",
+      "verse": 243,
+      "observe": "これらの諸垢穢より更に甚だしき垢穢は無明にして、〔こは〕最大の垢穢なり。 比丘らよ、この垢穢を捨てて無垢となれ。",
+      "action": "今朝、「自分の無知・誤解」を一つ点検し、学ぶ意欲を起こす",
+      "quote": "その垢よりも、さらにひどい垢として、無明という最高の垢がある。比丘たちよ、この垢を捨棄して、無垢の者たちと成れ。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "無明は最大の垢穢",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第243偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第243偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-007",
+          "text": "垢中之垢，莫甚於癡，學當捨惡，比丘無垢。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P13",
+      "category": "mindfulness",
+      "verse": 244,
+      "observe": "慚愧心（ざんぎしん）なく、厚顔・暴戻・大胆・傲慢にして、罪に汚れたる人の生活は安易なり。",
+      "action": "今日、安易な道より誠実な道を一つ選ぶ",
+      "quote": "生き易きは、恥〔の思い〕がなく、烏の厚かましさがある、厚顔で、傲岸で、尊大で、〔心が〕汚染された者による、生である。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "慚愧なき傲慢な生活は安易に見える",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第244偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第244偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-008",
+          "text": "苟生無恥，如鳥長喙，強顏耐辱，名曰穢生。",
+          "satLocus": "大正蔵 T4.568b 塵垢品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P14",
+      "category": "mindfulness",
+      "verse": 245,
+      "observe": "慚愧心あり、常に清浄を求め、執着なく、謙遜にして、清浄の生活を営み、識見ある人の生活は困難なり。",
+      "action": "今朝、「今日は謙遜・誠実を一つ実践する」と決める",
+      "quote": "しかしながら、生き難きは、恥〔の思い〕があり、常に清らかさを探し求め、陰鬱ならず、尊大ならず、清浄の生き方がある、〔常に真実を〕見ている者による、〔生である〕。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "慚愧・清浄・謙遜の生活は困難だが価値がある",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第245偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第245偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-009",
+          "text": "廉恥雖苦，義取清白，避辱不妄，名曰潔生。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P15",
+      "category": "action",
+      "verse": 246,
+      "observe": "生あるものを殺し、妄語を語り、この世に於て与えられざるを取り、他人の妻を犯し、 スラー酒・メーラヤ酒に沈湎する人は、この世に於て自己の根底を掘るものなり。",
+      "action": "今日、五戒のうち一つを意識して守る",
+      "quote": "彼が、命あるものを殺すなら、さらに、虚偽の論を語るなら、世において与えられていないものを取るなら、さらに、他者の妻のもとに赴くなら── さらに、その人が、穀物酒や果実酒などの飲み物に〔自らを〕束縛するなら、この者は、まさしく、ここに、〔この〕世において、自己の根元を掘り崩す。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "殺生・妄語・偸盗・邪淫は自己の根を掘る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第246-247偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第246-247偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-010",
+          "text": "愚人好殺，言無誠實，不與而取，好犯人婦。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P16",
+      "category": "mindfulness",
+      "verse": 248,
+      "observe": "人よ、是の如く知れ、節制なき者は邪悪なりと。 貪欲と非法とをして永く汝を苦に陥らしむることなかれ。",
+      "action": "「欲しい・やりたい」が強いとき、節制の一線を思い出す",
+      "quote": "君よ、男よ、このように知りなさい。〔これらの五者の〕自制なき者たちは、悪しき法（性質）の者たちである。貪り〔の思い〕が、そして、法（正義）ならざる〔生き方〕が、あなたを、長きにわたり、苦しみへと追いやってはならない。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "貪欲と非法をして永く苦に陥らしむな",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第248偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第248偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-012",
+          "text": "人如覺是，不當念惡，愚近非法，久自燒沒。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第12頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P17",
+      "category": "mindfulness",
+      "verse": 249,
+      "observe": "人は実に信ずる所に従い、好む所に従いて施与す。 他人の得たる飲食に対し、不満を抱く者は、昼も夜も三昧に入るを得ず。",
+      "action": "誰かの幸運・成功に不満を感じたとき、それが三昧（集中・平静）を乱すと知る",
+      "quote": "人は、まさに、信あるままに、浄信するままに、〔布施を〕施す。そこにおいて、彼（布施を受ける者）が、他者たちの飲み物と食料に〔心を〕惑わす者と成るなら（他者と自己の施物を比較して、心を動かすなら）、彼は、昼であろうが、夜であろうが、禅定（定・三昧）に到達しない。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "他人の得た食への不満は三昧を妨げる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第249偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第249偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-013",
+          "text": "若信布施，欲揚名譽，會人虛飾，非入淨定。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第13頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P18",
+      "category": "mindfulness",
+      "verse": 250,
+      "observe": "かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。",
+      "action": "今朝、嫉妬・不満の心を一つ手放してから動き始める",
+      "quote": "しかしながら、彼の、この〔汚点〕が断絶され、根元から殲滅され、完破されたなら、彼は、まさに、昼であろうが、夜であろうが、禅定に到達する。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "嫉妬を断てば、昼も夜も三昧に入る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第250偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第250偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-014",
+          "text": "一切斷欲，截意根原，晝夜守一，必入定意。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第14頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P19",
+      "category": "mindfulness",
+      "verse": 251,
+      "observe": "貪欲に等しき火なく、瞋恚（しんに）に等しき捕捉者なく、愚痴に等しき羅網なく、愛欲に等しき河流なし。",
+      "action": "欲が強く燃えるとき、「これは火だ・この流れに乗ったら戻れない」と知る",
+      "quote": "貪欲（貪）に等しい火は、存在しない。憤怒（瞋）に等しい捕捉者は、存在しない。迷妄（痴）に等しい網は、存在しない。渇愛に等しい川は、存在しない。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "貪欲の火・瞋恚・愚痴・愛欲の河流",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第251偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第251偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-017",
+          "text": "火莫熱於婬，捷莫疾於怒，網莫密於癡，愛流駛乎河。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第17頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P20",
+      "category": "view",
+      "verse": 252,
+      "observe": "他人の過失は見易く、自己の〔過失〕は見難し。 他人の過失は籾殻の如く散布し、自己の〔過失〕は、これを隠匿すること、狡猾なる賭博者のカリ（最悪の骰子（さい）数）に於けるが如し。",
+      "action": "今日、誰かの欠点を見たとき、まず自分の同じ傾向を確認する",
+      "quote": "他者たちの罪過は見易く、いっぽうで、自己の〔罪過は〕見難い。まさに、彼は、他者たちの諸々の罪過を、あたかも、籾殻のように、〔誇大に〕暴き立て、いっぽうで、自己の〔罪過は〕覆い隠す──狡猾な賭博師が、〔悪しき〕賽の目を〔隠す〕ように。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "他人の過失は見易く、自己の過失は見難い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第252偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第252偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ垢の章252はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/"
+        }
+      }
+    },
+    {
+      "id": "DP18-P21",
+      "category": "mindfulness",
+      "verse": 253,
+      "observe": "他人の過失を詮索し、常に怒り易き人の煩悩は増長す。 彼は煩悩の滅尽を去ること遠し。",
+      "action": "今日、誰かの過失を詮索するのをやめ、自分の修行に専念する",
+      "quote": "他者の罪過を随観し、常に譴責の表象（想：概念・心象）ある者──彼の、諸々の煩悩は増え行き、彼は、煩悩の滅尽から遠く離れている。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "他人の過失を詮索すれば煩悩が増長する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第253偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第253偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ垢の章253はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/"
+        }
+      }
+    },
+    {
+      "id": "DP18-P22",
+      "category": "view",
+      "verse": 254,
+      "observe": "虚空に道なく、外道に沙門なし。 衆生は虚妄を喜び、如来には虚妄なし。",
+      "action": "今朝、情報・噂・思い込みの中から「虚妄」を一つ疑う",
+      "quote": "まさしく、虚空に、足跡は存在せず、外に、沙門は存在しない。戯論（空想）に歓楽あるのが、〔世の〕人々である。戯論なきは、如来たちである。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "衆生は虚妄を喜び、如来には虚妄なし",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第254偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第254偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-018",
+          "text": "虛空無轍迹，沙門無外意，眾人盡樂惡，唯佛淨無穢。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第18頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P23",
+      "category": "mindfulness",
+      "verse": 255,
+      "observe": "虚空に道なく、外道に沙門なし。 万象は常住ならず、諸仏に擾乱（じょうらん）なし。",
+      "action": "今日の変化・驚き・不快を振り返り、「これも常住ならず」と手放す",
+      "quote": "まさしく、虚空に、足跡は存在せず、外に、沙門は存在しない。諸々の形成〔作用〕（諸行：形成されたもの・現象世界）は、常久のものとして存在しない。覚者たちに、〔心の〕動揺は存在しない。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "万象は常住ならず、諸仏に擾乱なし",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第255偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第255偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-019",
+          "text": "空無轍迹，沙門無外意，世間皆無常，佛無我所有。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第19頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP18-P24",
+      "category": "view",
+      "verse": 254,
+      "observe": "虚空に道なく、外道に沙門なし。 衆生は虚妄を喜び、如来には虚妄なし。",
+      "action": "今日、虚妄（大げさ・噂・おべっか）な言葉を一つ止め、真実だけを語る",
+      "quote": "まさしく、虚空に、足跡は存在せず、外に、沙門は存在しない。戯論（空想）に歓楽あるのが、〔世の〕人々である。戯論なきは、如来たちである。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "衆生は虚妄を喜び、如来には虚妄なし",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 垢の章 第254偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第１８章・垢穢品 第254偈（#ch02-18）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-18"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "塵垢品（T210 第26品）",
+          "t210": "T210-26-018",
+          "text": "虛空無轍迹，沙門無外意，眾人盡樂惡，唯佛淨無穢。",
+          "satLocus": "大正蔵 T4.568c 塵垢品第18頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0568",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap18/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "235": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "枯葉の如く死出の門に立つ、旅路の糧を積め"
+    },
+    "236": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "自己の依所を造り、垢穢を払え"
+    },
+    "237": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "齢は既に傾き、途上に住所も糧もない"
+    },
+    "238": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "垢穢を払えば、再び生と老に近づかない"
+    },
+    "239": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "漸次に少量ずつ、垢穢を払う"
+    },
+    "240": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "自己の悪業は錆の如く自己を蝕む"
+    },
+    "241": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "不誦・怠惰・放逸はそれぞれの垢"
+    },
+    "242": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "不義・吝嗇・悪法はこの世にもかの世にも垢"
+    },
+    "243": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "無明は最大の垢穢"
+    },
+    "244": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "慚愧なき傲慢な生活は安易に見える"
+    },
+    "245": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "慚愧・清浄・謙遜の生活は困難だが価値がある"
+    },
+    "246": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "殺生・妄語・偸盗・邪淫は自己の根を掘る"
+    },
+    "247": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "reason": "酒に沈湎する者は自己の根底を掘る"
+    },
+    "248": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "貪欲と非法をして永く苦に陥らしむな"
+    },
+    "249": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "他人の得た食への不満は三昧を妨げる"
+    },
+    "250": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "嫉妬を断てば、昼も夜も三昧に入る"
+    },
+    "251": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "貪欲の火・瞋恚・愚痴・愛欲の河流"
+    },
+    "252": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "他人の過失は見易く、自己の過失は見難い"
+    },
+    "253": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "他人の過失を詮索すれば煩悩が増長する"
+    },
+    "254": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "衆生は虚妄を喜び、如来には虚妄なし"
+    },
+    "255": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "万象は常住ならず、諸仏に擾乱なし"
+    }
+  }
+}

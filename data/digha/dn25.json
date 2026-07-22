@@ -1,0 +1,168 @@
+{
+  "chapter": 25,
+  "sutta": 25,
+  "title": "長部 第25経（乌昙跋経）",
+  "shortTitle": "乌昙跋経",
+  "mapNote": "DN 25——乌昙跋経",
+  "suttas": [
+    "DN 25 乌昙跋経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（破壊篇）",
+    "verify": "南伝大蔵経 第8巻上"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN25-P01",
+      "category": "prep",
+      "ref": "DN 25",
+      "section": "導",
+      "observe": "尼俱陀は苦行を誇る——空しい修行の見せびらかし",
+      "action": "朝、「見せるための修行」ではなく「心を清める修行」を一つ決める",
+      "quote": "尼俱陀は、苦行を誇り、実の道を知らず"
+    },
+    {
+      "id": "DN25-P02",
+      "category": "prep",
+      "ref": "DN 25",
+      "section": "段階",
+      "observe": "仏は段階的な道を説く——戒から始まり、禅定·知見へ",
+      "action": "今日、いきなり頂点ではなく、守れる戒から始める",
+      "quote": "このように、段階を踏んで、梵行を説く"
+    },
+    {
+      "id": "DN25-P03",
+      "category": "work",
+      "ref": "DN 25",
+      "section": "戒",
+      "observe": "聖なる行為の備え——戒を守り、感覚の門を護る",
+      "action": "今日、身体の行動（約束·時間·言葉）を一つ正す",
+      "quote": "彼は聖なる行為の具足をなし、戒を守り、根門を護り"
+    },
+    {
+      "id": "DN25-P04",
+      "category": "work",
+      "ref": "DN 25",
+      "section": "四事",
+      "observe": "衣·食·住·病薬に満足——欲の波を弱める",
+      "action": "今日「足りている」と感じられるものを一つ挙げ、感謝する",
+      "quote": "四事に、過不足なく満足す"
+    },
+    {
+      "id": "DN25-P05",
+      "category": "work",
+      "ref": "DN 25",
+      "section": "五蓋",
+      "observe": "五蓋を取り除く——貪·怒り·眠·掉·疑を離す",
+      "action": "今日の心を曇らせている蓋を一つ名づけ、少し手放す",
+      "quote": "五蓋を除却し、心を清浄にして"
+    },
+    {
+      "id": "DN25-P06",
+      "category": "desire",
+      "ref": "DN 25",
+      "section": "苦行",
+      "observe": "裸形·断食·水浴——形式だけの苦行は道に至らぬ",
+      "action": "今日、見栄·形式のための行いを一つ減らす",
+      "quote": "形式だけの苦行、これ道に至らず"
+    },
+    {
+      "id": "DN25-P07",
+      "category": "desire",
+      "ref": "DN 25",
+      "section": "慢",
+      "observe": "「私は七夜水浴する」——修行の慢心も蓋",
+      "action": "修行を誇りたくなったら「尼俱陀の慢」と一度観る",
+      "quote": "苦行を誇る者、実の道を知らず"
+    },
+    {
+      "id": "DN25-P08",
+      "category": "suffering",
+      "ref": "DN 25",
+      "section": "空",
+      "observe": "空しい修行——努力しても、心は清まらぬ",
+      "action": "努力の後も心が乱れているとき「方向が違う」と一度問う",
+      "quote": "方向を誤れば、努力も空しくなる"
+    },
+    {
+      "id": "DN25-P09",
+      "category": "speech",
+      "ref": "DN 25",
+      "section": "師子吼",
+      "observe": "優曇婆邏師子吼——真の道を恐れず語る",
+      "action": "今日、法について正確で励ましになる言葉を一つ口にする",
+      "quote": "この教えを、師子吼の如く語れ"
+    },
+    {
+      "id": "DN25-P10",
+      "category": "people",
+      "ref": "DN 25",
+      "section": "尼俱陀",
+      "observe": "修行者同士——誇りを離れ、道を共に確かめる",
+      "action": "今日、修行仲間と「今の段階」を一つ共有する",
+      "quote": "共に道を確かめ、誇りを離れよ"
+    },
+    {
+      "id": "DN25-P11",
+      "category": "night",
+      "ref": "DN 25",
+      "section": "段階",
+      "observe": "今日、段階のどこを歩んだか——戒·満足·蓋·定",
+      "action": "就寝前、今日歩んだ段階（戒·正念·満足など）を静かに確認する",
+      "quote": "段階を踏んで、梵行を歩め"
+    },
+    {
+      "id": "DN25-P12",
+      "category": "night",
+      "ref": "DN 25",
+      "section": "総括",
+      "observe": "優曇婆邏の要——形式より段階、誇りより清浄",
+      "action": "就寝前、「形式ではなく心」が清まった瞬間を一つ思い出す",
+      "quote": "戒から始め、心を清め、段階を踏んで道に至れ"
+    }
+  ]
+}

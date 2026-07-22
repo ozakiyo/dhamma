@@ -1,0 +1,159 @@
+{
+  "chapter": 9,
+  "sutta": 9,
+  "title": "長部 第9経（波塔頗陀経）",
+  "shortTitle": "波塔頗陀経",
+  "mapNote": "DN 9——波塔頗陀経",
+  "suttas": [
+    "DN 9 波塔頗陀経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（戒初篇）",
+    "verify": "南伝大蔵経 第6巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN9-P01",
+      "category": "prep",
+      "ref": "DN 9",
+      "section": "段階",
+      "observe": "感知の止息には段階がある——いきなり頂点ではない",
+      "action": "朝、今日の目標を「大きな悟り」より「守れる一歩」に置く",
+      "quote": "段階的に、感知の止息を説く"
+    },
+    {
+      "id": "DN9-P02",
+      "category": "work",
+      "ref": "DN 9",
+      "section": "戒",
+      "observe": "戒を守ることが、感知を整える第一歩",
+      "action": "今日、戒（不殺·不盗·不妄など）の一つを意識する",
+      "quote": "彼は戒を守り、聖なる行為を具足す"
+    },
+    {
+      "id": "DN9-P03",
+      "category": "work",
+      "ref": "DN 9",
+      "section": "禅",
+      "observe": "戒の後に禅——感知は定の中で変容する",
+      "action": "今日、一呼吸で心を静め、感知を一度観る",
+      "quote": "戒を守り、禅を修すれば、感知は次第に止む"
+    },
+    {
+      "id": "DN9-P04",
+      "category": "desire",
+      "ref": "DN 9",
+      "section": "感知",
+      "observe": "感知への執着が、感知の止息を妨げる",
+      "action": "今日、一つの感覚·印象に「執着していないか」と問う",
+      "quote": "感知に執着すれば、止息に至らず"
+    },
+    {
+      "id": "DN9-P05",
+      "category": "suffering",
+      "ref": "DN 9",
+      "section": "感知",
+      "observe": "感知は無常——固定された「我の感知」はない",
+      "action": "今日、一つの感知が「変わるもの」だと一度見る",
+      "quote": "感知は無常なり。執着すれば、苦が生じる"
+    },
+    {
+      "id": "DN9-P06",
+      "category": "people",
+      "ref": "DN 9",
+      "section": "質問",
+      "observe": "波塔頗陀は、感知の止息を誠実に問う",
+      "action": "今日、わからないことを「段階」を前提に質問する",
+      "quote": "波塔頗陀は、感知の止息を問う。如来、段階を説く"
+    },
+    {
+      "id": "DN9-P07",
+      "category": "prep",
+      "ref": "DN 9",
+      "section": "正見",
+      "observe": "正見は、感知の止息の前提",
+      "action": "今日、確信の根拠が「縁起·四諦」か一度問う",
+      "quote": "正見を以て、感知の止息に至る"
+    },
+    {
+      "id": "DN9-P08",
+      "category": "speech",
+      "ref": "DN 9",
+      "section": "説",
+      "observe": "感知について語る前に、実践の段階を語る",
+      "action": "今日、抽象論より「今日の一歩」を語る",
+      "quote": "我、段階的に説く。先に戒、次に禅"
+    },
+    {
+      "id": "DN9-P09",
+      "category": "night",
+      "ref": "DN 9",
+      "section": "振り返り",
+      "observe": "夜、今日の感知——どこで執着したか",
+      "action": "就寝前、今日「感知に執着した」瞬間を一つ手放す",
+      "quote": "感知を観察し、執着を離せ"
+    },
+    {
+      "id": "DN9-P10",
+      "category": "work",
+      "ref": "DN 9",
+      "section": "正念",
+      "observe": "正念は、感知と執着の間に入る",
+      "action": "今日、一つの行為に正念を一度戻す",
+      "quote": "正念·正知を以て、感知を観察す"
+    },
+    {
+      "id": "DN9-P11",
+      "category": "suffering",
+      "ref": "DN 9",
+      "section": "苦",
+      "observe": "感知の乱れは、心の苦の表れ",
+      "action": "今日の心の乱れを「感知の問題」として一度見る",
+      "quote": "感知が乱れれば、苦が生じる"
+    }
+  ]
+}

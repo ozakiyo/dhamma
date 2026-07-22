@@ -1,0 +1,1531 @@
+{
+  "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+  "chapter": 24,
+  "shortTitle": "愛欲品（渇愛の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第24章（愛欲品／渇愛の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210愛欲品ほか）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・渇愛の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第２４章・愛欲品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・愛欲品（T4.570c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+    "shortTitle": "愛欲品（渇愛の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "つるの芽生えと法施に触れ、智慧で根を見る",
+        "chapterHint": "愛欲品（渇愛の章）",
+        "fromPrev": "前夜の解き放ちが、今朝の蔓への気づきになる",
+        "toNext": "接触のあと、喜悦や汚点の受が立ち上がる",
+        "todayObserve": "〔愛欲の〕流れは至る所に流れ、〔その〕つるは芽を発して茂る。 このつるの生ずるを見ば、智慧を以てその根を断て。",
+        "todayAction": "欲や誘惑が芽生えた瞬間に、智慧（結果を見通す目）で根を断つ練習をする",
+        "when": [
+          "欲が芽生えた",
+          "法を伝える"
+        ],
+        "sources": [
+          "DP24-P07",
+          "DP24-P21",
+          "DP24-P25"
+        ],
+        "leadQuote": "諸々の〔渇愛の〕流れは、一切所に流れ行く。〔貪欲の〕蔓草は、芽生えては止住する。…",
+        "secondaryObserve": "法施は一切の施に勝ち、愛欲の滅尽は一切の苦に勝つ"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "喜悦と貪瞋の受を観察し、損なわれていないか見る",
+        "chapterHint": "愛欲品（渇愛の章）",
+        "fromPrev": "蔓に触れたあと、快楽や怒り・貪欲の受が来る",
+        "toNext": "受けた快を、つる草の欲しがりへ落とさない",
+        "todayObserve": "人の喜悦は奔放にして、かつ愛着す。 歓楽に耽り快楽を求むる人、かかる人は実に生と老とを受く。",
+        "todayAction": "「楽しければいい」という姿勢を一度問い直し、快楽の先に何があるかを見る",
+        "when": [
+          "楽しければいいと思った",
+          "怒りが湧いた"
+        ],
+        "sources": [
+          "DP24-P08",
+          "DP24-P23",
+          "DP24-P24"
+        ],
+        "leadQuote": "諸々の〔渇愛の〕流れがあり、かつまた、諸々の愛執〔の対象〕があり、人の、諸々の悦…",
+        "secondaryObserve": "田は雑草により損なわれ、衆生は貪欲・瞋恚により損なわる"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "つる草の欲しがりを観察し、根へ向かう",
+        "chapterHint": "愛欲品（渇愛の章）",
+        "fromPrev": "受が強まると、愛欲の蔓が増長する",
+        "toNext": "止めないと妻子・網の掴みへ進む",
+        "todayObserve": "放逸に行う人の愛欲はつる草の如く増長す。 彼は生より生に漂う、あたかも林中に果実を求むる猿の如くに。",
+        "todayAction": "今日、「もっとほしい」という欲求が湧いたとき、それをつる草の伸長として観察する",
+        "when": [
+          "もっとほしい",
+          "断った欲に戻る"
+        ],
+        "sources": [
+          "DP24-P01",
+          "DP24-P06",
+          "DP24-P11",
+          "DP24-P16",
+          "DP24-P26"
+        ],
+        "leadQuote": "〔気づきを〕怠るままに歩む人間の、渇愛〔の思い〕は増え行く──蔓草が〔生い茂る〕…",
+        "secondaryObserve": "欲林を脱してまた欲林に走る者を見よ"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "intention"
+        ],
+        "pathLabel": "罠・妻子・蜘蛛の網という掴みを断つ",
+        "chapterHint": "愛欲品（渇愛の章）",
+        "fromPrev": "欲しがりが、恋着・執着として掴む手前",
+        "toNext": "掴むと憂患と輪廻の苦が太る",
+        "todayObserve": "賢者は、鉄・木または草よりなる縄縛を堅牢なりと言わず。 珠・環・妻・子に対する恋着こそ極めて強し。 賢者は、この牽引力に富み、弛くしてしかも脱し難き縄縛を堅牢なりと言う。 この〔縄〕を断ちて恋着なき人は、欲楽を捨てて出家す。",
+        "todayAction": "親しい人への「期待と執着」が生じたとき、それが縛りであると静かに観察する",
+        "when": [
+          "期待と執着が生じた",
+          "自ら作った縛りに気づいた"
+        ],
+        "sources": [
+          "DP24-P09",
+          "DP24-P12",
+          "DP24-P13",
+          "DP24-P14"
+        ],
+        "leadQuote": "〔まさに〕その、鉄でできているものも、木でできているものも、そして、葦〔の縄紐〕…",
+        "secondaryObserve": "蜘蛛の自ら作れる網に随うが如し"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "愛欲と財欲の掴みが、憂患と自滅の苦になると知る",
+        "chapterHint": "愛欲品（渇愛の章）",
+        "fromPrev": "掴んだ結果として、憂患と生死の苦が熟す",
+        "toNext": "見れば、根を掘り憂患を落とす実践へ向き直る",
+        "todayObserve": "この世に於て、この猛悪にして纏綿たる愛欲に征服せられたる人には、雨を受けたるビーラナ草の如く、その憂患増長す。",
+        "todayAction": "苦しみや不安が増しているとき、「愛欲に征服されているのではないか」と点検する",
+        "when": [
+          "憂いが増えている",
+          "財欲が自己を損なう"
+        ],
+        "sources": [
+          "DP24-P02",
+          "DP24-P05",
+          "DP24-P22"
+        ],
+        "leadQuote": "渇愛が、世における執着が、この卑しむべきものが、彼を打ち負かすなら、彼の、諸々の…",
+        "secondaryObserve": "愛欲の執着断たれざれば、この苦は再々生起す"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "根を掘り、不浄観で魔の繋縛を断ち離す",
+        "chapterHint": "愛欲品（渇愛の章）",
+        "fromPrev": "苦が見えれば、征服と離欲へ向き直る",
+        "toNext": "離すと、前中後を解き放つ見直しへつながる",
+        "todayObserve": "この世に於て、この猛悪にして克服し難き愛欲を征服したる人には、蓮葉より水滴の〔落つる〕如く、憂患彼より去る。 我この善事を汝らに告ぐ。 ここに集まれる汝らは、ウシーラ香を求むる者のビーラナ草を〔掘る〕如く、愛欲の根を掘るべし。 流水の葦を〔損なう〕如く、魔王をして再々汝らを壌らしむることなかれ。",
+        "todayAction": "朝、今日の心に「欲を征服している」という意図を一つ置いてから始める",
+        "when": [
+          "欲を征服したい",
+          "根を掘りたい"
+        ],
+        "sources": [
+          "DP24-P03",
+          "DP24-P04",
+          "DP24-P10",
+          "DP24-P17",
+          "DP24-P18",
+          "DP24-P20"
+        ],
+        "leadQuote": "しかしながら、渇愛を、世における超え難きものを、この卑しむべきものを、彼が打ち負…",
+        "secondaryObserve": "身の不浄を観じ、常に熟慮する人は魔の繋縛を断つ"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "concentration",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正定",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "concentration",
+          "mindfulness"
+        ],
+        "pathLabel": "前・後・中を解き放ち、愛欲なき一夜を閉じる",
+        "chapterHint": "愛欲品（渇愛の章）",
+        "fromPrev": "一日の行いは、蔓を伸ばしたかの跡",
+        "toNext": "見直しが、翌朝の根への気づきになる",
+        "todayObserve": "有の彼岸に達し、前（未来の煩悩）を離れよ、後（過去の煩悩）を離れよ、中（現在の煩悩）を離れよ。 意一切処に於て解脱せば、汝は再び生と老とを受くることなし。",
+        "todayAction": "今夜、過去の後悔・未来の不安・現在の執着を一つずつ手放して眠る",
+        "when": [
+          "一日を閉じるとき",
+          "過去未来現在の執着を手放す"
+        ],
+        "sources": [
+          "DP24-P15",
+          "DP24-P19"
+        ],
+        "leadQuote": "過去にあるものを解き放て（過去の記憶に振り回されない）──未来にあるものを解き放…",
+        "secondaryObserve": "意一切処に於て解脱せば、再び生と老とを受くることなし"
+      }
+    ],
+    "focusNodeId": "craving",
+    "focusReason": "愛欲品は渇愛の増長と根の断絶が中心。既定の焦点は欲しがる。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP24-P01",
+      "category": "mindfulness",
+      "verse": 334,
+      "observe": "放逸に行う人の愛欲はつる草の如く増長す。 彼は生より生に漂う、あたかも林中に果実を求むる猿の如くに。",
+      "action": "今日、「もっとほしい」という欲求が湧いたとき、それをつる草の伸長として観察する",
+      "quote": "〔気づきを〕怠るままに歩む人間の、渇愛〔の思い〕は増え行く──蔓草が〔生い茂る〕ように。彼は、あの〔世〕からあの〔世〕へと浮きただよう（輪廻を繰り返す）──林のなかで果実を求めている猿のように。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "放逸すれば愛欲はつる草の如く増長する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第334偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第334偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-001",
+          "text": "心放在婬行，欲愛增枝條，分布生熾盛，超躍貪果猴。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P02",
+      "category": "view",
+      "verse": 335,
+      "observe": "この世に於て、この猛悪にして纏綿たる愛欲に征服せられたる人には、雨を受けたるビーラナ草の如く、その憂患増長す。",
+      "action": "苦しみや不安が増しているとき、「愛欲に征服されているのではないか」と点検する",
+      "quote": "渇愛が、世における執着が、この卑しむべきものが、彼を打ち負かすなら、彼の、諸々の憂いは増え行く──雨を得たビーラナ〔草〕のように。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "愛欲に征服されれば憂患が増長する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第335偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第335偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-002",
+          "text": "以為愛忍苦，貪欲著世間，憂患日夜長，莚如蔓草生。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第2頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P03",
+      "category": "mindfulness",
+      "verse": 336,
+      "observe": "この世に於て、この猛悪にして克服し難き愛欲を征服したる人には、蓮葉より水滴の〔落つる〕如く、憂患彼より去る。",
+      "action": "朝、今日の心に「欲を征服している」という意図を一つ置いてから始める",
+      "quote": "しかしながら、渇愛を、世における超え難きものを、この卑しむべきものを、彼が打ち負かすなら、彼から、諸々の憂いは落ち行く──蓮〔の葉〕から、水の滴（しずく）が〔落ちる〕ように。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "愛欲を征服すれば憂患は蓮葉の水滴の如く去る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第336偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第336偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-003",
+          "text": "人為恩愛惑，不能捨情欲，如是憂愛多，潺潺盈于池。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P04",
+      "category": "effort",
+      "verse": 337,
+      "observe": "我この善事を汝らに告ぐ。 ここに集まれる汝らは、ウシーラ香を求むる者のビーラナ草を〔掘る〕如く、愛欲の根を掘るべし。 流水の葦を〔損なう〕如く、魔王をして再々汝らを壌らしむることなかれ。",
+      "action": "繰り返し現れる欲のパターンを一つ特定し、その「根（動機）」を観察して断つ",
+      "quote": "〔わたしは〕それを、あなたたちに説く。あなたたちに、幸せ〔有れ〕──ここにおいて集いあつまった、そのかぎりの者たちは。渇愛の根を掘り崩せ──ウシーラ（ビーラナ草の根・香料として使う）〔の採取〕を義（目的）とする者が、ビーラナ〔草〕を〔掘る〕ように。あなたたちを、まさしく、流れが葦を〔打ちひしぐ〕ように、悪魔が、繰り返し、打ち砕くことがあってはならない。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "愛欲の根を掘り崩し、魔に壊されぬ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第337偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第337偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-007",
+          "text": "為道行者，不與欲會，先誅愛本，無所植根，勿如刈葦，令心復生。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P05",
+      "category": "view",
+      "verse": 338,
+      "observe": "樹根損なわれずして固ければ、樹は伐らるるとも再び生ずるが如く、愛欲の執着断たれざれば、この苦（生死の苦）は再々生起す。",
+      "action": "繰り返す苦しみに「まだ愛欲の根がある」と気づき、表面だけでなく根を観る",
+      "quote": "あたかも、また、根が無禍にして堅固であるなら、たとえ、切断された木でも、まさしく、ふたたび成長するように、このように、また、渇愛の悪習（随眠：潜在煩悩）が打破されていないなら、この苦しみは、繰り返し発現する。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "愛欲の根が残れば苦は再々生起する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第338偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第338偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-008",
+          "text": "如樹根深固，雖截猶復生，愛意不盡除，輒當還受苦。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P06",
+      "category": "mindfulness",
+      "verse": 339,
+      "observe": "その三十六流（内外各十八の愛欲）水勢盛んに快楽に向かいて流るる邪見者を、この奔流〔すなわち〕貪欲に執着せる意思は漂蕩し去る。",
+      "action": "欲の流れが多方向に広がっていると感じたとき、一点に絞って方向を定め直す",
+      "quote": "彼に、意に適うもの（欲望の対象）へと流れ行く、激しい三十六の流れがあるなら、貪欲〔の思い〕に依存した諸々の妄想が運び手となり、悪しき見解を運び来る。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "三十六の欲流が邪見を運び来る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第339偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第339偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-010",
+          "text": "貪意為常流，習與憍慢并，思想猗婬欲，自覆無所見。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P07",
+      "category": "mindfulness",
+      "verse": 340,
+      "observe": "〔愛欲の〕流れは至る所に流れ、〔その〕つるは芽を発して茂る。 このつるの生ずるを見ば、智慧を以てその根を断て。",
+      "action": "欲や誘惑が芽生えた瞬間に、智慧（結果を見通す目）で根を断つ練習をする",
+      "quote": "諸々の〔渇愛の〕流れは、一切所に流れ行く。〔貪欲の〕蔓草は、芽生えては止住する。そして、その蔓草が生じたのを見て、智慧によって、〔その〕根を断て。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "つるの生じるを見て、智慧で根を断つ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第340偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第340偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-011",
+          "text": "一切意流衍，愛結如葛藤，唯慧分別見，能斷意根源。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P08",
+      "category": "mindfulness",
+      "verse": 341,
+      "observe": "人の喜悦は奔放にして、かつ愛着す。 歓楽に耽り快楽を求むる人、かかる人は実に生と老とを受く。",
+      "action": "「楽しければいい」という姿勢を一度問い直し、快楽の先に何があるかを見る",
+      "quote": "諸々の〔渇愛の〕流れがあり、かつまた、諸々の愛執〔の対象〕があり、人の、諸々の悦意（満足の思い）が有る。彼らは、快楽に依存する者たちであり、安楽を探し求める者たちである。彼らは、まさに、人として、生と老に近しく赴く者たちである。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "喜悦・快楽の受に耽れば生と老を受ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第341偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第341偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-012",
+          "text": "夫從愛潤澤，思想為滋蔓，愛欲深無底，老死是用增。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第12頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P09",
+      "category": "mindfulness",
+      "verse": 342,
+      "observe": "愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。 繋縛と執着とに捉えられ、久しき間再々苦を受く。",
+      "action": "「また同じ状況に陥った」と気づいたとき、「これが罠だ」と名付けて立ち止まる",
+      "quote": "渇愛〔の思い〕で〔特定のものを〕偏重する人々は、捕縛された兎のように這い回る。束縛するもの（欲望の対象）に執着〔の思い〕ある有情たちは、長きにわたり、繰り返し、苦しみに近づく。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "愛欲の偏重は罠の兎のように這い回る掴み",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第342偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第342偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ愛欲品342はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/"
+        }
+      }
+    },
+    {
+      "id": "DP24-P10",
+      "category": "mindfulness",
+      "verse": 343,
+      "observe": "愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。 故に比丘は自己の離欲を望みて愛欲を除くべし。",
+      "action": "今日の仕事・学習・実践の中で「離欲の一歩」を一つ具体的に踏み出す",
+      "quote": "渇愛〔の思い〕で〔特定のものを〕偏重する人々は、捕縛された兎のように這い回る。自己の離貪を望んでいる者よ、それゆえに、渇愛〔の思い〕を除き去るがよい。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "離欲を望むなら愛欲を除き去る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第343偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第343偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ愛欲品343はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/"
+        }
+      }
+    },
+    {
+      "id": "DP24-P11",
+      "category": "mindfulness",
+      "verse": 344,
+      "observe": "欲林を出でて欲林に心を傾け、欲林を脱してまた欲林に走る者、実にこの人を見よ。 彼は〔繋縛を〕脱してまた繋縛に走るなり。",
+      "action": "断ったはずの欲に再び引き戻されそうなとき、「これは縛りへの逆戻りだ」と観る",
+      "quote": "〔まさに〕その、〔欲の〕林の下生えなき者となりながら、〔欲の〕林に向かう者──〔欲の〕林から解き放たれたのに、まさしく、〔欲の〕林へと走り行く。来たれ、見よ、その人物を──〔欲の結縛から〕解き放たれたのに、まさしく、〔欲の〕結縛へと走り行く。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "欲林を脱しても再び欲林へ走る欲しがり",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第344偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第344偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-009",
+          "text": "猨猴得離樹，得脫復趣樹，眾人亦如是，出獄復入獄。",
+          "satLocus": "大正蔵 T4.570c 愛欲品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P12",
+      "category": "mindfulness",
+      "verse": 345,
+      "observe": "賢者は、鉄・木または草よりなる縄縛を堅牢なりと言わず。 珠・環・妻・子に対する恋着こそ極めて強し。",
+      "action": "親しい人への「期待と執着」が生じたとき、それが縛りであると静かに観察する",
+      "quote": "〔まさに〕その、鉄でできているものも、木でできているものも、そして、葦〔の縄紐〕も──慧者たちは、それを、堅固な結縛と言わない。諸々の宝珠や耳飾にたいする貪染〔の思い〕に染まったもの──子たちにたいする、さらに、妻たちにたいする、〔まさに〕その、期待〔の思い〕なるもの──",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "pathReason": "妻子・珠環への恋着こそ堅牢な掴み",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第345偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第345偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-014",
+          "text": "雖獄有鉤鍱，慧人不謂牢，愚見妻子息，染著愛甚牢。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第14頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P13",
+      "category": "mindfulness",
+      "verse": 346,
+      "observe": "賢者は、この牽引力に富み、弛くしてしかも脱し難き縄縛を堅牢なりと言う。 この〔縄〕を断ちて恋着なき人は、欲楽を捨てて出家す。",
+      "action": "今日、心地よく感じる執着（習慣・関係・物）の一つを意識して手放す練習をする",
+      "quote": "重くのしかかり、緩やかではあるが、解き放ち難きもの──慧者たちは、これを、堅固な結縛と言う。これをもまた断ち切って、〔慧者たちは〕遍歴遊行する──期待なき者たちとなり、欲望の安楽を捨棄して。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "脱し難き縄縛を断ち、欲楽を捨てる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第346偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第346偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-015",
+          "text": "慧說愛為獄，深固難得出，是故當斷棄，不視欲能安。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第15頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P14",
+      "category": "mindfulness",
+      "verse": 347,
+      "observe": "貪欲に執着する者は、〔欲の〕流れに随いて行くこと、蜘蛛の自ら作れる網に〔随うが〕如し。 これを断ちて恋着なき賢者は一切の苦を捨てて遊行す。",
+      "action": "「自分が作った縛り（習慣・期待・執着）」を一つ特定し、そこから離れる一歩を取る",
+      "quote": "彼ら、貪欲〔の思い〕に染まった者たちは、〔渇愛の〕流れに従い行く──蜘蛛が、自ら作った網に〔からまる〕ように。これをもまた断ち切って、慧者たちは行く──期待なき者たちとなり、一切の苦しみを捨棄して。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "蜘蛛の自作の網のような貪欲の掴みを断つ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第347偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第347偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-017",
+          "text": "以婬樂自裹，譬如蠶作繭，智者能斷棄，不眄除眾苦。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第17頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P15",
+      "category": "mindfulness",
+      "verse": 348,
+      "observe": "有の彼岸に達し、前（未来の煩悩）を離れよ、後（過去の煩悩）を離れよ、中（現在の煩悩）を離れよ。 意一切処に於て解脱せば、汝は再び生と老とを受くることなし。",
+      "action": "今夜、過去の後悔・未来の不安・現在の執着を一つずつ手放して眠る",
+      "quote": "過去にあるものを解き放て（過去の記憶に振り回されない）──未来にあるものを解き放て（未来に期待せず願望を抱かない）──中間（現在）にあるものを解き放て（今この瞬間に執着の対象を作らない）──〔迷いの〕生存（有）の彼岸に至る者となり。一切所において、意図が解脱した〔あなた〕は、ふたたび、生と老に近づくことはないであろう。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "前・後・中を解き放ち、有の彼岸を見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第348偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第348偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-013",
+          "text": "釋前解後，脫中度彼，一切念滅，無復老死。",
+          "satLocus": "大正蔵 T4.569b 道行品第13頌",
+          "note": "パーリ愛欲品348はT210愛欲品ではなく道行品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/"
+        }
+      }
+    },
+    {
+      "id": "DP24-P16",
+      "category": "mindfulness",
+      "verse": 349,
+      "observe": "疑惑に擾乱せられ、貪欲熾烈にして享楽を事とする人の愛欲は、ますます増長す。 かかる人は実に〔その〕繋縛を堅くす。",
+      "action": "迷いと欲求が重なっているとき、まず疑惑を静めてから行動を選ぶ",
+      "quote": "乱れた思考の人に、強き貪欲ある浄美の随観者に（不浄のものを「美しく価値がある」と見る者に）、渇愛〔の思い〕は、より一層、増え行く。この者は、まさに、結縛を堅固に作り為す。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "疑惑と貪欲で愛欲が増長し繋縛を堅くする",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第349偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第349偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-018",
+          "text": "心念放逸者，見婬以為淨，恩愛意盛增，從是造獄牢。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第18頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P17",
+      "category": "mindfulness",
+      "verse": 350,
+      "observe": "疑惑の静止を喜び、身の不浄を観じ、常に熟慮する人は、実に魔王の繋縛を除かん、彼はこれを断たん。",
+      "action": "朝、「この欲求は本当に必要か」と熟慮する一分間を設ける",
+      "quote": "しかしながら、彼が、思考の寂止に喜びある者であり、不浄〔の表象〕（不浄想：身体を不浄と見る観察）を修める、常に気づきある者であるなら、この者は、まさに、〔貪欲の〕終息を為すであろう。この者は、悪魔の結縛を断ち切るであろう。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "不浄観と熟慮で魔の繋縛を断つ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第350偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第350偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-019",
+          "text": "覺意滅婬者，常念欲不淨，從是出邪獄，能斷老死患。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第19頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P18",
+      "category": "view",
+      "verse": 351,
+      "observe": "円成の境に達して畏怖なく、愛欲を離れて罪穢なく、有の矢を断てり。 これ〔その〕最後身なり。",
+      "action": "今日、一つの欲を「これで最後」として手放す。完全に手放す体験を積む",
+      "quote": "究極〔の境地〕に赴き、恐慌せず、渇愛を離れ、穢れなき者は、諸々の〔迷いの〕生存の矢を断ち切った。これは、最後の積身である（死後、涅槃に行く）。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "愛欲を離れ有の矢を断った最後身",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第351偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第351偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-029",
+          "text": "無欲無有畏，恬惔無憂患，欲除使結解，是為長出淵。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第29頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P19",
+      "category": "mindfulness",
+      "verse": 352,
+      "observe": "愛欲を離れて執着なく、聖典の語義に通暁し、前後の順序に従いて配列せられたる文字を知る人は、実に最後身を具する者にして、大智者・大丈夫と称せらる。",
+      "action": "学んだことを「実践と離欲」に結びつける。知識を知恵に変える一歩を今日踏む",
+      "quote": "渇愛〔の思い〕を離れ、執取〔の思い〕なく、語と句の熟知者として、諸々の文字の配列を〔知り〕、そして、〔それらの〕前後〔関係〕を知るなら、彼は、まさに、「最後の肉体ある者（解脱者）」「大いなる智慧ある者」「大いなる人士たる者」と説かれる。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "愛欲を離れ聖典に通暁する大智者として見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第352偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第352偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-021",
+          "text": "離欲滅愛迹，出網無所弊，盡道除獄縛，一切此彼解，已得度邊行，是為大智士。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第21頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P20",
+      "category": "view",
+      "verse": 353,
+      "observe": "我は一切を征服し、一切を知悉し、一切の法に於て汚さるることなし。 一切を捨て愛欲を滅して解脱せり。 自ら悟りて誰をか〔師と〕いわん。",
+      "action": "今朝、「自分の心は自分が主人だ」という自立の意識で一日を始める",
+      "quote": "わたしは、一切を征服する者として、一切を知る者として、一切の法（事象）に汚されない者として、〔世に〕存する。一切を捨棄する者は、渇愛の滅尽（涅槃の境処）において解脱した者は、自ら証知して、誰を、〔師と〕定めよう。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "一切を征服し愛欲を滅して解脱する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第353偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第353偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-023",
+          "text": "若覺一切法，能不著諸法，一切愛意解，是為通聖意。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第23頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P21",
+      "category": "speech",
+      "verse": 354,
+      "observe": "法施は一切の施に勝ち、法味は一切の味に勝ち、法楽は一切の楽に勝ち、愛欲の滅尽は一切の苦に勝つ。",
+      "action": "今日、誰かに「道理・正しい教え」を丁寧に伝える機会を一つ作る",
+      "quote": "法（真理）の施しは、一切の施しに勝つ。法（真理）の味わいは、一切の味わいに勝つ。法（真理）の喜びは、一切の喜びに勝つ。渇愛の滅尽は、一切の苦しみに勝つ。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "法施・法味・法楽に触れ、愛欲の滅尽を知る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第354偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第354偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-024",
+          "text": "眾施經施勝，眾味道味勝，眾樂法樂勝，愛盡勝眾苦。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第24頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P22",
+      "category": "view",
+      "verse": 355,
+      "observe": "財は愚者を滅ぼし、決して彼岸を求むる者を〔滅ぼさ〕ず。 愚者は財欲によりて自己を滅ぼすこと、他人を〔滅ぼすが〕如し。",
+      "action": "財・物・地位への執着が「自分を滅ぼす欲か・生きる手段か」を今日一度区別する",
+      "quote": "諸々の財物は、思慮浅き者を打ち砕く。しかしながら、彼岸を探し求める者たちを〔打ち砕くことは〕ない。思慮浅き者は、財物にたいする渇愛〔の思い〕のために、他者たちを〔打ち砕く〕ようにして、自己を打ち砕く。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "財欲は愚者を滅ぼし、自己を打ち砕く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第355偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第355偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-025",
+          "text": "愚以貪自縛，不求度彼岸，貪為財愛故，害人亦自害。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第25頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P23",
+      "category": "mindfulness",
+      "verse": 356,
+      "observe": "田は雑草により損なわれ、この世の衆生は貪欲により損なわる。 されば貪欲を離れし人への施与は大果報あり。",
+      "action": "今日、貪欲が仕事や人間関係を「雑草」のように損なっていないか確かめる",
+      "quote": "雑草という汚点あるのが、諸々の田畑である。貪欲（貪）という汚点あるのが、この、〔世の〕人々である。まさに、それゆえに、貪欲から離れた者たちにおいて、施されたものは、大いなる果と成る。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "貪欲という汚点が衆生を損なうと知る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第356偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第356偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愛欲品（T210 第32品）",
+          "t210": "T210-32-026",
+          "text": "愛欲意為田，婬怒癡為種，故施度世者，得福無有量。",
+          "satLocus": "大正蔵 T4.571a 愛欲品第26頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP24-P24",
+      "category": "mindfulness",
+      "verse": 357,
+      "observe": "田は雑草により損なわれ、この世の衆生は瞋恚により損なわる。 されば瞋恚を離れし人への施与は大果報あり。",
+      "action": "怒りが湧いたとき、「これが雑草だ」と名付けて、関係を損なう前に一息置く",
+      "quote": "雑草という汚点あるのが、諸々の田畑である。憤怒（瞋）という汚点あるのが、この、〔世の〕人々である。まさに、それゆえに、憤怒から離れた者たちにおいて、施されたものは、大いなる果と成る。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "瞋恚という汚点が衆生を損なうと知る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第357偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第357偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ愛欲品357はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/"
+        }
+      }
+    },
+    {
+      "id": "DP24-P25",
+      "category": "view",
+      "verse": 358,
+      "observe": "田は雑草により損なわれ、この世の衆生は愚痴により損なわる。 されば愚痴を離れし人への施与は大果報あり。",
+      "action": "「なぜそうするのか」が分からない状態のまま行動しない。一度立ち止まって考える",
+      "quote": "雑草という汚点あるのが、諸々の田畑である。迷妄（痴）という汚点あるのが、この、〔世の〕人々である。まさに、それゆえに、迷妄から離れた者たちにおいて、施されたものは、大いなる果と成る。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "愚痴という汚点に触れ、離れた施に大果あり",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第358偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第358偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ愛欲品358はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/"
+        }
+      }
+    },
+    {
+      "id": "DP24-P26",
+      "category": "mindfulness",
+      "verse": 359,
+      "observe": "田は雑草により損なわれ、この世の衆生は欲望により損なわる。 されば欲望を離れし人への施与は大果報あり。",
+      "action": "今日の欲望（物・承認・快楽）を一つ観察し、それに「損なわれていないか」を確かめる",
+      "quote": "雑草という汚点あるのが、諸々の田畑である。欲求という汚点あるのが、この、〔世の〕人々である。まさに、それゆえに、欲求から離れた者たちにおいて、施されたものは、大いなる果と成る。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "欲望という汚点が衆生を損なうと知る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 渇愛の章 第359偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２４章・愛欲品 第359偈（#ch02-24）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-24"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ愛欲品359はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap24/"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "334": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "放逸すれば愛欲はつる草の如く増長する"
+    },
+    "335": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "愛欲に征服されれば憂患が増長する"
+    },
+    "336": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "愛欲を征服すれば憂患は蓮葉の水滴の如く去る"
+    },
+    "337": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "愛欲の根を掘り崩し、魔に壊されぬ"
+    },
+    "338": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "愛欲の根が残れば苦は再々生起する"
+    },
+    "339": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "三十六の欲流が邪見を運び来る"
+    },
+    "340": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "つるの生じるを見て、智慧で根を断つ"
+    },
+    "341": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "喜悦・快楽の受に耽れば生と老を受ける"
+    },
+    "342": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "愛欲の偏重は罠の兎のように這い回る掴み"
+    },
+    "343": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "reason": "離欲を望むなら愛欲を除き去る"
+    },
+    "344": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "欲林を脱しても再び欲林へ走る欲しがり"
+    },
+    "345": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正命"
+      ],
+      "reason": "妻子・珠環への恋着こそ堅牢な掴み"
+    },
+    "346": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "脱し難き縄縛を断ち、欲楽を捨てる"
+    },
+    "347": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "蜘蛛の自作の網のような貪欲の掴みを断つ"
+    },
+    "348": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "前・後・中を解き放ち、有の彼岸を見直す"
+    },
+    "349": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "疑惑と貪欲で愛欲が増長し繋縛を堅くする"
+    },
+    "350": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "不浄観と熟慮で魔の繋縛を断つ"
+    },
+    "351": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "愛欲を離れ有の矢を断った最後身"
+    },
+    "352": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "愛欲を離れ聖典に通暁する大智者として見直す"
+    },
+    "353": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "一切を征服し愛欲を滅して解脱する"
+    },
+    "354": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "reason": "法施・法味・法楽に触れ、愛欲の滅尽を知る"
+    },
+    "355": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "財欲は愚者を滅ぼし、自己を打ち砕く"
+    },
+    "356": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "貪欲という汚点が衆生を損なうと知る"
+    },
+    "357": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "瞋恚という汚点が衆生を損なうと知る"
+    },
+    "358": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "愚痴という汚点に触れ、離れた施に大果あり"
+    },
+    "359": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "欲望という汚点が衆生を損なうと知る"
+    }
+  }
+}

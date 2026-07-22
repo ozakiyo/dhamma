@@ -1,0 +1,424 @@
+{
+  "chapter": 82,
+  "sutta": 82,
+  "title": "中部 第82経（頼吒惒羅経）",
+  "shortTitle": "頼吒惒羅経",
+  "mapNote": "中分五十経篇 · 王品",
+  "suttas": [
+    "MN 82 頼吒惒羅経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "release",
+    "focusReason": "頼吒惒羅経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第82経（頼吒惒羅経）",
+    "shortTitle": "頼吒惒羅経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "頼吒惒羅経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN82-P03",
+          "MN82-P06"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "頼吒惒羅経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN82-P03",
+          "MN82-P07"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "頼吒惒羅経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN82-P01",
+          "MN82-P04"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "頼吒惒羅経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN82-P01",
+          "MN82-P04"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "頼吒惒羅経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN82-P02",
+          "MN82-P09"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "散乱を離れ、定へ戻る",
+        "chapterHint": "頼吒惒羅経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN82-P03",
+          "MN82-P06",
+          "MN82-P08"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "頼吒惒羅経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN82-P06",
+          "MN82-P10"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN82-P01",
+      "category": "desire",
+      "ref": "MN 82",
+      "section": "四法要",
+      "observe": "羅陀パーラが説く第一の法要——世は不安定である",
+      "action": "今日の計画に「変わりうる」と一語付け加える",
+      "quote": "世は不安定である、世は不安定である——このように知るべきである"
+    },
+    {
+      "id": "MN82-P02",
+      "category": "suffering",
+      "ref": "MN 82",
+      "section": "四法要",
+      "observe": "第二の法要——世に守りはない",
+      "action": "失う恐れに執着しているものを、一つ手放す",
+      "quote": "世に守りはない、世に守りはない——このように知るべきである"
+    },
+    {
+      "id": "MN82-P03",
+      "category": "prep",
+      "ref": "MN 82",
+      "section": "四法要",
+      "observe": "第三の法要——世は所有なし、すべて捨て去らねばならない",
+      "action": "「これは本当に我のものか」と、執着を一つ問う",
+      "quote": "世は所有なし、すべて捨て去らねばならない——このように知るべきである"
+    },
+    {
+      "id": "MN82-P04",
+      "category": "desire",
+      "ref": "MN 82",
+      "section": "四法要",
+      "observe": "第四の法要——世は渇愛に困り、不足の器である",
+      "action": "満たされない感覚が来たら、渇愛の名を付ける",
+      "quote": "世は渇愛に困り、不足の器である——このように知るべきである"
+    },
+    {
+      "id": "MN82-P05",
+      "category": "people",
+      "ref": "MN 82",
+      "section": "父母",
+      "observe": "両親は位と財で引き留めたが、羅陀パーラは去った",
+      "action": "愛する人の望みと自分の道の差を、静かに認める",
+      "quote": "両親は、我が出家を許さず、位と財で引き留めた"
+    },
+    {
+      "id": "MN82-P06",
+      "category": "work",
+      "ref": "MN 82",
+      "section": "出家",
+      "observe": "王の嗣としての全てを捨て、最上の安穏を求めた",
+      "action": "今日、快楽より安穏を一つ選ぶ",
+      "quote": "我は最上の安穏を求め、王の嗣としての生活を捨てた"
+    },
+    {
+      "id": "MN82-P07",
+      "category": "speech",
+      "ref": "MN 82",
+      "section": "教誡",
+      "observe": "羅陀パーラは四法要を、王と民に説いた",
+      "action": "今日の会話で、無常を一つ、柔らかく示す",
+      "quote": "羅陀パーラは、四つの法要を、如実に説いた"
+    },
+    {
+      "id": "MN82-P08",
+      "category": "prep",
+      "ref": "MN 82",
+      "section": "預流",
+      "observe": "四法要を聞いた者の中に、預流の果に達する者があった",
+      "action": "法の一節を聞き、それを今日の行いに結ぶ",
+      "quote": "四法要を聞いて、預流果に達する者があった"
+    },
+    {
+      "id": "MN82-P09",
+      "category": "suffering",
+      "ref": "MN 82",
+      "section": "美女",
+      "observe": "父母は美女たちで誘ったが、羅陀パーラの心は動かなかった",
+      "action": "感覚の誘惑が来ても、四法要の一つを思い出す",
+      "quote": "羅陀パーラは、美女の誘いにも心を動かさなかった"
+    },
+    {
+      "id": "MN82-P10",
+      "category": "work",
+      "ref": "MN 82",
+      "section": "大天櫞林",
+      "observe": "林で独住し、四法要を体得した比丘の姿",
+      "action": "一人の時間に、身体の感覚と共に四法要を一つ唱える",
+      "quote": "羅陀パーラは大天櫞林で独住し、四法要を修した"
+    },
+    {
+      "id": "MN82-P11",
+      "category": "night",
+      "ref": "MN 82",
+      "section": "結",
+      "observe": "世の不安定さ——夜もそれは変わらない",
+      "action": "就寝前、四法要の一つを静かに反芻する",
+      "quote": "世は不安定である——このように知るべきである"
+    }
+  ]
+}

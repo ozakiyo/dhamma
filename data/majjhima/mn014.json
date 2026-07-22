@@ -1,0 +1,782 @@
+{
+  "chapter": 14,
+  "sutta": 14,
+  "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+  "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+  "mapNote": "根本五十経篇 · 師子吼品（アラナ：小なる苦しみの範疇の経）",
+  "suttas": [
+    "MN 14 苦蘊小経（小なる苦しみの範疇の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第14経（苦蘊小経／小なる苦しみの範疇の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含100苦陰経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・小なる苦しみの範疇の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・苦陰経（T1.586a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+        "note": "釈摩訶男問答。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+    "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "今日執着しやすい五妙欲の対象を名づける",
+        "chapterHint": "苦蘊小経（小なる苦しみの範疇の経）",
+        "fromPrev": "見直しが、今朝の欲の接触を変える",
+        "toNext": "触のあと、少味多苦の受が見える",
+        "todayObserve": "五妙欲——眼・耳・鼻・舌・身の好ましく愛しい対象。朝、今日執着しやすい欲の対象を一つ挙げる。",
+        "todayAction": "朝、今日執着しやすい欲の対象を一つ挙げる",
+        "when": [
+          "好ましい対象に触れた",
+          "在家の欲に触れた"
+        ],
+        "sources": [
+          "MN14-P01"
+        ],
+        "leadQuote": "マハー・ナーマよ、五つのものがあります。これらの欲望の属性です。眼によって識知さ…",
+        "secondaryObserve": "欲は悦楽少なく、苦痛多く、葛藤多く、ここにより一層の危険がある——正しい智慧で見ても、より上の喜楽に達するまでは誘引が残る。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "view",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "少味多苦を見、地獄の苦受と禅の安楽を対比する",
+        "chapterHint": "苦蘊小経（小なる苦しみの範疇の経）",
+        "fromPrev": "接触のあと、悦意と苦痛の両方が見える",
+        "toNext": "受に乗ると諍いの欲しがりへ",
+        "todayObserve": "欲は悦楽少なく、苦痛多く、葛藤多く、ここにより一層の危険がある——正しい智慧で見ても、より上の喜楽に達するまでは誘引が残る。",
+        "todayAction": "快楽の裏に「骨の如き過害」を一瞬思い出す",
+        "when": [
+          "快楽を味わった",
+          "過害を思い出した"
+        ],
+        "sources": [
+          "MN14-P02",
+          "MN14-P11"
+        ],
+        "leadQuote": "『諸々の欲望〔の対象〕は、悦楽少なきもの、苦痛多きもの、葛藤多きもの、ここにおい…",
+        "secondaryObserve": "欲の後世の危険は地獄の苦受。仏は七昼夜の一方的安楽に住しうる——苦行による安楽ではない。快楽の裏に、この汚れた過害を一瞬思い出す。"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "欲望を因とする諍いを見て欲しがりを緩める",
+        "chapterHint": "苦蘊小経（小なる苦しみの範疇の経）",
+        "fromPrev": "受のあと、争う欲しがりが立つ",
+        "toNext": "止めないと財の掴みへ",
+        "todayObserve": "欲望を因として、親子・道友まで互いに争う。欲の対象を、争いを招く肉のように一瞬見る。",
+        "todayAction": "今日、欲の対象に「鷹が争う肉」と一瞬見る",
+        "when": [
+          "欲しがって争った",
+          "肉のように奪い合った"
+        ],
+        "sources": [
+          "MN14-P03"
+        ],
+        "leadQuote": "〔世の人々は〕欲望を因として……母もまた、子と論争し……道友もまた、道友と論争し…",
+        "secondaryObserve": "因欲縁欲以欲爲本"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "財の守護と火焼の恐れに掴みの危険を見る",
+        "chapterHint": "苦蘊小経（小なる苦しみの範疇の経）",
+        "fromPrev": "欲しがりのあと、守護の掴みが手前",
+        "toNext": "掴むと後世の苦陰が見える",
+        "todayObserve": "財の守護の苦——王・賊・火・水への恐れ。快楽の裏に、火に焼かれる危険を思い出す。",
+        "todayAction": "快楽の裏に「炬の如き過害」を一瞬思い出す",
+        "when": [
+          "守ろうと固まった",
+          "火焼を恐れた"
+        ],
+        "sources": [
+          "MN14-P04"
+        ],
+        "leadQuote": "彼は、それらの財物の守護を事因とする、苦痛と失意を得知します。『どのようにすると…",
+        "secondaryObserve": "王奪賊劫火燒"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "欲の過害——諍い・ラーフ・地獄の苦陰を認める",
+        "chapterHint": "苦蘊小経（小なる苦しみの範疇の経）",
+        "fromPrev": "掴んだ結果として、現法・後世の苦陰が見える",
+        "toNext": "見れば、誘引なき出離へ向き直る",
+        "todayObserve": "欲を因とする悪行は、死後に悪趣・地獄へ——今日の苦を、欲の過害の結果として見る。",
+        "todayAction": "今日の苦を「欲の過害の結果」と一度見る",
+        "when": [
+          "争いの根に欲を見た",
+          "悪趣を思った"
+        ],
+        "sources": [
+          "MN14-P05",
+          "MN14-P06"
+        ],
+        "leadQuote": "身体による悪しき行ないを行なって……身体の破壊ののち、死後において、悪所に、悪趣…",
+        "secondaryObserve": "欲望から諍い・行罰が生じる——ラーフの口の刑など。他者との争いの根に欲がないか問う。"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "concentration",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正定",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "concentration",
+          "view"
+        ],
+        "pathLabel": "欲以外の喜悦・寂静へ向き、審慮なく語らない",
+        "chapterHint": "苦蘊小経（小なる苦しみの範疇の経）",
+        "fromPrev": "苦が見えれば、距離を置き上の喜楽へ",
+        "toNext": "離せば、夜の見直しへつながる",
+        "todayObserve": "欲の危険を見、かつ欲以外の喜悦・安楽（またはより寂静）に達して初めて、欲に誘引なき者と成る。今日、欲の対象から一度距離を置く。",
+        "todayAction": "今日、欲の対象から一度距離を置く",
+        "when": [
+          "欲から距離を置いた",
+          "審慮なく語りそうになった"
+        ],
+        "sources": [
+          "MN14-P07",
+          "MN14-P08"
+        ],
+        "leadQuote": "しかしながら、すなわち、まさに、聖なる弟子に、『諸々の欲望〔の対象〕は、悦楽少な…",
+        "secondaryObserve": "ニガンタは審慮なき言葉を語った——欲や安楽を語る前に、執着と軽率がないか止まる。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "未捨の随煩悩と今日の欲執着を振り返る",
+        "chapterHint": "苦蘊小経（小なる苦しみの範疇の経）",
+        "fromPrev": "一日の欲は、朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "貪瞋痴を知っていても、内に未捨の法があれば心を奪われる——在家で欲を遍く受益するゆえ。夜に、今日欲に執着した瞬間を一つ認める。",
+        "todayAction": "就寝前、今日「欲に執着した」瞬間を一つ認め、明日手放す",
+        "when": [
+          "一日を閉じるとき",
+          "貪瞋痴に奪われた日"
+        ],
+        "sources": [
+          "MN14-P09",
+          "MN14-P10"
+        ],
+        "leadQuote": "長夜にわたり、わたしは……了知しています。『貪欲は、心の、付随する〔心の〕汚れで…",
+        "secondaryObserve": "苦蘊小経の核——少味多苦の見、守護・諍い・戦場・火・ラーフ・地獄の危険。欲の過害を一つ思い出す。"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "苦蘊小経は欲の少味多苦を見、欲以外の喜悦・寂静に達して誘引なき者と成ることが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN14-P01",
+      "category": "mindfulness",
+      "ref": "MN 14",
+      "section": "五妙欲",
+      "observe": "五妙欲——眼・耳・鼻・舌・身の好ましく愛しい対象。朝、今日執着しやすい欲の対象を一つ挙げる。",
+      "action": "朝、今日執着しやすい欲の対象を一つ挙げる",
+      "quote": "マハー・ナーマよ、五つのものがあります。これらの欲望の属性です。眼によって識知されるべき諸々の色形で……身によって識知されるべき諸々の感触で……貪るべきものです。……これらの五つの欲望の属性を縁として生起する、安楽であり、悦意であるなら、これは、諸々の欲望の悦楽です。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "今日執着しやすい五妙欲の対象を名づける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·五妙欲",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-pancakamaguna",
+          "text": "有五欲功徳可愛可念歡喜。欲相應而使人樂。……眼知色耳知聲鼻知香舌知味身知觸。……極是欲味無復過是。所患甚多。",
+          "satLocus": "大正蔵 T1.586b 苦陰経",
+          "note": "五欲功徳＝五妙欲。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P02",
+      "category": "view",
+      "ref": "MN 14",
+      "section": "少味多苦",
+      "observe": "欲は悦楽少なく、苦痛多く、葛藤多く、ここにより一層の危険がある——正しい智慧で見ても、より上の喜楽に達するまでは誘引が残る。",
+      "action": "快楽の裏に「骨の如き過害」を一瞬思い出す",
+      "quote": "『諸々の欲望〔の対象〕は、悦楽少なきもの、苦痛多きもの、葛藤多きもの、ここにおいて、より一層の危険がある』と、マハー・ナーマよ、かくのごとく、もし、また、聖なる弟子に、事実のとおりに、正しい智慧によって善く見られたものと成るも、しかしながら、彼が、まさしく、諸々の欲望〔の対象〕より他の……喜悦と安楽に到達しないなら……誘引なくある者と成りません。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "少味多苦を智慧で見、より上の喜楽を欠く限り誘引が残ると知る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·少味多苦",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-appassada",
+          "text": "是故當知欲一向無樂無量苦患。多聞聖弟子不見如眞者。彼爲欲所覆。不得捨樂及無上息。……我知欲無樂無量苦患。我知如眞已……便得捨樂及無上息。",
+          "satLocus": "大正蔵 T1.586c 苦陰経",
+          "note": "欲無楽・多苦患＋捨楽無上息＝少味多苦と上の喜楽。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P03",
+      "category": "intention",
+      "ref": "MN 14",
+      "section": "諍い·患",
+      "observe": "欲望を因として、親子・道友まで互いに争う。欲の対象を、争いを招く肉のように一瞬見る。",
+      "action": "今日、欲の対象に「鷹が争う肉」と一瞬見る",
+      "quote": "〔世の人々は〕欲望を因として……母もまた、子と論争し……道友もまた、道友と論争します。彼らは、そこにおいて、紛争と口論と論争を惹起し、互いに他を……攻撃します。彼らは、そこにおいて、死にもまた遭遇し、死ぬほどの苦しみにもまた〔遭遇します〕。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "欲望を因とする諍いを見て欲しがりを緩める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·諍い·患",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-vivada",
+          "text": "因欲縁欲以欲爲本故。母共子諍子共母諍。父子兄弟姐妹親族展轉共諍。……王王共諍……國國共諍。",
+          "satLocus": "大正蔵 T1.586b 苦陰経",
+          "note": "欲因の諍い。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P04",
+      "category": "view",
+      "ref": "MN 14",
+      "section": "守護·火",
+      "observe": "財の守護の苦——王・賊・火・水への恐れ。快楽の裏に、火に焼かれる危険を思い出す。",
+      "action": "快楽の裏に「炬の如き過害」を一瞬思い出す",
+      "quote": "彼は、それらの財物の守護を事因とする、苦痛と失意を得知します。『どのようにすると、わたしの諸々の財物を……火が焼かず……』と。……あるいは、火が焼き……彼は、憂い悲しみ……等しき迷妄を惹起します。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "財の守護と火焼の恐れに掴みの危険を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·守護·火",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-aggi",
+          "text": "我此財物莫令王奪賊劫火燒腐壞亡失。……若使王奪賊劫火燒腐壞亡失。彼便生憂苦愁慼懊惱。",
+          "satLocus": "大正蔵 T1.586b 苦陰経",
+          "note": "火燒＝守護の患。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P05",
+      "category": "view",
+      "ref": "MN 14",
+      "section": "後世·苦陰",
+      "observe": "欲を因とする悪行は、死後に悪趣・地獄へ——今日の苦を、欲の過害の結果として見る。",
+      "action": "今日の苦を「欲の過害の結果」と一度見る",
+      "quote": "身体による悪しき行ないを行なって……身体の破壊ののち、死後において、悪所に、悪趣に、堕所に、地獄に、再生します。マハー・ナーマよ、これもまた、諸々の欲望の危険です。未来のものであり、苦しみの範疇であり……。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "欲の過害が悪趣の苦陰になると見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·後世·苦陰",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-niraya",
+          "text": "身壞命終。必至惡處生地獄中。摩訶男。是謂後世苦陰因欲縁欲以欲爲本。",
+          "satLocus": "大正蔵 T1.586c 苦陰経",
+          "note": "後世苦陰。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P06",
+      "category": "action",
+      "ref": "MN 14",
+      "section": "諍·ラーフ",
+      "observe": "欲望から諍い・行罰が生じる——ラーフの口の刑など。他者との争いの根に欲がないか問う。",
+      "action": "他者との争いの根に「欲」がないか一度問う",
+      "quote": "欲望を因として……王たちもまた、王たちと論争し……。……〔家の〕境目をもまた断ち切り……王たちは捕捉して、様々な種類の行罰刑を執行します。……ラーフの口の刑をもまた為し、火鬘の刑をもまた為し……。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正業"
+      ],
+      "pathReason": "争いとラーフ等の行罰の根に欲を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·諍·ラーフ",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-rahu",
+          "text": "母共子諍……展轉共諍。……以種種器仗轉相加害。……或死或怖受極重苦。",
+          "satLocus": "大正蔵 T1.586b 苦陰経",
+          "note": "諍いの患。パーリのラーフの口の刑は漢訳で刑罰描写に圧縮。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P07",
+      "category": "concentration",
+      "ref": "MN 14",
+      "section": "誘引なき",
+      "observe": "欲の危険を見、かつ欲以外の喜悦・安楽（またはより寂静）に達して初めて、欲に誘引なき者と成る。今日、欲の対象から一度距離を置く。",
+      "action": "今日、欲の対象から一度距離を置く",
+      "quote": "しかしながら、すなわち、まさに、聖なる弟子に、『諸々の欲望〔の対象〕は、悦楽少なきもの、苦痛多きもの……』と……善く見られたものと成り、そして、彼が、まさしく、諸々の欲望〔の対象〕より他の、諸々の善ならざる法（性質）より他の、喜悦と安楽に到達することから、あるいは、それより他の、より寂静なるものに〔到達することから〕、そこで、まさに、彼は、諸々の欲望〔の対象〕にたいし誘引なくある者と成ります。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正見"
+      ],
+      "pathReason": "欲以外の喜悦・寂静へ向き、誘引から離れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·誘引なき",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-nissarana",
+          "text": "我知欲無樂無量苦患。我知如眞已。摩訶男。不爲欲所覆亦不爲惡所纒。便得捨樂及無上息。摩訶男。是故我不因欲退轉。",
+          "satLocus": "大正蔵 T1.586c 苦陰経",
+          "note": "捨楽・無上息に達し欲に覆われない。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P08",
+      "category": "speech",
+      "ref": "MN 14",
+      "section": "ニガンタ·語",
+      "observe": "ニガンタは審慮なき言葉を語った——欲や安楽を語る前に、執着と軽率がないか止まる。",
+      "action": "今日、欲の話をする前に「執着していないか」と一度止まる",
+      "quote": "たしかに、尊者たちによって、ニガンタたちによって、無理やり、審慮なき言葉が語られました。……『たしかに、わたしたちによって、無理やり、審慮なき言葉が語られました……』と。……しかしながら、また、このことは、さておくとしましょう。今やまた、わたしたちは、尊者ゴータマに尋ねます……。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正思惟"
+      ],
+      "pathReason": "審慮なき語りを止め、執着なく問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·ニガンタ·語",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-nigantha",
+          "text": "汝等癡狂所説無義。所以者何。汝等不善無所曉了而不知時謂汝作是説。",
+          "satLocus": "大正蔵 T1.586c–587a 苦陰経",
+          "note": "尼揵の無義・不知時の語。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P09",
+      "category": "mindfulness",
+      "ref": "MN 14",
+      "section": "マハーナーマ·問",
+      "observe": "貪瞋痴を知っていても、内に未捨の法があれば心を奪われる——在家で欲を遍く受益するゆえ。夜に、今日欲に執着した瞬間を一つ認める。",
+      "action": "就寝前、今日「欲に執着した」瞬間を一つ認め、明日手放す",
+      "quote": "長夜にわたり、わたしは……了知しています。『貪欲は、心の、付随する〔心の〕汚れである。……』と。……しかしながら、わたしに、或る時には、諸々の貪欲の法（性質）もまた、心を完全に奪い去って止住し……。マハー・ナーマよ、まさに、あなたに、まさしく、その法（性質）が、内に〔いまだ〕捨棄されずにあるのです。……それゆえに、あなたは、家に居住し、諸々の欲望〔の対象〕を遍く受益するのです。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "未捨の随煩悩と今日の欲執着を振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·マハーナーマ·問",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-mahanama",
+          "text": "我如是知世尊法令我心中得滅三穢。染心穢恚心穢癡心穢……然我心中復生染法恚法癡法。……汝有一法不滅。謂汝住在家。不至信捨家無家學道。",
+          "satLocus": "大正蔵 T1.586a–b 苦陰経",
+          "note": "摩訶男の問いと在家未捨。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P10",
+      "category": "view",
+      "ref": "MN 14",
+      "section": "過害·総",
+      "observe": "苦蘊小経の核——少味多苦の見、守護・諍い・戦場・火・ラーフ・地獄の危険。欲の過害を一つ思い出す。",
+      "action": "今日、欲の過害を一つ（骨·肉·炬·羅睺羅）思い出す",
+      "quote": "『諸々の欲望〔の対象〕は、悦楽少なきもの、苦痛多きもの、葛藤多きもの、ここにおいて、より一層の危険がある』と……。……欲望を因として……論争し……戦場に跳入し……火が焼き……ラーフの口の刑をもまた為し……地獄に、再生します。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "少味多苦と諸患を一つ思い出し出離の入口にする",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·過害·総",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-summary",
+          "text": "極是欲味無復過是。所患甚多。……現法苦陰因欲縁欲以欲爲本。……後世苦陰因欲縁欲以欲爲本。",
+          "satLocus": "大正蔵 T1.586b–c 苦陰経",
+          "note": "欲味と甚多の患の総括。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN14-P11",
+      "category": "mindfulness",
+      "ref": "MN 14",
+      "section": "地獄·安楽",
+      "observe": "欲の後世の危険は地獄の苦受。仏は七昼夜の一方的安楽に住しうる——苦行による安楽ではない。快楽の裏に、この汚れた過害を一瞬思い出す。",
+      "action": "快楽の裏に「糞の如き過害」を一瞬思い出す",
+      "quote": "身体による悪しき行ないを行なって……地獄に、再生します。……これもまた、諸々の欲望の危険です。未来のものであり、苦しみの範疇であり……。わたしは、まさに、身体を動かすことなく、言葉を語ることなく……七つの夜と昼のあいだ、一方的な安楽の得知者として〔世に〕住むことができます。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "地獄の苦受と対比し、禅の一方的安楽の方向を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる苦しみの範疇の経（MN14）·地獄·安楽",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 苦蘊小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含100・苦陰経（T26）",
+          "t26": "T26-100-sukha",
+          "text": "必至惡處生地獄中。……我可得如意靜默無言。因是……七日七夜得歡喜快樂耶。尼揵答曰。如是瞿曇。",
+          "satLocus": "大正蔵 T1.586c–587a 苦陰経",
+          "note": "地獄の患と七日の歡喜快樂。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0586",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "chapter": 30,
+  "sutta": 30,
+  "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+  "shortTitle": "心材喩小経（心材の喩えの小経）",
+  "mapNote": "根本五十経篇 · 譬喩法品（アラナ：心材の喩えの小経）",
+  "suttas": [
+    "MN 30 心材喩小経（心材の喩えの小経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第30経（心材喩小経／心材の喩えの小経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリMN30（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝對照表は北傳無相当；SC類縁は増壹阿含43.4提婆達（T125）。ピンガラコッチャに心材喩を説き、利得·戒·定·智見で止まらず、智見より上の禅定系列を経て不動の心の解脱＝心材·終極へ導く。（MN29は提婆達多離反後の誡め、本経は婆羅門への法説。）",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・心材の喩えの小経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典（キャッシュ外の場合はパーリ忠実なアラナ調和訳）"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 増壹阿含・提婆達（T2.759a）／類縁",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+        "note": "對照表: 北傳無相当。SC類縁EA43.4（利養·戒·定·智慧）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第30経・心材喩小経（心材の喩えの小経）",
+    "shortTitle": "心材喩小経（心材の喩えの小経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "議論を置き、自分の心の状態に触れる",
+        "chapterHint": "心材喩小経（心材の喩えの小経）",
+        "fromPrev": "見直しが、今朝の心の観方を変える",
+        "toNext": "触のあと、定の快さの受が見える",
+        "todayObserve": "六師の証知の問いはいったん置く——先に法を聞け。今日「誰が正しいか」の議論より、自分の心の状態を一つ観る。",
+        "todayAction": "今日「誰が正しいか」の議論より、自分の心の状態を一つ観る",
+        "when": [
+          "議論より心を観た"
+        ],
+        "sources": [
+          "MN30-P01"
+        ],
+        "leadQuote": "やめよ、婆羅門。このことは、これで十分である。……わたしは、あなたに法を説こう。…",
+        "secondaryObserve": "法を聞け"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "concentration",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正定",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "concentration",
+          "mindfulness"
+        ],
+        "pathLabel": "定の快さの受に「心材ではない」と付ける",
+        "chapterHint": "心材喩小経（心材の喩えの小経）",
+        "fromPrev": "接触のあと、集中の快さの受が立つ",
+        "toNext": "受に乗ると成果·執着の欲しがりへ",
+        "todayObserve": "定具足に達しても止まらず——定の快さは皮であり心材ではない。瞑想や集中の快さに「これ心材ではない」と一瞬付け加える。",
+        "todayAction": "瞑想や集中の快さに「これ心材ではない」と一瞬付け加える",
+        "when": [
+          "定の快さに心材ではないと付けた"
+        ],
+        "sources": [
+          "MN30-P06"
+        ],
+        "leadQuote": "定具足に達しても、怠惰·弛緩せず、より上·より勝れた法の証得のために欲を生じ、努…",
+        "secondaryObserve": "皮≠心材"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "view",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "成果·執着を枝葉か心材か見分ける",
+        "chapterHint": "心材喩小経（心材の喩えの小経）",
+        "fromPrev": "受のあと、成果への欲しがりが立つ",
+        "toNext": "止めないと他者軽蔑の掴みへ",
+        "todayObserve": "心材を求めて枝葉を誤る——利得·名声で満足して止まる。今日の成果一つに「これ心材か、枝葉か」と問う。",
+        "todayAction": "今日の成果一つに「これ心材か、枝葉か」と問う",
+        "when": [
+          "心材か枝葉か問うた",
+          "枝葉と見分けた"
+        ],
+        "sources": [
+          "MN30-P02",
+          "MN30-P09"
+        ],
+        "leadQuote": "心材を求める者が、心材ある大樹の前に至り、心材·膚材·皮·嫩芽を過ぎ、枝葉を切り…",
+        "secondaryObserve": "梵行の目的は利得·戒·定·智見ではない——不動の心の解脱が心材。執着の対象一つに「これ枝葉、心材は解脱」と見分ける。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "intention",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "他者への軽蔑の掴みを問う",
+        "chapterHint": "心材喩小経（心材の喩えの小経）",
+        "fromPrev": "欲しがりのあと、自讃·他毀の掴みが手前",
+        "toNext": "掴むと苦の集まりが見える",
+        "todayObserve": "利得·恭敬·名声で自らを讃え他を軽蔑——枝葉を誤った修行者。今日、自分より劣ると感じた相手を軽蔑していないか一度問う。",
+        "todayAction": "今日、自分より劣ると感じた相手を軽蔑していないか一度問う",
+        "when": [
+          "軽蔑していないか問うた"
+        ],
+        "sources": [
+          "MN30-P04"
+        ],
+        "leadQuote": "利得·恭敬·名声が生じ、……自らを讃え他を軽蔑する。……利得·恭敬·名声のゆえに…",
+        "secondaryObserve": "自讃他毀"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦を集まりの一部と認め、終止を思い出す",
+        "chapterHint": "心材喩小経（心材の喩えの小経）",
+        "fromPrev": "掴んだ結果として、苦の集まりが見える",
+        "toNext": "見れば、戒·定で止まらず上へ離す",
+        "todayObserve": "出家の動機——一切の苦の集まりの作終結を知りたい。苦が来たら「これ苦の集まりの一部」と一瞬認め、終止を思い出す。",
+        "todayAction": "苦が来たら「これ苦の集まりの一部」と一瞬認め、終止を思い出す",
+        "when": [
+          "苦の集まりと認めた"
+        ],
+        "sources": [
+          "MN30-P03"
+        ],
+        "leadQuote": "『わたしは生·老·病·死·愁·悲·苦·憂·悩に堕ち、苦に陷り、苦に征服された者で…",
+        "secondaryObserve": "作終結を思い出す"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "view"
+        ],
+        "pathLabel": "途中段階で止まらず、心材＝解脱へ離す",
+        "chapterHint": "心材喩小経（心材の喩えの小経）",
+        "fromPrev": "苦が見えれば、目的と手段を分けて離す",
+        "toNext": "離せば、智見·夜の見直しへ",
+        "todayObserve": "戒具足に達しても止まらず——より上·勝れた法の証得を求む。今日の善行一つについて、それが目的か手段かを見分ける。",
+        "todayAction": "今日の善行一つについて、それが目的か手段かを見分ける",
+        "when": [
+          "目的か手段か見分けた",
+          "心材へ一歩踏んだ"
+        ],
+        "sources": [
+          "MN30-P05",
+          "MN30-P08"
+        ],
+        "leadQuote": "戒具足に達しても、怠惰·弛緩せず、より上·より勝れた法の証得のために欲を生じ、努…",
+        "secondaryObserve": "心材のみを切り知って持ち帰る——目的を成就する。今日、修行の「心材」（解脱）に向けた一歩を踏む。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "view",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "『知っている』と枝葉で止まった箇所を見直す",
+        "chapterHint": "心材喩小経（心材の喩えの小経）",
+        "fromPrev": "一日の離しは、朝からの心材の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "智見より上·勝れた法——初禅から想受滅まで。『知っている』で止めない。「知っている」という確信が、観察を止めていないか問う。",
+        "todayAction": "「知っている」という確信が、観察を止めていないか問う",
+        "when": [
+          "知っているで止まったか",
+          "枝葉で止まった夜"
+        ],
+        "sources": [
+          "MN30-P07",
+          "MN30-P10"
+        ],
+        "leadQuote": "智見より上·より勝れた法とは何か。……初禅……第二禅……第三禅……第四禅……………",
+        "secondaryObserve": "途中の成果で満足せず、心材まで進む。就寝前、今日「枝葉で止まった」箇所一つを認め、明日は一歩進む。"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "心材喩小経は利得·戒·定·智見で止まらず、より上·勝れた法へ精進し不動の心の解脱＝心材へ離すのが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN30-P01",
+      "category": "mindfulness",
+      "ref": "MN 30",
+      "section": "問いを置き法を聞く",
+      "observe": "六師の証知の問いはいったん置く——先に法を聞け。今日「誰が正しいか」の議論より、自分の心の状態を一つ観る。",
+      "action": "今日「誰が正しいか」の議論より、自分の心の状態を一つ観る",
+      "quote": "やめよ、婆羅門。このことは、これで十分である。……わたしは、あなたに法を説こう。よく聞き、よく作意せよ。わたしは語る。（ピンガラコッチャが六師の証知を問うたとき——世尊は問いを置き、法を説く。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "議論に触れず、自分の心の状態を一つ観る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·問いを置き法を聞く",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-related-nidana",
+          "text": "（對照表: 北傳無相当。パーリはピンガラコッチャの六師証知の問いを置き法を説く——漢にこの導入はない。）",
+          "satLocus": "大正蔵 T2.759（類縁EA43.4）",
+          "note": "六師問·法を説けはパーリ固有。漢は提婆達多の利養を機縁とする。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P02",
+      "category": "view",
+      "ref": "MN 30",
+      "section": "枝葉を心材と誤る",
+      "observe": "心材を求めて枝葉を誤る——利得·名声で満足して止まる。今日の成果一つに「これ心材か、枝葉か」と問う。",
+      "action": "今日の成果一つに「これ心材か、枝葉か」と問う",
+      "quote": "心材を求める者が、心材ある大樹の前に至り、心材·膚材·皮·嫩芽を過ぎ、枝葉を切り『心材』と思い持ち帰る——彼は心材を知らない。心材で作るべきことを成就できない。……利得·恭敬·名声で怠惰に堕ちる者を、わたしは枝葉を心材と誤る者と言う。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "成果への欲しがりが枝葉か心材か問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·枝葉を心材と誤る",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-leaves",
+          "text": "往詣大樹……持枝葉而還。今此比丘亦復如是，貪著利養……則不果其願。",
+          "satLocus": "大正蔵 T2.759b 提婆達",
+          "note": "枝葉＝利養で願不果。中阿含無相当。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P03",
+      "category": "view",
+      "ref": "MN 30",
+      "section": "苦の集まり·出家の動機",
+      "observe": "出家の動機——一切の苦の集まりの作終結を知りたい。苦が来たら「これ苦の集まりの一部」と一瞬認め、終止を思い出す。",
+      "action": "苦が来たら「これ苦の集まりの一部」と一瞬認め、終止を思い出す",
+      "quote": "『わたしは生·老·病·死·愁·悲·苦·憂·悩に堕ち、苦に陷り、苦に征服された者である。願わくは、この一切の苦の集まりの作終結を知りたい』——このように思って、在家から家なきへ出家する。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "苦を集まりの一部と認め、終止を思い出す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·苦の集まり·出家の動機",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-related-dukkha",
+          "text": "（パーリの出家動機＝一切苦蘊の作終結。漢EAは提婆達多·求樹の譬喩が中心で、同文の出家動機は薄い。）",
+          "satLocus": "大正蔵 T2.759b（類縁）",
+          "note": "苦蘊終結の出家動機はパーリ側が詳しい。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P04",
+      "category": "intention",
+      "ref": "MN 30",
+      "section": "利得·自讃他毀",
+      "observe": "利得·恭敬·名声で自らを讃え他を軽蔑——枝葉を誤った修行者。今日、自分より劣ると感じた相手を軽蔑していないか一度問う。",
+      "action": "今日、自分より劣ると感じた相手を軽蔑していないか一度問う",
+      "quote": "利得·恭敬·名声が生じ、……自らを讃え他を軽蔑する。……利得·恭敬·名声のゆえに怠惰·弛緩し、より上·より勝れた法の証得のために欲を生じず努力しない。わたしは、この人を枝葉を心材と誤る者と言う。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "他者への軽蔑の掴みを一度問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·利得·自讃他毀",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-boast",
+          "text": "貪著利養，由此利養，向他自譽，毀呰他人，比丘所行宜，則不果其願。",
+          "satLocus": "大正蔵 T2.759b 提婆達",
+          "note": "自譽毀他＝枝葉。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P05",
+      "category": "action",
+      "ref": "MN 30",
+      "section": "戒具足でも止まらず",
+      "observe": "戒具足に達しても止まらず——より上·勝れた法の証得を求む。今日の善行一つについて、それが目的か手段かを見分ける。",
+      "action": "今日の善行一つについて、それが目的か手段かを見分ける",
+      "quote": "戒具足に達しても、怠惰·弛緩せず、より上·より勝れた法の証得のために欲を生じ、努力すべきである。（戒で止まれば、嫩芽を心材と誤る。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正精進"
+      ],
+      "pathReason": "善行を目的とせず手段として、上へ離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·戒具足でも止まらず",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-sila",
+          "text": "自稱說：『我是持戒之人，彼是犯戒之士。』比丘所願者而不果獲……。",
+          "satLocus": "大正蔵 T2.759b 提婆達",
+          "note": "持戒で止ま·自譽＝嫩芽を誤る側。パーリは上へ精進せよと説く。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P06",
+      "category": "concentration",
+      "ref": "MN 30",
+      "section": "定具足でも止まらず",
+      "observe": "定具足に達しても止まらず——定の快さは皮であり心材ではない。瞑想や集中の快さに「これ心材ではない」と一瞬付け加える。",
+      "action": "瞑想や集中の快さに「これ心材ではない」と一瞬付け加える",
+      "quote": "定具足に達しても、怠惰·弛緩せず、より上·より勝れた法の証得のために欲を生じ、努力すべきである。（定の快さで止まれば、皮を心材と誤る。）",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "pathReason": "定の快さの受に「心材ではない」と付ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·定具足でも止まらず",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-samadhi",
+          "text": "好修三昧……自譽：『我今得定，餘人無定。』比丘所應行法亦不果獲。",
+          "satLocus": "大正蔵 T2.759b 提婆達",
+          "note": "定で自譽＝皮を誤る側。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P07",
+      "category": "view",
+      "ref": "MN 30",
+      "section": "智見より上·勝れた法",
+      "observe": "智見より上·勝れた法——初禅から想受滅まで。『知っている』で止めない。「知っている」という確信が、観察を止めていないか問う。",
+      "action": "「知っている」という確信が、観察を止めていないか問う",
+      "quote": "智見より上·より勝れた法とは何か。……初禅……第二禅……第三禅……第四禅…………非想非非想処を超え、想受滅に入り住し、慧をもって諸漏を尽くす——これらが、智見より上·より勝れた法である。（『知っている』で止まれば、膚材を心材と誤る。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "『知っている』が観察を止めていないか見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·智見より上·勝れた法",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-panna",
+          "text": "漸行智慧。夫智慧者，於此法中最為第一。（パーリは智見より上として初禅〜想受滅を列挙——漢にこの系列はない。）",
+          "satLocus": "大正蔵 T2.759c 提婆達",
+          "note": "漢は智慧第一。禅定·想受滅の列挙はパーリ固有。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P08",
+      "category": "effort",
+      "ref": "MN 30",
+      "section": "心材を知る",
+      "observe": "心材のみを切り知って持ち帰る——目的を成就する。今日、修行の「心材」（解脱）に向けた一歩を踏む。",
+      "action": "今日、修行の「心材」（解脱）に向けた一歩を踏む",
+      "quote": "心材を求める者が、心材ある大樹の前に至り、心材のみを切り、『心材』と知って持ち帰る——彼は心材を知る。心材をもって心材の責務を果たす者は、その目的を成就する。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正見"
+      ],
+      "pathReason": "心材＝解脱へ向けた一歩を踏む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·心材を知る",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-root",
+          "text": "望其實，捨其枝葉，取其根持還。智者見已……：『此人別其根。』",
+          "satLocus": "大正蔵 T2.759b 提婆達",
+          "note": "漢は根。パーリは心材＝不動心解脱。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P09",
+      "category": "view",
+      "ref": "MN 30",
+      "section": "不動の心の解脱",
+      "observe": "梵行の目的は利得·戒·定·智見ではない——不動の心の解脱が心材。執着の対象一つに「これ枝葉、心材は解脱」と見分ける。",
+      "action": "執着の対象一つに「これ枝葉、心材は解脱」と見分ける",
+      "quote": "婆羅門よ、この梵行は、利得·恭敬·名声のためでも、戒具足のためでも、定具足のためでも、智見のためでもない。この不動の心の解脱——これこそが梵行の目的であり、心材であり、終極である。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "執着を枝葉と見分け、心材は解脱と見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·不動の心の解脱",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-goal",
+          "text": "戒律之法者，世俗常數；三昧成就者，亦是世俗常數……智慧成就者，此是第一之義。",
+          "satLocus": "大正蔵 T2.759c 提婆達",
+          "note": "途中を世俗とし第一義へ。パーリ結は不動心解脱が心材。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN30-P10",
+      "category": "view",
+      "ref": "MN 30",
+      "section": "夜·心材まで",
+      "observe": "途中の成果で満足せず、心材まで進む。就寝前、今日「枝葉で止まった」箇所一つを認め、明日は一歩進む。",
+      "action": "就寝前、今日「枝葉で止まった」箇所一つを認め、明日は一歩進む",
+      "quote": "この不動の心の解脱——これこそが梵行の目的であり、心材であり、終極である。（途中の成果——枝葉·嫩芽·皮·膚材——で満足せず、心材まで進む。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "枝葉で止まった箇所を認め、明日一歩進む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・心材の喩えの小経／パーリMN30）",
+          "locus": "中部・心材の喩えの小経（MN30）·夜·心材まで",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心材喩小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "増壹阿含43.4・提婆達（T125）／類縁",
+          "t26": "EA43.4-review",
+          "text": "「智慧最為上，無憂無所慮，久畢獲等見，斷於生死有。」",
+          "satLocus": "大正蔵 T2.759c 提婆達",
+          "note": "第一義へ進む——夜の見直しの類縁。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0125_%2C02%2C0759a29",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

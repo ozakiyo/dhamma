@@ -1,0 +1,1192 @@
+{
+  "title": "ダンマパダ 第5章・愚品（愚者の章）",
+  "chapter": 5,
+  "shortTitle": "愚品（愚者の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第5章（愚品／愚者の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（主にT210愚闇品、一部他品）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・愚者の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第５章・愚品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・愚闇品（T4.564a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第5章・愚品（愚者の章）",
+    "shortTitle": "愚品（愚者の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "intention",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "誰と歩むかを、触れた場で選ぶ",
+        "chapterHint": "愚品（愚者の章）",
+        "fromPrev": "前夜の見方が、今朝の接触の土台になる",
+        "toNext": "愚と交わる接触は、長い輪廻を伸ばす",
+        "todayObserve": "道を歩みて自己に勝る人、自己に等しき人に逢わざれば、敢えて独り行くべし。 愚者は断じて伴侶となすべからず。",
+        "todayAction": "今日の人間関係で、自分を引き下げている関係がないか見直す",
+        "when": [
+          "誘いを受けた",
+          "誰かと歩き始めた"
+        ],
+        "sources": [
+          "DP5-P03",
+          "DP5-P04",
+          "DP5-P09",
+          "DP5-P10"
+        ],
+        "leadQuote": "〔道を〕歩んでいる者が、自己と等しくあるか、より勝っている者に、もし、到達しない…",
+        "secondaryObserve": "舌が味を知るように、瞬時でも法を味わう"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "蜜のように甘い感じを疑う",
+        "chapterHint": "愚品（愚者の章）",
+        "fromPrev": "接触のあと、快の受が立ち上がる",
+        "toNext": "甘さに止まると欲しがりへ進む",
+        "todayObserve": "悪業の未だ熟せざる間、愚者はそを蜜の如く思惟す。 されど悪業の熟するや、愚者はその時に至りて苦悩す。",
+        "todayAction": "今、甘く見えている誘惑の「熟したときの苦悩」を一度想像する",
+        "when": [
+          "甘く見えた",
+          "つい続けたくなった"
+        ],
+        "sources": [
+          "DP5-P05",
+          "DP5-P06"
+        ],
+        "leadQuote": "〔自己の為した〕悪しき〔行為〕が煮られない、それまでのあいだ、愚者は、〔自己の為…",
+        "secondaryObserve": "熟せぬ間は蜜に見え、熟すれば苦となる"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "view",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "子・財・名声への欲しがりを手放す",
+        "chapterHint": "愚品（愚者の章）",
+        "fromPrev": "受が強まると、所有と承認へ落ちる",
+        "toNext": "止めないと慢心の掴みへ進む",
+        "todayObserve": "「我に子あり、我に財あり」とて愚者は悩む。 自己すでに自分のものにあらず。 況んやいかで子をや、いかで財をや。",
+        "todayAction": "今日、所有への執着を一つ手放す",
+        "when": [
+          "持っていないと不安",
+          "認めてほしい"
+        ],
+        "sources": [
+          "DP5-P05",
+          "DP5-P06",
+          "DP5-P14"
+        ],
+        "leadQuote": "「わたしには、子たちが存在する。わたしには、財が存在する」〔と〕、かくのごとく、…",
+        "secondaryObserve": "虚名と供養を求める心が、慢を増す"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "intention",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "「すべて私の意のままに」を離す",
+        "chapterHint": "愚品（愚者の章）",
+        "fromPrev": "欲しがりが、支配と慢心に乗る手前",
+        "toNext": "掴むと災厄の知識さえ頭を砕く",
+        "todayObserve": "「こは我により為されたりと、在家も出家も共に考うべし、彼らは為すべきこと、為すべからざること、何事に於てもわが意に従うべし」とは、愚者の思惟なり。 〔この故に〕欲心と慢心とは増長す。",
+        "todayAction": "今日、「認めてほしい」という衝動を一つ観察し、手放す",
+        "when": [
+          "支配したくなった",
+          "自分が正しいと固まった"
+        ],
+        "sources": [
+          "DP5-P11",
+          "DP5-P17",
+          "DP5-P18"
+        ],
+        "leadQuote": "「在家者たちと出家者たちは、両者ともに、まさしく、わたしの為したことを思い考えよ…",
+        "secondaryObserve": "誤った知識は、愚者の幸福を滅ぼす"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "正法を知らぬ流転の長さを見る",
+        "chapterHint": "愚品（愚者の章）",
+        "fromPrev": "掴んだ結果として、輪廻と業果が重くなる",
+        "toNext": "見ないままだと灰の下の火が続く",
+        "todayObserve": "不眠者には夜長く、疲れたる人には一由旬（ゆじゅん）（距離の単位）も長く、正法を知らざる愚者には流転長し。",
+        "todayAction": "今日、教えを一つ学び、日常に生かす",
+        "when": [
+          "疲れが長い",
+          "同じ悩みが続く"
+        ],
+        "sources": [
+          "DP5-P01",
+          "DP5-P02",
+          "DP5-P16"
+        ],
+        "leadQuote": "〔眠れずに〕起きている者に、夜は長い。〔歩みつづけ〕疲れている者に、〔一〕ヨージ…",
+        "secondaryObserve": "悪業はすぐ固まらず、後から焼き尽くす"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "利得の道と涅槃の道を見分けて離す",
+        "chapterHint": "愚品（愚者の章）",
+        "fromPrev": "尊敬と利得への執着が流れを加速させる",
+        "toNext": "遠離を増進すれば、生死の堕から離れる",
+        "todayObserve": "一は利得に導く〔道〕にして、一は涅槃に至る〔道〕なりと、かく仏弟子たる比丘は悟りて、尊敬を喜ぶべからず、遠離に専心すべし。",
+        "todayAction": "評価・承認を期待して行動していないか、今日の行いを一つ確認する",
+        "when": [
+          "評価を求めた",
+          "一人の時間を避けた"
+        ],
+        "sources": [
+          "DP5-P19"
+        ],
+        "leadQuote": "まさに、他なるものとして、利得を機縁とするものがあり、他なるものとして、涅槃に至…",
+        "secondaryObserve": "尊敬を喜ばず、遠離に専心する"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "view",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "己の愚かさと業の報いを振り返る",
+        "chapterHint": "愚品（愚者の章）",
+        "fromPrev": "一日の語り・行いは朝からの心の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "愚者にして〔自ら〕その愚を知るものは、これによりて既に賢なり。 されど愚者にして〔自ら〕賢なりと思うものは、実に〔真の〕愚者と称せらる。",
+        "todayAction": "今日、自分のどこが足りないかを一つ素直に認める",
+        "when": [
+          "一日を閉じるとき",
+          "後悔が残った日"
+        ],
+        "sources": [
+          "DP5-P07",
+          "DP5-P08",
+          "DP5-P12",
+          "DP5-P13",
+          "DP5-P15"
+        ],
+        "leadQuote": "〔自己の〕愚かさを思い考える、その愚者は──彼は、それによって、まさしく、賢者で…",
+        "secondaryObserve": "為して悔やまぬ行いを、一つ確認して眠る"
+      }
+    ],
+    "focusNodeId": "craving",
+    "focusReason": "愚品は所有・名声・蜜のような悪への欲しがりが中心。既定の焦点は欲しがる。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP5-P01",
+      "category": "view",
+      "verse": 60,
+      "observe": "不眠者には夜長く、疲れたる人には一由旬（ゆじゅん）（距離の単位）も長く、正法を知らざる愚者には流転長し。",
+      "action": "今日、教えを一つ学び、日常に生かす",
+      "quote": "〔眠れずに〕起きている者に、夜は長い。〔歩みつづけ〕疲れている者に、〔一〕ヨージャナ（由旬：長さの単位・一ヨージャナは軛牛の一日の移動距離で約７キロメートルもしくは１５キロメートルとされる）は長い。正なる法（教え）を識知せずにいる愚者たちに、輪廻〔の道〕は長い。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "正法を知らぬ愚者には輪廻が長い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第60偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第60偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-001",
+          "text": "不寐夜長，疲惓道長，愚生死長，莫知正法。",
+          "satLocus": "大正蔵 T4.564a 愚闇品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P02",
+      "category": "view",
+      "verse": 60,
+      "observe": "不眠者には夜長く、疲れたる人には一由旬（ゆじゅん）（距離の単位）も長く、正法を知らざる愚者には流転長し。",
+      "action": "夜、今日の疲れの根にある「心の曇り」を一つ見る",
+      "quote": "〔眠れずに〕起きている者に、夜は長い。〔歩みつづけ〕疲れている者に、〔一〕ヨージャナ（由旬：長さの単位・一ヨージャナは軛牛の一日の移動距離で約７キロメートルもしくは１５キロメートルとされる）は長い。正なる法（教え）を識知せずにいる愚者たちに、輪廻〔の道〕は長い。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "正法を知らぬ愚者には輪廻が長い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第60偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第60偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-001",
+          "text": "不寐夜長，疲惓道長，愚生死長，莫知正法。",
+          "satLocus": "大正蔵 T4.564a 愚闇品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P03",
+      "category": "intention",
+      "verse": 61,
+      "observe": "道を歩みて自己に勝る人、自己に等しき人に逢わざれば、敢えて独り行くべし。 愚者は断じて伴侶となすべからず。",
+      "action": "今日の人間関係で、自分を引き下げている関係がないか見直す",
+      "quote": "〔道を〕歩んでいる者が、自己と等しくあるか、より勝っている者に、もし、到達しないなら、断固として、独り歩むこと（独行）を為すように。愚者のうちに、道友たること（真の友情）は存在しない。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "勝る友がいなければ独り行き、愚者と交わらない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第61偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第61偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "教學品（T210 第2品）",
+          "t210": "T210-02-013",
+          "text": "學無朋類，不得善友，寧獨守善，不與愚偕。",
+          "satLocus": "大正蔵 T4.562a 教學品第13頌",
+          "note": "パーリ愚者の章61はT210愚闇品ではなく教學品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/"
+        }
+      }
+    },
+    {
+      "id": "DP5-P04",
+      "category": "intention",
+      "verse": 61,
+      "observe": "道を歩みて自己に勝る人、自己に等しき人に逢わざれば、敢えて独り行くべし。 愚者は断じて伴侶となすべからず。",
+      "action": "周囲からの不健全な誘いを、今日一つ断る",
+      "quote": "〔道を〕歩んでいる者が、自己と等しくあるか、より勝っている者に、もし、到達しないなら、断固として、独り歩むこと（独行）を為すように。愚者のうちに、道友たること（真の友情）は存在しない。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "勝る友がいなければ独り行き、愚者と交わらない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第61偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第61偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "教學品（T210 第2品）",
+          "t210": "T210-02-013",
+          "text": "學無朋類，不得善友，寧獨守善，不與愚偕。",
+          "satLocus": "大正蔵 T4.562a 教學品第13頌",
+          "note": "パーリ愚者の章61はT210愚闇品ではなく教學品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/"
+        }
+      }
+    },
+    {
+      "id": "DP5-P05",
+      "category": "view",
+      "verse": 62,
+      "observe": "「我に子あり、我に財あり」とて愚者は悩む。 自己すでに自分のものにあらず。 況んやいかで子をや、いかで財をや。",
+      "action": "今日、所有への執着を一つ手放す",
+      "quote": "「わたしには、子たちが存在する。わたしには、財が存在する」〔と〕、かくのごとく、愚者は〔所有の思いに〕打ちのめされる。まさに、自己は、自己のものとして存在しない（思いのままにならない存在である）。どうして、子たちが、どうして、財が、〔自己のものとして存在するというのだろう〕。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "子・財への執着は、自己さえ己のものでない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第62偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第62偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-004",
+          "text": "有子有財，愚惟汲汲，我且非我，何憂子財？",
+          "satLocus": "大正蔵 T4.564a 愚闇品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P06",
+      "category": "view",
+      "verse": 62,
+      "observe": "「我に子あり、我に財あり」とて愚者は悩む。 自己すでに自分のものにあらず。 況んやいかで子をや、いかで財をや。",
+      "action": "心配事が出たとき、「これは本当に自分のものか」と静かに問う",
+      "quote": "「わたしには、子たちが存在する。わたしには、財が存在する」〔と〕、かくのごとく、愚者は〔所有の思いに〕打ちのめされる。まさに、自己は、自己のものとして存在しない（思いのままにならない存在である）。どうして、子たちが、どうして、財が、〔自己のものとして存在するというのだろう〕。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "子・財への執着は、自己さえ己のものでない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第62偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第62偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-004",
+          "text": "有子有財，愚惟汲汲，我且非我，何憂子財？",
+          "satLocus": "大正蔵 T4.564a 愚闇品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P07",
+      "category": "view",
+      "verse": 63,
+      "observe": "愚者にして〔自ら〕その愚を知るものは、これによりて既に賢なり。 されど愚者にして〔自ら〕賢なりと思うものは、実に〔真の〕愚者と称せらる。",
+      "action": "今日、自分のどこが足りないかを一つ素直に認める",
+      "quote": "〔自己の〕愚かさを思い考える、その愚者は──彼は、それによって、まさしく、賢者でさえある。しかしながら、〔自己を〕賢者と思量する愚者は──彼は、まさに、「愚者」と説かれる。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "己の愚かさを知る者はすでに賢に近い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第63偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第63偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-006",
+          "text": "愚曚愚極，自謂我智，愚而勝智，是謂極愚。",
+          "satLocus": "大正蔵 T4.564a 愚闇品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P08",
+      "category": "view",
+      "verse": 63,
+      "observe": "愚者にして〔自ら〕その愚を知るものは、これによりて既に賢なり。 されど愚者にして〔自ら〕賢なりと思うものは、実に〔真の〕愚者と称せらる。",
+      "action": "アドバイスを受けたとき、まず素直に聞く姿勢をとる",
+      "quote": "〔自己の〕愚かさを思い考える、その愚者は──彼は、それによって、まさしく、賢者でさえある。しかしながら、〔自己を〕賢者と思量する愚者は──彼は、まさに、「愚者」と説かれる。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "己の愚かさを知る者はすでに賢に近い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第63偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第63偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-006",
+          "text": "愚曚愚極，自謂我智，愚而勝智，是謂極愚。",
+          "satLocus": "大正蔵 T4.564a 愚闇品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P09",
+      "category": "view",
+      "verse": 64,
+      "observe": "たとい終生賢者に侍すとも、愚者は正法を悟らざること、あたかも食匙の香味に於けるが如し。",
+      "action": "今日、学んだことを「どう使うか」まで考える",
+      "quote": "もし、愚者が、たとえ、生あるかぎり、賢者に奉侍するとして、彼は、法（真理）を識知しない──すなわち、匙（さじ）が、汁の味を〔識知しない〕ように。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "愚は賢に侍しても法を知らず、匙が味を知らぬ如し",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第64偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第64偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-007",
+          "text": "頑闇近智，如瓢斟味，雖久狎習，猶不知法。",
+          "satLocus": "大正蔵 T4.564a 愚闇品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P10",
+      "category": "view",
+      "verse": 65,
+      "observe": "たとい一瞬賢者に侍すとも、智者は直ちに正法を悟ること、あたかも舌の香味に於けるが如し。",
+      "action": "今日の小さな気づきを見逃さず、一つ書き留める",
+      "quote": "もし、識者が、寸時でさえも、賢者に奉侍するなら、すみやかに、法（真理）を識知する──すなわち、舌が、汁の味を〔識知する〕ように。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "智は瞬時の侍従でも法を知り、舌が味を知る如し",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第65偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第65偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-008",
+          "text": "開達近智，如舌甞味，雖須臾習，即解道要。",
+          "satLocus": "大正蔵 T4.564b 愚闇品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P11",
+      "category": "action",
+      "verse": 66,
+      "observe": "無知なる愚者は自己に対し仇敵の如く振る舞う、苦果をもたらす悪業を行いつつ。",
+      "action": "今日、自己破壊的な習慣を一つ特定し、やめる",
+      "quote": "愚者たちは、思慮浅き者たちであり、まさしく、自己を朋友ならざるものとして、〔世を〕歩む──〔まさに〕その、辛き果と成る、悪しき行為（悪業）を為しながら。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正業",
+        "正見"
+      ],
+      "pathReason": "愚は己を敵のように扱い、悪業で苦果を招く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第66偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第66偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-009",
+          "text": "愚人施行，為身招患，快心作惡，自致重殃。",
+          "satLocus": "大正蔵 T4.564b 愚闇品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P12",
+      "category": "action",
+      "verse": 67,
+      "observe": "行いて後悔い、顔に涙し、哭泣してその果報をうく、かかる業は善くなされたるものにあらず。",
+      "action": "今日、後で後悔しそうなことを一つ見直してから行動する",
+      "quote": "それを為して悩み苦しむなら、為したその行為は、善きものではない──その〔行為〕の報い（異熟）を、泣き叫びながら、涙顔で受けるなら。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "為して悔やむ業は善ではない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第67偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第67偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-010",
+          "text": "行為不善，退見悔悋，致涕流面，報由宿習。",
+          "satLocus": "大正蔵 T4.564b 愚闇品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P13",
+      "category": "action",
+      "verse": 68,
+      "observe": "されど行いて後悔いず、歓喜愉悦してその果報をうく、かかる業は善くなされたるものなり。",
+      "action": "今日の行いを振り返り、後悔のないものを一つ確認して眠る",
+      "quote": "しかしながら、それを為して悩み苦しまないなら、為したその行為は、善きものである──その〔行為〕の報いを、悦意の者となり、機嫌よく受けるなら。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "為して悔やまぬ業は善である",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第68偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第68偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-011",
+          "text": "行為德善，進覩歡喜，應來受福，喜笑玩習。",
+          "satLocus": "大正蔵 T4.564b 愚闇品第11頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P14",
+      "category": "view",
+      "verse": 69,
+      "observe": "悪業の未だ熟せざる間、愚者はそを蜜の如く思惟す。 されど悪業の熟するや、愚者はその時に至りて苦悩す。",
+      "action": "今、甘く見えている誘惑の「熟したときの苦悩」を一度想像する",
+      "quote": "〔自己の為した〕悪しき〔行為〕が煮られない、それまでのあいだ、愚者は、〔自己の為す悪しき行為を〕蜜のように思いなす。しかしながら、〔自己の為した〕悪しき〔行為〕が煮られる、そのとき、愚者は、苦しみを受ける。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "熟さぬ間は蜜に見え、熟すれば苦となる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第69偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第69偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-012",
+          "text": "過罪未熟，愚以恬惔，至其熟時，自受大罪。",
+          "satLocus": "大正蔵 T4.564b 愚闇品第12頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P15",
+      "category": "view",
+      "verse": 70,
+      "observe": "愚者は〔節食して〕月に月に（数ヶ月間毎日）、クサ草の先端を以て食を取るとも、彼は正法を思量する者の十六分の一にも値せず。",
+      "action": "形式的な行いを一つ省き、心を込めた実践に置き換える",
+      "quote": "月ごとに〔断食苦行の真似をして〕、草の先端で食を受ける愚者──彼は、法（真理）を究めた者たちの、十六分の一にも値しない。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "形だけの苦行は、法を究めた者の十六分の一にも値しない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第70偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第70偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-015",
+          "text": "愚好美食，月月滋甚，於十六分，未一思法。",
+          "satLocus": "大正蔵 T4.564b 愚闇品第15頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P16",
+      "category": "view",
+      "verse": 71,
+      "observe": "犯したる悪業は、牛乳の如く直ちに凝固せず。 灰に覆われたる火の如く、燃えつつ愚者に従う。",
+      "action": "今、気がかりなことがあれば、その根の行いを一つ正す",
+      "quote": "まさに、〔愚者が〕為した悪しき行為は、〔搾りたての〕乳のように、今日のうちには固まらない。灰に覆われた火のように、〔徐々に〕焼き尽くしながら、その愚者に従い行く。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "悪業はすぐ固まらず、灰の下の火のように従う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第71偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第71偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "惡行品（T210 第17品）",
+          "t210": "T210-17-013",
+          "text": "惡不即時，如搆牛乳，罪在陰伺，如灰覆火。",
+          "satLocus": "大正蔵 T4.565a 惡行品第13頌",
+          "note": "パーリ愚者の章71はT210愚闇品ではなく惡行品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/"
+        }
+      }
+    },
+    {
+      "id": "DP5-P17",
+      "category": "view",
+      "verse": 72,
+      "observe": "思慮生じて〔かえって〕愚者の災厄となる、そは彼の頭を砕きつつ、愚者の幸福を滅ぼす。",
+      "action": "今日、「これくらいでいいだろう」という思い込みを一つ疑う",
+      "quote": "義（目的）ならざるもののために、愚者に知識が生まれる、まさしく、そのかぎりは、〔その知識が〕愚者の幸運を打ち砕く──彼の頭を打ち落としながら。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "誤った知識は愚者の頭を砕き幸福を滅ぼす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第72偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第72偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "利養品（T210 第33品）",
+          "t210": "T210-33-002",
+          "text": "如是貪無利，當知從癡生，愚為此害賢，首領分于地。",
+          "satLocus": "大正蔵 T4.569c 利養品第2頌",
+          "note": "パーリ愚者の章72はT210愚闇品ではなく利養品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/"
+        }
+      }
+    },
+    {
+      "id": "DP5-P18",
+      "category": "intention",
+      "verse": 74,
+      "observe": "〔愚者をして〕虚名を欲せしめよ、比丘衆の間にありては上位を、僧院に於ては主権を、他人（在家衆）の間に於ては供養を〔欲せしめよ〕。 「こは我により為されたりと、在家も出家も共に考うべし、彼らは為すべきこと、為すべからざること、何事に於てもわが意に従うべし」とは、愚者の思惟なり。 〔この故に〕欲心と慢心とは増長す。",
+      "action": "今日、「認めてほしい」という衝動を一つ観察し、手放す",
+      "quote": "〔愚者は〕求める──正しからざる者たちの敬愛を、そして、比丘たちのなかでは尊奉を、かつまた、諸々の居住のなかでは権力を、さらに、他者の家々においては諸々の供養を。 「在家者たちと出家者たちは、両者ともに、まさしく、わたしの為したことを思い考えよ。諸々の為すべきことと為すべきではないことについては、何であれ、まさしく、わたしの支配するものとして存するのだ」〔と〕、かくのごとく、愚者の、妄想と欲求は、かつまた、〔我想の〕思量（慢：自他を比較し価値づける心・慢心）は、〔自ずと〕増え行く。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "すべてを己の支配下に置く慢心が増す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第73-74偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第73-74偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-020",
+          "text": "此行與愚同，但令欲慢增，利求之願異，求道意亦異。",
+          "satLocus": "大正蔵 T4.564c 愚闇品第20頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP5-P19",
+      "category": "view",
+      "verse": 75,
+      "observe": "一は利得に導く〔道〕にして、一は涅槃に至る〔道〕なりと、かく仏弟子たる比丘は悟りて、尊敬を喜ぶべからず、遠離に専心すべし。",
+      "action": "評価・承認を期待して行動していないか、今日の行いを一つ確認する",
+      "quote": "まさに、他なるものとして、利得を機縁とするものがあり、他なるものとして、涅槃に至るものがある（両者は別個のものである）。このように、このことを証知して、覚者（ブッダ）の弟子たる比丘は、〔自己への〕尊敬に愉悦せず、遠離〔の境地〕を増進するがよい。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "利得の道と涅槃の道は別、尊敬を喜ばず遠離へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 愚者の章 第75偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第５章・愚品 第75偈（#ch02-05）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-05"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-021",
+          "text": "是以有識者，出為佛弟子，棄愛捨世習，終不墮生死。",
+          "satLocus": "大正蔵 T4.564c 愚闇品第21頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0564",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap05/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "60": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "正法を知らぬ愚者には輪廻が長い"
+    },
+    "61": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "reason": "勝る友がいなければ独り行き、愚者と交わらない"
+    },
+    "62": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "子・財への執着は、自己さえ己のものでない"
+    },
+    "63": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "己の愚かさを知る者はすでに賢に近い"
+    },
+    "64": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "愚は賢に侍しても法を知らず、匙が味を知らぬ如し"
+    },
+    "65": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "智は瞬時の侍従でも法を知り、舌が味を知る如し"
+    },
+    "66": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正業",
+        "正見"
+      ],
+      "reason": "愚は己を敵のように扱い、悪業で苦果を招く"
+    },
+    "67": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "為して悔やむ業は善ではない"
+    },
+    "68": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "為して悔やまぬ業は善である"
+    },
+    "69": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "熟さぬ間は蜜に見え、熟すれば苦となる"
+    },
+    "70": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "reason": "形だけの苦行は、法を究めた者の十六分の一にも値しない"
+    },
+    "71": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "悪業はすぐ固まらず、灰の下の火のように従う"
+    },
+    "72": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "reason": "誤った知識は愚者の頭を砕き幸福を滅ぼす"
+    },
+    "73": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "reason": "虚名・上位・権力・供養を求める"
+    },
+    "74": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "reason": "すべてを己の支配下に置く慢心が増す"
+    },
+    "75": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "利得の道と涅槃の道は別、尊敬を喜ばず遠離へ"
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "chapter": 79,
+  "sutta": 79,
+  "title": "中部 第79経（善生優陀夷小経）",
+  "shortTitle": "善生優陀夷小経",
+  "mapNote": "中分五十経篇 · 普行者品",
+  "suttas": [
+    "MN 79 善生優陀夷小経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "善生優陀夷小経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第79経（善生優陀夷小経）",
+    "shortTitle": "善生優陀夷小経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "感覚の門での接触に念を置く",
+        "chapterHint": "善生優陀夷小経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN79-P01",
+          "MN79-P02",
+          "MN79-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "善生優陀夷小経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN79-P01",
+          "MN79-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "善生優陀夷小経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN79-P04",
+          "MN79-P08"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "善生優陀夷小経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN79-P04",
+          "MN79-P08"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "善生優陀夷小経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN79-P05",
+          "MN79-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "善生優陀夷小経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN79-P01",
+          "MN79-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "善生優陀夷小経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN79-P02",
+          "MN79-P03"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN79-P01",
+      "category": "prep",
+      "ref": "MN 79",
+      "section": "導",
+      "observe": "鞞摩那修経——入出息念、一夜の教え",
+      "action": "朝、入息·出息に念を置く時間を一つ確保する",
+      "quote": "鞞摩那修よ、入出息念——一夜にて漏尽の道"
+    },
+    {
+      "id": "MN79-P02",
+      "category": "work",
+      "ref": "MN 79",
+      "section": "息",
+      "observe": "入出息念——息に念",
+      "action": "合間に、入息·出息に念を置く",
+      "quote": "入息·出息に念を置く——これ、入出息念なり"
+    },
+    {
+      "id": "MN79-P03",
+      "category": "work",
+      "ref": "MN 79",
+      "section": "念",
+      "observe": "身·受·心·法——四念処",
+      "action": "今日、身·受·心·法の一つに念を置く",
+      "quote": "身·受·心·法に念を置く——四念処なり"
+    },
+    {
+      "id": "MN79-P04",
+      "category": "desire",
+      "ref": "MN 79",
+      "section": "五盖",
+      "observe": "五盖——念を妨げる",
+      "action": "五盖の一つを名づけ、対治する",
+      "quote": "貪欲·瞋恚·睡眠·掉悔·疑——この五盖を除却せよ"
+    },
+    {
+      "id": "MN79-P05",
+      "category": "suffering",
+      "ref": "MN 79",
+      "section": "触",
+      "observe": "息→触→受——縁起",
+      "action": "息·触·受の流れを一呼吸観察する",
+      "quote": "息——触·受を生ず、縁起を知れ"
+    },
+    {
+      "id": "MN79-P06",
+      "category": "prep",
+      "ref": "MN 79",
+      "section": "正見",
+      "observe": "正見——入出息念",
+      "action": "正見は「念·苦の滅」にあると確認する",
+      "quote": "正見——入出息念、漏尽の因なり"
+    },
+    {
+      "id": "MN79-P07",
+      "category": "work",
+      "ref": "MN 79",
+      "section": "一夜",
+      "observe": "一夜の修行——念·正見",
+      "action": "今日、一夜でできる念の修行を一つ",
+      "quote": "一夜にて、入出息念を修し、漏尽に至る"
+    },
+    {
+      "id": "MN79-P08",
+      "category": "people",
+      "ref": "MN 79",
+      "section": "対鞞摩那修",
+      "observe": "鞞摩那修——一夜に学ぶ",
+      "action": "学んだ一節を、今日一日で実践する",
+      "quote": "鞞摩那修——一夜にて、入出息念を聞く"
+    },
+    {
+      "id": "MN79-P09",
+      "category": "desire",
+      "ref": "MN 79",
+      "section": "執着",
+      "observe": "息·念への執着——正念を妨げる",
+      "action": "執着を手放し、念を保つ",
+      "quote": "執着——念を妨げ、漏尽に至らしめず"
+    },
+    {
+      "id": "MN79-P10",
+      "category": "work",
+      "ref": "MN 79",
+      "section": "定",
+      "observe": "定——入出息念の資",
+      "action": "今日、息に念を置き、定の資とする",
+      "quote": "入出息念——定の資、漏尽に至る"
+    },
+    {
+      "id": "MN79-P11",
+      "category": "night",
+      "ref": "MN 79",
+      "section": "結",
+      "observe": "鞞摩那修——入出息念",
+      "action": "就寝前、今日の息·念を振り返る",
+      "quote": "入息·出息に念を置く——一夜にて漏尽の道"
+    }
+  ]
+}

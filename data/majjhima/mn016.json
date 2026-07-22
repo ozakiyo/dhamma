@@ -1,0 +1,782 @@
+{
+  "chapter": 16,
+  "sutta": 16,
+  "title": "中部 第16経・心荒野経（心の鬱積の経）",
+  "shortTitle": "心荒野経（心の鬱積の経）",
+  "mapNote": "根本五十経篇 · 師子吼品（アラナ：心の鬱積の経）",
+  "suttas": [
+    "MN 16 心荒野経（心の鬱積の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第16経（心荒野経／心の鬱積の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含206心穢経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・心の鬱積の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・心穢経（T1.780b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+        "note": "五穢・五縛。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第16経・心荒野経（心の鬱積の経）",
+    "shortTitle": "心荒野経（心の鬱積の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "朝、心の鬱積・結縛の有無に触れて問う",
+        "chapterHint": "心荒野経（心の鬱積の経）",
+        "fromPrev": "見直しが、今朝の疑·嗔の接触を変える",
+        "toNext": "触のあと、疑や嗔の受が見える",
+        "todayObserve": "五つの心の鬱積と五つの心の結縛が残れば、法と律での増大はない——朝、今日「心の荒野（鬱積）」がないか一度問う。",
+        "todayAction": "朝、今日「心の荒野」がないか一度問う",
+        "when": [
+          "朝に心を問う",
+          "疑が触れた"
+        ],
+        "sources": [
+          "MN16-P01"
+        ],
+        "leadQuote": "比丘たちよ、彼が誰であれ、比丘の、五つの心の鬱積が〔いまだ〕捨棄されていないなら…",
+        "secondaryObserve": "五つの心の結縛——欲・身・色への貪、飽食と睡眠の楽、天への誓願の梵行。五荒野（鬱積）のうち一つを特定し、対治する。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "view",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "師への疑と同梵行への嗔の受を名づける",
+        "chapterHint": "心荒野経（心の鬱積の経）",
+        "fromPrev": "接触のあと、疑·嗔の受が立つ",
+        "toNext": "受に乗ると法への拒みや掴みへ",
+        "todayObserve": "教師への疑・疑惑・不浄信は第一の心の鬱積——心が精励に傾かない。教師·教えへの疑を一度認め、正見に向ける。",
+        "todayAction": "今日、教師·教えへの疑を一度認め、正見に向ける",
+        "when": [
+          "師を疑った",
+          "共修者に嗔った"
+        ],
+        "sources": [
+          "MN16-P02",
+          "MN16-P06"
+        ],
+        "leadQuote": "比丘たちよ、ここに、比丘が、教師にたいし、疑い、疑惑し、信念せず、正しく浄信しま…",
+        "secondaryObserve": "同梵行への激情・害心・鬱積は第五の心の鬱積——共修者への嗔が来たら「同清らかな修行への嗔」と名づける。"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "view",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "法への疑・拒みを四諦の見へ転じる",
+        "chapterHint": "心荒野経（心の鬱積の経）",
+        "fromPrev": "受のあと、法を拒む欲しがりが立つ",
+        "toNext": "止めないと僧·学への掴みへ",
+        "todayObserve": "法への疑は第二の心の鬱積——疑を「此是苦·此是集·此是滅·此是道」の見へ向ける。",
+        "todayAction": "今日、法への疑を「此是苦·此是集·此是滅·此是道」に向ける",
+        "when": [
+          "法を疑った",
+          "四諦へ向けた"
+        ],
+        "sources": [
+          "MN16-P03"
+        ],
+        "leadQuote": "比丘たちよ、さらに、また、他に、比丘が、法（教え）にたいし、疑い、疑惑し、信念せ…",
+        "secondaryObserve": "如是法"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "view",
+          "effort"
+        ],
+        "pathLabel": "僧·学への疑の掴みを手放し精励へ向ける",
+        "chapterHint": "心荒野経（心の鬱積の経）",
+        "fromPrev": "拒みのあと、共修と学びへの掴みが手前",
+        "toNext": "掴むと増大なき苦が見える",
+        "todayObserve": "僧団への疑は第三の心の鬱積——共修・僧団への疑を一度手放す。",
+        "todayAction": "今日、僧団·共修者への疑を一度手放す",
+        "when": [
+          "僧を疑った",
+          "学びを疑った"
+        ],
+        "sources": [
+          "MN16-P04",
+          "MN16-P05"
+        ],
+        "leadQuote": "比丘たちよ、さらに、また、他に、比丘が、僧団にたいし、疑い、疑惑し、信念せず、正…",
+        "secondaryObserve": "学びへの疑は第四の心の鬱積——心が精励に傾かない。学びへの疑を正精進へ向ける。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "鬱積と結縛が残れば法と律での増大がないと見る",
+        "chapterHint": "心荒野経（心の鬱積の経）",
+        "fromPrev": "掴んだ結果として、必退・増大なしの患が見える",
+        "toNext": "見れば、浄信と害心なき離しへ",
+        "todayObserve": "五つの心の結縛——欲・身・色への貪、飽食と睡眠の楽、天への誓願の梵行。五荒野（鬱積）のうち一つを特定し、対治する。",
+        "todayAction": "今日、五荒野のうち一つを特定し、対治する",
+        "when": [
+          "荒野を一つ特定した",
+          "結縛を思った"
+        ],
+        "sources": [
+          "MN16-P07"
+        ],
+        "leadQuote": "彼には、どのような五つの心の結縛が〔いまだ〕断絶されていないものとして有るのです…",
+        "secondaryObserve": "必退法"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "view",
+          "effort"
+        ],
+        "pathLabel": "疑を浄信へ、嗔を害心なきへ転じて鬱積を捨棄する",
+        "chapterHint": "心荒野経（心の鬱積の経）",
+        "fromPrev": "苦が見えれば、四諦と慈へ向き直る",
+        "toNext": "離せば、夜の見直しへつながる",
+        "todayObserve": "疑わず信念し正しく浄信すれば、心は熱情・精励に傾く——疑が来たら苦·集·滅·道の一つに意識を向ける。",
+        "todayAction": "疑が来たら、苦·集·滅·道の一つに意識を向ける",
+        "when": [
+          "疑を四諦へ向けた",
+          "慈心を向けた"
+        ],
+        "sources": [
+          "MN16-P08",
+          "MN16-P09"
+        ],
+        "leadQuote": "比丘たちよ、さらに、また、他に、比丘が、法（教え）にたいし、疑わず、疑惑せず、信…",
+        "secondaryObserve": "同梵行にたいし害心なく鬱積が生じない者——心は精励に傾く。嗔が来たら、慈心を一呼吸向ける。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "捨棄と十五支を振り返り、疑·嗔の語りを止める",
+        "chapterHint": "心荒野経（心の鬱積の経）",
+        "fromPrev": "一日の疑·嗔は、朝からの鬱積の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "五鬱積を捨棄し五結縛を断絶すれば、法と律での増大・成長がある。夜、今日の心の荒野を一つ認め、明日手放す。",
+        "todayAction": "就寝前、今日の「心の荒野」を一つ認め、明日手放す",
+        "when": [
+          "一日を閉じるとき",
+          "疑·嗔を語りそうになった"
+        ],
+        "sources": [
+          "MN16-P10",
+          "MN16-P11"
+        ],
+        "leadQuote": "比丘たちよ、彼が誰であれ、比丘の、五つの心の鬱積が〔すでに〕捨棄されたなら、五つ…",
+        "secondaryObserve": "四神足と勤勇を加え十五支を具備すれば、正覚・軛安穏への可能ある者——疑·嗔を語る前に一度止まる。"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "心の鬱積の経は五鬱積の捨棄と五結縛の断絶により法と律での増大へ向かうのが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN16-P01",
+      "category": "mindfulness",
+      "ref": "MN 16",
+      "section": "五鬱積·五結縛",
+      "observe": "五つの心の鬱積と五つの心の結縛が残れば、法と律での増大はない——朝、今日「心の荒野（鬱積）」がないか一度問う。",
+      "action": "朝、今日「心の荒野」がないか一度問う",
+      "quote": "比丘たちよ、彼が誰であれ、比丘の、五つの心の鬱積が〔いまだ〕捨棄されていないなら、五つの心の結縛が〔いまだ〕断絶されていないなら、彼が、まさに、この法（教え）と律において、増大を〔惹起し〕、成長を〔惹起し〕、広大を惹起するであろう、という、この状況は見出されません。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "朝、心の鬱積・結縛の有無に触れて問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·五鬱積·五結縛",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-intro",
+          "text": "若比丘、比丘尼不拔心中五穢，不解心中五縛者，是為比丘、比丘尼說必退法。",
+          "satLocus": "大正蔵 T1.780b 心穢経",
+          "note": "五穢＝五鬱積、五縛＝五結縛。必退法＝増大なし。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P02",
+      "category": "view",
+      "ref": "MN 16",
+      "section": "師への疑",
+      "observe": "教師への疑・疑惑・不浄信は第一の心の鬱積——心が精励に傾かない。教師·教えへの疑を一度認め、正見に向ける。",
+      "action": "今日、教師·教えへの疑を一度認め、正見に向ける",
+      "quote": "比丘たちよ、ここに、比丘が、教師にたいし、疑い、疑惑し、信念せず、正しく浄信しません。……彼の心は、熱情に、専念に、堅忍に、精励に、傾きません。……このように、彼の、この第一の心の鬱積が〔いまだ〕捨棄されていないものとして有ります。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "師への疑の受を認め、浄信・正見へ向ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·師への疑",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-sattha",
+          "text": "或有一疑世尊，猶豫、不開意、不解意、意不靖。若有一疑世尊……是謂不拔第一心穢，謂於世尊也。",
+          "satLocus": "大正蔵 T1.780b 心穢経",
+          "note": "疑世尊＝教師への疑。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P03",
+      "category": "view",
+      "ref": "MN 16",
+      "section": "法への疑",
+      "observe": "法への疑は第二の心の鬱積——疑を「此是苦·此是集·此是滅·此是道」の見へ向ける。",
+      "action": "今日、法への疑を「此是苦·此是集·此是滅·此是道」に向ける",
+      "quote": "比丘たちよ、さらに、また、他に、比丘が、法（教え）にたいし、疑い、疑惑し、信念せず、正しく浄信しません。……このように、彼には、この第二の心の鬱積が〔いまだ〕捨棄されていないものとして有ります。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "法への疑・拒みを四諦の見へ転じる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·法への疑",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-dhamma",
+          "text": "如是法、戒、教。……不開意、不解意、意不靖。",
+          "satLocus": "大正蔵 T1.780b 心穢経",
+          "note": "漢訳は法・戒・教に圧縮。パーリ第二は法への疑。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P04",
+      "category": "view",
+      "ref": "MN 16",
+      "section": "僧への疑",
+      "observe": "僧団への疑は第三の心の鬱積——共修・僧団への疑を一度手放す。",
+      "action": "今日、僧団·共修者への疑を一度手放す",
+      "quote": "比丘たちよ、さらに、また、他に、比丘が、僧団にたいし、疑い、疑惑し、信念せず、正しく浄信しません。……このように、彼には、この第三の心の鬱積が〔いまだ〕捨棄されていないものとして有ります。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "僧団への疑の掴みを手放す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·僧への疑",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-sangha",
+          "text": "如是法、戒、教。……不開意、不解意、意不靖。",
+          "satLocus": "大正蔵 T1.780b 心穢経",
+          "note": "漢訳「戒」等に圧縮。パーリ第三は僧団への疑（増一では聖衆への疑）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P05",
+      "category": "effort",
+      "ref": "MN 16",
+      "section": "学びへの疑",
+      "observe": "学びへの疑は第四の心の鬱積——心が精励に傾かない。学びへの疑を正精進へ向ける。",
+      "action": "今日、学びへの疑を「正精進」に向ける",
+      "quote": "比丘たちよ、さらに、また、他に、比丘が、学びにたいし、疑い、疑惑し、信念せず、正しく浄信しません。……彼の心は、熱情に、専念に、堅忍に、精励に、傾きません。……このように、彼には、この第四の心の鬱積が〔いまだ〕捨棄されていないものとして有ります。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正精進",
+        "正見"
+      ],
+      "pathReason": "学びへの疑を精励へ向ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·学びへの疑",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-sikkha",
+          "text": "如是法、戒、教。……不開意、不解意、意不靖。",
+          "satLocus": "大正蔵 T1.780b 心穢経",
+          "note": "漢訳「教」≈学び（学）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P06",
+      "category": "intention",
+      "ref": "MN 16",
+      "section": "同梵行·嗔",
+      "observe": "同梵行への激情・害心・鬱積は第五の心の鬱積——共修者への嗔が来たら「同清らかな修行への嗔」と名づける。",
+      "action": "共修者への嗔が来たら、一度「同清らかな修行への嗔」と名づける",
+      "quote": "比丘たちよ、さらに、また、他に、比丘が、梵行を共にする者たちにたいし、激情した者として、わが意を得ない者として、害心ある者として、鬱積が生じた者として、〔世に〕有ります。……このように、彼には、この第五の心の鬱積が〔いまだ〕捨棄されていないものとして有ります。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "同梵行への嗔の受に名を付ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·同梵行·嗔",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-sabrahmacari",
+          "text": "若有諸梵行，世尊所稱譽，彼便責數、輕易、觸嬈、侵害，不開意、不解意、意不靖，是謂第五不拔心中穢，謂於梵行也。",
+          "satLocus": "大正蔵 T1.780b 心穢経",
+          "note": "於梵行＝同梵行への嗔・侵害。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P07",
+      "category": "view",
+      "ref": "MN 16",
+      "section": "結縛·患",
+      "observe": "五つの心の結縛——欲・身・色への貪、飽食と睡眠の楽、天への誓願の梵行。五荒野（鬱積）のうち一つを特定し、対治する。",
+      "action": "今日、五荒野のうち一つを特定し、対治する",
+      "quote": "彼には、どのような五つの心の結縛が〔いまだ〕断絶されていないものとして有るのですか。（１）諸々の欲望〔の対象〕にたいし、貪り〔の思い〕を離れていない者……（２）身体にたいし……（３）色形にたいし……（４）〔欲の思いで〕義とするだけ腹一杯に食べて、横臥の楽しみに……睡眠の楽しみに、専念する者……（５）或るどこかの天の衆〔への再生〕を誓願して梵行を歩みます……。……五つの心の鬱積が〔いまだ〕捨棄されていないなら、これらの五つの心の結縛が〔いまだ〕断絶されていないなら……増大を……惹起するであろう、という、この状況は見出されません。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "鬱積と結縛が残れば増大がない苦を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·結縛·患",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-vinibandha",
+          "text": "云何不解心中五縛？或有一身不離染……於欲不離染……數道俗共會……少有所得故，於其中間住，不復求昇進。……不拔此心中五穢，及不解此心中五縛者，是謂……必退法也。",
+          "satLocus": "大正蔵 T1.780b–c 心穢経",
+          "note": "五縛の列は漢訳でやや異なり、核は未離染・未昇進。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P08",
+      "category": "view",
+      "ref": "MN 16",
+      "section": "浄信·精励",
+      "observe": "疑わず信念し正しく浄信すれば、心は熱情・精励に傾く——疑が来たら苦·集·滅·道の一つに意識を向ける。",
+      "action": "疑が来たら、苦·集·滅·道の一つに意識を向ける",
+      "quote": "比丘たちよ、さらに、また、他に、比丘が、法（教え）にたいし、疑わず、疑惑せず、信念し、正しく浄信します。……彼の心は、熱情に、専念に、堅忍に、精励に、傾きます。……このように、彼には、この第二の心の鬱積が〔すでに〕捨棄されたものとして有ります。（教師・僧団・学びについても同様に、疑わず正しく浄信するなら、心は精励に傾きます。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "疑を捨て浄信し、心を精励へ傾ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·浄信·精励",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-pasada",
+          "text": "云何善拔心中五穢？或有一不疑世尊，不猶豫、開意、意解、意靖。……如是法、戒、教。……開意、意解、意靖。",
+          "satLocus": "大正蔵 T1.781a 心穢経",
+          "note": "不疑・開意＝浄信。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P09",
+      "category": "intention",
+      "ref": "MN 16",
+      "section": "害心なき",
+      "observe": "同梵行にたいし害心なく鬱積が生じない者——心は精励に傾く。嗔が来たら、慈心を一呼吸向ける。",
+      "action": "共修者への嗔が来たら、慈心を一呼吸向ける",
+      "quote": "比丘たちよ、さらに、また、他に、比丘が、梵行を共にする者たちにたいし、激情した者ではなく、わが意を得ない者ではなく、害心なき者として、鬱積が生じない者として、〔世に〕有ります。……彼の心は、熱情に、専念に、堅忍に、精励に、傾きます。……このように、彼には、この第五の心の鬱積が〔すでに〕捨棄されたものとして有ります。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正思惟",
+        "正定"
+      ],
+      "pathReason": "害心を離し、慈心で第五の鬱積を捨棄する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·害心なき",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-avyapada",
+          "text": "若有梵行，世尊所稱譽，彼不責數、不輕易、不觸嬈、不侵害，開意、意解、意靖，是謂第五善拔心中穢，謂於梵行也。",
+          "satLocus": "大正蔵 T1.781a 心穢経",
+          "note": "不責数・不侵害＝害心なき。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P10",
+      "category": "mindfulness",
+      "ref": "MN 16",
+      "section": "捨棄·増大",
+      "observe": "五鬱積を捨棄し五結縛を断絶すれば、法と律での増大・成長がある。夜、今日の心の荒野を一つ認め、明日手放す。",
+      "action": "就寝前、今日の「心の荒野」を一つ認め、明日手放す",
+      "quote": "比丘たちよ、彼が誰であれ、比丘の、五つの心の鬱積が〔すでに〕捨棄されたなら、五つの心の結縛が〔すでに〕善く断絶されたなら、彼が、まさに、この法（教え）と律において、増大を〔惹起し〕、成長を〔惹起し〕、広大を惹起するであろう、という、この状況は見出されます。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "夜に今日の鬱積を振り返り、捨棄の方向を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·捨棄·増大",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-vuddhi",
+          "text": "若有比丘、比丘尼善拔心中五穢，善解心中五縛者，是謂比丘、比丘尼清淨法。",
+          "satLocus": "大正蔵 T1.780c–781a 心穢経",
+          "note": "善抜・善解＝捨棄・断絶→清淨法（増大の側）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN16-P11",
+      "category": "speech",
+      "ref": "MN 16",
+      "section": "十五支·語",
+      "observe": "四神足と勤勇を加え十五支を具備すれば、正覚・軛安穏への可能ある者——疑·嗔を語る前に一度止まる。",
+      "action": "今日、疑·嗔の話をする前に一度止まる",
+      "quote": "彼は、欲〔の思い〕の禅定と精励の形成〔作用〕を具備した神通の足場を修めます。精進の禅定と……心の禅定と……審察の禅定と……まさしく、勤勇を、第五のものとして〔修めます〕。……勤勇とともに十五の支分を具備した比丘であるなら、孵化の可能ある者であり、正覚の可能ある者であり、束縛からの平安という無上なるものへの到達の可能ある者です。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "疑·嗔を語る前に止まり、十五支の精励へ戻る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・心の鬱積の経（MN16）·十五支·語",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 心荒蕪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含206・心穢経（T26）",
+          "t26": "T26-206-iddhipada",
+          "text": "彼住此十支已，復修習五法。……修欲定……精進定、心定、思惟定……堪任第五，彼成就此堪任等十五法。……猶如雞生十卵，或十二……自安隱出者……我說無不得涅槃。",
+          "satLocus": "大正蔵 T1.781b 心穢経",
+          "note": "十五法・鶏卵喩＝十五支・孵化。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0780b16",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

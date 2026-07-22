@@ -1,0 +1,375 @@
+{
+  "chapter": 5,
+  "samyutta": 5,
+  "title": "相応部 第5章（比丘尼相応）",
+  "shortTitle": "比丘尼",
+  "mapNote": "SN 5——比丘尼相応",
+  "suttas": [
+    "SN 5 比丘尼相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（有偈篇）",
+    "verify": "南伝大蔵経 第12巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN5-P01",
+      "category": "prep",
+      "ref": "SN 5.1",
+      "section": "導·善摩",
+      "observe": "比丘尼善摩、悪魔に「女身で何ができる」と問われ、阿羅漢の証を示す",
+      "action": "朝、「性別·条件は解脱の障害にではない」と意図を置く",
+      "quote": "悪魔は問う。「女身で、何ができるか」。善摩は、阿羅漢の証を示した"
+    },
+    {
+      "id": "SN5-P02",
+      "category": "prep",
+      "ref": "SN 5.1",
+      "section": "善摩",
+      "observe": "「女身で何ができるか」——これ悪魔の問い。智慧は性別を超える",
+      "action": "「自分には無理」という思いが来たら、善摩を想起する",
+      "quote": "女身で何ができるか。智慧は、性別を超える"
+    },
+    {
+      "id": "SN5-P03",
+      "category": "prep",
+      "ref": "SN 5.2",
+      "section": "吉憘母",
+      "observe": "比丘尼吉憘母——喪子の苦から解脱へ",
+      "action": "喪失の苦があるとき「吉憘母もこのを超えた」と想起する",
+      "quote": "吉憘母は、喪子の苦から、解脱に至った"
+    },
+    {
+      "id": "SN5-P04",
+      "category": "prep",
+      "ref": "SN 5.5",
+      "section": "正見",
+      "observe": "比丘尼たちも正見を得て、悪魔を退ける",
+      "action": "今日、一つの固定観念を「正見で見直す」",
+      "quote": "比丘尼たちも、正見を得て、悪魔を退けた"
+    },
+    {
+      "id": "SN5-P05",
+      "category": "prep",
+      "ref": "SN 5.9",
+      "section": "阿羅婆",
+      "observe": "比丘尼阿羅婆——独住の中で悪魔を退ける",
+      "action": "一人の時間に、内なる悪魔を観察する",
+      "quote": "阿羅婆は、独住の中で、悪魔を退けた"
+    },
+    {
+      "id": "SN5-P06",
+      "category": "suffering",
+      "ref": "SN 5.2",
+      "section": "喪子",
+      "observe": "吉憘母の喪子の苦——誰も経験しうる苦",
+      "action": "喪失の悲しみが来たら、一度認め、呼吸に戻る",
+      "quote": "喪子の苦、誰も経験しうる。吉憘母も、此に苦しんだ"
+    },
+    {
+      "id": "SN5-P07",
+      "category": "suffering",
+      "ref": "SN 5.3",
+      "section": "愛",
+      "observe": "愛する者への執着——比丘尼もこのを超える",
+      "action": "「失いたくない」という執着が来たら、一度手放す",
+      "quote": "愛する者への執着、これ苦の因。比丘尼も、此を超えた"
+    },
+    {
+      "id": "SN5-P08",
+      "category": "suffering",
+      "ref": "SN 5.6",
+      "section": "老",
+      "observe": "比丘尼も老いる——老は誰にも来る",
+      "action": "身体の変化を見たとき「比丘尼も老いる」と観る",
+      "quote": "比丘尼も老いる。老は、誰にも来る"
+    },
+    {
+      "id": "SN5-P09",
+      "category": "suffering",
+      "ref": "SN 5.8",
+      "section": "病",
+      "observe": "比丘尼も病む——病は修行の一部",
+      "action": "体調が悪いとき「病も道の一部」と観る",
+      "quote": "比丘尼も病む。病も、修行の一部なり"
+    },
+    {
+      "id": "SN5-P10",
+      "category": "suffering",
+      "ref": "SN 5.10",
+      "section": "無常",
+      "observe": "比丘尼の教え——一切皆無常",
+      "action": "変化を見たとき「一切皆無常」と一度唱える",
+      "quote": "一切皆無常。比丘尼たちは、此を証した"
+    },
+    {
+      "id": "SN5-P11",
+      "category": "desire",
+      "ref": "SN 5.1",
+      "section": "慢",
+      "observe": "悪魔は「女身」を利用して慢·疑を起こす",
+      "action": "自分を卑下する思いが来たら「悪魔の策略」と名づける",
+      "quote": "悪魔は、「女身」を利用し、慢·疑を起こす"
+    },
+    {
+      "id": "SN5-P12",
+      "category": "desire",
+      "ref": "SN 5.4",
+      "section": "欲",
+      "observe": "比丘尼も欲を対治する——過去の生活からの離欲",
+      "action": "欲が来たら、不浄想·無常想のいずれか一つを修する",
+      "quote": "比丘尼も、欲を対治し、離欲に至った"
+    },
+    {
+      "id": "SN5-P13",
+      "category": "desire",
+      "ref": "SN 5.7",
+      "section": "対治",
+      "observe": "悪魔の誘惑——美·名声·愛",
+      "action": "誘惑が来たら「悪魔の策略」と名づけ、教えを唱える",
+      "quote": "悪魔は、美·名声·愛を以て誘惑す"
+    },
+    {
+      "id": "SN5-P14",
+      "category": "desire",
+      "ref": "SN 5.9",
+      "section": "独住",
+      "observe": "独住中の欲——阿羅婆の対治",
+      "action": "一人の時間に、欲の反芻が来たら、経行または呼吸に戻る",
+      "quote": "独住中の欲、正念を以て対治せよ"
+    },
+    {
+      "id": "SN5-P15",
+      "category": "desire",
+      "ref": "SN 5.10",
+      "section": "離欲",
+      "observe": "離欲こそ比丘尼の解脱——欲を超える",
+      "action": "今日、一つの欲を意識的に手放す",
+      "quote": "離欲こそ、解脱の道。比丘尼たちは、此を証した"
+    },
+    {
+      "id": "SN5-P16",
+      "category": "speech",
+      "ref": "SN 5.1",
+      "section": "答",
+      "observe": "善摩の答え——悪魔の問いに、智慧で応える",
+      "action": "自分を贬める言葉が来たら、智慧の答えを一つ口にする",
+      "quote": "悪魔の問いに、智慧で応えよ。善摩は、此を示した"
+    },
+    {
+      "id": "SN5-P17",
+      "category": "speech",
+      "ref": "SN 5.2",
+      "section": "偈",
+      "observe": "吉憘母の偈——喪失から解脱への道",
+      "action": "今日、苦から学びを一つ言葉にする",
+      "quote": "吉憘母は偈を説く。「喪失も、道の一部なり」"
+    },
+    {
+      "id": "SN5-P18",
+      "category": "speech",
+      "ref": "SN 5.5",
+      "section": "正語",
+      "observe": "比丘尼の正語——柔らかく、真実に",
+      "action": "今日、柔らかく真実な言葉を一つ口にする",
+      "quote": "正語は、柔らかく、真実なり"
+    },
+    {
+      "id": "SN5-P19",
+      "category": "speech",
+      "ref": "SN 5.8",
+      "section": "默",
+      "observe": "悪魔の誘惑に応答しない——善摩の如く",
+      "action": "自分を弱める言葉·誘惑に、一度応答しない",
+      "quote": "悪魔の誘惑に、応答するな"
+    },
+    {
+      "id": "SN5-P20",
+      "category": "speech",
+      "ref": "SN 5.10",
+      "section": "讃法",
+      "observe": "比丘尼たちは法を讃える——解脱の喜び",
+      "action": "今日、法について感謝の言葉を一つ口にする",
+      "quote": "比丘尼たちは、法を讃え、解脱の喜びを語る"
+    },
+    {
+      "id": "SN5-P21",
+      "category": "people",
+      "ref": "SN 5.1",
+      "section": "悪魔",
+      "observe": "悪魔は誰にも来る——善摩も退けた",
+      "action": "自分を贬める声が来たら「悪魔の声」と名づける",
+      "quote": "悪魔は、誰にも来る。善摩も、退けた"
+    },
+    {
+      "id": "SN5-P22",
+      "category": "people",
+      "ref": "SN 5.2",
+      "section": "善友",
+      "observe": "吉憘母も善友（仏）に依った",
+      "action": "今日、善友に一つ感謝を伝える",
+      "quote": "吉憘母も、善友に依り、解脱に至った"
+    },
+    {
+      "id": "SN5-P23",
+      "category": "people",
+      "ref": "SN 5.5",
+      "section": "共学",
+      "observe": "比丘尼同士、共に修行する",
+      "action": "今日、修行仲間と一つ励まし合う",
+      "quote": "比丘尼同士、共に修行し、互いを励ます"
+    },
+    {
+      "id": "SN5-P24",
+      "category": "people",
+      "ref": "SN 5.7",
+      "section": "敬",
+      "observe": "比丘尼も法を敬う——敬法の心",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬ぶ者、解脱に至る"
+    },
+    {
+      "id": "SN5-P25",
+      "category": "people",
+      "ref": "SN 5.10",
+      "section": "後学",
+      "observe": "比丘尼の証は、後学を励ます",
+      "action": "今日、誰かの良いところを一つ認め、伝える",
+      "quote": "先達の証は、後学を励ます"
+    },
+    {
+      "id": "SN5-P26",
+      "category": "work",
+      "ref": "SN 5.1",
+      "section": "対治",
+      "observe": "善摩は悪魔を退けた——正念·智慧",
+      "action": "自分を贬める思いが来たら、正念に戻り、五つの集まりの無常を観る",
+      "quote": "正念·智慧を以て、悪魔を退けよ"
+    },
+    {
+      "id": "SN5-P27",
+      "category": "work",
+      "ref": "SN 5.2",
+      "section": "精進",
+      "observe": "吉憘母は喪失の後も精進した",
+      "action": "苦の後、一つの修行行為を行う",
+      "quote": "喪失の後も、精進せよ"
+    },
+    {
+      "id": "SN5-P28",
+      "category": "work",
+      "ref": "SN 5.5",
+      "section": "正念",
+      "observe": "比丘尼たちは正念を修す",
+      "action": "今日、15分間、正念を保つ",
+      "quote": "正念を修す者、悪魔を退ける"
+    },
+    {
+      "id": "SN5-P29",
+      "category": "work",
+      "ref": "SN 5.9",
+      "section": "独住",
+      "observe": "阿羅婆は独住を修した——悪魔と対面",
+      "action": "今日、一人の時間に、心を観察する",
+      "quote": "独住を修す者、内なる悪魔と対面す"
+    },
+    {
+      "id": "SN5-P30",
+      "category": "work",
+      "ref": "SN 5.10",
+      "section": "解脱",
+      "observe": "比丘尼たちも解脱に至った——誰でも可能",
+      "action": "今日の目的を「解脱は可能」と確認する",
+      "quote": "比丘尼たちも、解脱に至った。誰でも、可能なり"
+    },
+    {
+      "id": "SN5-P31",
+      "category": "night",
+      "ref": "SN 5.1",
+      "section": "善摩",
+      "observe": "今日、「女身で無理」という思いが来たか",
+      "action": "就寝前、自分を制限する思いを一つ手放す",
+      "quote": "性別·条件は、解脱の障害に非ず"
+    },
+    {
+      "id": "SN5-P32",
+      "category": "night",
+      "ref": "SN 5.2",
+      "section": "喪失",
+      "observe": "今日、喪失·執着の苦があったか",
+      "action": "就寝前、執着を一つ認め、手放す",
+      "quote": "執着を手放せば、心は軽くなる"
+    },
+    {
+      "id": "SN5-P33",
+      "category": "night",
+      "ref": "SN 5.5",
+      "section": "悪魔",
+      "observe": "今日、悪魔（内なる声）が来たか",
+      "action": "就寝前、悪魔を退けた瞬間を一つ認める",
+      "quote": "悪魔を退けた瞬間を、認めよ"
+    },
+    {
+      "id": "SN5-P34",
+      "category": "night",
+      "ref": "SN 5.9",
+      "section": "独住",
+      "observe": "今日、独りの時間に心を観たか",
+      "action": "就寝前、一人の時間の観察を一行記録する",
+      "quote": "独りの時間に、心を観よ"
+    },
+    {
+      "id": "SN5-P35",
+      "category": "night",
+      "ref": "SN 5.10",
+      "section": "総括",
+      "observe": "比丘尼相応の要——性別を超え、悪魔を退け、解脱へ",
+      "action": "就寝前、「解脱は誰にでも可能」と一句唱える",
+      "quote": "性別を超え、悪魔を退け、解脱に至れ——比丘尼たちは、此を証した"
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "chapter": 11,
+  "sutta": 11,
+  "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+  "shortTitle": "師子吼小経（小なる獅子吼の経）",
+  "mapNote": "根本五十経篇 · 師子吼品（アラナ：小なる獅子吼の経）",
+  "suttas": [
+    "MN 11 師子吼小経（小なる獅子吼の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第11経（師子吼小経／小なる獅子吼の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含103師子吼経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・小なる獅子吼の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・師子吼経（T1.590c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+        "note": "漢訳は正師子吼・四受。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+    "shortTitle": "師子吼小経（小なる獅子吼の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "speech",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正語",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "view"
+        ],
+        "pathLabel": "異論との接触で、果に基づく獅子吼を立てる",
+        "chapterHint": "師子吼小経（小なる獅子吼の経）",
+        "fromPrev": "見直しが、今朝の対論の接触を変える",
+        "toNext": "接触のあと、見解の受が立つ",
+        "todayObserve": "正しく獅子吼せよ——ここに四沙門（四果）があり、他の異論は空無である。",
+        "todayAction": "今日、自分の修行を「形式」ではなく「果」に結びつけて問う",
+        "when": [
+          "異論に触れた",
+          "教団の差を問われた"
+        ],
+        "sources": [
+          "MN11-P01"
+        ],
+        "leadQuote": "比丘たちよ、『まさしく、ここに、沙門があり、ここに、第二の沙門があり、ここに、第…",
+        "secondaryObserve": "四法——師への浄信・法への浄信・戒の円満・法を共にする者への愛敬。外道もこれを称するが、差は一切の執取の遍知にある。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "受から渇愛・執取へ流れる縁起を辿る",
+        "chapterHint": "師子吼小経（小なる獅子吼の経）",
+        "fromPrev": "接触のあと、受が立ち上がる",
+        "toNext": "受に乗ると渇愛・戯論へ",
+        "todayObserve": "四取は渇愛を因縁とし、渇愛は受、受は触……無明に至る。執着が来たら触→受→愛→取を辿る。",
+        "todayAction": "執着が来たら「触→受→愛→取」の流れを一つ辿る",
+        "when": [
+          "見解に快・不快を感じた",
+          "執着の流れを辿った"
+        ],
+        "sources": [
+          "MN11-P07"
+        ],
+        "leadQuote": "これらの四つの執取は、渇愛を因縁とし、渇愛を集起とします。渇愛は、感受を因縁とし…",
+        "secondaryObserve": "受→渇愛→四取"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "view",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "見解を証明したい衝動を戯論の欲しがりと見る",
+        "chapterHint": "師子吼小経（小なる獅子吼の経）",
+        "fromPrev": "受のあと、虚構を喜ぶ欲しがりが立つ",
+        "toNext": "止めないと二見への掴みへ",
+        "todayObserve": "二見の集・滅・味・患・出離を知らねば、虚構（戯論）を喜び、苦から解き放たれない。",
+        "todayAction": "今日、見解を証明したい衝動を「空論・論争」と名づける",
+        "when": [
+          "証明したくなった",
+          "空論が止まらない"
+        ],
+        "sources": [
+          "MN11-P05"
+        ],
+        "leadQuote": "これらの二つの見解の、そして、集起を、さらに、滅至を、そして、悦楽を、かつまた、…",
+        "secondaryObserve": "二見を如実に知らぬ者は、反感と虚構を喜び、生老死の苦から解き放たれない。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "四取と二見への固着を特定し緩める",
+        "chapterHint": "師子吼小経（小なる獅子吼の経）",
+        "fromPrev": "欲しがりのあと、有見・四取が掴む手前",
+        "toNext": "掴むと諍いの苦が見える",
+        "todayObserve": "四取——欲取・見取・戒禁取・我語取。",
+        "todayAction": "今日の執着が四つの執着のどれか一つを特定する",
+        "when": [
+          "見解に固着した",
+          "戒や自己論に掴まった"
+        ],
+        "sources": [
+          "MN11-P04",
+          "MN11-P06",
+          "MN11-P12"
+        ],
+        "leadQuote": "比丘たちよ、四つのものがあります。これらの執取です。欲望への執取であり、見解への…",
+        "secondaryObserve": "有見と非有見——一方に固着すれば他方に反感し、諍いが起きる。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "諍いと戯論が苦から解き放たれないと見る",
+        "chapterHint": "師子吼小経（小なる獅子吼の経）",
+        "fromPrev": "掴んだ結果として、生老死の苦が見える",
+        "toNext": "見れば、執取を離れる方向へ向き直る",
+        "todayObserve": "二見を如実に知らぬ者は、反感と虚構を喜び、生老死の苦から解き放たれない。",
+        "todayAction": "今日、教義の優劣を争う言葉を一度止める",
+        "when": [
+          "人と諍った",
+          "空論で重くなった"
+        ],
+        "sources": [
+          "MN11-P09"
+        ],
+        "leadQuote": "これらの二つの見解の……出離を、事実のとおりに覚知しないなら、彼らは、……共感し…",
+        "secondaryObserve": "苦しみから完全に解き放たれない"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "view",
+          "effort"
+        ],
+        "pathLabel": "無明を捨て四取に執取せず、反感なく離す",
+        "chapterHint": "師子吼小経（小なる獅子吼の経）",
+        "fromPrev": "苦が見えれば、一究竟の実践へ戻る",
+        "toNext": "離せば、夜の見直しへつながる",
+        "todayObserve": "無明を捨て明知が生じれば四取に執取せず、思い悩まない者は各自涅槃に至る。",
+        "todayAction": "夜、今日の無明を一つ認め、執着を手放して眠る",
+        "when": [
+          "執取を一つ手放した",
+          "反感なく話した"
+        ],
+        "sources": [
+          "MN11-P03",
+          "MN11-P08",
+          "MN11-P10"
+        ],
+        "leadQuote": "すなわち、まさに、比丘の、無明が捨棄されたものと成り、明知が生起したものと〔成る…",
+        "secondaryObserve": "目的は一つ——貪・瞋・痴・渇愛・執取を離れ、知あり、反感なく、虚構なきを喜ぶ者のため。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "view",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "正法律と四法を振り返り、明日の獅子吼に結ぶ",
+        "chapterHint": "師子吼小経（小なる獅子吼の経）",
+        "fromPrev": "一日の対論は、朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の獅子吼になる",
+        "todayObserve": "善く説かれた出脱・寂止の法と律においてのみ、四法の浄信は正しい至達となる。",
+        "todayAction": "今日学んだ三経のうち、一節をメモし明日も反芻する",
+        "when": [
+          "一日を閉じるとき",
+          "見解で争った日"
+        ],
+        "sources": [
+          "MN11-P02",
+          "MN11-P11"
+        ],
+        "leadQuote": "善く告げ知らされ、善く説き知らされ、出脱〔の教え〕であり、寂止のために等しく転起…",
+        "secondaryObserve": "四法——師への浄信・法への浄信・戒の円満・法を共にする者への愛敬。外道もこれを称するが、差は一切の執取の遍知にある。"
+      }
+    ],
+    "focusNodeId": "clinging",
+    "focusReason": "師子吼小経は一切の執取（四取）の遍知が主題。既定の焦点は掴む。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN11-P01",
+      "category": "speech",
+      "ref": "MN 11",
+      "section": "獅子吼",
+      "observe": "正しく獅子吼せよ——ここに四沙門（四果）があり、他の異論は空無である。",
+      "action": "今日、自分の修行を「形式」ではなく「果」に結びつけて問う",
+      "quote": "比丘たちよ、『まさしく、ここに、沙門があり、ここに、第二の沙門があり、ここに、第三の沙門があり、ここに、第四の沙門がある。他の沙門たちによる諸々の異論は、空無なるもの』と、比丘たちよ、このように、このことを、〔あなたたちは〕正しく獅子吼として吼え叫びなさい。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正語",
+        "正見"
+      ],
+      "pathReason": "異論との接触で、果に基づく獅子吼を立てる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·獅子吼",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-roar",
+          "text": "此有第一沙門第二第三第四沙門。此外更無沙門梵志。異道一切空無沙門梵志。汝等隨在衆中作如是正師子吼。",
+          "satLocus": "大正蔵 T1.590c 師子吼経",
+          "note": "正師子吼＝四沙門の宣言。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P02",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "四法",
+      "observe": "四法——師への浄信・法への浄信・戒の円満・法を共にする者への愛敬。外道もこれを称するが、差は一切の執取の遍知にある。",
+      "action": "他者の良い点を認めつつ、見解への執着・私見執着を手放す",
+      "quote": "友よ、まさに、わたしたちには、教師にたいする浄信が存在し、法（教え）にたいする浄信が存在し、諸戒における円満成就を為す者たることが存在します。また、まさに、法（教え）を共にする者たちは、愛しく意に適う者たちです──まさしく、そして、在家者たちも、さらに、出家者たちも。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正業"
+      ],
+      "pathReason": "四法を認めつつ、執取の遍知で差を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·四法",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-four",
+          "text": "我等信尊師信法信戒徳具足。愛敬同道恭恪奉事。……我等亦信尊師……有何勝有何意有何差別耶。",
+          "satLocus": "大正蔵 T1.590c 師子吼経",
+          "note": "四法と異学との差別の問い。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P03",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "一究竟",
+      "observe": "目的は一つ——貪・瞋・痴・渇愛・執取を離れ、知あり、反感なく、虚構なきを喜ぶ者のため。",
+      "action": "今日の目標が「勝つこと」ではなく「執取の減ること」か問う",
+      "quote": "『友よ、目的は一つです。目的は多々にありません』と。『友よ、その目的は、貪欲を離れた者のためにあります。……憤怒を離れた者のためにあります。……迷妄を離れた者のためにあります。……渇愛を離れた者のためにあります。……執取を離れた者のためにあります。……知ある者のためにあります。……共感せず反感しない者のためにあります。……虚構なきものを喜びとし虚構なきものを喜ぶ者のためにあります』と。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "目標を執取の減る方向に置く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·一究竟",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-ekanta",
+          "text": "有一究竟無衆多究竟。……無欲者得究竟是……無恚……無癡……無愛無受……有慧説慧……無憎無諍者得究竟是。",
+          "satLocus": "大正蔵 T1.590c–591a 師子吼経",
+          "note": "一究竟＝離貪等の者のため。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P04",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "二見",
+      "observe": "有見と非有見——一方に固着すれば他方に反感し、諍いが起きる。",
+      "action": "議論で「存在する/しない」の極端に寄らない",
+      "quote": "比丘たちよ、これらの二つの見解があります。そして、生存の見解（有見）であり、さらに、非生存の見解（非有見）です。……生存の見解に固着した者たちであるなら、彼らは、非生存の見解に反感ある者たちです。……非生存の見解に固着した者たちであるなら、彼らは、生存の見解に反感ある者たちです。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "有見・非有見の両極端に固着しない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·二見",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-two-views",
+          "text": "若有沙門梵志依無量見彼一切依猗二見。有見及無見也。若依有見者。彼便著有見……憎諍無見若依無見者……憎諍有見。",
+          "satLocus": "大正蔵 T1.591a 師子吼経",
+          "note": "有見・無見＝有見・非有見。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P05",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "二見·戯論",
+      "observe": "二見の集・滅・味・患・出離を知らねば、虚構（戯論）を喜び、苦から解き放たれない。",
+      "action": "今日、見解を証明したい衝動を「空論・論争」と名づける",
+      "quote": "これらの二つの見解の、そして、集起を、さらに、滅至を、そして、悦楽を、かつまた、危険を、さらに、出離を、事実のとおりに覚知しないなら、彼らは、……虚構を喜びとし虚構を喜ぶ者たちであり、……苦しみから完全に解き放たれない、と、〔わたしは〕説きます。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "見解を証明したい衝動を戯論の欲しがりと見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·二見·戯論",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-papanca",
+          "text": "不知因不知習不知滅不知盡。不知味不知患。不知出要如眞者。彼一切有欲恚有癡有愛有受無慧非説慧有憎有諍。",
+          "satLocus": "大正蔵 T1.591a 師子吼経",
+          "note": "味患出要を知らぬ＝戯論・諍い。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P06",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "四取",
+      "observe": "四取——欲取・見取・戒禁取・我語取。",
+      "action": "今日の執着が四つの執着のどれか一つを特定する",
+      "quote": "比丘たちよ、四つのものがあります。これらの執取です。欲望への執取であり、見解への執取であり、戒や掟への執取であり、自己の論への執取です。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "今日の執着を四取のどれかと特定する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·四取",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-upadana",
+          "text": "施設斷欲受。不施設斷戒受見受我受。……施設斷欲受戒受見受我受",
+          "satLocus": "大正蔵 T1.591a–b 師子吼経",
+          "note": "漢訳「四受」＝パーリ四取。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P07",
+      "category": "mindfulness",
+      "ref": "MN 11",
+      "section": "縁起",
+      "observe": "四取は渇愛を因縁とし、渇愛は受、受は触……無明に至る。執着が来たら触→受→愛→取を辿る。",
+      "action": "執着が来たら「触→受→愛→取」の流れを一つ辿る",
+      "quote": "これらの四つの執取は、渇愛を因縁とし、渇愛を集起とします。渇愛は、感受を因縁とし……。感受は、接触を因縁とし……。接触は、六つの〔認識の〕場所を因縁とし……〔以下、名色・識・諸行・無明に至る〕。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "受から渇愛・執取へ流れる縁起を辿る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·縁起",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-nidana",
+          "text": "此四受何因何習從何而生以何爲本。此四受因無明習無明從無明生以無明爲本。",
+          "satLocus": "大正蔵 T1.591b 師子吼経",
+          "note": "漢訳は四取の本を無明に圧縮。パーリは渇愛←受←触の連鎖を詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P08",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "明知·涅槃",
+      "observe": "無明を捨て明知が生じれば四取に執取せず、思い悩まない者は各自涅槃に至る。",
+      "action": "夜、今日の無明を一つ認め、執着を手放して眠る",
+      "quote": "すなわち、まさに、比丘の、無明が捨棄されたものと成り、明知が生起したものと〔成ることから〕、彼は、……欲望への執取に執取せず、見解への執取に執取せず、戒や掟への執取に執取せず、自己の論への執取に執取しません。〔何も〕執取せずにいる者は、〔何も〕思い悩みません。……各自それぞれに、完全なる涅槃に到達します。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "無明を捨て四取に執取せず涅槃へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·明知·涅槃",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-nibbana",
+          "text": "若有比丘無明已盡明已生者。彼便從是不復更受欲受戒受見受我受。彼不受已則不恐怖……必般涅槃。生已盡梵行已立。",
+          "satLocus": "大正蔵 T1.591b 師子吼経",
+          "note": "無明尽・明生→不受四取→涅槃。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P09",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "苦·不脱",
+      "observe": "二見を如実に知らぬ者は、反感と虚構を喜び、生老死の苦から解き放たれない。",
+      "action": "今日、教義の優劣を争う言葉を一度止める",
+      "quote": "これらの二つの見解の……出離を、事実のとおりに覚知しないなら、彼らは、……共感し反感する者たちであり、彼らは、虚構を喜びとし虚構を喜ぶ者たちであり、彼らは、生から、老から、死から……完全に解き放たれません。『〔彼らは〕苦しみから完全に解き放たれない』と、〔わたしは〕説きます。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "諍いと戯論が苦から解き放たれないと見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·苦·不脱",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-dukkha",
+          "text": "有憎有諍。彼則不離生老病死亦不能脱愁慼啼哭憂苦懊惱不得苦邊。",
+          "satLocus": "大正蔵 T1.591a 師子吼経",
+          "note": "憎諍＝苦からの不脱。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P10",
+      "category": "speech",
+      "ref": "MN 11",
+      "section": "無憎無諍",
+      "observe": "究極の目的は、共感・反感なく、虚構なきを喜ぶ者のため——争う論者のためではない。",
+      "action": "反論したくなったとき、相手の利益を一つ考えてから話す",
+      "quote": "『友よ、その目的は、共感せず反感しない者のためにあります。その目的は、共感し反感する者のためにあるのではありません』と。『友よ、その目的は、虚構なきものを喜びとし虚構なきものを喜ぶ者のためにあります』と。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正思惟"
+      ],
+      "pathReason": "反感なく、相手の利益を考えてから話す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·無憎無諍",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-no-quarrel",
+          "text": "無憎無諍者得究竟是。非有憎有諍者得究竟是。",
+          "satLocus": "大正蔵 T1.591a 師子吼経",
+          "note": "無憎無諍＝究極の条件。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P11",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "正法律",
+      "observe": "善く説かれた出脱・寂止の法と律においてのみ、四法の浄信は正しい至達となる。",
+      "action": "今日学んだ三経のうち、一節をメモし明日も反芻する",
+      "quote": "善く告げ知らされ、善く説き知らされ、出脱〔の教え〕であり、寂止のために等しく転起するものであり、正等覚者によって知らされたものである、法（教え）と律においては、教師にたいする浄信は……正しい至達あるものと告げ知らされ、……法を共にする者たちにおける愛しく意に適うことは……告げ知らされます。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "善説の法と律を振り返り、明日も反芻する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·正法律",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-saddhamma",
+          "text": "如是正法律若信尊師者是正是第一。若信法者是正是第一。若戒徳具足者是正是第一。若愛敬同道恭恪奉事者是正是第一。",
+          "satLocus": "大正蔵 T1.591b 師子吼経",
+          "note": "正法律における四法の第一。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN11-P12",
+      "category": "view",
+      "ref": "MN 11",
+      "section": "一切取遍知",
+      "observe": "欲取だけ知り我語取を知らぬ「一切の執取の遍知」は円満ではない。如来は四取すべてを正しく報知する。",
+      "action": "自分の修行が「好みの部分」だけで終わっていないか問う",
+      "quote": "一切の執取の遍知を説く者たちと明言している、或る沙門や婆羅門たちが存在します。彼らは、欲望への執取の遍知を報知するも、見解への執取の遍知を報知せず、戒や掟への執取の遍知を報知せず、自己の論への執取の遍知を報知しません。……阿羅漢にして正等覚者たる如来は、……欲望への執取の遍知を報知し、見解への……戒や掟への……自己の論への執取の遍知を報知します。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "好みの取だけ知って終わっていないか確かめる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・小なる獅子吼の経（MN11）·一切取遍知",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 師子吼小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含103・師子吼経（T26）",
+          "t26": "T26-103-incomplete",
+          "text": "施設斷欲受。不施設斷戒受見受我受。……如來……於現法中施設斷一切受。施設斷欲受戒受見受我受",
+          "satLocus": "大正蔵 T1.591a–b 師子吼経",
+          "note": "部分的断受≠一切受の断。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0590",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

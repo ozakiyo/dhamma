@@ -1,0 +1,424 @@
+{
+  "chapter": 107,
+  "sutta": 107,
+  "title": "中部 第107経（算数家目犍連経）",
+  "shortTitle": "算数家目犍連経",
+  "mapNote": "後分五十経篇 · 天臂品",
+  "suttas": [
+    "MN 107 算数家目犍連経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "release",
+    "focusReason": "算数家目犍連経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第107経（算数家目犍連経）",
+    "shortTitle": "算数家目犍連経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "算数家目犍連経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN107-P02",
+          "MN107-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "算数家目犍連経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN107-P03",
+          "MN107-P08"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "算数家目犍連経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN107-P01",
+          "MN107-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "算数家目犍連経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN107-P01",
+          "MN107-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "算数家目犍連経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN107-P07",
+          "MN107-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "散乱を離れ、定へ戻る",
+        "chapterHint": "算数家目犍連経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN107-P02",
+          "MN107-P03",
+          "MN107-P04"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "算数家目犍連経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN107-P02",
+          "MN107-P04"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN107-P01",
+      "category": "people",
+      "ref": "MN 107",
+      "section": "導",
+      "observe": "算数家目犍連は、漸進の禅定を、世尊に問う",
+      "action": "今日、修行の段階を、一つ確認する",
+      "quote": "漸進の禅定とは何か——算数家目犍連は問う"
+    },
+    {
+      "id": "MN107-P02",
+      "category": "work",
+      "ref": "MN 107",
+      "section": "漸進",
+      "observe": "世尊は、戒→念→四禅→神通→煩悩の滅尽の漸進を説いた",
+      "action": "今日、修行の一段階を、一つ踏む",
+      "quote": "戒→念→四禅→神通→漏尽——これが漸進の道である"
+    },
+    {
+      "id": "MN107-P03",
+      "category": "prep",
+      "ref": "MN 107",
+      "section": "戒",
+      "observe": "漸進の第一は、戒",
+      "action": "今日、戒を一つ、意識して守る",
+      "quote": "漸進の第一は、戒である"
+    },
+    {
+      "id": "MN107-P04",
+      "category": "work",
+      "ref": "MN 107",
+      "section": "念",
+      "observe": "戒の次は、念",
+      "action": "今日、念を一つ、五呼吸修する",
+      "quote": "戒の次は、念である"
+    },
+    {
+      "id": "MN107-P05",
+      "category": "desire",
+      "ref": "MN 107",
+      "section": "盖",
+      "observe": "五蓋を除いてから、禅に入る",
+      "action": "今日、五蓋の一つを、名付けて除く",
+      "quote": "五蓋を除いてから、禅に入る"
+    },
+    {
+      "id": "MN107-P06",
+      "category": "work",
+      "ref": "MN 107",
+      "section": "四禅",
+      "observe": "念の次は、四禅",
+      "action": "今日、禅の一段階を、一つ意識する",
+      "quote": "念の次は、四禅である"
+    },
+    {
+      "id": "MN107-P07",
+      "category": "suffering",
+      "ref": "MN 107",
+      "section": "漏",
+      "observe": "煩悩の滅尽が、漸進の頂",
+      "action": "今日、煩悩の滅尽を、一つ意識する",
+      "quote": "漏尽が、漸進の頂である"
+    },
+    {
+      "id": "MN107-P08",
+      "category": "speech",
+      "ref": "MN 107",
+      "section": "教誡",
+      "observe": "世尊は、算数家目犍連に、漸進を説いた",
+      "action": "今日、漸進の教えを、誰かに一つ伝える",
+      "quote": "世尊は、漸進の道を説いた"
+    },
+    {
+      "id": "MN107-P09",
+      "category": "prep",
+      "ref": "MN 107",
+      "section": "正見",
+      "observe": "正見は、漸進の始まり",
+      "action": "今日、正見を一つ、漸進の始まりに置く",
+      "quote": "正見は、漸進の始まりである"
+    },
+    {
+      "id": "MN107-P10",
+      "category": "people",
+      "ref": "MN 107",
+      "section": "结",
+      "observe": "算数家目犍連は、世尊の教えを聞いて、道を得た",
+      "action": "正しい教えを聞いたら、段階を踏む",
+      "quote": "算数家目犍連は、世尊の教えを聞いて、道を得た"
+    },
+    {
+      "id": "MN107-P11",
+      "category": "night",
+      "ref": "MN 107",
+      "section": "結",
+      "observe": "漸進——夜、今日の修行の段階を一つ振り返る",
+      "action": "就寝前、今日踏んだ段階を、静かに反芻する",
+      "quote": "戒→念→四禅→神通→漏尽——これが漸進の道である"
+    }
+  ]
+}

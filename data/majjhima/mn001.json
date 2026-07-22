@@ -1,0 +1,768 @@
+{
+  "chapter": 1,
+  "sutta": 1,
+  "title": "中部 第1経・根本法門経（根元の教相の経）",
+  "shortTitle": "根本法門経（根元の教相の経）",
+  "mapNote": "根本五十経篇 · 根本法門品（アラナ：根元の教相の章）",
+  "suttas": [
+    "MN 1 根本法門経（根元の教相の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第1経（根本法門経／根元の教相の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含106想経（T26）を段落対応でマッピング（対応なしは明示）。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・根元の教相の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・想経（T1.596b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+        "note": "漢訳対応は段落ごとに異なる。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第1経・根本法門経（根元の教相の経）",
+    "shortTitle": "根本法門経（根元の教相の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "根本法門を聞き、凡夫の無聞に触れる",
+        "chapterHint": "根本法門経（根元の教相の経）",
+        "fromPrev": "前夜の見直しが、今朝の聴聞の土台になる",
+        "toNext": "接触のあと、対象への想と受が立ち上がる",
+        "todayObserve": "比丘たちよ、わたしはあなたたちに、一切の法の根本法門を説く。よく聞き、よく心に留めよ。今、説こう。",
+        "todayAction": "朝、今日執着しやすい対象を一つ挙げ、「執着する/喜ぶ」を観察する",
+        "when": [
+          "教えを読むとき",
+          "確信の根拠を問うとき"
+        ],
+        "sources": [
+          "MN1-P01",
+          "MN1-P02",
+          "MN1-P10"
+        ],
+        "leadQuote": "比丘たちよ、一切の諸法（事象）の根元の教相を、あなたたちに説示しましょう。それを聞きなさい。善く…",
+        "secondaryObserve": "教えを十分に聞いていない凡夫は、聖者を認めず、聖なる法を熟知せず、聖なる法を導きとせず、正なる人を認めず、正なる法を熟知せず、正なる法を導きとしない。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "想と受だけを見て、愉悦の手前で留まる",
+        "chapterHint": "根本法門経（根元の教相の経）",
+        "fromPrev": "対象に触れたあと、快・想が立つ",
+        "toNext": "止めないと『わたしのもの』への欲しがりへ",
+        "todayObserve": "地を地と想う瞬間、快・不快・考えだけを見る。",
+        "todayAction": "身体・場所への「これは私」と感じる瞬間、一度手放す",
+        "when": [
+          "身体・場所に触れた",
+          "情報に触れた"
+        ],
+        "sources": [
+          "MN1-P03"
+        ],
+        "leadQuote": "地を地として表象します。地を地として表象して〔そののち〕、地のことを思い考えます…",
+        "secondaryObserve": "想だけを見て、所有の物語に乗せない"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "『わたしのもの』として喜ぶ欲しがりを見抜く",
+        "chapterHint": "根本法門経（根元の教相の経）",
+        "fromPrev": "受のあと、地から涅槃まで愉悦へ流れる",
+        "toNext": "喜べば掴み、苦が太る",
+        "todayObserve": "凡夫は地を地と想い、地を『わたしのものだ』と考え、地を喜ぶ。なぜなら、まだ遍く知っていないからである。",
+        "todayAction": "身体・場所への「これは私」と感じる瞬間、一度手放す",
+        "when": [
+          "欲が出た",
+          "正しさに酔った"
+        ],
+        "sources": [
+          "MN1-P03",
+          "MN1-P09"
+        ],
+        "leadQuote": "地を地として表象します。地を地として表象して〔そののち〕、地のことを思い考えます…",
+        "secondaryObserve": "涅槃まで『わたしの涅槃だ』と想い、涅槃を喜べば、解脱さえ概念の執着になる。遍知されていないからである。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "見聞の正しさを掴まず、乗せない",
+        "chapterHint": "根本法門経（根元の教相の経）",
+        "fromPrev": "欲しがりが、見聞・所有として掴む手前",
+        "toNext": "掴むと苦と老死の流れが見える",
+        "todayObserve": "見られたもの・聞かれたものも同じである。『これはわたしのものだ』と取って喜べば、遍知されていないまま苦が続く。",
+        "todayAction": "今日見た・聞いた情報に「私の正しさ」を載せない",
+        "when": [
+          "見た・聞いた情報に乗る前",
+          "これは私だと感じた"
+        ],
+        "sources": [
+          "MN1-P04"
+        ],
+        "leadQuote": "見られたものを見られたものとして表象します。見られたものを見られたものとして表象…",
+        "secondaryObserve": "見聞を『わたしの正しさ』にしない"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "愉悦が苦の根元だと見る",
+        "chapterHint": "根本法門経（根元の教相の経）",
+        "fromPrev": "掴んだ結果として、有・生・老死が熟す",
+        "toNext": "見れば、喜ばず遍知する実践へ向き直る",
+        "todayObserve": "如来は、喜びが苦の根本であることを知り、有から生があり、生類に老死があることを知る。ゆえに一切の渇愛を滅尽し、離貪・止滅・捨棄によって無上の正等覚を現正覚した。",
+        "todayAction": "快い経験の裏に「執着する/喜ぶ」がないか一瞬見る",
+        "when": [
+          "快のあとに重さが出た",
+          "執着の結果を見た"
+        ],
+        "sources": [
+          "MN1-P07"
+        ],
+        "leadQuote": "『愉悦は、苦しみの根元である』と、かくのごとく見出して、『生存から生がある』『生…",
+        "secondaryObserve": "有より生、生より老死"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "想せず喜ばず、遍知へ戻る",
+        "chapterHint": "根本法門経（根元の教相の経）",
+        "fromPrev": "苦が見えれば、有学・阿羅漢の不愉悦へ向き直る",
+        "toNext": "離すと、正しく知る夜の見直しへつながる",
+        "todayObserve": "学びの途上にある比丘（有学）は、地を地として正しく知るが、『わたしのものだ』と考えてはならず、地を喜んではならない。なぜなら、まだ遍く知るべきだからである。",
+        "todayAction": "修行中の自分に「まだ執着する所がある」と正直に認める",
+        "when": [
+          "まだ執着があると感じた",
+          "喜ばない知に触れた"
+        ],
+        "sources": [
+          "MN1-P05",
+          "MN1-P06"
+        ],
+        "leadQuote": "すなわち、また、その比丘が、〔いまだ〕学びある者（有学）であり、〔いまだ〕意図に…",
+        "secondaryObserve": "阿羅漢は地を地として正しく知り、考えず、『わたしのものだ』とせず、喜ばない。なぜなら、すでに遍く知ったからである。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "view",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで喜びに乗ったかを見直す",
+        "chapterHint": "根本法門経（根元の教相の経）",
+        "fromPrev": "一日の想・愉悦は朝からの流れの跡",
+        "toNext": "見直しが、翌朝の根本法門の聴聞になる",
+        "todayObserve": "正見とは対象を否定することではない。地を地として正しく知り、逆さまに取らず、喜びに乗らないことである。 世尊がこう説かれたとき、比丘たちは大いに喜ばなかった。根本法門は、対象への愉悦を根として見抜く深い教えである。",
+        "todayAction": "就寝前、今日「取ったもの」を一つ思い出し、明日手放す",
+        "when": [
+          "一日を閉じるとき",
+          "教えが重く感じた日"
+        ],
+        "sources": [
+          "MN1-P08",
+          "MN1-P11"
+        ],
+        "leadQuote": "世尊は、この〔言葉〕を言いました。それらの比丘たちは、世尊の語ったことを大いに喜…",
+        "secondaryObserve": "正見とは対象を否定することではない。地を地として正しく知り、逆さまに取らず、喜びに乗らないことである。"
+      }
+    ],
+    "focusNodeId": "craving",
+    "focusReason": "根本法門経は執着・愉悦の構造が主題。既定の焦点は欲しがる。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN1-P01",
+      "category": "mindfulness",
+      "ref": "MN 1",
+      "section": "導",
+      "observe": "比丘たちよ、わたしはあなたたちに、一切の法の根本法門を説く。よく聞き、よく心に留めよ。今、説こう。",
+      "action": "朝、今日執着しやすい対象を一つ挙げ、「執着する/喜ぶ」を観察する",
+      "quote": "比丘たちよ、一切の諸法（事象）の根元の教相を、あなたたちに説示しましょう。それを聞きなさい。善くしっかりと、意を為しなさい。〔では〕語ります",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "一切法の根本法門を聞く入口",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·導",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-open",
+          "text": "我聞如是。一時佛遊舍衞國在勝林給孤獨園。爾時世尊告諸比丘。",
+          "satLocus": "大正蔵 T1.596b 想経第十",
+          "note": "対応経は中阿含106想経（及び別訳・楽想経T56）。導入は舎衛／祇園で、パーリ（ウッカッター）と場は異なる。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P02",
+      "category": "view",
+      "ref": "MN 1",
+      "section": "凡夫",
+      "observe": "教えを十分に聞いていない凡夫は、聖者を認めず、聖なる法を熟知せず、聖なる法を導きとせず、正なる人を認めず、正なる法を熟知せず、正なる法を導きとしない。",
+      "action": "今日、確信の根拠が「自分の正しい知」か一度問う",
+      "quote": "比丘たちよ、ここに、無聞の凡夫が、聖者たちと会見しない者であり、聖者たちの法（教え）を熟知しない者であり、聖者たちの法（教え）において教導されず、正なる人士たちと会見しない者であり、正なる人士たちの法（教え）を熟知しない者であり、正なる人士たちの法（教え）において教導されず",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "無聞の凡夫として教えに触れない構造",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·凡夫",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-puthujjana",
+          "text": "若有沙門梵志於地有地想。地即是神。地是神所。神是地所。彼計地即是神已便不知地。",
+          "satLocus": "大正蔵 T1.596b 想経",
+          "note": "漢訳は『凡夫の無聞』を詳述せず、地想＝神と計る誤りとして対応する。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P03",
+      "category": "intention",
+      "ref": "MN 1",
+      "section": "凡夫·地",
+      "observe": "凡夫は地を地と想い、地を『わたしのものだ』と考え、地を喜ぶ。なぜなら、まだ遍く知っていないからである。",
+      "action": "身体・場所への「これは私」と感じる瞬間、一度手放す",
+      "quote": "地を地として表象します。地を地として表象して〔そののち〕、地のことを思い考えます。地について思い考え、地として思い考え、地を『わたしのものである』と思い考え、地に愉悦します。それは、何を因とするのですか。『彼には、〔いまだ〕遍知されていないものがあるから』と、〔わたしは〕説きます。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "地を『わたしのもの』として喜ぶ欲しがり",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·凡夫·地",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-pathavi",
+          "text": "若有沙門梵志於地有地想。地即是神。地是神所。神是地所。彼計地即是神已便不知地。如是水火風……",
+          "satLocus": "大正蔵 T1.596b 想経",
+          "note": "地を地と想い神と計る＝パーリの『わたしのもの／愉悦』に近い執取の漢訳表現。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P04",
+      "category": "mindfulness",
+      "ref": "MN 1",
+      "section": "凡夫·見聞",
+      "observe": "見られたもの・聞かれたものも同じである。『これはわたしのものだ』と取って喜べば、遍知されていないまま苦が続く。",
+      "action": "今日見た・聞いた情報に「私の正しさ」を載せない",
+      "quote": "見られたものを見られたものとして表象します。見られたものを見られたものとして表象して〔そののち〕、見られたもののことを思い考えます。見られたものについて思い考え、見られたものとして思い考え、見られたものを『わたしのものである』と思い考え、見られたものに愉悦します。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "見聞を『わたしのもの』として掴む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·凡夫·見聞",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-dittha",
+          "text": "一別若干見聞識知得觀意所念意所思。從此世至彼世。從彼世至此世。彼於一切有一切想。",
+          "satLocus": "大正蔵 T1.596b–c 想経",
+          "note": "見聞識知への想と一切想が、パーリの見聞等への愉悦に対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P05",
+      "category": "effort",
+      "ref": "MN 1",
+      "section": "有学",
+      "observe": "学びの途上にある比丘（有学）は、地を地として正しく知るが、『わたしのものだ』と考えてはならず、地を喜んではならない。なぜなら、まだ遍く知るべきだからである。",
+      "action": "修行中の自分に「まだ執着する所がある」と正直に認める",
+      "quote": "すなわち、また、その比丘が、〔いまだ〕学びある者（有学）であり、〔いまだ〕意図に至り得ていない者であり、束縛からの平安（軛安穏）という無上なるものを切望しながら〔世に〕住むなら、彼もまた、地を地として証知します。地を地として証知して〔そののち〕、地のことを思い考えてはなりません。……地に愉悦してはなりません。それは、何を因とするのですか。『彼には、〔それが〕遍知されるべきであるから』と、〔わたしは〕説きます。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "有学として想せず喜ばず遍知へ向かう",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·有学",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-sekha",
+          "text": "若有沙門梵志於地則知地。地非是神地非神所神非地所。彼不計地即是神已。彼便知地。",
+          "satLocus": "大正蔵 T1.596b–c 想経",
+          "note": "正しく知り神と計らない＝有学の『想せず喜ばず』に近い。漢訳は有学／阿羅漢の段階分けが短い。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P06",
+      "category": "concentration",
+      "ref": "MN 1",
+      "section": "阿羅漢",
+      "observe": "阿羅漢は地を地として正しく知り、考えず、『わたしのものだ』とせず、喜ばない。なぜなら、すでに遍く知ったからである。",
+      "action": "今日、執着が弱まった瞬間を「喜ばない知」と認める",
+      "quote": "すなわち、また、その比丘が、阿羅漢であり、煩悩（漏）の滅尽者であり、〔梵行の〕完成者であり、為すべきことを為した者であり、〔生の〕重荷を置いた者であり、正しい了知による解脱者であるなら、彼もまた、地を地として証知します。……地に愉悦しません。それは、何を因とするのですか。『彼には、〔それが〕遍知されたから』と、〔わたしは〕説きます。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "pathReason": "阿羅漢は遍知ゆえに喜ばない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·阿羅漢",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-arahant",
+          "text": "彼於一切則知一切。一切非是神一切非神所神非一切所。彼不計一切即是神已。彼便知一切。",
+          "satLocus": "大正蔵 T1.596c 想経",
+          "note": "遍知して神と計らない。パーリの阿羅漢段（貪瞋痴の滅尽による不愉悦）は漢訳で圧縮。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P07",
+      "category": "view",
+      "ref": "MN 1",
+      "section": "如来",
+      "observe": "如来は、喜びが苦の根本であることを知り、有から生があり、生類に老死があることを知る。ゆえに一切の渇愛を滅尽し、離貪・止滅・捨棄によって無上の正等覚を現正覚した。",
+      "action": "快い経験の裏に「執着する/喜ぶ」がないか一瞬見る",
+      "quote": "『愉悦は、苦しみの根元である』と、かくのごとく見出して、『生存から生がある』『生類には老と死がある』と〔知るからです〕。比丘たちよ、それゆえに、ここに、『如来は。全てにわたり、諸々の渇愛（愛）の、滅尽あることから、離貪あることから、止滅あることから、施捨あることから、放棄あることから、無上なる正等覚を現正覚したのだ』と、〔わたしは〕説きます。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見"
+      ],
+      "pathReason": "愉悦が苦の根元であると見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·如来",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": "中阿含106・想経（T26）",
+          "note": "想経には『愉悦は苦の根元／渇愛滅尽による正覚』の如来段が明示されない。対応は経全体（想を離れ正しく知る）に留め、本ペアは unmapped。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P08",
+      "category": "view",
+      "ref": "MN 1",
+      "section": "有学·正知",
+      "observe": "正見とは対象を否定することではない。地を地として正しく知り、逆さまに取らず、喜びに乗らないことである。",
+      "action": "今日、一つの対象を「ありのまま」に見る練習を一つする",
+      "quote": "彼もまた、地を地として証知します。地を地として証知して〔そののち〕、地のことを思い考えてはなりません。……地に愉悦してはなりません。それは、何を因とするのですか。『彼には、〔それが〕遍知されるべきであるから』と、〔わたしは〕説きます。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "正しく知るとは逆さまに取らないこと",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·有学·正知",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-yathabhuta",
+          "text": "我於地則知地。地非是神地非神所神非地所。我不計地即是神已。我便知地。",
+          "satLocus": "大正蔵 T1.596c 想経",
+          "note": "正しく知る＝神と計らない知。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P09",
+      "category": "intention",
+      "ref": "MN 1",
+      "section": "凡夫·涅槃",
+      "observe": "涅槃まで『わたしの涅槃だ』と想い、涅槃を喜べば、解脱さえ概念の執着になる。遍知されていないからである。",
+      "action": "「悟り」「正しい」というラベル自体に執着していないか問う",
+      "quote": "涅槃を涅槃として表象します。涅槃を涅槃として表象して〔そののち〕、涅槃のことを思い考えます。涅槃について思い考え、涅槃として思い考え、涅槃を『わたしのものである』と思い考え、涅槃に愉悦します。それは、何を因とするのですか。『彼には、〔いまだ〕遍知されていないものがあるから』と、〔わたしは〕説きます。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "涅槃概念への欲しがり・愉悦",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·凡夫·涅槃",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": "中阿含106・想経（T26）",
+          "note": "想経は涅槃への愉悦を独立に説かない（一切想に含む可能性はあるが、直接対応なし）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P10",
+      "category": "mindfulness",
+      "ref": "MN 1",
+      "section": "導·聴聞",
+      "observe": "よく聞き、心にしっかりと留めよ。今、説く。",
+      "action": "今日のペアを一つ、声に出して読み返す",
+      "quote": "それを聞きなさい。善くしっかりと、意を為しなさい。〔では〕語ります",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念"
+      ],
+      "pathReason": "善く意を為して聞く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·導·聴聞",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含106・想経（T26）",
+          "t26": "T26-106-listen",
+          "text": "爾時世尊告諸比丘。",
+          "satLocus": "大正蔵 T1.596b 想経",
+          "note": "聴聞の導入。パーリの『善く意を為せ』に相当する文言は漢訳で短い。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN1-P11",
+      "category": "view",
+      "ref": "MN 1",
+      "section": "結語",
+      "observe": "世尊がこう説かれたとき、比丘たちは大いに喜ばなかった。根本法門は、対象への愉悦を根として見抜く深い教えである。",
+      "action": "就寝前、今日「取ったもの」を一つ思い出し、明日手放す",
+      "quote": "世尊は、この〔言葉〕を言いました。それらの比丘たちは、世尊の語ったことを大いに喜ばなかった（愉悦しなかった）、ということです。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "愉悦に乗らず、根本を夜に見直す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・根元の教相の経（MN1）·結語",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 根本法門経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": "中阿含106・想経（T26）",
+          "note": "パーリ結語は比丘が喜ばなかった。想経結語は『歡喜奉行』で逆。対応なしとして unmapped。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

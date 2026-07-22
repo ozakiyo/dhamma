@@ -1,0 +1,820 @@
+{
+  "chapter": 20,
+  "sutta": 20,
+  "title": "中部 第20経・考想息止経（思考の様相の経）",
+  "shortTitle": "考想息止経（思考の様相の経）",
+  "mapNote": "根本五十経篇 · 師子吼品（アラナ：思考の様相の経）",
+  "suttas": [
+    "MN 20 考想息止経（思考の様相の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第20経（考想息止経／思考の様相の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含101増上心経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・思考の様相の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・増上心経（T1.588a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+        "note": "五相對治。對照表: 法雨道場（想念止息經）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第20経・考想息止経（思考の様相の経）",
+    "shortTitle": "考想息止経（思考の様相の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "反芻に触れ、五形相の入口で善対象へ移す",
+        "chapterHint": "考想息止経（思考の様相の経）",
+        "fromPrev": "見直しが、今朝の反芻の接触を変える",
+        "toNext": "触のあと、過害と厭いの受が見える",
+        "todayObserve": "卓越の心に専念する比丘は、五つの形相を時々意に為す——反芻が止まらないとき、まず別の善い対象に意識を移す。",
+        "todayAction": "反芻が止まらないとき、まず別の善い対象に意識を移す",
+        "when": [
+          "反芻が始まった",
+          "善相を用意した"
+        ],
+        "sources": [
+          "MN20-P01",
+          "MN20-P09"
+        ],
+        "leadQuote": "比丘たちよ、卓越の心（瞑想）に専念する比丘によって、五つの形相が、〔その〕時〔そ…",
+        "secondaryObserve": "思念なく意を為さない——眼ある人が色を見たくなければ閉眼するか他を顧みる如く——小さな反芻を「見ない」と決め、最初の段階で対処する。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "view",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "厭い忌避の受で過害を見て、善縁想の置き換え先を持つ",
+        "chapterHint": "考想息止経（思考の様相の経）",
+        "fromPrev": "接触のあと、厭うべき受が立つ",
+        "toNext": "受に乗ると語って強める欲しがりへ",
+        "todayObserve": "過害を見る——首に死骸を掛けられた若者が厭い忌避する如く——反芻を「これ厭うべきもの」と見て、一歩距離を置く。",
+        "todayAction": "反芻を「これ厭うべきもの」と見て、一歩距離を置く",
+        "when": [
+          "厭いを見た",
+          "善相をメモした"
+        ],
+        "sources": [
+          "MN20-P08",
+          "MN20-P12"
+        ],
+        "leadQuote": "……それは、たとえば、また、年少にして、若く、派手好きの、あるいは、女が、あるい…",
+        "secondaryObserve": "善を伴った他の形相——あらかじめ用意しておく——反芻の代わりに使う善い縁想を一つ決め、メモしておく。"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "speech",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正語",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "mindfulness"
+        ],
+        "pathLabel": "語って強める欲しがりを止め、不念で離す",
+        "chapterHint": "考想息止経（思考の様相の経）",
+        "fromPrev": "受のあと、話して固めたい欲しがりが立つ",
+        "toNext": "止めないと心で抑え込む掴みへ",
+        "todayObserve": "思念なく意を為さない——反芻を語って強めない——今日、反芻を他人に話して強めない。",
+        "todayAction": "今日、反芻を他人に話して強めない",
+        "when": [
+          "反芻を話したくなった",
+          "黙って離した"
+        ],
+        "sources": [
+          "MN20-P11"
+        ],
+        "leadQuote": "……それらの思考の、思念なく意を為さないことが惹起されるべきです。彼が、それらの…",
+        "secondaryObserve": "不應念此念"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "effort",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正精進",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "concentration"
+        ],
+        "pathLabel": "最後手段として心で心を制御し圧迫する",
+        "chapterHint": "考想息止経（思考の様相の経）",
+        "fromPrev": "欲しがりのあと、激しい反芻の掴みが手前",
+        "toNext": "掴むと苦報の患が見える（または離しへ）",
+        "todayObserve": "第五——歯を合わせ舌を上顎に付け、心で心を制御し圧迫し撃滅する——反芻が激しいとき、身体を一度締め、呼吸で心を抑える。",
+        "todayAction": "反芻が激しいとき、身体を一度締め、呼吸で心を抑える",
+        "when": [
+          "反芻が激しかった",
+          "歯を合わせた"
+        ],
+        "sources": [
+          "MN20-P06"
+        ],
+        "leadQuote": "（５）……その比丘によって、歯のうえに歯を置いて、舌で上顎に触れて、心によって、…",
+        "secondaryObserve": "以心修心"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "思考の危険·苦報を注視し滅至させる",
+        "chapterHint": "考想息止経（思考の様相の経）",
+        "fromPrev": "掴んだ結果として、不善·苦報の患が見える",
+        "toNext": "見れば、五法の順で離しへ向き直る",
+        "todayObserve": "第二——思考の危険を注視する。不善・世俗・苦痛の報い——反芻の害を具体的に数えてみる。",
+        "todayAction": "反芻の害（時間·心の疲れ·関係の損）を具体的に数えてみる",
+        "when": [
+          "害を数えた",
+          "苦報を見た"
+        ],
+        "sources": [
+          "MN20-P03"
+        ],
+        "leadQuote": "（２）……その比丘によって、それらの思考の危険（患・過患）が近しく注視されるべき…",
+        "secondaryObserve": "惡有災患"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "善相·不念·五法の順で不善思考を捨棄する",
+        "chapterHint": "考想息止経（思考の様相の経）",
+        "fromPrev": "苦が見えれば、楔で楔を抜くように離す",
+        "toNext": "離せば、夜の自在の見直しへ",
+        "todayObserve": "第一——不善思考が起きたら、その形相から善を伴った他の形相に意を為す——反芻の対象と反対の善い縁想を一つ選び、意識を移す。",
+        "todayAction": "反芻の対象と反対の善い縁想を一つ選び、意識を移す",
+        "when": [
+          "善相へ移った",
+          "五法を順に試した"
+        ],
+        "sources": [
+          "MN20-P02",
+          "MN20-P04",
+          "MN20-P07"
+        ],
+        "leadQuote": "（１）……その形相に意を為していると、諸々の悪しき善ならざる思考が──欲〔の思い…",
+        "secondaryObserve": "五法は順に——繊細な楔で粗雑な楔を抜き取る石工の如く——善相→過害→念じない→行の様相→心で抑えるの順で試す。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "行の様相を調べ、思考の自在を振り返る",
+        "chapterHint": "考想息止経（思考の様相の経）",
+        "fromPrev": "一日の反芻は、朝からの五形相の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "思考の教相の道における自在者——望む思考を思考し、望まない思考を思考しない——就寝前、反芻を五呼吸で手放し、善い縁想を一つ置く。",
+        "todayAction": "就寝前、反芻を五呼吸で手放し、善い縁想を一つ置く",
+        "when": [
+          "一日を閉じるとき",
+          "行の様相を調べた日"
+        ],
+        "sources": [
+          "MN20-P05",
+          "MN20-P10"
+        ],
+        "leadQuote": "比丘たちよ、この者は、『比丘として、諸々の思考の教相の道における自在者であり、そ…",
+        "secondaryObserve": "第四——思考を形成する働きの様相に意を為す。急ぎ→徐行→立→坐→臥のように粗を細へ——「なぜこの思いが来たか」を静かに調べ、呼吸で鎮める。"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "思考の様相の経は五つの形相で不善思考を捨棄し心を内に確立するのが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN20-P01",
+      "category": "mindfulness",
+      "ref": "MN 20",
+      "section": "五つの形相",
+      "observe": "卓越の心に専念する比丘は、五つの形相を時々意に為す——反芻が止まらないとき、まず別の善い対象に意識を移す。",
+      "action": "反芻が止まらないとき、まず別の善い対象に意識を移す",
+      "quote": "比丘たちよ、卓越の心（瞑想）に専念する比丘によって、五つの形相が、〔その〕時〔その〕時に〔しかるべく〕意が為されるべきです。どのようなものが、五つのものなのですか。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "反芻に触れ、五形相の第一として善対象へ移す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·五つの形相",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-intro",
+          "text": "若比丘欲得增上心者，當以數數念於五相。數念五相已，生不善念，即便得滅，惡念滅已，心便常住，在內止息，一意得定。",
+          "satLocus": "大正蔵 T1.588a 増上心経",
+          "note": "數數念五相＝五つの形相。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P02",
+      "category": "intention",
+      "ref": "MN 20",
+      "section": "第一·別相",
+      "observe": "第一——不善思考が起きたら、その形相から善を伴った他の形相に意を為す——反芻の対象と反対の善い縁想を一つ選び、意識を移す。",
+      "action": "反芻の対象と反対の善い縁想を一つ選び、意識を移す",
+      "quote": "（１）……その形相に意を為していると、諸々の悪しき善ならざる思考が──欲〔の思い〕を伴ったものもまた、憤怒を伴ったものもまた、迷妄を伴ったものもまた──生起するなら、……その形相から、善なるものを伴った他の形相に意が為されるべきです。……すなわち、諸々の悪しき善ならざる思考は……捨棄され……滅至します。……内に、心は、確立し、静止し、専一と成り、定められます。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "不善形相から善形相へ意を移し思考を捨棄する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·第一·別相",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-nimitta",
+          "text": "念相善相應，若生不善念者，彼因此相復更念異相善相應，令不生惡不善之念。……猶木工師……則以利斧，斫治令直。",
+          "satLocus": "大正蔵 T1.588a 増上心経",
+          "note": "異相善相應＝善を伴った他の形相。漢は墨繩·利斧喩。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P03",
+      "category": "view",
+      "ref": "MN 20",
+      "section": "第二·過患",
+      "observe": "第二——思考の危険を注視する。不善・世俗・苦痛の報い——反芻の害を具体的に数えてみる。",
+      "action": "反芻の害（時間·心の疲れ·関係の損）を具体的に数えてみる",
+      "quote": "（２）……その比丘によって、それらの思考の危険（患・過患）が近しく注視されるべきです。『かくのごとくもまた、わたしの諸々の思考は、善ならざるものである。かくのごとくもまた、わたしの諸々の思考は、財貨を有するもの（世俗のもの）である。かくのごとくもまた、わたしの諸々の思考は、苦痛の報い（異熟）あるものである』と。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "思考の危険·苦報を注視し滅至させる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·第二·過患",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-adinava",
+          "text": "彼觀此念惡有災患，此念不善，此念是惡，此念智者所惡，此念若滿具者，則不得通、不得覺道、不得涅槃。",
+          "satLocus": "大正蔵 T1.588a–b 増上心経",
+          "note": "觀惡有災患＝危険の注視。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P04",
+      "category": "mindfulness",
+      "ref": "MN 20",
+      "section": "第三·不念",
+      "observe": "第三——それらの思考に、思念なく意を為さない——一度「この反芻には応答しない」と決めて黙る。",
+      "action": "今日、一度「この反芻には応答しない」と決めて黙る",
+      "quote": "（３）……その比丘によって、それらの思考の、思念なく意を為さないことが惹起されるべきです。彼が、それらの思考の、思念なく意を為さないことを惹起していると、すなわち、諸々の悪しき善ならざる思考は……捨棄され……滅至します。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "思念なく意を為さず、応答しないで滅至させる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·第三·不念",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-asati",
+          "text": "彼比丘不應念此念，令生惡不善念故。彼不念此念，已生不善念，即便得滅。",
+          "satLocus": "大正蔵 T1.588b 増上心経",
+          "note": "不應念＝思念なく意を為さない。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P05",
+      "category": "mindfulness",
+      "ref": "MN 20",
+      "section": "第四·行の様相",
+      "observe": "第四——思考を形成する働きの様相に意を為す。急ぎ→徐行→立→坐→臥のように粗を細へ——「なぜこの思いが来たか」を静かに調べ、呼吸で鎮める。",
+      "action": "反芻が来たら「なぜこの思いが来たか」を静かに調べ、呼吸で鎮める",
+      "quote": "（４）……その比丘によって、それらの思考の、思考を形成する働き（行）の様相に意が為されるべきです。……それは、たとえば、また、人が、急いで赴くとします。……『……ゆっくりと赴くのだ』……『……立つのだ』……『……坐るのだ』……『……横になるのだ』と。……振る舞いの道の粗雑なるもの粗雑なるものを回避して、振る舞いの道の繊細なるもの繊細なるものを営為します。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "思考形成の様相を調べ、粗を細へ鎮める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·第四·行の様相",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-sankhara",
+          "text": "彼比丘為此念，當以思行漸減其念……猶人行道，進路急速……徐徐行……住……坐……臥……漸漸息身麤行。",
+          "satLocus": "大正蔵 T1.588b–c 増上心経",
+          "note": "思行漸減＝行の様相。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P06",
+      "category": "effort",
+      "ref": "MN 20",
+      "section": "第五·心で抑える",
+      "observe": "第五——歯を合わせ舌を上顎に付け、心で心を制御し圧迫し撃滅する——反芻が激しいとき、身体を一度締め、呼吸で心を抑える。",
+      "action": "反芻が激しいとき、身体を一度締め、呼吸で心を抑える",
+      "quote": "（５）……その比丘によって、歯のうえに歯を置いて、舌で上顎に触れて、心によって、心が、制御されるべきであり、圧迫されるべきであり、撃滅されるべきです。……力ある人が、より力の弱い人を……掴んで、制御し、圧迫し、撃滅するように……。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正精進",
+        "正定"
+      ],
+      "pathReason": "最後手段として心で心を制御し圧迫する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·第五·心で抑える",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-abhiniggaha",
+          "text": "齒齒相著，舌逼上齶，以心修心，受持降伏……猶二力士捉一羸人，受持降伏。",
+          "satLocus": "大正蔵 T1.588c 増上心経",
+          "note": "以心修心受持降伏＝心で心を制御。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P07",
+      "category": "effort",
+      "ref": "MN 20",
+      "section": "楔の喩",
+      "observe": "五法は順に——繊細な楔で粗雑な楔を抜き取る石工の如く——善相→過害→念じない→行の様相→心で抑えるの順で試す。",
+      "action": "反芻が来たら、善相→過害→念じない→止息の順で試す",
+      "quote": "……それは、たとえば、また、能ある、あるいは、石工が、あるいは、石工の内弟子が、繊細な楔で、粗雑な楔を、打ち砕き、引き抜き、取り出すように……その形相から、善なるものを伴った他の形相に意が為されるべきです。（危険の注視→思念なく意を為さない→行の様相→心で心を制御——順に進む。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "五法を順に試し、楔で楔を抜くように離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·楔の喩",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-sequence",
+          "text": "當以數數念於五相。……第一相……第二相……第三相……第四相……第五相。",
+          "satLocus": "大正蔵 T1.588a–c 増上心経",
+          "note": "五相を順に數數念。パーリの楔喩は漢で木工墨繩。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P08",
+      "category": "view",
+      "ref": "MN 20",
+      "section": "死骸の喩",
+      "observe": "過害を見る——首に死骸を掛けられた若者が厭い忌避する如く——反芻を「これ厭うべきもの」と見て、一歩距離を置く。",
+      "action": "反芻を「これ厭うべきもの」と見て、一歩距離を置く",
+      "quote": "……それは、たとえば、また、年少にして、若く、派手好きの、あるいは、女が、あるいは、男が、あるいは、蛇の死骸を、あるいは、犬の死骸を、あるいは、人間の死骸を、首に掛けられたなら、苦悩し、自責し、忌避するように……それらの思考の危険が近しく注視されるべきです。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "厭い忌避の受で過害を見て距離を置く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·死骸の喩",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-asubha",
+          "text": "猶人年少……或以死蛇、死狗、死人……繫著彼頸，彼便惡穢，不喜不樂。如是……彼觀此念，惡有災患。",
+          "satLocus": "大正蔵 T1.588a–b 増上心経",
+          "note": "死蛇死狗死人繫頸＝死骸の喩。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P09",
+      "category": "mindfulness",
+      "ref": "MN 20",
+      "section": "閉眼の喩",
+      "observe": "思念なく意を為さない——眼ある人が色を見たくなければ閉眼するか他を顧みる如く——小さな反芻を「見ない」と決め、最初の段階で対処する。",
+      "action": "今日、小さな反芻を「見ない」と決め、最初の段階で対処する",
+      "quote": "……それは、たとえば、また、眼ある人が、眼の視野にやってきた諸々の色形を見ないことを欲する者として存するなら、彼は、あるいは、〔眼を〕閉じるであろうし、あるいは、他を顧みるであろうように……それらの思考の、思念なく意を為さないことが惹起されるべきです。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "小さな反芻の接触で閉眼·他顧のように応じない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·閉眼の喩",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-cakkhuma",
+          "text": "猶有目人，色在光明，而不用見，彼或閉目，或身避去。……彼不念此念，已生不善念，即便得滅。",
+          "satLocus": "大正蔵 T1.588b 増上心経",
+          "note": "閉目·身避＝閉眼·他顧。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P10",
+      "category": "concentration",
+      "ref": "MN 20",
+      "section": "思考の自在",
+      "observe": "思考の教相の道における自在者——望む思考を思考し、望まない思考を思考しない——就寝前、反芻を五呼吸で手放し、善い縁想を一つ置く。",
+      "action": "就寝前、反芻を五呼吸で手放し、善い縁想を一つ置く",
+      "quote": "比丘たちよ、この者は、『比丘として、諸々の思考の教相の道における自在者であり、その思考を望むなら、その思考を思考するであろう。その思考を望まないなら、その思考を思考しないであろう。渇愛を断ち、束縛するものを還転させた。〔我想の〕思量の寂止あることから、正しく苦しみの終極を為した』〔と〕説かれます。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "pathReason": "夜に自在を振り返り、望まない思考を手放す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·思考の自在",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-vasavatti",
+          "text": "便得自在，欲念則念，不念則不念。若比丘欲念則念，不欲念則不念者，是謂比丘隨意諸念，自在諸念跡。",
+          "satLocus": "大正蔵 T1.589a 増上心経",
+          "note": "自在諸念＝思考の教相の道における自在。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P11",
+      "category": "speech",
+      "ref": "MN 20",
+      "section": "語らず強めず",
+      "observe": "思念なく意を為さない——反芻を語って強めない——今日、反芻を他人に話して強めない。",
+      "action": "今日、反芻を他人に話して強めない",
+      "quote": "……それらの思考の、思念なく意を為さないことが惹起されるべきです。彼が、それらの思考の、思念なく意を為さないことを惹起していると、すなわち、諸々の悪しき善ならざる思考は……捨棄され……滅至します。……内に、心は、確立し、静止し、専一と成り、定められます。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "語って強める欲しがりを止め、不念で離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·語らず強めず",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-no-reinforce",
+          "text": "彼比丘不應念此念……彼不念此念，已生不善念，即便得滅，惡念滅已，心便常住，在內止息，一意得定。",
+          "satLocus": "大正蔵 T1.588b 増上心経",
+          "note": "不念＝語って強めない実践。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN20-P12",
+      "category": "intention",
+      "ref": "MN 20",
+      "section": "善相の用意",
+      "observe": "善を伴った他の形相——あらかじめ用意しておく——反芻の代わりに使う善い縁想を一つ決め、メモしておく。",
+      "action": "反芻の代わりに使う善い縁想を一つ決め、メモしておく",
+      "quote": "……その形相から、善なるものを伴った他の形相に意が為されるべきです。彼が、その形相から、善なるものを伴った他の形相に意を為していると、すなわち、諸々の悪しき善ならざる思考は……捨棄され……滅至します。……内に、心は、確立し、静止し、専一と成り、定められます。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "善縁想を用意し、不善が来たときの置き換え先にする",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・思考の様相の経（MN20）·善相の用意",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 考想息止経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含101・増上心経（T26）",
+          "t26": "T26-101-prepare",
+          "text": "彼因此相復更念異相善相應，令不生惡不善之念。……心便常住，在內止息，一意得定。",
+          "satLocus": "大正蔵 T1.588a 増上心経",
+          "note": "異相善相應の用意。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0588a05",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

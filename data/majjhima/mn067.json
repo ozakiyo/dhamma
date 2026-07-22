@@ -1,0 +1,422 @@
+{
+  "chapter": 67,
+  "sutta": 67,
+  "title": "中部 第67経（車頭聚落経）",
+  "shortTitle": "車頭聚落経",
+  "mapNote": "中分五十経篇 · 比丘品",
+  "suttas": [
+    "MN 67 車頭聚落経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "車頭聚落経のペア分布から割り当て",
+    "chapterTitle": "中部 第67経（車頭聚落経）",
+    "shortTitle": "車頭聚落経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "車頭聚落経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN67-P01",
+          "MN67-P04"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "車頭聚落経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN67-P01",
+          "MN67-P07"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "車頭聚落経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN67-P02",
+          "MN67-P03"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "車頭聚落経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN67-P02",
+          "MN67-P03",
+          "MN67-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "車頭聚落経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN67-P09",
+          "MN67-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "車頭聚落経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN67-P01",
+          "MN67-P04"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "車頭聚落経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN67-P04",
+          "MN67-P10"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN67-P01",
+      "category": "prep",
+      "ref": "MN 67",
+      "section": "導",
+      "observe": "車頭聚落経——四種の比丘、如来の離座",
+      "action": "朝、共同体で新しい人への 忍 を一度確認する",
+      "quote": "四種の比丘——多聞·律持·説法·定者、和合に資す"
+    },
+    {
+      "id": "MN67-P02",
+      "category": "people",
+      "ref": "MN 67",
+      "section": "四比丘",
+      "observe": "多聞·律持·説法·定——四種、皆必要",
+      "action": "共同体の多様な役割を認める",
+      "quote": "多聞·律持·説法·定——この四種、皆和合に資す"
+    },
+    {
+      "id": "MN67-P03",
+      "category": "people",
+      "ref": "MN 67",
+      "section": "新比丘",
+      "observe": "新比丘——犯過あり、長老の 忍",
+      "action": "新しい人·後進に 忍 を持つ",
+      "quote": "新比丘は犯過あり——長老は 忍 を持ち、教える"
+    },
+    {
+      "id": "MN67-P04",
+      "category": "work",
+      "ref": "MN 67",
+      "section": "和合",
+      "observe": "和合——諍いを避け、共に学ぶ",
+      "action": "今日、共同体の和合を一つ助ける",
+      "quote": "和合——諍いを避け、共に学び、漏尽に至る"
+    },
+    {
+      "id": "MN67-P05",
+      "category": "desire",
+      "ref": "MN 67",
+      "section": "瞋",
+      "observe": "新比丘への瞋——和合を妨げる",
+      "action": "新しい人への瞋·苛立ちを一度手放す",
+      "quote": "新比丘への瞋——和合を妨げ、漏尽に至らしめず"
+    },
+    {
+      "id": "MN67-P06",
+      "category": "people",
+      "ref": "MN 67",
+      "section": "如来",
+      "observe": "如来の離座——長老に 忍 を教える",
+      "action": "後進の過ちに、 忍 で応する",
+      "quote": "如来は離座し——長老よ、新比丘に 忍 を"
+    },
+    {
+      "id": "MN67-P07",
+      "category": "speech",
+      "ref": "MN 67",
+      "section": "説法",
+      "observe": "説法者——共同体に資す",
+      "action": "学んだ一節を、必要な人に正しく伝える",
+      "quote": "説法者——法を正しく説き、和合に資す"
+    },
+    {
+      "id": "MN67-P08",
+      "category": "prep",
+      "ref": "MN 67",
+      "section": "正見",
+      "observe": "正見——和合· 忍",
+      "action": "正見は「和合· 忍·苦の滅」にあると確認する",
+      "quote": "正見——和合· 忍、漏尽の資なり"
+    },
+    {
+      "id": "MN67-P09",
+      "category": "suffering",
+      "ref": "MN 67",
+      "section": "諍",
+      "observe": "諍い——和合を破る",
+      "action": "今日、諍い·仲割れを一つ避ける",
+      "quote": "諍い——和合を破り、苦の因"
+    },
+    {
+      "id": "MN67-P10",
+      "category": "work",
+      "ref": "MN 67",
+      "section": "律持",
+      "observe": "律持——戒を守り、共同体に資す",
+      "action": "今日、戒·約束の一つを確かに守る",
+      "quote": "律持——戒を守り、和合に資す"
+    },
+    {
+      "id": "MN67-P11",
+      "category": "night",
+      "ref": "MN 67",
+      "section": "結",
+      "observe": "車頭聚落——四比丘· 忍",
+      "action": "就寝前、今日の共同体· 忍 を振り返る",
+      "quote": "新比丘に 忍 を——和合に資す"
+    }
+  ]
+}

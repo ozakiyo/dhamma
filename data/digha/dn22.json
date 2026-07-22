@@ -1,0 +1,168 @@
+{
+  "chapter": 22,
+  "sutta": 22,
+  "title": "長部 第22経（轉輪経）",
+  "shortTitle": "轉輪経",
+  "mapNote": "DN 22——轉輪経",
+  "suttas": [
+    "DN 22 轉輪経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（大篇）",
+    "verify": "南伝大蔵経 第7巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN22-P01",
+      "category": "prep",
+      "ref": "DN 22",
+      "section": "轉輪",
+      "observe": "四念処——浄心·現法楽住·正知の証に至る唯一の道",
+      "action": "朝、今日の四念処（身·受·心·法）の一つを決める",
+      "quote": "四念処のみ一つの道あり。これを修すれば、浄心·現法楽住·正知の証に至る"
+    },
+    {
+      "id": "DN22-P02",
+      "category": "work",
+      "ref": "DN 22",
+      "section": "身",
+      "observe": "身念処——呼吸·四威儀·構成要素·死屍を観る",
+      "action": "今日、呼吸を一分数、熱心に正知に観る",
+      "quote": "比丘、内の身を熱心に、正知に、念を持って観察す"
+    },
+    {
+      "id": "DN22-P03",
+      "category": "work",
+      "ref": "DN 22",
+      "section": "受",
+      "observe": "受念処——乐·苦·不苦不乐を観る",
+      "action": "今日、快·苦·中性の受が来たら、そのまま観る",
+      "quote": "内の受を熱心に、正知に、念を持って観察す"
+    },
+    {
+      "id": "DN22-P04",
+      "category": "work",
+      "ref": "DN 22",
+      "section": "心",
+      "observe": "心念処——貪·怒り·散·定など心の状態を観る",
+      "action": "今日、心の状態（貪·怒り·散·定）を一つ名づけて観る",
+      "quote": "内の心を熱心に、正知に、念を持って観察す"
+    },
+    {
+      "id": "DN22-P05",
+      "category": "work",
+      "ref": "DN 22",
+      "section": "法",
+      "observe": "法念処——五盖·五蘊·六入·七覚支·四諦を観る",
+      "action": "今日、五盖·四諦のうち一つを観察に結びつける",
+      "quote": "内の法を熱心に、正知に、念を持って観察す"
+    },
+    {
+      "id": "DN22-P06",
+      "category": "desire",
+      "ref": "DN 22",
+      "section": "四倒",
+      "observe": "四倒——身·受·心·法の净·乐·常·我を破る",
+      "action": "今日、「これは常·乐·我·净」と思う対象を一つ疑う",
+      "quote": "四倒を破れ。身·受·心·法に净·乐·常·我なし"
+    },
+    {
+      "id": "DN22-P07",
+      "category": "suffering",
+      "ref": "DN 22",
+      "section": "五盖",
+      "observe": "五盖——欲·嗔·睡眠·落ち着かない心·疑。念処で対治",
+      "action": "今日、五盖のうち一つに気づいたら、対応する念処に戻る",
+      "quote": "五盖を離れ、四念処を修せ"
+    },
+    {
+      "id": "DN22-P08",
+      "category": "prep",
+      "ref": "DN 22",
+      "section": "四諦",
+      "observe": "法念処に四諦——観察は苦·集·滅·道と結びつく",
+      "action": "一つの苦について「これが苦諦」と静かに認める",
+      "quote": "法念処に、四聖諦を観ず"
+    },
+    {
+      "id": "DN22-P09",
+      "category": "work",
+      "ref": "DN 22",
+      "section": "精進",
+      "observe": "不退転の努力——四念処は日々の修行",
+      "action": "精進が衰えたとき「四念処の一つ」を選び直す",
+      "quote": "四念処を日々修せ。不退転の努力なり"
+    },
+    {
+      "id": "DN22-P10",
+      "category": "night",
+      "ref": "DN 22",
+      "section": "轉輪",
+      "observe": "大念処（轉輪）——心の王を正す観察",
+      "action": "就寝前、今日の四念処のうち最もよくできた一つを振り返る",
+      "quote": "四念処を修せ。心の王を正し、解脱に至る"
+    },
+    {
+      "id": "DN22-P11",
+      "category": "people",
+      "ref": "DN 22",
+      "section": "教誡",
+      "observe": "四念処を人に説く——善友の役割",
+      "action": "今日、四念処の一つを誰かに説明する（または自分に説く）",
+      "quote": "善知識、四念処を説き、弟子を苦の滅に導く"
+    },
+    {
+      "id": "DN22-P12",
+      "category": "speech",
+      "ref": "DN 22",
+      "section": "正語",
+      "observe": "観察中は語らず——内なる反芻を増やさない",
+      "action": "今日、独りの観察時間に不要な独り言を一度止める",
+      "quote": "観察の時、語らず、念を持て"
+    }
+  ]
+}

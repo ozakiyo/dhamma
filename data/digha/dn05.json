@@ -1,0 +1,168 @@
+{
+  "chapter": 5,
+  "sutta": 5,
+  "title": "長部 第5経（究陀経）",
+  "shortTitle": "究陀経",
+  "mapNote": "DN 5——究陀経",
+  "suttas": [
+    "DN 5 究陀経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（戒初篇）",
+    "verify": "南伝大蔵経 第6巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN5-P01",
+      "category": "prep",
+      "ref": "DN 5",
+      "section": "供犠",
+      "observe": "真の供犠は、生き物を殺さず、心の害を捨てること",
+      "action": "朝、今日「害を与えない」と決める一歩を選ぶ",
+      "quote": "真正の供犠あり。殺生を離れ、盗みを離れ、邪行を離る"
+    },
+    {
+      "id": "DN5-P02",
+      "category": "work",
+      "ref": "DN 5",
+      "section": "戒",
+      "observe": "大供犠の第一歩——十不善を止め、十善を行う",
+      "action": "今日、十善のうち一つ（不殺·不盗·不妄など）を意識する",
+      "quote": "王は、殺生·不与取·邪行·妄語·兩舌·粗悪語·綺語·貪·嗔·邪見を離れる"
+    },
+    {
+      "id": "DN5-P03",
+      "category": "desire",
+      "ref": "DN 5",
+      "section": "貪",
+      "observe": "供犠への執着は、形式の美しさに心を奪われる",
+      "action": "儀式·見栄のための行いを一つ見直す",
+      "quote": "形式の供犠に執着すれば、心の害は消えず"
+    },
+    {
+      "id": "DN5-P04",
+      "category": "people",
+      "ref": "DN 5",
+      "section": "王",
+      "observe": "賢王は、民を害さぬ供犠を選ぶ",
+      "action": "今日、自分の決定が誰かに害にならないか一度問う",
+      "quote": "摩訶ヴィジタ王は、民を害さぬ供犠を行う。祭司は、是を讃える"
+    },
+    {
+      "id": "DN5-P05",
+      "category": "suffering",
+      "ref": "DN 5",
+      "section": "殺生",
+      "observe": "殺すことの供犠は、殺す者·殺される者の双方に苦を生む",
+      "action": "今日、他者や生き物への害を与える行為を一つ減らす",
+      "quote": "牛·羊·山羊を殺す供犠——是れ、苦の増長なり"
+    },
+    {
+      "id": "DN5-P06",
+      "category": "work",
+      "ref": "DN 5",
+      "section": "四无量",
+      "observe": "慈·悲·喜·捨を修すれば、供犠は心の中で完成する",
+      "action": "今日、一人に慈心を向ける（願い·呼吸·黙想）",
+      "quote": "慈无量心·悲无量心·喜无量心·捨无量心を修す。是れ、真正の供犠なり"
+    },
+    {
+      "id": "DN5-P07",
+      "category": "speech",
+      "ref": "DN 5",
+      "section": "正語",
+      "observe": "供犠の言葉は、他者を傷つけず、真実を語る",
+      "action": "今日、話す前に「この言葉は害にならないか」と一度止まる",
+      "quote": "妄語·兩舌·粗悪語·綺語を離れ、正語を行え"
+    },
+    {
+      "id": "DN5-P08",
+      "category": "desire",
+      "ref": "DN 5",
+      "section": "嗔",
+      "observe": "嗔を捨て去ることが、供犠の核心である",
+      "action": "苛立ちが来たら、一度呼吸を置き「嗔を捨てる」と決める",
+      "quote": "嗔を離れ、害意を離れ、不害の心を生ず"
+    },
+    {
+      "id": "DN5-P09",
+      "category": "people",
+      "ref": "DN 5",
+      "section": "布施",
+      "observe": "貧者への布施は、祭壇より尊い供犠",
+      "action": "今日、小さな布施（時間·労力·物）を一つ行う",
+      "quote": "貧者·旅人·病者に施す。是れ、供犠に勝る"
+    },
+    {
+      "id": "DN5-P10",
+      "category": "work",
+      "ref": "DN 5",
+      "section": "禅",
+      "observe": "戒と无量心の後に、禅が供犠を完成させる",
+      "action": "今日、一呼吸で心を静め、慈心を一度確認する",
+      "quote": "彼は、四无量心を修し、四禅に入る。是れ、供犠の究竟なり"
+    },
+    {
+      "id": "DN5-P11",
+      "category": "night",
+      "ref": "DN 5",
+      "section": "振り返り",
+      "observe": "今日の「供犠」——形式か、心の害を捨てる行いか",
+      "action": "就寝前、今日害を与えた·避けた瞬間を一つ振り返る",
+      "quote": "真正の供犠は、夜昼を通じて、害を離れる"
+    },
+    {
+      "id": "DN5-P12",
+      "category": "prep",
+      "ref": "DN 5",
+      "section": "不害",
+      "observe": "究陀経——害を離れることが、最大の祭りである",
+      "action": "明日の一歩を「不害」から選ぶ",
+      "quote": "我、究陀に説く。殺生を離れ、心の害を捨て去れ"
+    }
+  ]
+}

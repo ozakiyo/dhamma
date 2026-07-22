@@ -1,0 +1,168 @@
+{
+  "chapter": 8,
+  "sutta": 8,
+  "title": "長部 第8経（師子吼経）",
+  "shortTitle": "師子吼経",
+  "mapNote": "DN 8——師子吼経",
+  "suttas": [
+    "DN 8 師子吼経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（戒初篇）",
+    "verify": "南伝大蔵経 第6巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN8-P01",
+      "category": "prep",
+      "ref": "DN 8",
+      "section": "師子吼",
+      "observe": "師子吼——この教団の法は、他に比類なき",
+      "action": "朝、自分の修行を「形式」ではなく「果」に結びつけて問う",
+      "quote": "汝等、師子吼を為すべし。この教団にのみ、四沙門あり"
+    },
+    {
+      "id": "DN8-P02",
+      "category": "people",
+      "ref": "DN 8",
+      "section": "誹謗",
+      "observe": "誹謗は、誹謗する者の不明を示す",
+      "action": "今日、他者を批判する前に「自分は何を知っているか」と問う",
+      "quote": "不明の者、如来を誹謗す。明の者、是を正す"
+    },
+    {
+      "id": "DN8-P03",
+      "category": "work",
+      "ref": "DN 8",
+      "section": "十種",
+      "observe": "如来は十の理由で、誹謗を受けるべきでない",
+      "action": "今日、確信の根拠を一つ（戒·定·慧·四諦など）確認する",
+      "quote": "如来は、戒具足·定具足·慧具足……十の理由に依り、誹謗を受くべからず"
+    },
+    {
+      "id": "DN8-P04",
+      "category": "speech",
+      "ref": "DN 8",
+      "section": "正しい批判",
+      "observe": "正しい批判は、事実に基づき、害意なく",
+      "action": "今日、批判する前に「事実か·害意か」を一度問う",
+      "quote": "事実に基づき、害意なく語れ。是れ、正しい批判なり"
+    },
+    {
+      "id": "DN8-P05",
+      "category": "desire",
+      "ref": "DN 8",
+      "section": "見執",
+      "observe": "見解への執着が、誹謗と諍いを生む",
+      "action": "今日、自分の見解を証明したい衝動を「見執」と名づける",
+      "quote": "見に執着すれば、誹謗し、諍う"
+    },
+    {
+      "id": "DN8-P06",
+      "category": "suffering",
+      "ref": "DN 8",
+      "section": "苦",
+      "observe": "誹謗は、誹謗する者自身に苦を返す",
+      "action": "今日、批判的な言葉を一度止め、慈心を向ける",
+      "quote": "誹謗は、誹謗者に苦を返す。慈心は、双方を安らかにする"
+    },
+    {
+      "id": "DN8-P07",
+      "category": "work",
+      "ref": "DN 8",
+      "section": "四禅",
+      "observe": "四禅を修すれば、師子吼の根拠が身に付く",
+      "action": "今日、一呼吸で「離生喜楽」の方向に心を向ける",
+      "quote": "四禅を修す者、師子吼を為す資格あり"
+    },
+    {
+      "id": "DN8-P08",
+      "category": "people",
+      "ref": "DN 8",
+      "section": "対行者",
+      "observe": "他教の行者を誹謗せず、自らの道を歩む",
+      "action": "今日、他者の修行を贬めず、自分の一歩に集中する",
+      "quote": "他教を誹謗せず、自らの道を修せ"
+    },
+    {
+      "id": "DN8-P09",
+      "category": "prep",
+      "ref": "DN 8",
+      "section": "正見",
+      "observe": "正見の比丘は、四取を執らず、涅槃を自証する",
+      "action": "今日、執着を一つ手放し、掛慮なく過ごす",
+      "quote": "正見の比丘、四取を執らず、涅槃を自ら証知す"
+    },
+    {
+      "id": "DN8-P10",
+      "category": "night",
+      "ref": "DN 8",
+      "section": "振り返り",
+      "observe": "夜、師子吼を反芻——今日の道を確認する",
+      "action": "就寝前、今日歩んだ戒·定·慧の一つを振り返る",
+      "quote": "師子吼を為す者、夜昼を通じて道を修す"
+    },
+    {
+      "id": "DN8-P11",
+      "category": "work",
+      "ref": "DN 8",
+      "section": "四无量",
+      "observe": "慈·悲·喜·捨は、師子吼を支える心",
+      "action": "今日、一人に慈心を向ける",
+      "quote": "四无量心を修す者、師子吼を為す"
+    },
+    {
+      "id": "DN8-P12",
+      "category": "speech",
+      "ref": "DN 8",
+      "section": "説法",
+      "observe": "師子吼は、誇りではなく、法の確信から出る",
+      "action": "今日、確信を語る前に、実践の一歩を語る",
+      "quote": "我、師子吼を為す。是れ、法の確信より出ずる"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "model": "dependent-origination-x-eightfold",
+  "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+  "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+  "originNodes": [
+    {
+      "id": "contact",
+      "label": "接触"
+    },
+    {
+      "id": "feeling",
+      "label": "受ける"
+    },
+    {
+      "id": "craving",
+      "label": "欲しがる"
+    },
+    {
+      "id": "clinging",
+      "label": "掴む"
+    },
+    {
+      "id": "suffering",
+      "label": "苦"
+    },
+    {
+      "id": "release",
+      "label": "離す"
+    },
+    {
+      "id": "review",
+      "label": "見直す"
+    }
+  ],
+  "pathFactors": [
+    {
+      "id": "view",
+      "label": "正見"
+    },
+    {
+      "id": "intention",
+      "label": "正思惟"
+    },
+    {
+      "id": "speech",
+      "label": "正語"
+    },
+    {
+      "id": "action",
+      "label": "正業"
+    },
+    {
+      "id": "livelihood",
+      "label": "正命"
+    },
+    {
+      "id": "effort",
+      "label": "正精進"
+    },
+    {
+      "id": "mindfulness",
+      "label": "正念"
+    },
+    {
+      "id": "concentration",
+      "label": "正定"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "contact",
+      "weekday": 1,
+      "nidanaLabel": "接触",
+      "pathFactors": [
+        "正念"
+      ],
+      "pathFactorIds": [
+        "mindfulness"
+      ],
+      "pathLabel": "触れた瞬間に気づく",
+      "fromPrev": "前夜の見方が、今朝の接触の土台になる",
+      "toNext": "止めないと、快・不快の受が立ち上がる",
+      "todayObserve": "通知・人・言葉が触れた瞬間に「来た」と知る",
+      "todayAction": "反応の前に一呼吸おく",
+      "when": [
+        "通知が来た",
+        "会話が始まった"
+      ],
+      "sources": [
+        "DP1-P01",
+        "DP1-P16"
+      ]
+    },
+    {
+      "id": "feeling",
+      "weekday": 2,
+      "nidanaLabel": "受ける",
+      "pathFactors": [
+        "正念"
+      ],
+      "pathFactorIds": [
+        "mindfulness"
+      ],
+      "pathLabel": "感だけを見る",
+      "fromPrev": "接触のあと、快・不快・どちらでもない感が立つ",
+      "toNext": "止めないと「もっと／嫌だ」へ流れる",
+      "todayObserve": "快・不快が立ったら、評価せず感だけを見る",
+      "todayAction": "感にすぐ言葉や行動を乗せない",
+      "when": [
+        "イラッとした",
+        "嬉しくて一気に動きたくなった"
+      ],
+      "sources": [
+        "DP1-P23",
+        "DP1-P02"
+      ]
+    },
+    {
+      "id": "craving",
+      "weekday": 3,
+      "nidanaLabel": "欲しがる／拒む",
+      "pathFactors": [
+        "正思惟"
+      ],
+      "pathFactorIds": [
+        "intention"
+      ],
+      "pathLabel": "衝動に名前を付け、乗らない意図を立てる",
+      "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+      "toNext": "止めないと執着して掴む",
+      "todayObserve": "「もっと」「嫌だ」が立ったら名前を付ける",
+      "todayAction": "乗らない意図を一度立ててから動く",
+      "when": [
+        "欲が出た",
+        "拒絶したくなった"
+      ],
+      "sources": [
+        "DP1-P03",
+        "DP1-P11",
+        "DP1-P18"
+      ]
+    },
+    {
+      "id": "clinging",
+      "weekday": 4,
+      "nidanaLabel": "掴む",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "pathFactorIds": [
+        "speech",
+        "action"
+      ],
+      "pathLabel": "言葉と行いで乗らない",
+      "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+      "toNext": "掴むと苦が太る",
+      "todayObserve": "返信・言い返し・浪費の手前にいると知る",
+      "todayAction": "送る／言い返す前に一度止める",
+      "when": [
+        "返信の前",
+        "言い返したくなった"
+      ],
+      "sources": [
+        "DP1-P06",
+        "DP1-P08",
+        "DP1-P15"
+      ]
+    },
+    {
+      "id": "suffering",
+      "weekday": 5,
+      "nidanaLabel": "苦が太る",
+      "pathFactors": [
+        "正見"
+      ],
+      "pathFactorIds": [
+        "view"
+      ],
+      "pathLabel": "掴んだ結果だと見る",
+      "fromPrev": "掴んだ結果として、心や関係が重くなる",
+      "toNext": "見ないままだと執念が続く",
+      "todayObserve": "苦を「これは掴んだ結果の縁起だ」と見る",
+      "todayAction": "他責だけにせず、自分の掴みも一枚見る",
+      "when": [
+        "後悔が残った",
+        "関係が重くなった"
+      ],
+      "sources": [
+        "DP1-P21",
+        "DP1-P25",
+        "DP1-P13"
+      ]
+    },
+    {
+      "id": "release",
+      "weekday": 6,
+      "nidanaLabel": "気づいて離す",
+      "pathFactors": [
+        "正精進"
+      ],
+      "pathFactorIds": [
+        "effort"
+      ],
+      "pathLabel": "気づいたら戻る",
+      "fromPrev": "流れの途中で「乗っている」と気づく",
+      "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+      "todayObserve": "流れていたら「今、離す」と見る",
+      "todayAction": "短い観察や節度で、一つ戻る",
+      "when": [
+        "仕事で焦った",
+        "画面に引きずられた"
+      ],
+      "sources": [
+        "DP1-P17",
+        "DP1-P19",
+        "DP1-P28"
+      ]
+    },
+    {
+      "id": "review",
+      "weekday": 0,
+      "nidanaLabel": "夜に見直す",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathFactorIds": [
+        "view",
+        "mindfulness"
+      ],
+      "pathLabel": "どこまで流れ、どこで切れたかを見る",
+      "fromPrev": "一日の語り・行いは朝からの流れの跡",
+      "toNext": "見直しが、翌朝の接触の土台になる",
+      "todayObserve": "どこまで流れ、どこで切れたかを静かに見る",
+      "todayAction": "事実を一つ書き、自責の炎には浸からない",
+      "when": [
+        "一日を閉じるとき",
+        "寝不足で散らかった日"
+      ],
+      "sources": [
+        "DP1-P31",
+        "DP1-P35",
+        "DP1-P33"
+      ]
+    }
+  ]
+}

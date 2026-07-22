@@ -1,0 +1,1028 @@
+{
+  "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+  "chapter": 22,
+  "shortTitle": "地獄品（地獄の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第22章（地獄品／地獄の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210地獄品）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・地獄の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第２２章・地獄品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・地獄品（T4.570a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第22章・地獄品（地獄の章）",
+    "shortTitle": "地獄品（地獄の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "外形に触れず、内外を護って一日を始める",
+        "chapterHint": "地獄品（地獄の章）",
+        "fromPrev": "前夜の正見の見直しが、今朝の自己護持になる",
+        "toNext": "接触のあと、恥じ・恐怖の受が立ち上がる",
+        "todayObserve": "辺境の城を内外共に護るが如く、自己を護るべし。 一刹那も〔ゆるがせに〕過ぎ去らしむることなかれ。 刹那をゆるがせにせる者は、地獄に至りて憂患を受く。",
+        "todayAction": "朝、内側（心の状態）と外側（言動）の両方を「護る」意識で一日を始める",
+        "when": [
+          "朝の始まり",
+          "見た目で安心しそう"
+        ],
+        "sources": [
+          "DP22-P02",
+          "DP22-P11"
+        ],
+        "leadQuote": "あたかも、辺境にある、内外共に保護された城市のように、このように、自己を保護する…",
+        "secondaryObserve": "袈裟を纒うも、悪を行い節制なき者は地獄に堕す"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "view",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "恥じと恐怖の受を正見で受け取り、歪めない",
+        "chapterHint": "地獄品（地獄の章）",
+        "fromPrev": "護りのあと、恥じ・恐怖の受が来る",
+        "toNext": "歪んだ受を、境界侵犯の欲しがりへ落とさない",
+        "todayObserve": "恥ずべからざるを恥じ、恥ずべきを恥じず、邪見を抱ける衆生は悪趣に至る。 怖るべからざることに恐怖を見、怖るべきことに恐怖を見ず、邪見を抱ける衆生は悪趣に至る。",
+        "todayAction": "「これは本当に恥ずべきことか」と、自分の羞恥心の基準を一度点検する",
+        "when": [
+          "羞恥心が揺れた",
+          "恐れを感じた"
+        ],
+        "sources": [
+          "DP22-P12",
+          "DP22-P13"
+        ],
+        "leadQuote": "〔彼らは〕恥ずべきではないところで恥じ、恥ずべきところで恥じない──誤った見解（…",
+        "secondaryObserve": "怖るべからざるに恐怖を見、怖るべきに恐怖を見ずば悪趣へ"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "他者の領域への欲しがりと懈怠を緩める",
+        "chapterHint": "地獄品（地獄の章）",
+        "fromPrev": "受が歪むと、侵犯や中途半端への欲しがりへ",
+        "toNext": "止めないと妄語・無戒の掴みへ進む",
+        "todayObserve": "放逸にして他人の妻を犯す人は、〔次の〕四事に達す。 罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。",
+        "todayAction": "他者の領域（関係・財物・情報）を侵す衝動が生じたとき、一歩止まる",
+        "when": [
+          "一線を越えそう",
+          "怠けて手を抜きたくなった"
+        ],
+        "sources": [
+          "DP22-P04",
+          "DP22-P05",
+          "DP22-P08"
+        ],
+        "leadQuote": "〔気づきを〕怠り、他者の妻に近しく慣れ親しむ人は、四つの状況を惹起する。〔すなわ…",
+        "secondaryObserve": "懈怠・汚れた戒・逡巡に大果なし"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "speech",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "mindfulness"
+        ],
+        "pathLabel": "妄語・無戒・誤った修行を掴まず、誠実に立つ",
+        "chapterHint": "地獄品（地獄の章）",
+        "fromPrev": "欲しがりが、隠蔽・無戒・誤修として掴む手前",
+        "toNext": "掴むと罪業と地獄の苦が太る",
+        "todayObserve": "不実を語る者は地獄に堕す。 或いはまた〔自ら〕為して、我為さずと言う者も〔地獄に堕す〕。 これら両種の悪業者は、死後他世（地獄）に於て同等なり。",
+        "todayAction": "今日、不都合な事実を隠したり言い訳したりする前に、一度「これは真実か」と問う",
+        "when": [
+          "言い訳しそう",
+          "信頼に値しない受け取り"
+        ],
+        "sources": [
+          "DP22-P01",
+          "DP22-P03",
+          "DP22-P07"
+        ],
+        "leadQuote": "事実ならざることを説く者は、地獄に近づく。あるいは、また、彼が、為して〔そののち…",
+        "secondaryObserve": "修行を誤れる沙門道は人を地獄に導く"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "侵犯と邪見の掴みが、悪趣の苦になると知る",
+        "chapterHint": "地獄品（地獄の章）",
+        "fromPrev": "掴んだ結果として、罪業・罰・悪趣の苦が熟す",
+        "toNext": "見れば、断固とした行いと正見へ向き直る",
+        "todayObserve": "〔彼は〕罪業を得、また悪趣〔に堕す〕。 かつ怯えたる〔男〕と怯えたる〔女〕との淫楽は少なし。 王もまた〔これに〕酷しき刀杖を加う。 されば人は他人の妻を犯すべからず。",
+        "todayAction": "欲に引きずられそうなとき、その先に何が待っているかを具体的に想像する",
+        "when": [
+          "欲の先の苦を想像する",
+          "罪の見誤りに気づいた"
+        ],
+        "sources": [
+          "DP22-P06",
+          "DP22-P14"
+        ],
+        "leadQuote": "そして、〔男は〕善ならざる利得ある者となり、かつまた、〔女は〕悪しき境遇ある者と…",
+        "secondaryObserve": "罪なきを罪あり、罪あるを罪なしと見れば悪趣へ"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "view"
+        ],
+        "pathLabel": "為すべきを断固として為し、正見で離す",
+        "chapterHint": "地獄品（地獄の章）",
+        "fromPrev": "苦が見えれば、懈怠を捨て正見へ向き直る",
+        "toNext": "離すと、善悪の夜の見直しへつながる",
+        "todayObserve": "もし為すべくんばこれを為し、断固としてこれを遂行すべし。 懈怠の遊行者は更に多くの欲塵を散ずるのみ。",
+        "todayAction": "今日、決めたことを最後まで断固として実行する。途中でやめない",
+        "when": [
+          "決めたことをやり切る",
+          "正見で分ける"
+        ],
+        "sources": [
+          "DP22-P09",
+          "DP22-P15"
+        ],
+        "leadQuote": "もし、為すべきなら、これを為し、断固として、これに勤しむがよい。なぜなら、緩慢な…",
+        "secondaryObserve": "罪ある所に罪ありと知り、正見を抱ける衆生は善趣に至る"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "action",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正業",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "action",
+          "mindfulness"
+        ],
+        "pathLabel": "悪業を為さず善業を為したかを、公平に見直す",
+        "chapterHint": "地獄品（地獄の章）",
+        "fromPrev": "一日の行いは、地獄か善趣かの跡",
+        "toNext": "見直しが、翌朝の自己護持になる",
+        "todayObserve": "悪業は為さざるこそ勝れ、後に至りて悪業は人を苦しむ。 善業は為すこそ勝れ、そを為して苦しむことなし。 罪ある所に罪ありと知り、また罪なき所に罪なしと〔知る〕、正見を抱ける衆生は善趣に至る。",
+        "todayAction": "今夜、今日なした行いの中で「後悔するかもしれない悪業」と「続けたい善業」を一つずつ挙げる",
+        "when": [
+          "一日を閉じるとき",
+          "後悔と継続を分ける"
+        ],
+        "sources": [
+          "DP22-P10"
+        ],
+        "leadQuote": "悪行は、〔為すよりは〕為さずにいたほうが、より勝っている。〔為したその〕悪行が、…",
+        "secondaryObserve": "悪業は為さざるこそ勝れ、善業は為すこそ勝れ"
+      }
+    ],
+    "focusNodeId": "clinging",
+    "focusReason": "地獄品は妄語・無戒・誤修など掴みが地獄へ近づく中心。既定の焦点は掴む。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP22-P01",
+      "category": "speech",
+      "verse": 306,
+      "observe": "不実を語る者は地獄に堕す。 或いはまた〔自ら〕為して、我為さずと言う者も〔地獄に堕す〕。 これら両種の悪業者は、死後他世（地獄）に於て同等なり。",
+      "action": "今日、不都合な事実を隠したり言い訳したりする前に、一度「これは真実か」と問う",
+      "quote": "事実ならざることを説く者は、地獄に近づく。あるいは、また、彼が、為して〔そののち〕、さらに、「〔わたしは〕為さない」〔と〕言うなら、〔彼もまた、地獄に近づく〕。両者ともどもに、彼らは、下劣な行為の人間たちとして、死してのち、他所（来世）において、等しき者たちと成る。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "妄語・隠蔽は地獄へ近づく掴み",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第306偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第306偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-001",
+          "text": "妄語地獄近，作之言不作，二罪後俱受，是行自牽往。",
+          "satLocus": "大正蔵 T4.570a 地獄品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P02",
+      "category": "mindfulness",
+      "verse": 307,
+      "observe": "袈裟を頸に纒うも、悪を行い節制なき者多し。 かかる悪人はその悪業によりて地獄に堕す。",
+      "action": "肩書きや見た目より、今日の行いの誠実さを優先する",
+      "quote": "黄褐色〔の衣〕（袈裟）を首にしながら、自制なく悪しき法（性質）の者たちが多くいる。悪しき者たちは、彼らは、〔自己の為した〕諸々の悪しき行為（悪業）によって、地獄に再生する。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "袈裟という外形に触れても、悪行あれば地獄へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第307偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第307偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-002",
+          "text": "法衣在其身，為惡不自禁，苟沒惡行者，終則墮地獄。",
+          "satLocus": "大正蔵 T4.570a 地獄品第2頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P03",
+      "category": "livelihood",
+      "verse": 308,
+      "observe": "破戒・無節制にして、国民の施食を受くるよりは、むしろ火炎の如く灼熱せる鉄丸を食うこそ勝れ。",
+      "action": "人の厚意や恩を受けるとき、自分がその信頼に値する行いをしているか確かめる",
+      "quote": "すなわち、もし、自制なき劣戒の者が、国人による〔行乞の〕食を受けるなら、熱せられた、火炎の如き鉄の玉を食べたほうが、より勝っている（悪業を作って地獄に落ちるよりはまだましである）。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "pathReason": "無戒で施食を掴むより鉄丸を食うほうが勝る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第308偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第308偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-003",
+          "text": "無戒受供養，理豈不自損？死噉燒鐵丸，然熱劇火炭。",
+          "satLocus": "大正蔵 T4.570a 地獄品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P04",
+      "category": "intention",
+      "verse": 309,
+      "observe": "放逸にして他人の妻を犯す人は、〔次の〕四事に達す。 罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。",
+      "action": "他者の領域（関係・財物・情報）を侵す衝動が生じたとき、一歩止まる",
+      "quote": "〔気づきを〕怠り、他者の妻に近しく慣れ親しむ人は、四つの状況を惹起する。〔すなわち〕善ならざる利得（悪しき報い）あること、欲するままに臥せないこと、第三に、非難〔を受けること〕、第四に、地獄〔に落ちること〕である。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "他人の領域への欲しがりは四つの悪果を招く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第309偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第309偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-004",
+          "text": "放逸有四事：好犯他人婦，臥險非福利，毀三淫泆四。",
+          "satLocus": "大正蔵 T4.570a 地獄品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P05",
+      "category": "intention",
+      "verse": 309,
+      "observe": "放逸にして他人の妻を犯す人は、〔次の〕四事に達す。 罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。",
+      "action": "今日、相手が「自分のもの」として大切にしているものに、一線を越えずに関わる",
+      "quote": "〔気づきを〕怠り、他者の妻に近しく慣れ親しむ人は、四つの状況を惹起する。〔すなわち〕善ならざる利得（悪しき報い）あること、欲するままに臥せないこと、第三に、非難〔を受けること〕、第四に、地獄〔に落ちること〕である。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "他人の領域への欲しがりは四つの悪果を招く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第309偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第309偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-004",
+          "text": "放逸有四事：好犯他人婦，臥險非福利，毀三淫泆四。",
+          "satLocus": "大正蔵 T4.570a 地獄品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P06",
+      "category": "view",
+      "verse": 310,
+      "observe": "〔彼は〕罪業を得、また悪趣〔に堕す〕。 かつ怯えたる〔男〕と怯えたる〔女〕との淫楽は少なし。 王もまた〔これに〕酷しき刀杖を加う。 されば人は他人の妻を犯すべからず。",
+      "action": "欲に引きずられそうなとき、その先に何が待っているかを具体的に想像する",
+      "quote": "そして、〔男は〕善ならざる利得ある者となり、かつまた、〔女は〕悪しき境遇ある者となる。恐怖する〔男〕に、恐怖する〔女〕に、そして、歓楽はごく僅か。かつまた、王は、重き棒（罰）を課す。それゆえに、人は、他者の妻には慣れ親しまぬがよい。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "罪業・悪趣・恐怖・罰──淫楽は少なく苦が多い",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第310偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第310偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-005",
+          "text": "不福利墮惡，畏惡畏樂寡，王法重罰加，身死入地獄。",
+          "satLocus": "大正蔵 T4.570a 地獄品第5頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P07",
+      "category": "mindfulness",
+      "verse": 311,
+      "observe": "掴みそこねし茅草の手を切る如く、修行を誤れる沙門道は人を地獄に導く。",
+      "action": "今取り組んでいることの「方向性（やり方）」が正しいか、一度立ち止まって確かめる",
+      "quote": "あたかも、誤って掴んだ茅〔の葉〕が、まさしく、手を傷つけるように、誤って偏執された沙門の資質は、〔沙門その人を〕地獄へと引きずり込む。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "誤った修行の掴みは地獄へ引きずり込む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第311偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第311偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-006",
+          "text": "譬如拔菅草，執緩則傷手，學戒不禁制，獄錄乃自賊。",
+          "satLocus": "大正蔵 T4.570a 地獄品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P08",
+      "category": "effort",
+      "verse": 312,
+      "observe": "懈怠の行為、汚れたる戒行、逡巡せる梵行、かかるものに大果なし。",
+      "action": "今日、取り組むなら中途半端にせず、誠実に最後まで行い切る",
+      "quote": "それが何であれ、緩慢な行為であるなら、さらに、それが、汚染された掟であり、疑いある梵行（禁欲清浄行）であるなら、それは、大いなる果と成らない。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "懈怠・汚れた戒・逡巡に大果なし",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第312偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第312偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-007",
+          "text": "人行為慢惰，不能除眾勞，梵行有玷缺，終不受大福。",
+          "satLocus": "大正蔵 T4.570a 地獄品第7頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P09",
+      "category": "effort",
+      "verse": 313,
+      "observe": "もし為すべくんばこれを為し、断固としてこれを遂行すべし。 懈怠の遊行者は更に多くの欲塵を散ずるのみ。",
+      "action": "今日、決めたことを最後まで断固として実行する。途中でやめない",
+      "quote": "もし、為すべきなら、これを為し、断固として、これに勤しむがよい。なぜなら、緩慢な遍歴遊行者は、より一層、塵を撒き散らすからである。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "為すべきを断固として遂行し、塵を散らさぬ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第313偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第313偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-008",
+          "text": "常行所當行，自持必令強，遠離諸外道，莫習為塵垢。",
+          "satLocus": "大正蔵 T4.570a 地獄品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P10",
+      "category": "action",
+      "verse": 314,
+      "observe": "悪業は為さざるこそ勝れ、後に至りて悪業は人を苦しむ。 善業は為すこそ勝れ、そを為して苦しむことなし。",
+      "action": "今夜、今日なした行いの中で「後悔するかもしれない悪業」と「続けたい善業」を一つずつ挙げる",
+      "quote": "悪行は、〔為すよりは〕為さずにいたほうが、より勝っている。〔為したその〕悪行が、のちに悩み苦しめる〔からである〕。そして、善行は、〔為さずにいるよりは〕為したほうが、より勝っている。それを為して悩み苦しまない〔からである〕。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "悪業は為さず、善業は為す──後の苦を防ぐ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第314偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第314偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-009",
+          "text": "為所不當為，然後致欝毒，行善常吉順，所適無悔恡。",
+          "satLocus": "大正蔵 T4.570a 地獄品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P11",
+      "category": "mindfulness",
+      "verse": 315,
+      "observe": "辺境の城を内外共に護るが如く、自己を護るべし。 一刹那も〔ゆるがせに〕過ぎ去らしむることなかれ。 刹那をゆるがせにせる者は、地獄に至りて憂患を受く。",
+      "action": "朝、内側（心の状態）と外側（言動）の両方を「護る」意識で一日を始める",
+      "quote": "あたかも、辺境にある、内外共に保護された城市のように、このように、自己を保護するがよい。〔この〕瞬間が、あなたたちを過ぎ行くことがあってはならない（瞬時でさえも、虚しく過ごしてはならない）。なぜなら、〔この〕瞬間を〔虚しく〕過ごした者たちは、地獄に引き渡され、憂い悲しむからである。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "内外を護り、一刹那もゆるがせにしない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第315偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第315偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-012",
+          "text": "如備邊城，中外牢固，自守其心，非法不生，行缺致憂，令墮地獄。",
+          "satLocus": "大正蔵 T4.570a 地獄品第12頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P12",
+      "category": "view",
+      "verse": 316,
+      "observe": "恥ずべからざるを恥じ、恥ずべきを恥じず、邪見を抱ける衆生は悪趣に至る。",
+      "action": "「これは本当に恥ずべきことか」と、自分の羞恥心の基準を一度点検する",
+      "quote": "〔彼らは〕恥ずべきではないところで恥じ、恥ずべきところで恥じない──誤った見解（邪見）を受持しながら、〔迷いの〕有情たちは、悪しき境遇（悪趣）に赴く。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "恥じの受が歪めば邪見となり悪趣へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第316偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第316偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-013",
+          "text": "可羞不羞，非羞反羞，生為邪見，死墮地獄。",
+          "satLocus": "大正蔵 T4.570a 地獄品第13頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P13",
+      "category": "view",
+      "verse": 317,
+      "observe": "怖るべからざることに恐怖を見、怖るべきことに恐怖を見ず、邪見を抱ける衆生は悪趣に至る。",
+      "action": "「今の自分の恐れは正しいか」と観察し、無用な恐怖と本物の警戒を分ける",
+      "quote": "恐怖なきところで恐怖を見る者たち、さらに、恐怖あるところで恐怖を見ない者たち──誤った見解を受持しながら、〔迷いの〕有情たちは、悪しき境遇に赴く。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "恐怖の受が歪めば邪見となり悪趣へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第317偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第317偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-014",
+          "text": "可畏不畏，非畏反畏，信向邪見，死墮地獄。",
+          "satLocus": "大正蔵 T4.570a 地獄品第14頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P14",
+      "category": "view",
+      "verse": 318,
+      "observe": "罪なきことを罪ありと思い、罪あることを罪なしと見る、邪見を抱ける衆生は悪趣に至る。",
+      "action": "他者の言動を批判するとき、「本当に罪があるか、それとも自分の邪見か」を確かめる",
+      "quote": "罪過なきものについて「罪過あり」と思い、さらに、罪過あるものについて「罪過なし」と見る者たち──誤った見解を受持しながら、〔迷いの〕有情たちは、悪しき境遇に赴く。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "罪の見誤りは邪見となり悪趣の苦を招く",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第318偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第318偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-015",
+          "text": "可避不避，可就不就，翫習邪見，死墮地獄。",
+          "satLocus": "大正蔵 T4.570a 地獄品第15頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP22-P15",
+      "category": "view",
+      "verse": 319,
+      "observe": "罪ある所に罪ありと知り、また罪なき所に罪なしと〔知る〕、正見を抱ける衆生は善趣に至る。",
+      "action": "今夜、今日の行いを正直に見て「罪あるもの・罪なきもの」を公平に分ける",
+      "quote": "しかしながら、罪過あるものを「罪過あり」と知って、さらに、罪過なきものを「罪過なし」と〔見る者たち〕──正しい見解（正見）を受持しながら、〔迷いなき〕有情たちは、善き境遇（善趣）に赴く。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "罪あるを罪ありと知り、正見で善趣へ離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 地獄の章 第319偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２２章・地獄品 第319偈（#ch02-22）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-22"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "地獄品（T210 第30品）",
+          "t210": "T210-30-016",
+          "text": "可近則近，可遠則遠，恒守正見，死墮善道。",
+          "satLocus": "大正蔵 T4.570a 地獄品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0570",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap22/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "306": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "reason": "妄語・隠蔽は地獄へ近づく掴み"
+    },
+    "307": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "袈裟という外形に触れても、悪行あれば地獄へ"
+    },
+    "308": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正命",
+        "正念"
+      ],
+      "reason": "無戒で施食を掴むより鉄丸を食うほうが勝る"
+    },
+    "309": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "reason": "他人の領域への欲しがりは四つの悪果を招く"
+    },
+    "310": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "罪業・悪趣・恐怖・罰──淫楽は少なく苦が多い"
+    },
+    "311": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "誤った修行の掴みは地獄へ引きずり込む"
+    },
+    "312": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "懈怠・汚れた戒・逡巡に大果なし"
+    },
+    "313": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "為すべきを断固として遂行し、塵を散らさぬ"
+    },
+    "314": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "reason": "悪業は為さず、善業は為す──後の苦を防ぐ"
+    },
+    "315": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "reason": "内外を護り、一刹那もゆるがせにしない"
+    },
+    "316": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "恥じの受が歪めば邪見となり悪趣へ"
+    },
+    "317": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "恐怖の受が歪めば邪見となり悪趣へ"
+    },
+    "318": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "罪の見誤りは邪見となり悪趣の苦を招く"
+    },
+    "319": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "罪あるを罪ありと知り、正見で善趣へ離す"
+    }
+  }
+}

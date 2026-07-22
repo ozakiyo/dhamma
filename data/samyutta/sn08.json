@@ -1,0 +1,375 @@
+{
+  "chapter": 8,
+  "samyutta": 8,
+  "title": "相応部 第8章（婆耆沙長老相応）",
+  "shortTitle": "婆耆沙長老",
+  "mapNote": "SN 8——婆耆沙長老相応",
+  "suttas": [
+    "SN 8 婆耆沙長老相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（有偈篇）",
+    "verify": "南伝大蔵経 第12巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN8-P01",
+      "category": "prep",
+      "ref": "SN 8.1",
+      "section": "導·正念",
+      "observe": "長老婆耆沙、欲に悩み、正念を以て悪魔を退ける",
+      "action": "朝、「正念が欲·慢を退ける」と意図を置く",
+      "quote": "婆耆沙は、欲に悩み、正念を以て、悪魔を退けた"
+    },
+    {
+      "id": "SN8-P02",
+      "category": "prep",
+      "ref": "SN 8.1",
+      "section": "正念",
+      "observe": "正念こそ、欲の対治——婆耆沙の教え",
+      "action": "欲が来たら、すぐに正念（呼吸·身体）に戻る",
+      "quote": "正念を以て、欲を対治せよ"
+    },
+    {
+      "id": "SN8-P03",
+      "category": "prep",
+      "ref": "SN 8.2",
+      "section": "欲",
+      "observe": "婆耆沙、大衆の前で欲に悩む——誰も例外ではない",
+      "action": "「私だけ」と思いそうになったら、婆耆沙を想起する",
+      "quote": "婆耆沙も、大衆の前で、欲に悩んだ"
+    },
+    {
+      "id": "SN8-P04",
+      "category": "prep",
+      "ref": "SN 8.4",
+      "section": "慢",
+      "observe": "婆耆沙の慢——詩才を誇る",
+      "action": "才能·知識を誇りたくなったら「慢」と名づける",
+      "quote": "婆耆沙も、詩才を誇る慢に悩んだ"
+    },
+    {
+      "id": "SN8-P05",
+      "category": "prep",
+      "ref": "SN 8.6",
+      "section": "正見",
+      "observe": "正見を保てば、欲·慢は弱まる",
+      "action": "今日、正見（無常·苦·無我）を一つ確認する",
+      "quote": "正見を保てば、欲·慢は弱まる"
+    },
+    {
+      "id": "SN8-P06",
+      "category": "suffering",
+      "ref": "SN 8.2",
+      "section": "欲",
+      "observe": "欲は恥ずかしい——婆耆沙もこのを知る",
+      "action": "欲が来たら、恥ずかしさを認め、対治する",
+      "quote": "欲は恥ずかしい。婆耆沙も、此を知った"
+    },
+    {
+      "id": "SN8-P07",
+      "category": "suffering",
+      "ref": "SN 8.3",
+      "section": "慢",
+      "observe": "慢は苦——誇りの後の空虚",
+      "action": "慢心の後の空虚を「慢の苦」と観る",
+      "quote": "慢は苦。誇りの後、空虚が来る"
+    },
+    {
+      "id": "SN8-P08",
+      "category": "suffering",
+      "ref": "SN 8.5",
+      "section": "失",
+      "observe": "欲に負けた後の後悔——婆耆沙の苦",
+      "action": "後悔が来たら、一度認め、次の対治を決める",
+      "quote": "欲に負けた後、後悔が来る"
+    },
+    {
+      "id": "SN8-P09",
+      "category": "suffering",
+      "ref": "SN 8.7",
+      "section": "無常",
+      "observe": "美·才も無常——婆耆沙の偈",
+      "action": "才能·美を見たとき「無常」と観る",
+      "quote": "美·才も、無常なり"
+    },
+    {
+      "id": "SN8-P10",
+      "category": "suffering",
+      "ref": "SN 8.10",
+      "section": "縁起",
+      "observe": "欲も縁起——触·受·愛の流れ",
+      "action": "欲が来たら「触→受→愛」の流れを観る",
+      "quote": "欲も縁起。触·受·愛の流れなり"
+    },
+    {
+      "id": "SN8-P11",
+      "category": "desire",
+      "ref": "SN 8.2",
+      "section": "色",
+      "observe": "婆耆沙、美しい女性に心を取られる",
+      "action": "視覚的誘惑が来たら、眼を一度逸らし、正念に戻る",
+      "quote": "美しい色に、心が取られる——婆耆沙も、此を知った"
+    },
+    {
+      "id": "SN8-P12",
+      "category": "desire",
+      "ref": "SN 8.3",
+      "section": "対治",
+      "observe": "不浄想·無常想——婆耆沙の対治",
+      "action": "欲が強いとき、不浄想または無常想を五分間修する",
+      "quote": "不浄想·無常想を以て、欲を対治せよ"
+    },
+    {
+      "id": "SN8-P13",
+      "category": "desire",
+      "ref": "SN 8.5",
+      "section": "離欲",
+      "observe": "離欲こそ婆耆沙の解脱",
+      "action": "今日、一つの欲を手放す",
+      "quote": "離欲を以て、欲を超えよ"
+    },
+    {
+      "id": "SN8-P14",
+      "category": "desire",
+      "ref": "SN 8.7",
+      "section": "護根",
+      "observe": "眼の門を護る——婆耆沙の教訓",
+      "action": "今日、視覚的誘惑が強い場面で眼の門を護る",
+      "quote": "眼根を護れ。欲の入り口なり"
+    },
+    {
+      "id": "SN8-P15",
+      "category": "desire",
+      "ref": "SN 8.10",
+      "section": "愛",
+      "observe": "愛の滅——欲の根本",
+      "action": "「好き·欲しい」が来たら「愛の芽」と名づける",
+      "quote": "愛の滅を知れ。欲の根本なり"
+    },
+    {
+      "id": "SN8-P16",
+      "category": "speech",
+      "ref": "SN 8.1",
+      "section": "偈",
+      "observe": "婆耆沙の偈——欲の過患を讃える",
+      "action": "今日、欲の過患について自分の言葉で一節を書く",
+      "quote": "婆耆沙は偈を説く。「欲は苦の因、正念は対治なり」"
+    },
+    {
+      "id": "SN8-P17",
+      "category": "speech",
+      "ref": "SN 8.2",
+      "section": "告白",
+      "observe": "婆耆沙、欲を隠さず告白——正語の勇気",
+      "action": "今日、弱さを信頼できる人に一つ正直に語る",
+      "quote": "欲を隠さず、告白せよ——これ正語の勇気なり"
+    },
+    {
+      "id": "SN8-P18",
+      "category": "speech",
+      "ref": "SN 8.4",
+      "section": "正語",
+      "observe": "詩才を誇るのではなく、法を讃える",
+      "action": "今日、才能·自分を誇るのではなく、法を讃える言葉を一つ",
+      "quote": "法を讃えよ。才を誇るな"
+    },
+    {
+      "id": "SN8-P19",
+      "category": "speech",
+      "ref": "SN 8.6",
+      "section": "默",
+      "observe": "欲に悩むとき、不必要な語らない",
+      "action": "欲·慢に悩むとき、不必要な発言を控える",
+      "quote": "欲に悩むとき、不必要に語るな"
+    },
+    {
+      "id": "SN8-P20",
+      "category": "speech",
+      "ref": "SN 8.10",
+      "section": "讃仏",
+      "observe": "婆耆沙、最後は仏を讃える",
+      "action": "今日、仏·法·僧について感謝の言葉を一つ",
+      "quote": "婆耆沙は、仏を讃え、欲を超えた"
+    },
+    {
+      "id": "SN8-P21",
+      "category": "people",
+      "ref": "SN 8.2",
+      "section": "大衆",
+      "observe": "大衆の前で欲——恥·対人の圧力",
+      "action": "人前で欲·慢が来たら、正念に戻る",
+      "quote": "大衆の前でも、欲は来る。正念を保て"
+    },
+    {
+      "id": "SN8-P22",
+      "category": "people",
+      "ref": "SN 8.4",
+      "section": "慢",
+      "observe": "他者より優れている——慢の対人",
+      "action": "優越感が来たら、相手の良いところを一つ見る",
+      "quote": "他者より優れている——これ慢の対人なり"
+    },
+    {
+      "id": "SN8-P23",
+      "category": "people",
+      "ref": "SN 8.6",
+      "section": "善友",
+      "observe": "善友（仏）の前で、欲を告白",
+      "action": "今日、善友に一つ相談する",
+      "quote": "善友の前で、欲を告白せよ"
+    },
+    {
+      "id": "SN8-P24",
+      "category": "people",
+      "ref": "SN 8.8",
+      "section": "共学",
+      "observe": "僧団の前で、欲を超える——共に学ぶ",
+      "action": "今日、修行仲間と一つ励まし合う",
+      "quote": "僧団と共に、欲を超えよ"
+    },
+    {
+      "id": "SN8-P25",
+      "category": "people",
+      "ref": "SN 8.10",
+      "section": "敬",
+      "observe": "仏を敬う——欲より法",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "仏を敬え。欲より、法を取れ"
+    },
+    {
+      "id": "SN8-P26",
+      "category": "work",
+      "ref": "SN 8.1",
+      "section": "正念",
+      "observe": "正念を修す——婆耆沙の対治",
+      "action": "今日、15分間、正念（呼吸·身体）を修する",
+      "quote": "正念を修せよ。欲·慢を退ける"
+    },
+    {
+      "id": "SN8-P27",
+      "category": "work",
+      "ref": "SN 8.2",
+      "section": "対治",
+      "observe": "欲が来たら、すぐ対治——遅れは悪化",
+      "action": "欲が来たら、五分以内に対治（呼吸·経行·不浄想）を行う",
+      "quote": "欲が来たら、すぐ対治せよ"
+    },
+    {
+      "id": "SN8-P28",
+      "category": "work",
+      "ref": "SN 8.4",
+      "section": "慢",
+      "observe": "慢を対治——五つの集まりの無常",
+      "action": "慢心が来たら、五つの集まりの無常を観る",
+      "quote": "慢を対治せよ。五蘊は無常なり"
+    },
+    {
+      "id": "SN8-P29",
+      "category": "work",
+      "ref": "SN 8.7",
+      "section": "精進",
+      "observe": "精進する——欲に負けず",
+      "action": "怠けたいとき、一つの修行を行う",
+      "quote": "精進せよ。欲に負けるな"
+    },
+    {
+      "id": "SN8-P30",
+      "category": "work",
+      "ref": "SN 8.10",
+      "section": "解脱",
+      "observe": "婆耆沙も解脱に至った——欲を超えて",
+      "action": "今日の目的を「欲を超えて解脱」と確認する",
+      "quote": "婆耆沙も、欲を超え、解脱に至った"
+    },
+    {
+      "id": "SN8-P31",
+      "category": "night",
+      "ref": "SN 8.1",
+      "section": "正念",
+      "observe": "今日、正念で欲·慢を退けたか",
+      "action": "就寝前、正念で乗り越えた瞬間を一つ認める",
+      "quote": "正念を以て、欲·慢を退けよ"
+    },
+    {
+      "id": "SN8-P32",
+      "category": "night",
+      "ref": "SN 8.2",
+      "section": "欲",
+      "observe": "今日、欲が来たか——どう対治したか",
+      "action": "就寝前、欲の瞬間と対治を一行記録する",
+      "quote": "欲を知り、対治せよ"
+    },
+    {
+      "id": "SN8-P33",
+      "category": "night",
+      "ref": "SN 8.4",
+      "section": "慢",
+      "observe": "今日、慢心が来たか",
+      "action": "就寝前、慢心を一つ手放す",
+      "quote": "慢心を手放せ"
+    },
+    {
+      "id": "SN8-P34",
+      "category": "night",
+      "ref": "SN 8.7",
+      "section": "手放し",
+      "observe": "今日、手放した欲·慢はあったか",
+      "action": "就寝前、手放した執着を一つ感謝する",
+      "quote": "手放せば、心は軽くなる"
+    },
+    {
+      "id": "SN8-P35",
+      "category": "night",
+      "ref": "SN 8.10",
+      "section": "総括",
+      "observe": "婆耆沙相応の要——正念で欲·慢を退け、偈で法を讃えよ",
+      "action": "就寝前、「正念こそ対治」と一句唱える",
+      "quote": "正念を以て欲·慢を退け、法を讃えよ——婆耆沙の道なり"
+    }
+  ]
+}

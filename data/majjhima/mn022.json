@@ -1,0 +1,820 @@
+{
+  "chapter": 22,
+  "sutta": 22,
+  "title": "中部 第22経・蛇喩経（蛇の喩えの経）",
+  "shortTitle": "蛇喩経（蛇の喩えの経）",
+  "mapNote": "根本五十経篇 · 譬喩法品（アラナ：蛇の喩えの経）",
+  "suttas": [
+    "MN 22 蛇喩経（蛇の喩えの経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第22経（蛇喩経／蛇の喩えの経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含200阿梨吒経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・蛇の喩えの経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・阿梨吒経（T1.763b）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+        "note": "阿梨吒·蛇喩·筏喩。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第22経・蛇喩経（蛇の喩えの経）",
+    "shortTitle": "蛇喩経（蛇の喩えの経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "view",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "朝、教えとの接触で極端解釈が触れていないか問う",
+        "chapterHint": "蛇喩経（蛇の喩えの経）",
+        "fromPrev": "見直しが、今朝の教えの接触を変える",
+        "toNext": "触のあと、私·私所の受が見える",
+        "todayObserve": "アリッタの妄見——障りとなる法を受用しても障りにならない、と極端に了知する——朝、教えを極端に解釈していないか一度問う。",
+        "todayAction": "今日、教えを極端に解釈していないか問う",
+        "when": [
+          "教えに触れた",
+          "極端に解釈しそう"
+        ],
+        "sources": [
+          "MN22-P01"
+        ],
+        "leadQuote": "そのように、わたしは、世尊によって説示された法（教え）を了知する。すなわち、およ…",
+        "secondaryObserve": "六見解拠点——色·受·想·行·識を「わたしのもの·わたし·自己」と随観する凡夫——朝、今日執着しやすい対象を一つ挙げ、「私·私所」を観察する。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "執着しやすい対象への「私·私所」の受を観察する",
+        "chapterHint": "蛇喩経（蛇の喩えの経）",
+        "fromPrev": "接触のあと、わたしのものという受が立つ",
+        "toNext": "受に乗ると都合への欲しがりへ",
+        "todayObserve": "六見解拠点——色·受·想·行·識を「わたしのもの·わたし·自己」と随観する凡夫——朝、今日執着しやすい対象を一つ挙げ、「私·私所」を観察する。",
+        "todayAction": "朝、今日執着しやすい対象を一つ挙げ、「私·私所」を観察する",
+        "when": [
+          "執着しやすい対象に触れた",
+          "私·私所が出た"
+        ],
+        "sources": [
+          "MN22-P07"
+        ],
+        "leadQuote": "色形（色）を、『これは、わたしのものである。これは、わたしとして存在する。これは…",
+        "secondaryObserve": "六見處"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "view"
+        ],
+        "pathLabel": "「私」への欲しがりと都合に曲げる把握を見る",
+        "chapterHint": "蛇喩経（蛇の喩えの経）",
+        "fromPrev": "受のあと、私·都合への欲しがりが立つ",
+        "toNext": "止めないと法の悪掴みへ",
+        "todayObserve": "ものでないなら捨棄せよ——色·受·想·行·識はあなたたちのものではない。捨棄すれば長夜の利益·安楽——今日、体調や感情を「私」ではなく「蘊の集まり」と一瞬見る。",
+        "todayAction": "今日、体調や感情を「私」ではなく「蘊の集まり」と一瞬見る",
+        "when": [
+          "体調や感情に執着した",
+          "都合に曲げそう"
+        ],
+        "sources": [
+          "MN22-P08",
+          "MN22-P10"
+        ],
+        "leadQuote": "比丘たちよ、それゆえに、ここに、それが、あなたたちのものでないなら、それを捨棄し…",
+        "secondaryObserve": "悪しく把握した妄見——世尊を誹謗し、自己を掘り崩し、多くの功徳ならざるものを生む——今日、教えを自分の都合に曲げていないか問う。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "法を悪く掴まず、筏のごとく「私の理解」も緩める",
+        "chapterHint": "蛇喩経（蛇の喩えの経）",
+        "fromPrev": "欲しがりのあと、論詰·正しさの掴みが手前",
+        "toNext": "誤掴みは蛇に噛まれるように苦になる",
+        "todayObserve": "悪く掴む蛇喩——尾·蜷局で掴み咬まれ死苦。論詰·論破の福利で法を学得し、義を慧で注視しない——今日、法を論争の材料として掴んでいないか一度問う。",
+        "todayAction": "今日、法を論争の材料として掴んでいないか一度問う",
+        "when": [
+          "論争の材料にしたくなった",
+          "正しい理解に執着した"
+        ],
+        "sources": [
+          "MN22-P02",
+          "MN22-P06"
+        ],
+        "leadQuote": "比丘たちよ、ここに、一部の愚人たちは、法（教え）を……遍く学得します。彼らは、そ…",
+        "secondaryObserve": "筏を了知するなら、諸々の法もまた捨棄されるべき——ましてや非法は言うまでもない——「私の正しい理解」の執着する手を、一度緩める。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "intention",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正思惟",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "view"
+        ],
+        "pathLabel": "欲の蛇の頭の過害を見て、少楽多苦の危険を知る",
+        "chapterHint": "蛇喩経（蛇の喩えの経）",
+        "fromPrev": "掴んだ結果として、欲の過害が見える",
+        "toNext": "見れば、正しく掴み·筏の離しへ",
+        "todayObserve": "欲の諸喩——骨鎖·肉片·松明·火坑·夢·蛇の頭。悦楽少なく苦痛·葛藤多く、より一層の危険——快楽の裏に「蛇の頭の過害」を一瞬思い出す。",
+        "todayAction": "快楽の裏に「蛇の頭の過害」を一瞬思い出す",
+        "when": [
+          "快楽に引かれた",
+          "過害を思い出した"
+        ],
+        "sources": [
+          "MN22-P04"
+        ],
+        "leadQuote": "諸々の欲望〔の対象〕は、世尊によって、悦楽少なきもの、苦痛多きもの、葛藤多きもの…",
+        "secondaryObserve": "欲如毒蛇"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "慧で正しく掴み、筏の超脱へ——執着だけを手放す",
+        "chapterHint": "蛇喩経（蛇の喩えの経）",
+        "fromPrev": "苦が見えれば、善掴みと捨棄へ向き直る",
+        "toNext": "離せば、夜の苦·止滅の見直しへ",
+        "todayObserve": "善く掴む蛇喩——山羊足の棒で頭を正しく掴む。義を慧で注視し、論詰のためではなく学得する——今日学んだ一節について、意味を慧で一度考察する。",
+        "todayAction": "今日学んだ一節について、意味を慧で一度考察する",
+        "when": [
+          "慧で意味を見た",
+          "執着を緩めた"
+        ],
+        "sources": [
+          "MN22-P03",
+          "MN22-P05",
+          "MN22-P11"
+        ],
+        "leadQuote": "比丘たちよ、また、ここに、一部の良家の子息たちは、法（教え）を……遍く学得します…",
+        "secondaryObserve": "筏の喩え——超脱を義として説示され、掴み取ることを義としてではない——今日、教えを語るとき、相手が執着しないよう注意する。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "苦と止滅の報知に照らして、今日の執着を捨棄する",
+        "chapterHint": "蛇喩経（蛇の喩えの経）",
+        "fromPrev": "一日の掴みは、朝からの妄見·執着の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "過去においても今現在も——苦しみを報知し、苦しみの止滅を報知する。断滅論ではない——今日、確信の根拠が「正しい理解」か一度問う。",
+        "todayAction": "今日、確信の根拠が「正しい理解」か一度問う",
+        "when": [
+          "一日を閉じるとき",
+          "執着を手放した夜"
+        ],
+        "sources": [
+          "MN22-P09",
+          "MN22-P12"
+        ],
+        "leadQuote": "比丘たちよ、そして、わたしは、過去において、さらに、今現在も、まさしく、そして、…",
+        "secondaryObserve": "夜の捨棄——ものでない色·受·想·行·識を捨棄すれば長夜の利益·安楽——就寝前、今日の執着を「執着する所なし」と一度手放す。"
+      }
+    ],
+    "focusNodeId": "clinging",
+    "focusReason": "蛇の喩えの経は法の誤把捉と筏の掴みが主題。既定の焦点は掴む。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN22-P01",
+      "category": "view",
+      "ref": "MN 22",
+      "section": "アリッタの妄見",
+      "observe": "アリッタの妄見——障りとなる法を受用しても障りにならない、と極端に了知する——朝、教えを極端に解釈していないか一度問う。",
+      "action": "今日、教えを極端に解釈していないか問う",
+      "quote": "そのように、わたしは、世尊によって説示された法（教え）を了知する。すなわち、およそ、これらの、世尊によって説かれた、障りとなる諸々の法（性質）は、それらは、受用している者の障りとなるに十分ならず」と。（鷹匠の過去あるアリッタ比丘の妄見。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "朝、教えとの接触で極端解釈の妄見が触れていないか問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·アリッタの妄見",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-arittha",
+          "text": "爾時阿梨吒比丘……生如是惡見。我知世尊如是說法。行欲者無障礙。",
+          "satLocus": "大正蔵 T1.763b 阿梨吒経",
+          "note": "行欲者無障礙＝障りとならない妄見。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P02",
+      "category": "intention",
+      "ref": "MN 22",
+      "section": "悪く掴む蛇喩",
+      "observe": "悪く掴む蛇喩——尾·蜷局で掴み咬まれ死苦。論詰·論破の福利で法を学得し、義を慧で注視しない——今日、法を論争の材料として掴んでいないか一度問う。",
+      "action": "今日、法を論争の材料として掴んでいないか一度問う",
+      "quote": "比丘たちよ、ここに、一部の愚人たちは、法（教え）を……遍く学得します。彼らは、その法（教え）を遍く学得して、それらの法（教え）の義（意味）を、智慧によって近しく注視しません。……彼らは、まさしく、そして、〔他者への〕論詰という福利あることから、さらに、『かくのごとく〔云々〕』〔と批判する他者の〕論の解消という福利あることから、法（教え）を遍く学得します。……それは、たとえば、また、……〔蛇を〕あるいは、蜷局において、あるいは、尾において、掴みます。……彼は、それを因縁として、あるいは、死に遭遇するでしょうし、あるいは、死ぬほどの苦しみに〔遭遇するでしょう〕。それは、何を因とするのですか。比丘たちよ、蛇が悪しく掴まれたからです。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正思惟",
+        "正見"
+      ],
+      "pathReason": "論詰の福利で法を悪く掴む蛇喩の掴みを見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·悪く掴む蛇喩",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-snake-wrong",
+          "text": "或有癡人顛倒受解義及文也。……彼諍知此義，不受解脫知此義。……譬若如人欲得捉蛇……見極大蛇，便前以手捉其腰中。蛇迴舉頭，或蜇手足及餘支節。……但受極苦唐自疲勞。所以者何。以不善解取蛇法故。",
+          "satLocus": "大正蔵 T1.764a–b 阿梨吒経",
+          "note": "捉其腰中＝尾·蜷局の悪掴み。諍知＝論詰の福利。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P03",
+      "category": "mindfulness",
+      "ref": "MN 22",
+      "section": "善く掴む蛇喩",
+      "observe": "善く掴む蛇喩——山羊足の棒で頭を正しく掴む。義を慧で注視し、論詰のためではなく学得する——今日学んだ一節について、意味を慧で一度考察する。",
+      "action": "今日学んだ一節について、意味を慧で一度考察する",
+      "quote": "比丘たちよ、また、ここに、一部の良家の子息たちは、法（教え）を……遍く学得します。彼らは、その法（教え）を遍く学得して、それらの法（教え）の義（意味）を、智慧によって近しく注視します。……彼らは、……〔他者への〕論詰という福利あることから、ではなく……法（教え）を遍く学得します。……〔蛇を〕山羊足の棒によって……頭において、善く掴まれたものとして掴みます。……彼は、それを因縁として、あるいは、死に遭遇することも、あるいは、死ぬほどの苦しみに〔遭遇することも〕、まさしく、ありません。それは、何を因とするのですか。比丘たちよ、蛇が善く掴まれたからです。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "義を慧で注視し、頭で善く掴むように法を正しく掴む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·善く掴む蛇喩",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-snake-right",
+          "text": "或有族姓子不顛倒善受解義及文。……彼不諍知此義，唯受解脫知此義。……譬若如人欲得捉蛇……手執鐵杖……先以鐵杖押彼蛇頂手捉其頭。彼蛇雖反尾迴或纏手足及餘支節，然不能蜇。……以不顛倒受解法故。",
+          "satLocus": "大正蔵 T1.764b 阿梨吒経",
+          "note": "鐵杖押頂＝山羊足の棒で頭を正しく掴む。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P04",
+      "category": "intention",
+      "ref": "MN 22",
+      "section": "欲の諸喩",
+      "observe": "欲の諸喩——骨鎖·肉片·松明·火坑·夢·蛇の頭。悦楽少なく苦痛·葛藤多く、より一層の危険——快楽の裏に「蛇の頭の過害」を一瞬思い出す。",
+      "action": "快楽の裏に「蛇の頭の過害」を一瞬思い出す",
+      "quote": "諸々の欲望〔の対象〕は、世尊によって、悦楽少なきもの、苦痛多きもの、葛藤多きもの、ここにおいて、より一層の危険がある、と説かれました。……骨の鎖の喩え……肉片の喩え……草の松明の喩え……火坑の喩え……夢の喩え……蛇の頭の喩えあるもの、苦痛多きもの、葛藤多きもの、ここにおいて、より一層の危険がある、と説かれました。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正思惟",
+        "正見"
+      ],
+      "pathReason": "欲の蛇の頭の過害を見て、少楽多苦の危険を知る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·欲の諸喩",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-kama",
+          "text": "欲有障礙。世尊說欲有障礙也。欲如骨鎖……欲如肉臠……欲如把炬……欲如火坑……欲如毒蛇……欲如夢……欲如假借……欲如樹果。",
+          "satLocus": "大正蔵 T1.763c–764a 阿梨吒経",
+          "note": "欲如毒蛇＝パーリの蛇の頭の喩えに対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P05",
+      "category": "speech",
+      "ref": "MN 22",
+      "section": "筏喩·超脱",
+      "observe": "筏の喩え——超脱を義として説示され、掴み取ることを義としてではない——今日、教えを語るとき、相手が執着しないよう注意する。",
+      "action": "今日、教えを語るとき、相手が執着しないよう注意する",
+      "quote": "比丘たちよ、超脱を義（目的）として、筏の喩えの法（教え）を、あなたたちに説示しましょう──掴み取ることを義（目的）として、ではなく。……比丘たちよ、まさしく、このように、まさに、超脱を義（目的）として、筏の喩えの法（教え）が、わたしによって説示されました──掴み取ることを義（目的）として、ではなく。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正思惟"
+      ],
+      "pathReason": "筏は超脱のため——語るときも掴み取る執着を生ませない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·筏喩·超脱",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-raft-purpose",
+          "text": "我為汝等長夜說筏喻法。欲令棄捨不欲令受故。",
+          "satLocus": "大正蔵 T1.764b 阿梨吒経",
+          "note": "欲令棄捨不欲令受＝超脱のため·掴み取るためではない。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P06",
+      "category": "view",
+      "ref": "MN 22",
+      "section": "筏喩·捨棄",
+      "observe": "筏を了知するなら、諸々の法もまた捨棄されるべき——ましてや非法は言うまでもない——「私の正しい理解」の執着する手を、一度緩める。",
+      "action": "「私の正しい理解」の執着する手を、一度緩める",
+      "quote": "比丘たちよ、あなたたちに説示された筏の喩えの法（教え）を了知しているなら、あなたたちによって、諸々の法（教え）もまた捨棄されるべきです。ましてや、諸々の法（教え）ならざるものは〔言うまでもありません〕。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "法すら捨棄——「私の正しい理解」の手を緩める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·筏喩·捨棄",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-raft-abandon",
+          "text": "如是我為汝等長夜說筏喻法。欲令棄捨不欲令受。若汝等知我長夜說筏喻法者。當以捨是法。況非法耶。",
+          "satLocus": "大正蔵 T1.764c 阿梨吒経",
+          "note": "捨是法況非法＝法もまた捨棄、ましてや非法。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P07",
+      "category": "mindfulness",
+      "ref": "MN 22",
+      "section": "六見解拠点",
+      "observe": "六見解拠点——色·受·想·行·識を「わたしのもの·わたし·自己」と随観する凡夫——朝、今日執着しやすい対象を一つ挙げ、「私·私所」を観察する。",
+      "action": "朝、今日執着しやすい対象を一つ挙げ、「私·私所」を観察する",
+      "quote": "色形（色）を、『これは、わたしのものである。これは、わたしとして存在する。これは、わたしの自己である』と等しく随観します。感受〔作用〕（受）を……表象〔作用〕（想）を……諸々の形成〔作用〕（行）を……識知〔作用〕（識）を、『これは、わたしのものである。これは、わたしとして存在する。これは、わたしの自己である』と等しく随観します。（六つの見解の拠点——無聞の凡夫の随観。）",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "執着しやすい対象への「私·私所」の受を朝に観察する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·六見解拠点",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-six-views",
+          "text": "復次有六見處。……比丘者所有色……彼一切非我有。我非彼有亦非是神。如是慧觀知其如真。",
+          "satLocus": "大正蔵 T1.764c 阿梨吒経",
+          "note": "六見處——非我有の正観（凡夫の逆は「我·我所」）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P08",
+      "category": "view",
+      "ref": "MN 22",
+      "section": "捨棄·五蘊",
+      "observe": "ものでないなら捨棄せよ——色·受·想·行·識はあなたたちのものではない。捨棄すれば長夜の利益·安楽——今日、体調や感情を「私」ではなく「蘊の集まり」と一瞬見る。",
+      "action": "今日、体調や感情を「私」ではなく「蘊の集まり」と一瞬見る",
+      "quote": "比丘たちよ、それゆえに、ここに、それが、あなたたちのものでないなら、それを捨棄しなさい。それは、捨棄されたなら、あなたたちにとって、長夜にわたり、利益のために〔成り〕、安楽のために成るでしょう。……色形は、あなたたちのものではありません。それを捨棄しなさい。……感受〔作用〕は……表象〔作用〕は……諸々の形成〔作用〕は……識知〔作用〕は、あなたたちのものではありません。それを捨棄しなさい。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "体調·感情への「私」の欲しがりを蘊の集まりとして見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·捨棄·五蘊",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-not-mine",
+          "text": "比丘者所有色，過去未來現在……彼一切非我有，我非彼有，亦非是神，如是慧觀，知其如真。所有覺、所有想……亦非是神。",
+          "satLocus": "大正蔵 T1.764c 阿梨吒経",
+          "note": "非我有＝ものでない五蘊の捨棄に対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P09",
+      "category": "view",
+      "ref": "MN 22",
+      "section": "苦と止滅の報知",
+      "observe": "過去においても今現在も——苦しみを報知し、苦しみの止滅を報知する。断滅論ではない——今日、確信の根拠が「正しい理解」か一度問う。",
+      "action": "今日、確信の根拠が「正しい理解」か一度問う",
+      "quote": "比丘たちよ、そして、わたしは、過去において、さらに、今現在も、まさしく、そして、苦しみを報知し、さらに、苦しみの止滅を〔報知します〕。（『虚無論者の沙門ゴータマは……非生存を報知する』という誹謗への返答。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "苦と苦の止滅だけを報知する根拠に、確信を照らす",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·苦と止滅の報知",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-not-uccheda",
+          "text": "諸沙門梵志誣謗我，虛妄言不真實……彼實有衆生施設斷滅壞。若此中無我不説。彼如來於現法中説無憂。",
+          "satLocus": "大正蔵 T1.766a 阿梨吒経",
+          "note": "断滅の誹謗への否定。パーリは「過去·今も苦と苦の止滅を報知」。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P10",
+      "category": "intention",
+      "ref": "MN 22",
+      "section": "悪しく把握",
+      "observe": "悪しく把握した妄見——世尊を誹謗し、自己を掘り崩し、多くの功徳ならざるものを生む——今日、教えを自分の都合に曲げていないか問う。",
+      "action": "今日、教えを自分の都合に曲げていないか問う",
+      "quote": "愚人よ、そこで、また、しかしながら、あなたは、自己みずから悪しく把握したものによって、まさしく、そして、わたしたちを誹謗し、かつまた、自己を掘り崩し、さらに、多くの功徳ならざるものを生み出します。愚人よ、まさに、それは、あなたにとって、長夜にわたり、利益ならざるもののために〔成り〕、苦痛のために成るでしょう。（アリッタへの訶責——妄見で法を曲げた結果。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正見"
+      ],
+      "pathReason": "都合に曲げた把握が誹謗と自己掘削を生む流れを見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·悪しく把握",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-wrong-grasp",
+          "text": "然此阿梨吒愚癡之人。顛倒受解義及文也。彼因自顛倒受解故。誣謗於我。為自傷害。有犯有罪……而得大罪。",
+          "satLocus": "大正蔵 T1.764a 阿梨吒経",
+          "note": "顛倒受解＝都合に曲げた把握。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P11",
+      "category": "effort",
+      "ref": "MN 22",
+      "section": "厭離·解脱",
+      "observe": "厭離→離貪→解脱——柱を引き抜いた者·束縛を離れた者。自己否定ではなく執着の手放し——今日、自分を責めるのではなく、執着だけを手放す。",
+      "action": "今日、自分を責めるのではなく、執着だけを手放す",
+      "quote": "比丘たちよ、このように見ながら、有聞の聖なる弟子は、色形にたいし厭離し、感受〔作用〕にたいし厭離し……識知〔作用〕にたいし厭離します。厭離しながら、離貪します。離貪あることから、解脱します。……この者は、『比丘として、かくのごとくもまた、……柱を引き抜いた者……束縛を離れた者』と説かれます。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正見"
+      ],
+      "pathReason": "自己責めではなく、厭離·離貪で執着だけを手放す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·厭離·解脱",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-abandon-asmi",
+          "text": "彼或如來，或如來弟子，滅一切自身故說法，捨離一切漏一切我我所作，滅慢使故說法。",
+          "satLocus": "大正蔵 T1.765a 阿梨吒経",
+          "note": "捨離一切我我所作＝執着の手放し（自己否定ではない）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN22-P12",
+      "category": "mindfulness",
+      "ref": "MN 22",
+      "section": "夜の捨棄",
+      "observe": "夜の捨棄——ものでない色·受·想·行·識を捨棄すれば長夜の利益·安楽——就寝前、今日の執着を「執着する所なし」と一度手放す。",
+      "action": "就寝前、今日の執着を「執着する所なし」と一度手放す",
+      "quote": "比丘たちよ、それゆえに、ここに、それが、あなたたちのものでないなら、それを捨棄しなさい。それは、捨棄されたなら、あなたたちにとって、長夜にわたり、利益のために〔成り〕、安楽のために成るでしょう。……色形は、あなたたちのものではありません。……識知〔作用〕は、あなたたちのものではありません。それを捨棄しなさい。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "夜、今日の執着を「ものでない」として一度捨棄する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・蛇の喩えの経（MN22）·夜の捨棄",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 蛇喩経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含200・阿梨吒経（T26）",
+          "t26": "T26-200-night-anatta",
+          "text": "比丘者所有色……彼一切非我有。我非彼有。亦非是神。如是慧觀知其如真。",
+          "satLocus": "大正蔵 T1.764c / T1.765c 阿梨吒経",
+          "note": "非我有の慧観を夜の手放しに対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0763b01",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

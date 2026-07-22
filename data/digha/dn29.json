@@ -1,0 +1,159 @@
+{
+  "chapter": 29,
+  "sutta": 29,
+  "title": "長部 第29経（慶経）",
+  "shortTitle": "慶経",
+  "mapNote": "DN 29——慶経",
+  "suttas": [
+    "DN 29 慶経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（集篇）",
+    "verify": "南伝大蔵経 第8巻下"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN29-P01",
+      "category": "prep",
+      "ref": "DN 29",
+      "section": "導",
+      "observe": "慶——仏が去った後も、法·律·僧が存続する喜び",
+      "action": "朝、「法·律·僧は今も在る」と一度確認し、慶を置く",
+      "quote": "仏が去った後も、法·律·僧は存続す——これ慶べし"
+    },
+    {
+      "id": "DN29-P02",
+      "category": "prep",
+      "ref": "DN 29",
+      "section": "清浄",
+      "observe": "清浄の教団——戒を守り、法を修する者",
+      "action": "今日、教団·善友の清浄さを一つ認め、慶する",
+      "quote": "戒を守り、法を修する者、これ清浄の教団なり"
+    },
+    {
+      "id": "DN29-P03",
+      "category": "work",
+      "ref": "DN 29",
+      "section": "法",
+      "observe": "法は仏の代わり——法を修すれば、仏に近づく",
+      "action": "今日、法（教え·経典）を一節、声に出して読む",
+      "quote": "法を修すれば、仏に近づく"
+    },
+    {
+      "id": "DN29-P04",
+      "category": "work",
+      "ref": "DN 29",
+      "section": "律",
+      "observe": "律は行為の清浄——戒を守ることが、慶の基礎",
+      "action": "今日、戒（不殺·不盗·不妄等）の一つを意識する",
+      "quote": "律を守り、行為を清浄にせよ"
+    },
+    {
+      "id": "DN29-P05",
+      "category": "suffering",
+      "ref": "DN 29",
+      "section": "破戒",
+      "observe": "破戒は教団を濁す——一人の破戒が、全体を傷つける",
+      "action": "今日、破戒を招く行いを一つ避ける",
+      "quote": "破戒は、教団を濁し、法を傷つける"
+    },
+    {
+      "id": "DN29-P06",
+      "category": "desire",
+      "ref": "DN 29",
+      "section": "諍",
+      "observe": "諍論は清浄を破る——見解の諍いを避ける",
+      "action": "議論で諍いたくなったら「清浄を破る」と一度止まる",
+      "quote": "諍論は、清浄を破り、慶を失わせる"
+    },
+    {
+      "id": "DN29-P07",
+      "category": "speech",
+      "ref": "DN 29",
+      "section": "正語",
+      "observe": "清浄の教団は正語を守る——虚偽·両舌·粗悪·だらだらとした雑談を離れる",
+      "action": "今日、話す前に「正語か」と一度止まる",
+      "quote": "正語を守れ。虚偽·両舌·粗悪·綺語を離れよ"
+    },
+    {
+      "id": "DN29-P08",
+      "category": "people",
+      "ref": "DN 29",
+      "section": "僧",
+      "observe": "僧は法の住処——善友·共住の価値",
+      "action": "今日、僧·善友に一つ感謝を伝える",
+      "quote": "僧は法の住処、善友は道の助けなり"
+    },
+    {
+      "id": "DN29-P09",
+      "category": "people",
+      "ref": "DN 29",
+      "section": "護法",
+      "observe": "在家は法を護る——布施·供養·尊重",
+      "action": "今日、法·僧を護る行為を一つする",
+      "quote": "在家は、法を護り、僧を敬う"
+    },
+    {
+      "id": "DN29-P10",
+      "category": "night",
+      "ref": "DN 29",
+      "section": "慶",
+      "observe": "今日、法·律·僧の存続を慶べたか",
+      "action": "就寝前、今日の慶（喜び·感謝）を一つ思い出す",
+      "quote": "法·律·僧の存続を、日々慶べ"
+    },
+    {
+      "id": "DN29-P11",
+      "category": "night",
+      "ref": "DN 29",
+      "section": "総括",
+      "observe": "清浄の要——仏が去っても、法·律·僧を護り、慶べ",
+      "action": "就寝前、「法は今も在る」と一句唱える",
+      "quote": "仏が去っても、法·律·僧は存続す——これ慶べし"
+    }
+  ]
+}

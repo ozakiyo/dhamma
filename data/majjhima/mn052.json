@@ -1,0 +1,422 @@
+{
+  "chapter": 52,
+  "sutta": 52,
+  "title": "中部 第52経（アッタカ城人経）",
+  "shortTitle": "アッタカ城人経",
+  "mapNote": "中分五十経篇 · 居士品",
+  "suttas": [
+    "MN 52 アッタカ城人経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "アッタカ城人経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第52経（アッタカ城人経）",
+    "shortTitle": "アッタカ城人経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "アッタカ城人経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN52-P01",
+          "MN52-P02"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "アッタカ城人経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN52-P01",
+          "MN52-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "アッタカ城人経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN52-P04",
+          "MN52-P08"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "人との関わりで傷つけず与える",
+        "chapterHint": "アッタカ城人経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN52-P04",
+          "MN52-P08",
+          "MN52-P09"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "アッタカ城人経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN52-P05",
+          "MN52-P10"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "アッタカ城人経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN52-P01",
+          "MN52-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "アッタカ城人経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN52-P02",
+          "MN52-P03"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN52-P01",
+      "category": "prep",
+      "ref": "MN 52",
+      "section": "導",
+      "observe": "アッタカ城人経——一夜で煩悩の滅尽に至る教え",
+      "action": "朝、今日一日でできる修行を一つ選ぶ",
+      "quote": "アッタカ城人よ、一夜で漏尽に至る道を説く"
+    },
+    {
+      "id": "MN52-P02",
+      "category": "work",
+      "ref": "MN 52",
+      "section": "念",
+      "observe": "念——身·受·心·法に念を置く",
+      "action": "今日、身·受·心·法の一つに念を置く",
+      "quote": "身·受·心·法に念を置く——これ、念処なり"
+    },
+    {
+      "id": "MN52-P03",
+      "category": "work",
+      "ref": "MN 52",
+      "section": "息",
+      "observe": "入出息念——息に念を置く",
+      "action": "合間に、入息·出息に念を置く",
+      "quote": "入息·出息に念を置く——これ、入出息念なり"
+    },
+    {
+      "id": "MN52-P04",
+      "category": "desire",
+      "ref": "MN 52",
+      "section": "五下分結",
+      "observe": "五下分結——身を「私」と見る執着·疑·形式への固執·欲·瞋",
+      "action": "五下分結の一つを名づけ、手放す",
+      "quote": "身見·疑·戒禁取·欲·瞋——この五下分結を捨て去れ"
+    },
+    {
+      "id": "MN52-P05",
+      "category": "suffering",
+      "ref": "MN 52",
+      "section": "身見",
+      "observe": "身を「私」と見る執着——五つの執着の集まりを我と見る",
+      "action": "「私はこれだ」の想を一度手放す",
+      "quote": "五取蘊を我と見る——これ、身見なり"
+    },
+    {
+      "id": "MN52-P06",
+      "category": "prep",
+      "ref": "MN 52",
+      "section": "正見",
+      "observe": "正見——五下分結を捨て去る",
+      "action": "正見は「苦·集·滅·道」にあると確認する",
+      "quote": "正見——五下分結を捨て去り、漏尽に至る"
+    },
+    {
+      "id": "MN52-P07",
+      "category": "work",
+      "ref": "MN 52",
+      "section": "一夜",
+      "observe": "一夜の修行——念·正見·精進",
+      "action": "今日、一夜でできる修行を一つ実践する",
+      "quote": "一夜にて、五下分結を捨て、漏尽に至る"
+    },
+    {
+      "id": "MN52-P08",
+      "category": "people",
+      "ref": "MN 52",
+      "section": "対城人",
+      "observe": "アッタカ城人——在家ながら一夜で学ぶ",
+      "action": "学んだ一節を、今日一日で実践する",
+      "quote": "アッタカ城人は一夜にて、漏尽の道を聞く"
+    },
+    {
+      "id": "MN52-P09",
+      "category": "desire",
+      "ref": "MN 52",
+      "section": "欲",
+      "observe": "欲結——欲愛·色愛",
+      "action": "快楽への執着を「欲結」と名づける",
+      "quote": "欲愛·色愛——これ、欲結なり、捨て去れ"
+    },
+    {
+      "id": "MN52-P10",
+      "category": "suffering",
+      "ref": "MN 52",
+      "section": "疑",
+      "observe": "疑——四諦·縁起への疑",
+      "action": "疑いを正しい師·教えで解く",
+      "quote": "四諦·縁起への疑——これ、疑結なり、正見で滅す"
+    },
+    {
+      "id": "MN52-P11",
+      "category": "night",
+      "ref": "MN 52",
+      "section": "結",
+      "observe": "アッタカ城人——一夜の教え",
+      "action": "就寝前、今日の念·正見を振り返る",
+      "quote": "身·受·心·法に念を置く——一夜にて漏尽の道"
+    }
+  ]
+}

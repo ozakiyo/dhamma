@@ -1,0 +1,682 @@
+{
+  "title": "相応部（56相応）",
+  "source": "南伝大蔵経（日本仏教学院）",
+  "collection": "samyutta",
+  "description": "相応部56相応全体。各相応35ペアで読む。",
+  "grouping": "samyutta",
+  "totalPairs": 1960,
+  "chapters": [
+    {
+      "id": 1,
+      "samyutta": 1,
+      "file": "sn01.json",
+      "title": "相応部 第1章（諸天相応）",
+      "shortTitle": "諸天",
+      "mapNote": "SN 1——諸天相応",
+      "suttas": [
+        "SN 1 諸天相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 2,
+      "samyutta": 2,
+      "file": "sn02.json",
+      "title": "相応部 第2章（天子相応）",
+      "shortTitle": "天子",
+      "mapNote": "SN 2——天子相応",
+      "suttas": [
+        "SN 2 天子相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 3,
+      "samyutta": 3,
+      "file": "sn03.json",
+      "title": "相応部 第3章（拘薩羅相応）",
+      "shortTitle": "拘薩羅",
+      "mapNote": "SN 3——拘薩羅相応",
+      "suttas": [
+        "SN 3 拘薩羅相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 4,
+      "samyutta": 4,
+      "file": "sn04.json",
+      "title": "相応部 第4章（悪魔相応）",
+      "shortTitle": "悪魔",
+      "mapNote": "SN 4——悪魔相応",
+      "suttas": [
+        "SN 4 悪魔相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 5,
+      "samyutta": 5,
+      "file": "sn05.json",
+      "title": "相応部 第5章（比丘尼相応）",
+      "shortTitle": "比丘尼",
+      "mapNote": "SN 5——比丘尼相応",
+      "suttas": [
+        "SN 5 比丘尼相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 6,
+      "samyutta": 6,
+      "file": "sn06.json",
+      "title": "相応部 第6章（梵天相応）",
+      "shortTitle": "梵天",
+      "mapNote": "SN 6——梵天相応",
+      "suttas": [
+        "SN 6 梵天相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 7,
+      "samyutta": 7,
+      "file": "sn07.json",
+      "title": "相応部 第7章（婆羅門相応）",
+      "shortTitle": "婆羅門",
+      "mapNote": "SN 7——婆羅門相応",
+      "suttas": [
+        "SN 7 婆羅門相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 8,
+      "samyutta": 8,
+      "file": "sn08.json",
+      "title": "相応部 第8章（婆耆沙長老相応）",
+      "shortTitle": "婆耆沙長老",
+      "mapNote": "SN 8——婆耆沙長老相応",
+      "suttas": [
+        "SN 8 婆耆沙長老相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 9,
+      "samyutta": 9,
+      "file": "sn09.json",
+      "title": "相応部 第9章（森相応）",
+      "shortTitle": "森",
+      "mapNote": "SN 9——森相応",
+      "suttas": [
+        "SN 9 森相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 10,
+      "samyutta": 10,
+      "file": "sn10.json",
+      "title": "相応部 第10章（夜叉相応）",
+      "shortTitle": "夜叉",
+      "mapNote": "SN 10——夜叉相応",
+      "suttas": [
+        "SN 10 夜叉相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 11,
+      "samyutta": 11,
+      "file": "sn11.json",
+      "title": "相応部 第11章（帝釈相応）",
+      "shortTitle": "帝釈",
+      "mapNote": "SN 11——帝釈相応",
+      "suttas": [
+        "SN 11 帝釈相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 12,
+      "samyutta": 12,
+      "file": "sn12.json",
+      "title": "相応部 第12章（因緣相応）",
+      "shortTitle": "因緣",
+      "mapNote": "SN 12——因緣相応",
+      "suttas": [
+        "SN 12 因緣相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 13,
+      "samyutta": 13,
+      "file": "sn13.json",
+      "title": "相応部 第13章（現観相応）",
+      "shortTitle": "現観",
+      "mapNote": "SN 13——現観相応",
+      "suttas": [
+        "SN 13 現観相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 14,
+      "samyutta": 14,
+      "file": "sn14.json",
+      "title": "相応部 第14章（界相応）",
+      "shortTitle": "界",
+      "mapNote": "SN 14——界相応",
+      "suttas": [
+        "SN 14 界相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 15,
+      "samyutta": 15,
+      "file": "sn15.json",
+      "title": "相応部 第15章（無始相応）",
+      "shortTitle": "無始",
+      "mapNote": "SN 15——無始相応",
+      "suttas": [
+        "SN 15 無始相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 16,
+      "samyutta": 16,
+      "file": "sn16.json",
+      "title": "相応部 第16章（迦葉相応）",
+      "shortTitle": "迦葉",
+      "mapNote": "SN 16——迦葉相応",
+      "suttas": [
+        "SN 16 迦葉相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 17,
+      "samyutta": 17,
+      "file": "sn17.json",
+      "title": "相応部 第17章（利得と供養相応）",
+      "shortTitle": "利得と供養",
+      "mapNote": "SN 17——利得と供養相応",
+      "suttas": [
+        "SN 17 利得と供養相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 18,
+      "samyutta": 18,
+      "file": "sn18.json",
+      "title": "相応部 第18章（羅睺羅相応）",
+      "shortTitle": "羅睺羅",
+      "mapNote": "SN 18——羅睺羅相応",
+      "suttas": [
+        "SN 18 羅睺羅相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 19,
+      "samyutta": 19,
+      "file": "sn19.json",
+      "title": "相応部 第19章（勒叉那相応）",
+      "shortTitle": "勒叉那",
+      "mapNote": "SN 19——勒叉那相応",
+      "suttas": [
+        "SN 19 勒叉那相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 20,
+      "samyutta": 20,
+      "file": "sn20.json",
+      "title": "相応部 第20章（譬喩相応）",
+      "shortTitle": "譬喩",
+      "mapNote": "SN 20——譬喩相応",
+      "suttas": [
+        "SN 20 譬喩相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 21,
+      "samyutta": 21,
+      "file": "sn21.json",
+      "title": "相応部 第21章（比丘相応）",
+      "shortTitle": "比丘",
+      "mapNote": "SN 21——比丘相応",
+      "suttas": [
+        "SN 21 比丘相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 22,
+      "samyutta": 22,
+      "file": "sn22.json",
+      "title": "相応部 第22章（蘊相応）",
+      "shortTitle": "蘊",
+      "mapNote": "SN 22——蘊相応",
+      "suttas": [
+        "SN 22 蘊相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 23,
+      "samyutta": 23,
+      "file": "sn23.json",
+      "title": "相応部 第23章（羅陀相応）",
+      "shortTitle": "羅陀",
+      "mapNote": "SN 23——羅陀相応",
+      "suttas": [
+        "SN 23 羅陀相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 24,
+      "samyutta": 24,
+      "file": "sn24.json",
+      "title": "相応部 第24章（見相応）",
+      "shortTitle": "見",
+      "mapNote": "SN 24——見相応",
+      "suttas": [
+        "SN 24 見相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 25,
+      "samyutta": 25,
+      "file": "sn25.json",
+      "title": "相応部 第25章（入相応）",
+      "shortTitle": "入",
+      "mapNote": "SN 25——入相応",
+      "suttas": [
+        "SN 25 入相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 26,
+      "samyutta": 26,
+      "file": "sn26.json",
+      "title": "相応部 第26章（生相応）",
+      "shortTitle": "生",
+      "mapNote": "SN 26——生相応",
+      "suttas": [
+        "SN 26 生相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 27,
+      "samyutta": 27,
+      "file": "sn27.json",
+      "title": "相応部 第27章（煩悩相応）",
+      "shortTitle": "煩悩",
+      "mapNote": "SN 27——煩悩相応",
+      "suttas": [
+        "SN 27 煩悩相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 28,
+      "samyutta": 28,
+      "file": "sn28.json",
+      "title": "相応部 第28章（舎利弗相応）",
+      "shortTitle": "舎利弗",
+      "mapNote": "SN 28——舎利弗相応",
+      "suttas": [
+        "SN 28 舎利弗相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 29,
+      "samyutta": 29,
+      "file": "sn29.json",
+      "title": "相応部 第29章（龍相応）",
+      "shortTitle": "龍",
+      "mapNote": "SN 29——龍相応",
+      "suttas": [
+        "SN 29 龍相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 30,
+      "samyutta": 30,
+      "file": "sn30.json",
+      "title": "相応部 第30章（金翅鳥相応）",
+      "shortTitle": "金翅鳥",
+      "mapNote": "SN 30——金翅鳥相応",
+      "suttas": [
+        "SN 30 金翅鳥相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 31,
+      "samyutta": 31,
+      "file": "sn31.json",
+      "title": "相応部 第31章（乾闥婆相応）",
+      "shortTitle": "乾闥婆",
+      "mapNote": "SN 31——乾闥婆相応",
+      "suttas": [
+        "SN 31 乾闥婆相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 32,
+      "samyutta": 32,
+      "file": "sn32.json",
+      "title": "相応部 第32章（雲相応）",
+      "shortTitle": "雲",
+      "mapNote": "SN 32——雲相応",
+      "suttas": [
+        "SN 32 雲相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 33,
+      "samyutta": 33,
+      "file": "sn33.json",
+      "title": "相応部 第33章（婆蹉種相応）",
+      "shortTitle": "婆蹉種",
+      "mapNote": "SN 33——婆蹉種相応",
+      "suttas": [
+        "SN 33 婆蹉種相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 34,
+      "samyutta": 34,
+      "file": "sn34.json",
+      "title": "相応部 第34章（禅定相応）",
+      "shortTitle": "禅定",
+      "mapNote": "SN 34——禅定相応",
+      "suttas": [
+        "SN 34 禅定相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 35,
+      "samyutta": 35,
+      "file": "sn35.json",
+      "title": "相応部 第35章（六処相応）",
+      "shortTitle": "六処",
+      "mapNote": "SN 35——六処相応",
+      "suttas": [
+        "SN 35 六処相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 36,
+      "samyutta": 36,
+      "file": "sn36.json",
+      "title": "相応部 第36章（受相応）",
+      "shortTitle": "受",
+      "mapNote": "SN 36——受相応",
+      "suttas": [
+        "SN 36 受相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 37,
+      "samyutta": 37,
+      "file": "sn37.json",
+      "title": "相応部 第37章（女人相応）",
+      "shortTitle": "女人",
+      "mapNote": "SN 37——女人相応",
+      "suttas": [
+        "SN 37 女人相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 38,
+      "samyutta": 38,
+      "file": "sn38.json",
+      "title": "相応部 第38章（閻浮車相応）",
+      "shortTitle": "閻浮車",
+      "mapNote": "SN 38——閻浮車相応",
+      "suttas": [
+        "SN 38 閻浮車相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 39,
+      "samyutta": 39,
+      "file": "sn39.json",
+      "title": "相応部 第39章（沙門出家相応）",
+      "shortTitle": "沙門出家",
+      "mapNote": "SN 39——沙門出家相応",
+      "suttas": [
+        "SN 39 沙門出家相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 40,
+      "samyutta": 40,
+      "file": "sn40.json",
+      "title": "相応部 第40章（目犍連相応）",
+      "shortTitle": "目犍連",
+      "mapNote": "SN 40——目犍連相応",
+      "suttas": [
+        "SN 40 目犍連相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 41,
+      "samyutta": 41,
+      "file": "sn41.json",
+      "title": "相応部 第41章（質多相応）",
+      "shortTitle": "質多",
+      "mapNote": "SN 41——質多相応",
+      "suttas": [
+        "SN 41 質多相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 42,
+      "samyutta": 42,
+      "file": "sn42.json",
+      "title": "相応部 第42章（聚落主相応）",
+      "shortTitle": "聚落主",
+      "mapNote": "SN 42——聚落主相応",
+      "suttas": [
+        "SN 42 聚落主相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 43,
+      "samyutta": 43,
+      "file": "sn43.json",
+      "title": "相応部 第43章（無為相応）",
+      "shortTitle": "無為",
+      "mapNote": "SN 43——無為相応",
+      "suttas": [
+        "SN 43 無為相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 44,
+      "samyutta": 44,
+      "file": "sn44.json",
+      "title": "相応部 第44章（無記説相応）",
+      "shortTitle": "無記説",
+      "mapNote": "SN 44——無記説相応",
+      "suttas": [
+        "SN 44 無記説相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 45,
+      "samyutta": 45,
+      "file": "sn45.json",
+      "title": "相応部 第45章（道相応）",
+      "shortTitle": "道",
+      "mapNote": "SN 45——道相応",
+      "suttas": [
+        "SN 45 道相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 46,
+      "samyutta": 46,
+      "file": "sn46.json",
+      "title": "相応部 第46章（覚支相応）",
+      "shortTitle": "覚支",
+      "mapNote": "SN 46——覚支相応",
+      "suttas": [
+        "SN 46 覚支相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 47,
+      "samyutta": 47,
+      "file": "sn47.json",
+      "title": "相応部 第47章（念処相応）",
+      "shortTitle": "念処",
+      "mapNote": "SN 47——念処相応",
+      "suttas": [
+        "SN 47 念処相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 48,
+      "samyutta": 48,
+      "file": "sn48.json",
+      "title": "相応部 第48章（根相応）",
+      "shortTitle": "根",
+      "mapNote": "SN 48——根相応",
+      "suttas": [
+        "SN 48 根相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 49,
+      "samyutta": 49,
+      "file": "sn49.json",
+      "title": "相応部 第49章（正勤相応）",
+      "shortTitle": "正勤",
+      "mapNote": "SN 49——正勤相応",
+      "suttas": [
+        "SN 49 正勤相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 50,
+      "samyutta": 50,
+      "file": "sn50.json",
+      "title": "相応部 第50章（力相応）",
+      "shortTitle": "力",
+      "mapNote": "SN 50——力相応",
+      "suttas": [
+        "SN 50 力相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 51,
+      "samyutta": 51,
+      "file": "sn51.json",
+      "title": "相応部 第51章（神足相応）",
+      "shortTitle": "神足",
+      "mapNote": "SN 51——神足相応",
+      "suttas": [
+        "SN 51 神足相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 52,
+      "samyutta": 52,
+      "file": "sn52.json",
+      "title": "相応部 第52章（阿那律相応）",
+      "shortTitle": "阿那律",
+      "mapNote": "SN 52——阿那律相応",
+      "suttas": [
+        "SN 52 阿那律相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 53,
+      "samyutta": 53,
+      "file": "sn53.json",
+      "title": "相応部 第53章（静慮相応）",
+      "shortTitle": "静慮",
+      "mapNote": "SN 53——静慮相応",
+      "suttas": [
+        "SN 53 静慮相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 54,
+      "samyutta": 54,
+      "file": "sn54.json",
+      "title": "相応部 第54章（入出息相応）",
+      "shortTitle": "入出息",
+      "mapNote": "SN 54——入出息相応",
+      "suttas": [
+        "SN 54 入出息相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 55,
+      "samyutta": 55,
+      "file": "sn55.json",
+      "title": "相応部 第55章（預流相応）",
+      "shortTitle": "預流",
+      "mapNote": "SN 55——預流相応",
+      "suttas": [
+        "SN 55 預流相応"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 56,
+      "samyutta": 56,
+      "file": "sn56.json",
+      "title": "相応部 第56章（諦相応）",
+      "shortTitle": "諦",
+      "mapNote": "SN 56——諦相応",
+      "suttas": [
+        "SN 56 諦相応"
+      ],
+      "pairCount": 35
+    }
+  ]
+}

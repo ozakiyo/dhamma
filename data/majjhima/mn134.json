@@ -1,0 +1,424 @@
+{
+  "chapter": 134,
+  "sutta": 134,
+  "title": "中部 第134経（盧夷強耆一夜賢者経）",
+  "shortTitle": "盧夷強耆一夜賢者経",
+  "mapNote": "後分五十経篇 · 分別品",
+  "suttas": [
+    "MN 134 盧夷強耆一夜賢者経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "盧夷強耆一夜賢者経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第134経（盧夷強耆一夜賢者経）",
+    "shortTitle": "盧夷強耆一夜賢者経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "感覚の門での接触に念を置く",
+        "chapterHint": "盧夷強耆一夜賢者経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN134-P01",
+          "MN134-P02",
+          "MN134-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "盧夷強耆一夜賢者経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN134-P01",
+          "MN134-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "盧夷強耆一夜賢者経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN134-P06",
+          "MN134-P08"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "盧夷強耆一夜賢者経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN134-P06",
+          "MN134-P07"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "盧夷強耆一夜賢者経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN134-P04",
+          "MN134-P10"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "盧夷強耆一夜賢者経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN134-P01",
+          "MN134-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "盧夷強耆一夜賢者経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN134-P02",
+          "MN134-P03"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN134-P01",
+      "category": "prep",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "盧夷強耆の一夜説——四念処のこの世",
+      "action": "今日、身·受·心·法の一つをこの世として観る",
+      "quote": "盧夷強耆は説く——四念処を、現法として観よ"
+    },
+    {
+      "id": "MN134-P02",
+      "category": "work",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "身念処——この身をこの世として",
+      "action": "今日、身体感覚を一つ正知で観る",
+      "quote": "この身を、過去·未来に住せず、現法として観よ"
+    },
+    {
+      "id": "MN134-P03",
+      "category": "work",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "受念処——今の感受",
+      "action": "今日、今の苦·楽·不苦不楽を名づける",
+      "quote": "今の受を、現法として観よ。熱心·正知·念をもって"
+    },
+    {
+      "id": "MN134-P04",
+      "category": "suffering",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "心念処——貪·瞋·痴の現起",
+      "action": "今日、心の汚れが現れたらすぐに観る",
+      "quote": "心の貪·瞋·痴を、現法として観よ"
+    },
+    {
+      "id": "MN134-P05",
+      "category": "prep",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "法念処——五盖·七覚支",
+      "action": "今日、五盖の一つが現れたら対治する",
+      "quote": "五盖·七覚支を、現法として観よ"
+    },
+    {
+      "id": "MN134-P06",
+      "category": "desire",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "過去の修行に安住せず——今の四念処",
+      "action": "今日、過去の体験ではなく今の観察",
+      "quote": "過去の修行に安住むるな。今の四念処を観よ"
+    },
+    {
+      "id": "MN134-P07",
+      "category": "speech",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "盧夷強耆は夢中に説——真剣さ",
+      "action": "今日、教えを真剣に一つ実践する",
+      "quote": "盧夷強耆は、夢中になって、四念処を説いた"
+    },
+    {
+      "id": "MN134-P08",
+      "category": "people",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "一夜の教え——聞く者も説く者も益",
+      "action": "今日、聞いた教えを一人に伝える",
+      "quote": "聞く者も、説く者も、一夜の教えに益する"
+    },
+    {
+      "id": "MN134-P09",
+      "category": "desire",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "未来の成就に安住せず——今の念",
+      "action": "今日、将来の悟りではなく今の正念",
+      "quote": "未来の成就に安住むるな。今の念を観よ"
+    },
+    {
+      "id": "MN134-P10",
+      "category": "suffering",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "四念処は苦の直接観察——逃げない",
+      "action": "今日、苦から逃げずこの世として観る",
+      "quote": "四念処は、苦を現法として観する"
+    },
+    {
+      "id": "MN134-P11",
+      "category": "night",
+      "ref": "MN 134",
+      "section": "盧夷強耆説",
+      "observe": "一日の四念処——この一夜を振り返る",
+      "action": "就寝前、今日の身·受·心·法を一つ振り返る",
+      "quote": "四念処を、現法として振り返れ"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "chapter": 9,
+  "samyutta": 9,
+  "title": "相応部 第9章（森相応）",
+  "shortTitle": "森",
+  "mapNote": "SN 9——森相応",
+  "suttas": [
+    "SN 9 森相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（有偈篇）",
+    "verify": "南伝大蔵経 第12巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN9-P01",
+      "category": "prep",
+      "ref": "SN 9.1",
+      "section": "導·林",
+      "observe": "森に住む比丘たち、林の静けさと修行の楽を讃える",
+      "action": "朝、今日「静けさの中で心を観る」時間を五分設ける",
+      "quote": "森に住む比丘たちは、林の静けさと修行の楽を讃えた"
+    },
+    {
+      "id": "SN9-P02",
+      "category": "prep",
+      "ref": "SN 9.1",
+      "section": "林",
+      "observe": "林は修行の場——喧騒を離れ、心を整える",
+      "action": "今日、喧騒から離れ、静かな時間を一つ作る",
+      "quote": "林は、修行の場なり。喧騒を離れ、心を整えよ"
+    },
+    {
+      "id": "SN9-P03",
+      "category": "prep",
+      "ref": "SN 9.2",
+      "section": "試",
+      "observe": "在家の女が比丘を試す——林居も誘惑は来る",
+      "action": "静かな場所でも、欲·慢は来ると覚悟する",
+      "quote": "林にあっても、誘惑は来る。正念を保て"
+    },
+    {
+      "id": "SN9-P04",
+      "category": "prep",
+      "ref": "SN 9.6",
+      "section": "共住",
+      "observe": "多くの比丘が林を讃える——共に住す楽",
+      "action": "今日、修行仲間·善友との時間を一つ大切にする",
+      "quote": "多くの比丘が、林を讃え、共に住す"
+    },
+    {
+      "id": "SN9-P05",
+      "category": "prep",
+      "ref": "SN 9.12",
+      "section": "正見",
+      "observe": "林居は正見があってこそ——無知の独住は危険",
+      "action": "独りの時間に、正見（縁起·四諦）を確認する",
+      "quote": "林居は、正見があってこそ。無知の独住、危険なり"
+    },
+    {
+      "id": "SN9-P06",
+      "category": "suffering",
+      "ref": "SN 9.2",
+      "section": "誘惑",
+      "observe": "林の静けさの中でも、誘惑は来る",
+      "action": "静かな場所で欲が来たら「林の誘惑」と観る",
+      "quote": "林の静けさの中でも、誘惑は来る"
+    },
+    {
+      "id": "SN9-P07",
+      "category": "suffering",
+      "ref": "SN 9.5",
+      "section": "怖",
+      "observe": "林の怖——野獣·羅刹の音",
+      "action": "恐れが来たら、正念を保ち、怖れを観る",
+      "quote": "林の怖、正念を以て乗り越えよ"
+    },
+    {
+      "id": "SN9-P08",
+      "category": "suffering",
+      "ref": "SN 9.8",
+      "section": "独",
+      "observe": "独住の苦——孤独·反芻",
+      "action": "孤独が来たら、一度認め、善友·法を想起する",
+      "quote": "独住の苦、孤独·反芻——善友·法を想起せよ"
+    },
+    {
+      "id": "SN9-P09",
+      "category": "suffering",
+      "ref": "SN 9.10",
+      "section": "無常",
+      "observe": "林も無常——火·伐採·変化",
+      "action": "自然の変化を見たとき「林も無常」と観る",
+      "quote": "林も、無常なり"
+    },
+    {
+      "id": "SN9-P10",
+      "category": "suffering",
+      "ref": "SN 9.14",
+      "section": "失",
+      "observe": "林居を失う——移動·禁止",
+      "action": "好きな場所·習慣を失うとき「無常」と観る",
+      "quote": "林居を失うも、無常なり"
+    },
+    {
+      "id": "SN9-P11",
+      "category": "desire",
+      "ref": "SN 9.2",
+      "section": "欲",
+      "observe": "在家の女の誘惑——林居の試練",
+      "action": "誘惑が来たら、正念に戻り、対象から目を逸らす",
+      "quote": "誘惑は、林にも来る。正念を保て"
+    },
+    {
+      "id": "SN9-P12",
+      "category": "desire",
+      "ref": "SN 9.4",
+      "section": "安",
+      "observe": "林の安楽への執着——このも欲",
+      "action": "「この静けさを保ちたい」という執着が来たら、手放す",
+      "quote": "林の安楽への執着、此も欲なり"
+    },
+    {
+      "id": "SN9-P13",
+      "category": "desire",
+      "ref": "SN 9.7",
+      "section": "対治",
+      "observe": "欲を対治——林の中で",
+      "action": "欲が来たら、経行·呼吸·不浄想のいずれか一つ",
+      "quote": "林の中で、欲を対治せよ"
+    },
+    {
+      "id": "SN9-P14",
+      "category": "desire",
+      "ref": "SN 9.11",
+      "section": "離欲",
+      "observe": "離欲こそ林居の目的——楽に執着せず",
+      "action": "今日、林·静けさへの執着を一つ手放す",
+      "quote": "離欲こそ、林居の目的なり"
+    },
+    {
+      "id": "SN9-P15",
+      "category": "desire",
+      "ref": "SN 9.14",
+      "section": "解脱",
+      "observe": "解脱こそ林居の頂点——林を超える",
+      "action": "今日の目的を「林の楽ではなく解脱」と確認する",
+      "quote": "解脱こそ、林居の頂点なり"
+    },
+    {
+      "id": "SN9-P16",
+      "category": "speech",
+      "ref": "SN 9.1",
+      "section": "讃",
+      "observe": "比丘たち、林を讃える偈——正語",
+      "action": "今日、自然·静けさについて感謝の言葉を一つ",
+      "quote": "比丘たちは、林を讃える偈を説いた"
+    },
+    {
+      "id": "SN9-P17",
+      "category": "speech",
+      "ref": "SN 9.2",
+      "section": "默",
+      "observe": "誘惑には応答しない——正語",
+      "action": "誘惑的な言葉·会話に、一度応答しない",
+      "quote": "誘惑には、応答するな"
+    },
+    {
+      "id": "SN9-P18",
+      "category": "speech",
+      "ref": "SN 9.6",
+      "section": "法談",
+      "observe": "林で法談——共に語る楽",
+      "action": "今日、善友と法·修行について一つ語る",
+      "quote": "林で法談せよ。共に語る楽なり"
+    },
+    {
+      "id": "SN9-P19",
+      "category": "speech",
+      "ref": "SN 9.10",
+      "section": "誠実",
+      "observe": "林の苦·楽を誠実に語る",
+      "action": "今日、修行の苦·楽を誠実に一つ語る",
+      "quote": "林の苦·楽を、誠実に語れ"
+    },
+    {
+      "id": "SN9-P20",
+      "category": "speech",
+      "ref": "SN 9.14",
+      "section": "少語",
+      "observe": "林居は少語——静けさを保つ",
+      "action": "今日、不必要な発言を一つ減らす",
+      "quote": "林居は、少語なり"
+    },
+    {
+      "id": "SN9-P21",
+      "category": "people",
+      "ref": "SN 9.2",
+      "section": "試",
+      "observe": "在家の者が試す——対人の試練",
+      "action": "試される場面で、正念·正語を保つ",
+      "quote": "試されるも、正念·正語を保て"
+    },
+    {
+      "id": "SN9-P22",
+      "category": "people",
+      "ref": "SN 9.6",
+      "section": "共住",
+      "observe": "共に住す——林の楽",
+      "action": "今日、修行仲間と一つ時間を共有する",
+      "quote": "共に住せよ。林の楽なり"
+    },
+    {
+      "id": "SN9-P23",
+      "category": "people",
+      "ref": "SN 9.8",
+      "section": "善友",
+      "observe": "独住でも、善友を忘れず",
+      "action": "独りの時間に、善友·法を想起する",
+      "quote": "独住でも、善友を忘れず"
+    },
+    {
+      "id": "SN9-P24",
+      "category": "people",
+      "ref": "SN 9.11",
+      "section": "敬",
+      "observe": "林を敬う——修行の場として",
+      "action": "今日、修行の場（部屋·公園等）を敬う",
+      "quote": "修行の場を敬え"
+    },
+    {
+      "id": "SN9-P25",
+      "category": "people",
+      "ref": "SN 9.14",
+      "section": "後学",
+      "observe": "林を讃える偈は、後学を励ます",
+      "action": "今日、誰かの修行を一つ励ます",
+      "quote": "林を讃える偈、後学を励ます"
+    },
+    {
+      "id": "SN9-P26",
+      "category": "work",
+      "ref": "SN 9.1",
+      "section": "正念",
+      "observe": "林で正念を修す",
+      "action": "今日、静かな場所で15分間、正念を修する",
+      "quote": "林で、正念を修せよ"
+    },
+    {
+      "id": "SN9-P27",
+      "category": "work",
+      "ref": "SN 9.5",
+      "section": "怖",
+      "observe": "怖れを乗り越える——林の修行",
+      "action": "恐れが来たら、正念を保ち、五分間座る",
+      "quote": "怖れを、正念を以て乗り越えよ"
+    },
+    {
+      "id": "SN9-P28",
+      "category": "work",
+      "ref": "SN 9.8",
+      "section": "独住",
+      "observe": "独住を修す——心を観る",
+      "action": "今日、一人の時間に、心を観察する",
+      "quote": "独住を修せよ。心を観よ"
+    },
+    {
+      "id": "SN9-P29",
+      "category": "work",
+      "ref": "SN 9.11",
+      "section": "精進",
+      "observe": "林でも精進——懈怠は来る",
+      "action": "怠けたいとき、経行または読経を一つ行う",
+      "quote": "林でも、精進せよ"
+    },
+    {
+      "id": "SN9-P30",
+      "category": "work",
+      "ref": "SN 9.14",
+      "section": "解脱",
+      "observe": "林居の目的は解脱",
+      "action": "今日の目的を「解脱」と確認する",
+      "quote": "林居の目的、解脱なり"
+    },
+    {
+      "id": "SN9-P31",
+      "category": "night",
+      "ref": "SN 9.1",
+      "section": "林",
+      "observe": "今日、静けさの中で心を観たか",
+      "action": "就寝前、静けさの時間を一行記録する",
+      "quote": "静けさの中で、心を観よ"
+    },
+    {
+      "id": "SN9-P32",
+      "category": "night",
+      "ref": "SN 9.2",
+      "section": "誘惑",
+      "observe": "今日、誘惑が来たか——どう対処したか",
+      "action": "就寝前、誘惑と対処を一行記録する",
+      "quote": "誘惑を知り、対処せよ"
+    },
+    {
+      "id": "SN9-P33",
+      "category": "night",
+      "ref": "SN 9.6",
+      "section": "共住",
+      "observe": "今日、善友·共住の時間はあったか",
+      "action": "就寝前、善友への感謝を一つ",
+      "quote": "共住の時間に、感謝せよ"
+    },
+    {
+      "id": "SN9-P34",
+      "category": "night",
+      "ref": "SN 9.10",
+      "section": "無常",
+      "observe": "今日、無常を見たか",
+      "action": "就寝前、変化を一つ静かに見る",
+      "quote": "無常を見よ"
+    },
+    {
+      "id": "SN9-P35",
+      "category": "night",
+      "ref": "SN 9.14",
+      "section": "総括",
+      "observe": "森相応の要——林の静けさで正念を修し、誘惑にも正見で対処",
+      "action": "就寝前、「林の静けさで心を観る」と一句唱える",
+      "quote": "林の静けさで正念を修し、解脱に至れ——森相応の要なり"
+    }
+  ]
+}

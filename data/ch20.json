@@ -1,0 +1,1237 @@
+{
+  "title": "ダンマパダ 第20章・道品（道の章）",
+  "chapter": 20,
+  "shortTitle": "道品（道の章）",
+  "source": {
+    "primary": "パーリ・ダンマパダ第20章（道品／道の章）偈単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝true-buddhism掲載文、対応漢訳＝SAT法句経（T210道行品ほか）を偈単位でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（ダンマパダ・道の章）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（第２０章・道品）",
+        "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 法句経・道行品（T4.569a）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+        "note": "漢訳対応は偈ごとに異なる。対応表: 蘇錦坤"
+      }
+    },
+    "chineseMapTable": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "ダンマパダ 第20章・道品（道の章）",
+    "shortTitle": "道品（道の章）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "view",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "八正道に触れ、この道のみと見定める",
+        "chapterHint": "道品（道の章）",
+        "fromPrev": "前夜の戒の見直しが、今朝の道への接触になる",
+        "toNext": "接触のあと、無常の受が立ち上がる",
+        "todayObserve": "諸道の中、八支（八支聖道）最も勝れ、諸諦の中、四句（四聖諦）最も勝れ、諸法の中、離欲最も勝れ、二足（人間）の中、具眼者〔最も勝る〕。",
+        "todayAction": "朝、今日の行動の軸を「正見・正語・正業」のどれか一つに定めてから動き始める",
+        "when": [
+          "朝の始まり",
+          "道を選び直すとき"
+        ],
+        "sources": [
+          "DP20-P01",
+          "DP20-P02",
+          "DP20-P03"
+        ],
+        "leadQuote": "諸々の道のなかでは、〔聖なる〕八つの支分ある〔道〕（八正道）が最勝である。諸々の…",
+        "secondaryObserve": "唯この道あるのみ、知見を浄むるに他の道なし"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "view",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "無常の受を智慧で観て、苦を厭離する",
+        "chapterHint": "道品（道の章）",
+        "fromPrev": "道に触れたあと、移ろう事象の受が来る",
+        "toNext": "受けた不安を、怠惰や欲林への欲しがりへ落とさない",
+        "todayObserve": "一切の事象は無常なりと、智によりて観る時、苦を厭離す。 これ浄に至る道なり。",
+        "todayAction": "朝、「今日起きることはすべて移ろう」と一度静かに意識してから動き始める",
+        "when": [
+          "移ろいを感じた",
+          "執着が揺らいだ"
+        ],
+        "sources": [
+          "DP20-P06"
+        ],
+        "leadQuote": "すなわち、「諸々の形成〔作用〕（形成されたもの・現象世界）は、全てが常住ならざる…",
+        "secondaryObserve": "一切の事象は無常なりと観る時、苦を厭離す"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "effort",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "怠惰と欲林への欲しがりを緩め、起つ",
+        "chapterHint": "道品（道の章）",
+        "fromPrev": "受が強まると、怠けや欲林への欲しがりへ",
+        "toNext": "止めないと三業・欲情の掴みへ進む",
+        "todayObserve": "起つべき時に起たず、若く強くして怠惰に陥り、意気消沈して惰弱・懶惰なる者は、智によりて道を得ることなし。",
+        "todayAction": "「あとで」と思っていた課題を一つ、今すぐ取り組む",
+        "when": [
+          "あとでと思った",
+          "欲の森が広がった"
+        ],
+        "sources": [
+          "DP20-P09",
+          "DP20-P13"
+        ],
+        "leadQuote": "奮起する時に奮起せずにいる者、若く力があるのに怠け癖を具した者、思惟と意〔の働き…",
+        "secondaryObserve": "欲林を伐れ、樹木を伐るに止まるなかれ"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "speech",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "不善の三業と欲情・執着を掴まず浄む",
+        "chapterHint": "道品（道の章）",
+        "fromPrev": "欲しがりが、不善・欲情・子財への掴みになる手前",
+        "toNext": "掴むと苦が太り、死の迫りが見える",
+        "todayObserve": "語を慎しみ、意をよく制御し、身を以て不善をなすべからず。 この三業道を浄むべし。 〔然らば〕聖仙所説の道を得ん。",
+        "todayAction": "今日、言葉を発する前に一度「必要か・傷つけないか」と問う",
+        "when": [
+          "言葉を発する前",
+          "小さな欲が残っている"
+        ],
+        "sources": [
+          "DP20-P10",
+          "DP20-P11",
+          "DP20-P14",
+          "DP20-P16"
+        ],
+        "leadQuote": "言葉（口・語）を守り、意（意）によって善く統御され、そして、身体（身）によって善…",
+        "secondaryObserve": "わずかな欲情も断たれぬ間は心が繋縛される"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "欲矢と執着の掴みが、救いなき苦になると知る",
+        "chapterHint": "道品（道の章）",
+        "fromPrev": "掴んだ結果として、欲矢・死の苦が熟す",
+        "toNext": "見れば、自ら歩き無我を観る実践へ向き直る",
+        "todayObserve": "汝らこの〔道〕を行かば、苦を終息せしむべし。 〔欲〕矢を除去することを悟りて、我実にこの道を説けり。",
+        "todayAction": "苦境にいるとき、逃げずに「何を欲しているのか（欲の矢）」を一つ特定して手放す",
+        "when": [
+          "苦境にいる",
+          "誰かに頼ろうとした"
+        ],
+        "sources": [
+          "DP20-P04",
+          "DP20-P07",
+          "DP20-P17"
+        ],
+        "leadQuote": "まさに、この〔道〕を実践したなら、あなたたちは、苦しみの終極を為すであろう。矢を…",
+        "secondaryObserve": "死に捉えられし者を、親族も救うあたわず"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "concentration"
+        ],
+        "pathLabel": "自ら努力し、無我を観て、自己愛を断ち離す",
+        "chapterHint": "道品（道の章）",
+        "fromPrev": "苦が見えれば、歩む努力と離欲へ向き直る",
+        "toNext": "離すと、戒による夜の見直しへつながる",
+        "todayObserve": "汝らまさに努力すべし。 如来は説者なり。 禅定に住して〔この道を〕行く者は、魔王の繋縛を脱すべし。",
+        "todayAction": "今日、受けた教えや学んだ知識を一つ、具体的な行動に落とし込む",
+        "when": [
+          "教えを行動に落とす",
+          "自己像を手放す"
+        ],
+        "sources": [
+          "DP20-P05",
+          "DP20-P08",
+          "DP20-P12",
+          "DP20-P15"
+        ],
+        "leadQuote": "熱く為すべきは、あなたたちである。如来たちは、〔道を〕告げ知らせる者たちである。…",
+        "secondaryObserve": "自己に対する愛を断ち、寂静の道のみを固守せよ"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "effort",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正精進",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "mindfulness"
+        ],
+        "pathLabel": "死を覚え、戒に照らして道を浄める",
+        "chapterHint": "道品（道の章）",
+        "fromPrev": "一日の行いは、道を歩んだかの跡",
+        "toNext": "見直しが、翌朝の八正道への接触になる",
+        "todayObserve": "「我雨期にはここに住せん、冬と夏とはここに〔住せん〕」と、愚者は思惟して、死の〔至る〕を覚らず。 この義を知りて、賢者は戒により制御し、涅槃に至る道を速やかに浄むべし。",
+        "todayAction": "今夜、今日の行いを「戒に照らして」一つ正直に振り返り、明日の姿勢を定める",
+        "when": [
+          "一日を閉じるとき",
+          "先延ばしを反省する"
+        ],
+        "sources": [
+          "DP20-P18",
+          "DP20-P19",
+          "DP20-P20"
+        ],
+        "leadQuote": "この義（利益）たる所以を知って、戒において統御された賢者は、涅槃に至る道を、まさ…",
+        "secondaryObserve": "賢者は戒により制御し、涅槃に至る道を速やかに浄むべし"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "道品は自ら歩み魔の繋縛を脱する実践が中心。既定の焦点は離す。表示は現在の偈の縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "DP20-P01",
+      "category": "view",
+      "verse": 273,
+      "observe": "諸道の中、八支（八支聖道）最も勝れ、諸諦の中、四句（四聖諦）最も勝れ、諸法の中、離欲最も勝れ、二足（人間）の中、具眼者〔最も勝る〕。",
+      "action": "朝、今日の行動の軸を「正見・正語・正業」のどれか一つに定めてから動き始める",
+      "quote": "諸々の道のなかでは、〔聖なる〕八つの支分ある〔道〕（八正道）が最勝である。諸々の真理のなかでは、四つの〔聖なる〕境処（四聖諦）が〔最勝である〕。諸々の法（教え）のなかでは、離貪〔の法〕が最勝である。そして、二足の者（人間）たちのなかでは、眼ある者が〔最勝である〕。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "八正道・四諦・離欲・具眼者が最勝と知る接触",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第273偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第273偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-001",
+          "text": "八直最上道，四諦為法迹，不婬行之尊，施燈必得眼。",
+          "satLocus": "大正蔵 T4.569a 道行品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P02",
+      "category": "view",
+      "verse": 273,
+      "observe": "諸道の中、八支（八支聖道）最も勝れ、諸諦の中、四句（四聖諦）最も勝れ、諸法の中、離欲最も勝れ、二足（人間）の中、具眼者〔最も勝る〕。",
+      "action": "今日の仕事や家事を、知識だけでなく実践を通じて「法を見る者」として行う",
+      "quote": "諸々の道のなかでは、〔聖なる〕八つの支分ある〔道〕（八正道）が最勝である。諸々の真理のなかでは、四つの〔聖なる〕境処（四聖諦）が〔最勝である〕。諸々の法（教え）のなかでは、離貪〔の法〕が最勝である。そして、二足の者（人間）たちのなかでは、眼ある者が〔最勝である〕。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "八正道・四諦・離欲・具眼者が最勝と知る接触",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第273偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第273偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-001",
+          "text": "八直最上道，四諦為法迹，不婬行之尊，施燈必得眼。",
+          "satLocus": "大正蔵 T4.569a 道行品第1頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P03",
+      "category": "view",
+      "verse": 274,
+      "observe": "唯この道あるのみ、知見を浄むるに他の〔道〕あることなし。 汝らこの〔道〕を行くべし。 これ魔王を幻惑するものなり。",
+      "action": "迷ったとき「正道か否か」という一点だけで判断する",
+      "quote": "これこそは、道である。見の清浄のための、他〔の道〕は存在しない。まさに、この〔道〕を、あなたたちは実践しなさい──悪魔を迷妄ならしむ、この〔道〕を。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "知見を浄める道はこの道のみ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第274偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第274偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-002",
+          "text": "是道無復畏，見淨乃度世，此能壞魔兵，力行滅邪苦。",
+          "satLocus": "大正蔵 T4.569a 道行品第2頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P04",
+      "category": "view",
+      "verse": 275,
+      "observe": "汝らこの〔道〕を行かば、苦を終息せしむべし。 〔欲〕矢を除去することを悟りて、我実にこの道を説けり。",
+      "action": "苦境にいるとき、逃げずに「何を欲しているのか（欲の矢）」を一つ特定して手放す",
+      "quote": "まさに、この〔道〕を実践したなら、あなたたちは、苦しみの終極を為すであろう。矢を折ることを了知して、わたしによって、あなたたちに、道は告げ知らされた。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "この道を行けば苦を終息せしめ得る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第275偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第275偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-003",
+          "text": "我已開正道，為大現異明，已聞當自行，行乃解邪縛。",
+          "satLocus": "大正蔵 T4.569a 道行品第3頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P05",
+      "category": "effort",
+      "verse": 276,
+      "observe": "汝らまさに努力すべし。 如来は説者なり。 禅定に住して〔この道を〕行く者は、魔王の繋縛を脱すべし。",
+      "action": "今日、受けた教えや学んだ知識を一つ、具体的な行動に落とし込む",
+      "quote": "熱く為すべきは、あなたたちである。如来たちは、〔道を〕告げ知らせる者たちである。〔この道を〕実践した瞑想者たちは、悪魔の結縛から解き放たれるであろう。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正定"
+      ],
+      "pathReason": "如来は説者、自ら努力し禅定に住して魔の繋縛を脱す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第276偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第276偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-022",
+          "text": "吾語汝法，愛箭為射，宜以自勗，受如來言。",
+          "satLocus": "大正蔵 T4.569c 道行品第22頌",
+          "note": "パーリ道の章276はT210道行品第22頌に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/"
+        }
+      }
+    },
+    {
+      "id": "DP20-P06",
+      "category": "view",
+      "verse": 277,
+      "observe": "一切の事象は無常なりと、智によりて観る時、苦を厭離す。 これ浄に至る道なり。",
+      "action": "朝、「今日起きることはすべて移ろう」と一度静かに意識してから動き始める",
+      "quote": "すなわち、「諸々の形成〔作用〕（形成されたもの・現象世界）は、全てが常住ならざるものである（諸行無常）」と、智慧によって見るとき、そこで、苦しみについて厭離する──これは、清浄への道である。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "諸行無常と観るとき苦を厭離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第277偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第277偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-004",
+          "text": "生死非常苦，能觀見為慧，欲離一切苦，行道一切除。",
+          "satLocus": "大正蔵 T4.569a 道行品第4頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P07",
+      "category": "view",
+      "verse": 278,
+      "observe": "一切の事象は苦なりと、智によりて観る時、苦を厭離す。 これ浄に至る道なり。",
+      "action": "つらい出来事に「これもまた苦の性質だ」と静かに名付け、そのまま観察する",
+      "quote": "すなわち、「諸々の形成〔作用〕（形成されたもの・現象世界）は、全てが苦しみである（一切皆苦）」と、智慧によって見るとき、そこで、苦しみについて厭離する──これは、清浄への道である。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "諸行皆苦と観るとき苦を厭離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第278偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第278偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-020",
+          "text": "知眾行苦，是為慧見，罷厭世苦，從是道除。",
+          "satLocus": "大正蔵 T4.569c 道行品第20頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P08",
+      "category": "view",
+      "verse": 279,
+      "observe": "一切の法は無我なりと、智によりて観る時、苦を厭離す。 これ浄に至る道なり。",
+      "action": "「自分が正しい」と思う瞬間に、一度「無我」を思い出して固執をゆるめる",
+      "quote": "すなわち、「諸々の法（事象）は、全てが自己ならざるものである（諸法無我）」と、智慧によって見るとき、そこで、苦しみについて厭離する──これは、清浄への道である。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "諸法無我と観るとき苦を厭離し離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第279偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第279偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-021",
+          "text": "眾行非身，是為慧見，罷厭世苦，從是道除。",
+          "satLocus": "大正蔵 T4.569c 道行品第21頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P09",
+      "category": "effort",
+      "verse": 280,
+      "observe": "起つべき時に起たず、若く強くして怠惰に陥り、意気消沈して惰弱・懶惰なる者は、智によりて道を得ることなし。",
+      "action": "「あとで」と思っていた課題を一つ、今すぐ取り組む",
+      "quote": "奮起する時に奮起せずにいる者、若く力があるのに怠け癖を具した者、思惟と意〔の働き〕が沈滞した怠惰の者──怠け者は、智慧によって道を見出すことがない。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "起つべき時に怠惰すれば道を得ず",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第280偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第280偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-006",
+          "text": "起時當即起，莫如愚覆淵，與墮無瞻聚，計罷不進道。",
+          "satLocus": "大正蔵 T4.569a–b 道行品第6頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P10",
+      "category": "speech",
+      "verse": 281,
+      "observe": "語を慎しみ、意をよく制御し、身を以て不善をなすべからず。 この三業道を浄むべし。 〔然らば〕聖仙所説の道を得ん。",
+      "action": "今日、言葉を発する前に一度「必要か・傷つけないか」と問う",
+      "quote": "言葉（口・語）を守り、意（意）によって善く統御され、そして、身体（身）によって善ならざることを為さないなら、これらの三つの行為の道を清め、聖賢によって知らされた道に達するであろう。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "pathReason": "語・意・身の不善を掴まず三業道を浄む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第281偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第281偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-008",
+          "text": "慎言守意正，身不善不行，如是三行除，佛說是得道。",
+          "satLocus": "大正蔵 T4.569b 道行品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P11",
+      "category": "speech",
+      "verse": 281,
+      "observe": "語を慎しみ、意をよく制御し、身を以て不善をなすべからず。 この三業道を浄むべし。 〔然らば〕聖仙所説の道を得ん。",
+      "action": "相手への行動・言葉・心の中の三つで、今日善を選ぶ機会を一つ意識して作る",
+      "quote": "言葉（口・語）を守り、意（意）によって善く統御され、そして、身体（身）によって善ならざることを為さないなら、これらの三つの行為の道を清め、聖賢によって知らされた道に達するであろう。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "pathReason": "語・意・身の不善を掴まず三業道を浄む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第281偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第281偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-008",
+          "text": "慎言守意正，身不善不行，如是三行除，佛說是得道。",
+          "satLocus": "大正蔵 T4.569b 道行品第8頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P12",
+      "category": "concentration",
+      "verse": 282,
+      "observe": "実に智は瑜伽（瞑想）より生じ、瑜伽を行ぜざれば智は滅ぶ。 この得と失との両道を知り、自ら努めて、以て智を増大せしむべし。",
+      "action": "毎朝わずかな時間でも座り、静かに呼吸を観察する",
+      "quote": "〔心の〕制止（瑜伽）あるがゆえに、まさに、英知は生まれる。〔心の〕制止なきがゆえに、英知の消滅がある。実体（有：存在）への〔道を〕、さらに、虚無（非有：無）への〔道を〕──この二種の道を〔あるがままに〕知って、すなわち、英知が増え行くままに、そのように、自己を確たるものとするがよい。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "pathReason": "瑜伽より智が生じ、自ら努めて智を増大す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第282偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第282偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ道の章282はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/"
+        }
+      }
+    },
+    {
+      "id": "DP20-P13",
+      "category": "mindfulness",
+      "verse": 283,
+      "observe": "欲林を伐れ、樹木を〔伐るに止まる〕なかれ。 欲林より畏怖生ず。 欲林と欲叢とを伐りて、比丘らよ、欲林より脱せよ。",
+      "action": "衝動が湧いたら「この欲の根は何か（何を怖れているのか）」を問いかけて観察する",
+      "quote": "〔欲の〕林を断て──木を〔断つの〕ではなく。〔欲の〕林からは、恐怖が生まれる。かつまた、林を、かつまた、林の下生えを、〔両者ともに〕断って、比丘たちよ、〔欲の〕林なき者たちと成れ。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "欲林を根ごと伐り、畏怖の源を断つ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第283偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第283偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-009",
+          "text": "斷樹無伐本，根在猶復生，除根乃無樹，比丘得泥洹。",
+          "satLocus": "大正蔵 T4.569b 道行品第9頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P14",
+      "category": "mindfulness",
+      "verse": 284,
+      "observe": "男子の女子に対する欲情、いささかなりとも断たれざる間は、彼の心は繋縛せらる、あたかも乳を飲む子牛の母牛に於けるが如く。",
+      "action": "小さな習慣的欲望（スマホ確認・間食・先延ばし）を今日一つ意識して断つ",
+      "quote": "まさに、女たちにたいする男の〔欲の〕林の下生えが、微塵ばかりでさえも断たれずにある、そのかぎりは、そのあいだ、彼は、まさしく、意が縛られた者となる──乳を飲む子牛が、母〔牛〕にたいするように。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "わずかな欲情も断たれぬ間は心が繋縛される",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第284偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第284偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-010",
+          "text": "不能斷樹，親戚相戀，貪意自縛，如犢慕乳。",
+          "satLocus": "大正蔵 T4.569b 道行品第10頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P15",
+      "category": "mindfulness",
+      "verse": 285,
+      "observe": "自己に対する愛を断つこと、秋の蓮を手にて〔折るが〕如くせよ。 寂静の道のみを固守せよ。 涅槃は善逝（仏陀）により説かれたり。",
+      "action": "自分への過剰な期待・自己像への執着を一つ、今朝静かに手放す",
+      "quote": "自己への愛執〔の思い〕を断て──秋の蓮を、手で〔断ち切る〕ように。善き至達者（善逝：ブッダの尊称）によって説示された涅槃〔の境処〕を、寂静の道こそを、育てよ。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "pathReason": "自己への愛を断ち、寂静の道を固守する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第285偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第285偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "unmapped",
+          "pin": null,
+          "t210": null,
+          "text": null,
+          "satLocus": null,
+          "note": "パーリ道の章285はT210に対応なし（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/"
+        }
+      }
+    },
+    {
+      "id": "DP20-P16",
+      "category": "mindfulness",
+      "verse": 287,
+      "observe": "子と家畜とに惑溺し、その心これに執着せる人を、死は捉え去る、あたかも眠れる村落を、瀑流の〔漂蕩し去る〕が如く。",
+      "action": "大切なものへの「いつか失う」を一度想像し、今この瞬間の感謝に向き直す",
+      "quote": "彼を、子供や家畜に夢中になり執着の意図ある人を、死魔は取って去り行く──眠りについた村を、大激流が〔流し去ってしまう〕ように。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "pathReason": "子と家畜への執着を死が捉え去る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第287偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第287偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-014",
+          "text": "人營妻子，不觀病法，死命卒至，如水湍驟。",
+          "satLocus": "大正蔵 T4.569b 道行品第14頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P17",
+      "category": "view",
+      "verse": 288,
+      "observe": "子も救うあたわず、父も親戚もまた〔救うあたわず〕。 死に捉えられし者を救うは、親族もなすあたわざる所なり。",
+      "action": "苦境の中で「誰かが解決してくれるはず」という依存を観察し、自己の歩みを確かめる",
+      "quote": "子供たちは、〔わが身の〕救いのために存在するのではない。父親も、さにあらず。眷属たちもまた、さにあらず。死神に囚われた者の救い手は、親族たちのなかには存在しない。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "死に捉えられた者を親族も救えない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第288偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第288偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "無常品（T210 第1品）",
+          "t210": "T210-01-017",
+          "text": "非有子恃，亦非父兄，為死所迫，無親可怙。",
+          "satLocus": "大正蔵 T4.559a 無常品第17頌",
+          "note": "パーリ道の章288はT210道行品ではなく無常品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/"
+        }
+      }
+    },
+    {
+      "id": "DP20-P18",
+      "category": "mindfulness",
+      "verse": 286,
+      "observe": "「我雨期にはここに住せん、冬と夏とはここに〔住せん〕」と、愚者は思惟して、死の〔至る〕を覚らず。",
+      "action": "今夜、「今日の一日は二度と戻らない」と一度静かに意識する",
+      "quote": "「雨期のあいだ、〔わたしは〕ここに住するであろう。冬と夏には、ここに〔住するであろう〕」〔と〕、かくのごとく、愚者は熟慮するが、〔すぐ目の前の〕障り（危険）を覚らない。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "住処を思い巡らす愚は死の至るを覚らない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第286偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第286偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "愚闇品（T210 第13品）",
+          "t210": "T210-13-005",
+          "text": "暑當止此，寒當止此，愚多預慮，莫知來變。",
+          "satLocus": "大正蔵 T4.563b 愚闇品第5頌",
+          "note": "パーリ道の章286はT210道行品ではなく愚闇品に対応（蘇錦坤對照表）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/"
+        }
+      }
+    },
+    {
+      "id": "DP20-P19",
+      "category": "effort",
+      "verse": 289,
+      "observe": "この義を知りて、賢者は戒により制御し、涅槃に至る道を速やかに浄むべし。",
+      "action": "今日の判断を「誠実・不害・節制」という戒の基準で一つ確かめる",
+      "quote": "この義（利益）たる所以を知って、戒において統御された賢者は、涅槃に至る道を、まさしく、すみやかに清めるであろう。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "戒により制御し、涅槃への道を速やかに浄む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第289偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第289偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-016",
+          "text": "慧解是意，可修經戒，勤行度世，一切除苦。",
+          "satLocus": "大正蔵 T4.569b 道行品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    },
+    {
+      "id": "DP20-P20",
+      "category": "effort",
+      "verse": 289,
+      "observe": "この義を知りて、賢者は戒により制御し、涅槃に至る道を速やかに浄むべし。",
+      "action": "今夜、今日の行いを「戒に照らして」一つ正直に振り返り、明日の姿勢を定める",
+      "quote": "この義（利益）たる所以を知って、戒において統御された賢者は、涅槃に至る道を、まさしく、すみやかに清めるであろう。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "戒により制御し、涅槃への道を速やかに浄む",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "小部・ダンマパダ 道の章 第289偈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8/%E5%B0%8F%E9%83%A8%E7%B5%8C%E5%85%B8%E3%83%80%E3%83%B3%E3%83%9E%E3%83%91%E3%83%80"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第２０章・道品 第289偈（#ch02-20）",
+          "url": "https://true-buddhism.com/sutra/dhammapada/#ch02-20"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "道行品（T210 第28品）",
+          "t210": "T210-28-016",
+          "text": "慧解是意，可修經戒，勤行度世，一切除苦。",
+          "satLocus": "大正蔵 T4.569b 道行品第16頌",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0210_%2C04%2C0569",
+          "mapTableUrl": "https://nanda.online-dhamma.net/tipitaka/sutta/khuddaka/dhammapada/dhp-correspondence-tables/dhp-correspondence-tables-pali-chap20/",
+          "note": "パーリ偈との内容対応（蘇錦坤『法句経』偈頌對照表）。品内番号・品名はパーリとずれる場合あり。"
+        }
+      }
+    }
+  ],
+  "versePracticeMap": {
+    "273": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "八正道・四諦・離欲・具眼者が最勝と知る接触"
+    },
+    "274": {
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "知見を浄める道はこの道のみ"
+    },
+    "275": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "この道を行けば苦を終息せしめ得る"
+    },
+    "276": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正定"
+      ],
+      "reason": "如来は説者、自ら努力し禅定に住して魔の繋縛を脱す"
+    },
+    "277": {
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "諸行無常と観るとき苦を厭離す"
+    },
+    "278": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "諸行皆苦と観るとき苦を厭離す"
+    },
+    "279": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "諸法無我と観るとき苦を厭離し離す"
+    },
+    "280": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "起つべき時に怠惰すれば道を得ず"
+    },
+    "281": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "reason": "語・意・身の不善を掴まず三業道を浄む"
+    },
+    "282": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "reason": "瑜伽より智が生じ、自ら努めて智を増大す"
+    },
+    "283": {
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "欲林を根ごと伐り、畏怖の源を断つ"
+    },
+    "284": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "わずかな欲情も断たれぬ間は心が繋縛される"
+    },
+    "285": {
+      "nidanaId": "release",
+      "pathFactors": [
+        "正念",
+        "正業"
+      ],
+      "reason": "自己への愛を断ち、寂静の道を固守する"
+    },
+    "286": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "reason": "住処を思い巡らす愚は死の至るを覚らない"
+    },
+    "287": {
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正念",
+        "正思惟"
+      ],
+      "reason": "子と家畜への執着を死が捉え去る"
+    },
+    "288": {
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "reason": "死に捉えられた者を親族も救えない"
+    },
+    "289": {
+      "nidanaId": "review",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "reason": "戒により制御し、涅槃への道を速やかに浄む"
+    }
+  }
+}

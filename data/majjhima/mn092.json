@@ -1,0 +1,422 @@
+{
+  "chapter": 92,
+  "sutta": 92,
+  "title": "中部 第92経（施羅経）",
+  "shortTitle": "施羅経",
+  "mapNote": "中分五十経篇 · 婆羅門品",
+  "suttas": [
+    "MN 92 施羅経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "施羅経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第92経（施羅経）",
+    "shortTitle": "施羅経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "施羅経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN92-P02",
+          "MN92-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "施羅経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN92-P03",
+          "MN92-P04"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "施羅経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN92-P01",
+          "MN92-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "人との関わりで傷つけず与える",
+        "chapterHint": "施羅経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN92-P01",
+          "MN92-P04",
+          "MN92-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "施羅経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN92-P09",
+          "MN92-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "施羅経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN92-P02",
+          "MN92-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "施羅経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN92-P02",
+          "MN92-P07"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN92-P01",
+      "category": "people",
+      "ref": "MN 92",
+      "section": "導",
+      "observe": "毛髪婆羅門は、千の弟子を率いて、如来の前に来た",
+      "action": "今日、師の前に、謙虚に赴く",
+      "quote": "毛髪は、千の弟子を率いて、如来の前に来た"
+    },
+    {
+      "id": "MN92-P02",
+      "category": "work",
+      "ref": "MN 92",
+      "section": "供養",
+      "observe": "毛髪は、如来に、七日間の供養を申し出た",
+      "action": "今日、善友への供養を、一つ決める",
+      "quote": "毛髪は、如来に、七日間の供養を申し出た"
+    },
+    {
+      "id": "MN92-P03",
+      "category": "prep",
+      "ref": "MN 92",
+      "section": "三十二相",
+      "observe": "毛髪は、如来の相を見て、信を得た",
+      "action": "今日、善友の徳相を、一つ認める",
+      "quote": "毛髪は、如来の相を見て、信を得た"
+    },
+    {
+      "id": "MN92-P04",
+      "category": "speech",
+      "ref": "MN 92",
+      "section": "讃歎",
+      "observe": "施羅等の婆羅門は、如来を讃歎した",
+      "action": "今日、善友の徳を、一つ讃歎する",
+      "quote": "施羅等は、如来を讃歎した——これは真の師である"
+    },
+    {
+      "id": "MN92-P05",
+      "category": "people",
+      "ref": "MN 92",
+      "section": "改心",
+      "observe": "千の婆羅門は、如来の教えを聞いて、改心した",
+      "action": "正しい教えを聞いたら、素直に改心する",
+      "quote": "千の婆羅門は、如来の教えを聞いて、改心した"
+    },
+    {
+      "id": "MN92-P06",
+      "category": "desire",
+      "ref": "MN 92",
+      "section": "慢",
+      "observe": "婆羅門の慢心は、如来の教えで除かれた",
+      "action": "慢心が起きたら、一呼吸置いて手放す",
+      "quote": "慢心ある者は、苦の報を受ける"
+    },
+    {
+      "id": "MN92-P07",
+      "category": "work",
+      "ref": "MN 92",
+      "section": "出家",
+      "observe": "施羅等は、出家して、比丘となった",
+      "action": "今日、俗務を一つ手放し、修行に向ける",
+      "quote": "施羅等は、出家して、比丘となった"
+    },
+    {
+      "id": "MN92-P08",
+      "category": "prep",
+      "ref": "MN 92",
+      "section": "正見",
+      "observe": "正見を得た者は、師に従う",
+      "action": "今日、正見を一つ、行いに結ぶ",
+      "quote": "正見を得た者は、師に従う"
+    },
+    {
+      "id": "MN92-P09",
+      "category": "suffering",
+      "ref": "MN 92",
+      "section": "縁起",
+      "observe": "如来は、縁起の教えを説いた",
+      "action": "今日、縁起を一つ、具体物に当てはめる",
+      "quote": "これ苦、これ集、これ灭、これ道"
+    },
+    {
+      "id": "MN92-P10",
+      "category": "speech",
+      "ref": "MN 92",
+      "section": "教誡",
+      "observe": "如来は、婆羅門に、法を説いた",
+      "action": "今日、法の一節を、誰かに一つ伝える",
+      "quote": "如来は、婆羅門に、法を説いた"
+    },
+    {
+      "id": "MN92-P11",
+      "category": "night",
+      "ref": "MN 92",
+      "section": "結",
+      "observe": "千の改心——夜、今日の改心を一つ振り返る",
+      "action": "就寝前、今日正見に向かった点を、静かに振り返る",
+      "quote": "千の婆羅門は、如来の教えを聞いて、改心した"
+    }
+  ]
+}

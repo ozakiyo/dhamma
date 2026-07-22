@@ -1,0 +1,422 @@
+{
+  "chapter": 121,
+  "sutta": 121,
+  "title": "中部 第121経（空小経）",
+  "shortTitle": "空小経",
+  "mapNote": "後分五十経篇 · 空品",
+  "suttas": [
+    "MN 121 空小経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "空小経のペア分布から割り当て",
+    "chapterTitle": "中部 第121経（空小経）",
+    "shortTitle": "空小経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "空小経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN121-P01",
+          "MN121-P02",
+          "MN121-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "空小経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN121-P01",
+          "MN121-P02"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "空小経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN121-P04",
+          "MN121-P08"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "空小経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN121-P04",
+          "MN121-P07"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "空小経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN121-P05",
+          "MN121-P10"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "空小経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN121-P01",
+          "MN121-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "空小経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN121-P03",
+          "MN121-P06"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN121-P01",
+      "category": "prep",
+      "ref": "MN 121",
+      "section": "導",
+      "observe": "閑居の精舎に入れば——人·我·人我なき所と見る",
+      "action": "今日、自分の部屋や机を「私の領域」と決めつけない",
+      "quote": "彼、閑居の精舎に入り、こう思う——この閑居の精舎は、人·我·人我なき所である"
+    },
+    {
+      "id": "MN121-P02",
+      "category": "prep",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "内外の地界は地界のみ——人·我·人我なき",
+      "action": "足の感覚を「地」と見て、所有の念を一度外す",
+      "quote": "彼、内外の地界を、地界のみと見る。彼、地界のみと見る。彼、地界のみと見る。彼、地界のみと見る"
+    },
+    {
+      "id": "MN121-P03",
+      "category": "work",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "空に入り、空から出ず——外部の空を想わない",
+      "action": "集中の時間、外の評価や将来の空を追わず今の所に留まる",
+      "quote": "彼、空に入り、空から出ず、外部の空を想わない"
+    },
+    {
+      "id": "MN121-P04",
+      "category": "desire",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "念を掴みにくい——空の想に執着しない",
+      "action": "瞑想や休息の快さに執着し始めたら、一度手放す",
+      "quote": "彼、念を掴みにくいようにする。彼、空の想に執着しない"
+    },
+    {
+      "id": "MN121-P05",
+      "category": "suffering",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "六入·六触·十八意所も人·我·人我なき",
+      "action": "今日の接触を「触れた→感じた→反応」の連鎖として見る",
+      "quote": "彼、六入を、人·我·人我なきと見る。六触を、人·我·人我なきと見る。十八意所を、人·我·人我なきと見る"
+    },
+    {
+      "id": "MN121-P06",
+      "category": "work",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "四念処·七覚支·八正道も空——段階を踏んで空に入る",
+      "action": "今日の修行の一歩を、成果ではなく段階として見る",
+      "quote": "彼、四念処を、人·我·人我なきと見る。七覚支を、人·我·人我なきと見る。八正道を、人·我·人我なきと見る"
+    },
+    {
+      "id": "MN121-P07",
+      "category": "speech",
+      "ref": "MN 121",
+      "section": "導",
+      "observe": "空三昧は口先の空論ではなく——閑居で実践する所",
+      "action": "今日、空や無我を語る前に、自分の執着を一つ名づける",
+      "quote": "阿難、比丘は閑居の精舎に入り、こう思うべきである——この閑居の精舎は、人·我·人我なき所である"
+    },
+    {
+      "id": "MN121-P08",
+      "category": "people",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "村や人の集まりも——人·我·人我なき",
+      "action": "混雑した場で、他者を「障害」ではなく空の所として見る",
+      "quote": "彼、内外の村を、村のみと見る。彼、内外の人を、人のみと見る"
+    },
+    {
+      "id": "MN121-P09",
+      "category": "desire",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "空を知っても——我見·我慢·我取は残りうる",
+      "action": "理解した気になる慢心が来たら、一度黙って観る",
+      "quote": "彼、空を知っても、我見·我慢·我取は残ることがある"
+    },
+    {
+      "id": "MN121-P10",
+      "category": "suffering",
+      "ref": "MN 121",
+      "section": "結",
+      "observe": "空の想は執着の滅——ここに執着する所なし",
+      "action": "今日の執着を一つ、「ここに執着する所なし」と見る",
+      "quote": "空の想は、執着の滅である。ここに執着する所なし"
+    },
+    {
+      "id": "MN121-P11",
+      "category": "night",
+      "ref": "MN 121",
+      "section": "空觀",
+      "observe": "一日の終わり——内外の所を人·我·人我なきと振り返る",
+      "action": "就寝前、今日固めた「私の領域」を一度緩める",
+      "quote": "彼、内外の所を、人·我·人我なきと見る"
+    }
+  ]
+}

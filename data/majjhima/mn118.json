@@ -1,0 +1,433 @@
+{
+  "chapter": 118,
+  "sutta": 118,
+  "title": "中部 第118経（入出息念経）",
+  "shortTitle": "入出息念経",
+  "mapNote": "後分五十経篇 · 不断品",
+  "suttas": [
+    "MN 118 入出息念経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "入出息念経は呼吸の念が主題",
+    "chapterTitle": "中部 第118経（入出息念経）",
+    "shortTitle": "入出息念経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "入出息に触れ、念を置く",
+        "chapterHint": "入出息念経",
+        "fromPrev": "呼吸との接触が念の門になる",
+        "toNext": "修すれば多くの利益が来る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN118-P01",
+          "MN118-P02",
+          "MN118-P04"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "入出息念経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN118-P06",
+          "MN118-P07"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "入出息念経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN118-P03",
+          "MN118-P11"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "入出息念経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN118-P03",
+          "MN118-P11"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "入出息念経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN118-P08",
+          "MN118-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "入出息念経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN118-P01",
+          "MN118-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "入出息念経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN118-P01",
+          "MN118-P02"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN118-P01",
+      "category": "work",
+      "ref": "MN 118",
+      "section": "導",
+      "observe": "呼吸の念——修せば、多くの利益をもたらす",
+      "action": "移動中または就寝前、呼吸十回を数えて観察する",
+      "quote": "比丘たち、呼吸の念を修することは、多くの利益をもたらす"
+    },
+    {
+      "id": "MN118-P02",
+      "category": "work",
+      "ref": "MN 118",
+      "section": "第一の四",
+      "observe": "最初の四つ——長息·短息を知り、全身を感受する",
+      "action": "呼吸を観るとき、胸腹だけでなく全身の感覚に意識を広げる",
+      "quote": "彼、長息を知り、長息と知る。短息を知り、短息と知る。彼、全身を感受し、全身を感受すると知る"
+    },
+    {
+      "id": "MN118-P03",
+      "category": "desire",
+      "ref": "MN 118",
+      "section": "第一の四",
+      "observe": "全身を感受し、行為の集まりを止める——呼吸で渇愛の燃料を弱める",
+      "action": "呼吸に意識を置き、身体の不要な緊張を一つ手放す",
+      "quote": "彼、全身を感受し、全身を感受すると知る。彼、行為の集まりを止め、行為の集まりを止めると知る"
+    },
+    {
+      "id": "MN118-P04",
+      "category": "work",
+      "ref": "MN 118",
+      "section": "第二の四",
+      "observe": "次の四つ——喜·軽安を修し、受念処を育てる",
+      "action": "今日、心が明るく澄んだ瞬間を「喜」と認め、呼吸と結びつける",
+      "quote": "彼、喜を修し、喜を修すると知る。彼、軽安を修し、軽安を修すると知る"
+    },
+    {
+      "id": "MN118-P05",
+      "category": "work",
+      "ref": "MN 118",
+      "section": "第二の四",
+      "observe": "受を感受し、受の集まりを止める——楽受にも執着しない",
+      "action": "快い感覚が来たら、それを味わい尽くさず呼吸に戻す",
+      "quote": "彼、受を感受し、受を感受すると知る。彼、受の集まりを止め、受の集まりを止めると知る"
+    },
+    {
+      "id": "MN118-P06",
+      "category": "prep",
+      "ref": "MN 118",
+      "section": "第三の四",
+      "observe": "三つ目の四つ——心を定め、心を解き放つ",
+      "action": "散った心に気づいたら、呼吸三回で「定める」と意図する",
+      "quote": "彼、心を定め、心を定めると知る。彼、心を解き放ち、心を解き放つと知る"
+    },
+    {
+      "id": "MN118-P07",
+      "category": "prep",
+      "ref": "MN 118",
+      "section": "第三の四",
+      "observe": "心を知り、心の集まりを止める——心念処と呼吸の連動",
+      "action": "今日、心の状態を一つ言葉にし、それを呼吸と一緒に観る",
+      "quote": "彼、心を知り、心を知ると知る。彼、心の集まりを止め、心の集まりを止めると知る"
+    },
+    {
+      "id": "MN118-P08",
+      "category": "suffering",
+      "ref": "MN 118",
+      "section": "第四の四",
+      "observe": "四つ目の四つ——無常·滅·捨を観し、法念処を完成する",
+      "action": "呼吸の一つ一つに「これも変わる」と一瞬付け加える",
+      "quote": "彼、無常を観し、無常を観すると知る。彼、滅を観し、滅を観すると知る。彼、捨を修し、捨を修すると知る"
+    },
+    {
+      "id": "MN118-P09",
+      "category": "work",
+      "ref": "MN 118",
+      "section": "七覚支",
+      "observe": "呼吸の念を修する者は、七つの覚支を完成·円満に修する",
+      "action": "呼吸のあと、七つの覚支のうち一つを意識して一日を続ける",
+      "quote": "呼吸の念を修する比丘は、念の覚支・擇法覚支・精進覚支・喜覚支・軽安覚支・定覚支・捨覚支を、完成・円満に修する"
+    },
+    {
+      "id": "MN118-P10",
+      "category": "work",
+      "ref": "MN 118",
+      "section": "結",
+      "observe": "呼吸の念は、四念処を完成·円満に修することに等しい",
+      "action": "朝、最初の五分間、呼吸だけに意識を置く",
+      "quote": "呼吸の念を修することは、四念処を完成・円満に修することに等しい"
+    },
+    {
+      "id": "MN118-P11",
+      "category": "desire",
+      "ref": "MN 118",
+      "section": "第四の四",
+      "observe": "行為の集まりを止める——反芻の燃料を呼吸で断つ",
+      "action": "反芻が来たら、呼吸に意識を移し「行為の集まりを止める」と意図する",
+      "quote": "彼、行為の集まりを止め、行為の集まりを止めると知る"
+    },
+    {
+      "id": "MN118-P12",
+      "category": "night",
+      "ref": "MN 118",
+      "section": "結",
+      "observe": "呼吸の念は、就寝前の心を整える最良の縁",
+      "action": "就寝前、呼吸十六回を観し、今日の執着を一つ手放して眠る",
+      "quote": "比丘たち、呼吸の念を修することは、多くの利益をもたらす"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "chapter": 49,
+  "sutta": 49,
+  "title": "中部 第49経（梵天請経）",
+  "shortTitle": "梵天請経",
+  "mapNote": "根本五十経篇 · 双小品",
+  "suttas": [
+    "MN 49 梵天請経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 根本五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "梵天請経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第49経（梵天請経）",
+    "shortTitle": "梵天請経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "梵天請経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN49-P01",
+          "MN49-P04"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "梵天請経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN49-P01",
+          "MN49-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "梵天請経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN49-P03",
+          "MN49-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "view",
+          "intention"
+        ],
+        "pathLabel": "教えや見解を誤って掴まない",
+        "chapterHint": "梵天請経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN49-P03",
+          "MN49-P05",
+          "MN49-P08"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "梵天請経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN49-P02",
+          "MN49-P07"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "梵天請経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN49-P01",
+          "MN49-P04"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "梵天請経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN49-P04",
+          "MN49-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN49-P01",
+      "category": "prep",
+      "ref": "MN 49",
+      "section": "導",
+      "observe": "梵天請経——梵天の「永遠·常」という誤見",
+      "action": "朝、「永遠·不変」の思い込みを一度問う",
+      "quote": "梵天は「我は永遠·常」と説く——これ、誤見なり"
+    },
+    {
+      "id": "MN49-P02",
+      "category": "suffering",
+      "ref": "MN 49",
+      "section": "無色",
+      "observe": "無色界——識無邊処等、仍是有為·無常",
+      "action": "高次の状態も「有為·無常」と見る",
+      "quote": "識無邊処·無所有処——仍是有為·無常、永遠に非ず"
+    },
+    {
+      "id": "MN49-P03",
+      "category": "desire",
+      "ref": "MN 49",
+      "section": "魔",
+      "observe": "魔が梵天に入り、如来を誹謗",
+      "action": "権威·伝統の声が正しいか、一度問う",
+      "quote": "魔は梵天に入り、「汝は永遠」と説かせ、如来を誹謗す"
+    },
+    {
+      "id": "MN49-P04",
+      "category": "work",
+      "ref": "MN 49",
+      "section": "正知",
+      "observe": "如来——無色界を知り、魔を知る",
+      "action": "今日、執着を「有為·無常」と見る",
+      "quote": "如来は無色界を知り、魔を知り、有為·無常を知る"
+    },
+    {
+      "id": "MN49-P05",
+      "category": "people",
+      "ref": "MN 49",
+      "section": "対梵天",
+      "observe": "梵天への教え——誤見を正す",
+      "action": "権威の言葉を鵜呑みにせず、正しく検証する",
+      "quote": "梵天よ、汝の見は誤り——有為·無常を知れ"
+    },
+    {
+      "id": "MN49-P06",
+      "category": "prep",
+      "ref": "MN 49",
+      "section": "正見",
+      "observe": "正見——有為·無常·苦·無我",
+      "action": "正見は「有為·無常·苦·無我」にあると確認する",
+      "quote": "正見——有為·無常·苦·無我を知る"
+    },
+    {
+      "id": "MN49-P07",
+      "category": "suffering",
+      "ref": "MN 49",
+      "section": "有為",
+      "observe": "有為——造作·集起·滅尽",
+      "action": "対象を「有為·造作」と見る",
+      "quote": "有為は造作·集起·滅尽——永遠·常に非ず"
+    },
+    {
+      "id": "MN49-P08",
+      "category": "desire",
+      "ref": "MN 49",
+      "section": "常見",
+      "observe": "常見——有為を常と見る誤り",
+      "action": "「永遠·不変」の思い込みを手放す",
+      "quote": "有為を常と見る——これ、常見なり、邪見なり"
+    },
+    {
+      "id": "MN49-P09",
+      "category": "work",
+      "ref": "MN 49",
+      "section": "漏尽",
+      "observe": "煩悩の滅尽——有為を離れ、無為に至る",
+      "action": "執着を「有為」と名づけ、手放す",
+      "quote": "諸漏の滅尽——有為を離れ、無為に至る"
+    },
+    {
+      "id": "MN49-P10",
+      "category": "people",
+      "ref": "MN 49",
+      "section": "結",
+      "observe": "梵天——正見に導かれる",
+      "action": "学びを行いに結び、有為·無常を確認する",
+      "quote": "正見——有為·無常·苦·無我を知る"
+    },
+    {
+      "id": "MN49-P11",
+      "category": "night",
+      "ref": "MN 49",
+      "section": "結",
+      "observe": "梵天請経——永遠·常の誤見を離れる",
+      "action": "就寝前、今日の執着を「有為·無常」として振り返る",
+      "quote": "有為は造作·集起·滅尽——永遠·常に非ず"
+    }
+  ]
+}

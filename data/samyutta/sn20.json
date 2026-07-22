@@ -1,0 +1,375 @@
+{
+  "chapter": 20,
+  "samyutta": 20,
+  "title": "相応部 第20章（譬喩相応）",
+  "shortTitle": "譬喩",
+  "mapNote": "SN 20——譬喩相応",
+  "suttas": [
+    "SN 20 譬喩相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（因縁篇）",
+    "verify": "南伝大蔵経 第13巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN20-P01",
+      "category": "prep",
+      "ref": "SN 20.1",
+      "section": "導·屋脊",
+      "observe": "法の頂に至る者は少ない——屋脊に登る者の如く",
+      "action": "朝、「法の頂に至る者は少ない」と意図を置く",
+      "quote": "法の頂に至る者、少し。屋脊に登る者のように"
+    },
+    {
+      "id": "SN20-P02",
+      "category": "prep",
+      "ref": "SN 20.2",
+      "section": "指弾",
+      "observe": "指を弾く間に法眼を開く者は少ない",
+      "action": "今日の修行を「指弾の間の法眼」と確認する",
+      "quote": "指を弾く間に、法眼を開く者、少し"
+    },
+    {
+      "id": "SN20-P03",
+      "category": "prep",
+      "ref": "SN 20.3",
+      "section": "四馬",
+      "observe": "四頭の馬——速く煩悩を捨てる者は少ない",
+      "action": "煩悩が来たら「四馬の如く速く捨てよ」と想起する",
+      "quote": "四頭の馬の如く、速く煩悩を捨てる者、少し"
+    },
+    {
+      "id": "SN20-P04",
+      "category": "prep",
+      "ref": "SN 20.4",
+      "section": "四牛",
+      "observe": "四頭の牛——彼岸に渡る者は少ない",
+      "action": "困難のとき「渡る者は少ない」と観る",
+      "quote": "四頭の牛の如く、彼岸に渡る者、少し"
+    },
+    {
+      "id": "SN20-P05",
+      "category": "prep",
+      "ref": "SN 20.5",
+      "section": "正見",
+      "observe": "譬喩を正しく見る——少数の教訓",
+      "action": "朝、譬喩の一つを唱える",
+      "quote": "譬喩を正しく見よ。少数の教訓なり"
+    },
+    {
+      "id": "SN20-P06",
+      "category": "suffering",
+      "ref": "SN 20.6",
+      "section": "山",
+      "observe": "山の頂に至る者は少ない——解脱の頂は高い",
+      "action": "修行が難しく感じたら「山の頂は高い」と観る",
+      "quote": "山の頂に至る者、少し。解脱の頂、高し"
+    },
+    {
+      "id": "SN20-P07",
+      "category": "suffering",
+      "ref": "SN 20.7",
+      "section": "流木",
+      "observe": "ガンジス川の流木——下流（善趣）に行く者は少ない",
+      "action": "今日の選択を「下流か上流か」と一度問う",
+      "quote": "ガンジス川の流木、下流に行く者少し、上流（苦趣）に行く者多い"
+    },
+    {
+      "id": "SN20-P08",
+      "category": "suffering",
+      "ref": "SN 20.8",
+      "section": "魚",
+      "observe": "悪魔の網の魚——欲界から逃れる者は少ない",
+      "action": "欲の誘惑が来たら「網の魚ののように」と観る",
+      "quote": "悪魔の網の魚、欲界から逃れる者、少し"
+    },
+    {
+      "id": "SN20-P09",
+      "category": "suffering",
+      "ref": "SN 20.9",
+      "section": "蛇",
+      "observe": "穴から出る蛇——欲楽から逃れる者は少ない",
+      "action": "快楽の誘惑が来たら「穴の蛇ののように」と観る",
+      "quote": "穴から出る蛇、欲楽から逃れる者、少し"
+    },
+    {
+      "id": "SN20-P10",
+      "category": "suffering",
+      "ref": "SN 20.10",
+      "section": "苦",
+      "observe": "解脱の道は狭く、輪廻の道は広い",
+      "action": "今日の苦を「狭き道の試練」と観る",
+      "quote": "解脱の道は狭し、輪廻の道は広し"
+    },
+    {
+      "id": "SN20-P11",
+      "category": "desire",
+      "ref": "SN 20.11",
+      "section": "欲",
+      "observe": "欲の網——大多数が捕らわれる",
+      "action": "欲が来たら「網の魚ののように」と名づける",
+      "quote": "欲の網、大多数が捕らわる"
+    },
+    {
+      "id": "SN20-P12",
+      "category": "desire",
+      "ref": "SN 20.12",
+      "section": "楽",
+      "observe": "感官の楽——蛇が穴に戻る如く",
+      "action": "快楽の後にまた欲が来たら「蛇が穴に戻るのように」と観る",
+      "quote": "感官の楽、蛇が穴に戻るように"
+    },
+    {
+      "id": "SN20-P13",
+      "category": "desire",
+      "ref": "SN 20.13",
+      "section": "慢",
+      "observe": "「自分は渡れる」と慢る——少数の教訓を忘れる",
+      "action": "慢心が来たら「渡れる者は少ない」と観る",
+      "quote": "「自分は渡れる」と慢るな。渡れる者、少し"
+    },
+    {
+      "id": "SN20-P14",
+      "category": "desire",
+      "ref": "SN 20.14",
+      "section": "対治",
+      "observe": "欲·慢を対治す——譬喩を想起する",
+      "action": "今日、譬喩を一つ唱え、欲·慢を対治する",
+      "quote": "欲·慢を対治せ。譬喩を、想起せ"
+    },
+    {
+      "id": "SN20-P15",
+      "category": "desire",
+      "ref": "SN 20.15",
+      "section": "離欲",
+      "observe": "離欲こそ網を破る——少数の者の道",
+      "action": "今日、一つの欲を手放し、解脱への意図を確認する",
+      "quote": "離欲を以て、網を破れ。少数の者の道なり"
+    },
+    {
+      "id": "SN20-P16",
+      "category": "speech",
+      "ref": "SN 20.16",
+      "section": "譬喩",
+      "observe": "譬喩を語る——法を分かりやすく伝える",
+      "action": "今日、譬喩を一つ、誰かに語るか自分で唱える",
+      "quote": "譬喩を語れ。法を、分かりやすく伝えよ"
+    },
+    {
+      "id": "SN20-P17",
+      "category": "speech",
+      "ref": "SN 20.17",
+      "section": "誠実",
+      "observe": "少数の教訓を誠実に語る——誇大しない",
+      "action": "法について語るとき、誇大·虚偽を避ける",
+      "quote": "少数の教訓を、誠実に語れ。誇大するな"
+    },
+    {
+      "id": "SN20-P18",
+      "category": "speech",
+      "ref": "SN 20.18",
+      "section": "問法",
+      "observe": "譬喩について正しい問いを持て",
+      "action": "今日、譬喩·解脱について、一つ問いを持つ",
+      "quote": "譬喩について、正しい問いを持て"
+    },
+    {
+      "id": "SN20-P19",
+      "category": "speech",
+      "ref": "SN 20.19",
+      "section": "讃",
+      "observe": "解脱の道を讃える——少数の者を励ます",
+      "action": "今日、解脱の道について、感謝の言葉を一つ",
+      "quote": "解脱の道を讃え、少数の者を励ませ"
+    },
+    {
+      "id": "SN20-P20",
+      "category": "speech",
+      "ref": "SN 20.20",
+      "section": "黙",
+      "observe": "譬喩を軽んじる言葉を語るな",
+      "action": "今日、法·譬喩を軽んじる言葉を一つ避ける",
+      "quote": "譬喩を軽んじる言葉、語るな"
+    },
+    {
+      "id": "SN20-P21",
+      "category": "people",
+      "ref": "SN 20.21",
+      "section": "善友",
+      "observe": "善友は少数の道を共に歩む",
+      "action": "今日、善友に一つ感謝を伝える",
+      "quote": "善友は、少数の道を共に歩む"
+    },
+    {
+      "id": "SN20-P22",
+      "category": "people",
+      "ref": "SN 20.22",
+      "section": "共学",
+      "observe": "共に譬喩を学ぶ——互いに励ます",
+      "action": "今日、譬喩·解脱について、誰かと一つ話題を共有する",
+      "quote": "共に譬喩を学べ。互いに、励ませ"
+    },
+    {
+      "id": "SN20-P23",
+      "category": "people",
+      "ref": "SN 20.23",
+      "section": "対人",
+      "observe": "大多数に随うな——少数の正行を選ぶ",
+      "action": "今日、大多数と異なる正しい選択を一つする",
+      "quote": "大多数に随うな。少数の正行を、選べ"
+    },
+    {
+      "id": "SN20-P24",
+      "category": "people",
+      "ref": "SN 20.24",
+      "section": "敬法",
+      "observe": "法を敬う者は少数の道に入る",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬う者、少数の道に入る"
+    },
+    {
+      "id": "SN20-P25",
+      "category": "people",
+      "ref": "SN 20.25",
+      "section": "慈悲",
+      "observe": "大多数の苦を思い、慈悲を",
+      "action": "今日、衆生の輪廻の苦を思い、慈悲の意を一つ向ける",
+      "quote": "大多数の苦を思い、慈悲を"
+    },
+    {
+      "id": "SN20-P26",
+      "category": "work",
+      "ref": "SN 20.26",
+      "section": "精進",
+      "observe": "精進すれば、少数の者に入れる",
+      "action": "怠けたいとき、一つの修行行為を行う",
+      "quote": "精進すれば、少数の者に入れる"
+    },
+    {
+      "id": "SN20-P27",
+      "category": "work",
+      "ref": "SN 20.27",
+      "section": "正念",
+      "observe": "正念を保てば、網から逃れやすい",
+      "action": "今日、15分間、正念·正知を保つ",
+      "quote": "正念を保てば、網から逃れやすし"
+    },
+    {
+      "id": "SN20-P28",
+      "category": "work",
+      "ref": "SN 20.28",
+      "section": "射手",
+      "observe": "射手の如く——解脱の的を射る",
+      "action": "今日、一つの煩悩を「的」として対治する",
+      "quote": "射手の如く、解脱の的を射よ"
+    },
+    {
+      "id": "SN20-P29",
+      "category": "work",
+      "ref": "SN 20.29",
+      "section": "解脱",
+      "observe": "解脱こそ少数の者の頂点",
+      "action": "今日の目的を「少数の道·解脱」と確認する",
+      "quote": "解脱こそ、少数の者の頂点なり"
+    },
+    {
+      "id": "SN20-P30",
+      "category": "work",
+      "ref": "SN 20.30",
+      "section": "預流",
+      "observe": "預流に入れば、少数の者に入った",
+      "action": "今日、法眼を開く修行を一つ行う",
+      "quote": "預流に入れば、少数の者に入った"
+    },
+    {
+      "id": "SN20-P31",
+      "category": "night",
+      "ref": "SN 20.31",
+      "section": "振り返り",
+      "observe": "今日、譬喩を想起したか",
+      "action": "就寝前、譬喩を一つ唱える",
+      "quote": "譬喩を想起せ。道を、思い出せ"
+    },
+    {
+      "id": "SN20-P32",
+      "category": "night",
+      "ref": "SN 20.32",
+      "section": "欲",
+      "observe": "今日、欲の網に捕らわれたか",
+      "action": "就寝前、欲の瞬間を一つ認め、明日の対策を決める",
+      "quote": "欲の網を知れば、逃れる道が開ける"
+    },
+    {
+      "id": "SN20-P33",
+      "category": "night",
+      "ref": "SN 20.33",
+      "section": "精進",
+      "observe": "今日、少数の道への精進はできたか",
+      "action": "就寝前、今日の修行を一つ確認する",
+      "quote": "精進すれば、少数の者に入れる"
+    },
+    {
+      "id": "SN20-P34",
+      "category": "night",
+      "ref": "SN 20.34",
+      "section": "選択",
+      "observe": "今日の選択——下流か上流か",
+      "action": "就寝前、今日の善·不善を一つ振り返る",
+      "quote": "選択を知れば、流れを知る"
+    },
+    {
+      "id": "SN20-P35",
+      "category": "night",
+      "ref": "SN 20.35",
+      "section": "総括",
+      "observe": "譬喩相応の要——解脱の道に至る者は少ない、精進せよ",
+      "action": "就寝前、「法の頂に至る者は少ない、精進せよ」と一句唱える",
+      "quote": "法の頂に至る者、少し。精進せよ"
+    }
+  ]
+}

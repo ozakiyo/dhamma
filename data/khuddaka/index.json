@@ -1,0 +1,234 @@
+{
+  "title": "小部（15経典）",
+  "source": "南伝大蔵経（日本仏教学院）",
+  "collection": "khuddaka",
+  "description": "小部15経典全体。各章35ペアで読む。（法句経は別コレクションあり）",
+  "grouping": "book",
+  "totalPairs": 525,
+  "chapters": [
+    {
+      "id": 1,
+      "file": "k01.json",
+      "title": "小部 第1章（法句経）",
+      "shortTitle": "法句経",
+      "mapNote": "Dhp 1–25——双品から比丘品、小部における法句の地図",
+      "suttas": [
+        "Dhp 1 双品",
+        "Dhp 2 不放逸品",
+        "Dhp 3 心品",
+        "Dhp 4 花品",
+        "Dhp 6 賢品",
+        "Dhp 7 阿羅漢品",
+        "Dhp 8 千品",
+        "Dhp 9 悪品",
+        "Dhp 10 刀杖品",
+        "Dhp 11 老品",
+        "Dhp 12 自己品",
+        "Dhp 13 世品",
+        "Dhp 14 仏陀品",
+        "Dhp 15 安楽品",
+        "Dhp 16 愛好品",
+        "Dhp 17 忿怒品",
+        "Dhp 18 垢穢品",
+        "Dhp 20 道品",
+        "Dhp 21 雑品",
+        "Dhp 22 地獄品",
+        "Dhp 23 象品",
+        "Dhp 24 愛欲品",
+        "Dhp 25 比丘品"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 2,
+      "file": "k02.json",
+      "title": "小部 第2章（感興語）",
+      "shortTitle": "感興語",
+      "mapNote": "Ud 1–8——菩提·盲象·バーヒヤ·スメーダー·涅槃の感興語",
+      "suttas": [
+        "Ud 1 菩提品",
+        "Ud 2 ムチャリンダ品",
+        "Ud 3 ナンダ品",
+        "Ud 4 メーギヤ品",
+        "Ud 5 ソーナ品",
+        "Ud 6 盲目品",
+        "Ud 7 小品",
+        "Ud 8 波羅利村品"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 3,
+      "file": "k03.json",
+      "title": "小部 第3章（如是語）",
+      "shortTitle": "如是語",
+      "mapNote": "Iti 1–112——一法·二法·三法·四法の如来教示",
+      "suttas": [
+        "Iti 1-27 一法集",
+        "Iti 28-49 二法集",
+        "Iti 50-99 三法集",
+        "Iti 100-112 四法集"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 4,
+      "file": "k04.json",
+      "title": "小部 第4章（経集）",
+      "shortTitle": "経集",
+      "mapNote": "Snp 1.3–1.12——犀角·農夫·慈経·牟尼等",
+      "suttas": [
+        "Snp 1.3 犀角経",
+        "Snp 1.4 農夫の経（カーシ·バーラドヴァージャ）",
+        "Snp 1.5 クンダ経",
+        "Snp 1.6 衰退経",
+        "Snp 1.8 慈経（メッタ）",
+        "Snp 1.10 アーラヴァカ経",
+        "Snp 1.11 勝利経",
+        "Snp 1.12 牟尼経"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 5,
+      "file": "k05.json",
+      "title": "小部 第5章（梵住）",
+      "shortTitle": "梵住",
+      "mapNote": "Snp 1.8·Khp 9——慈悲喜捨の実践",
+      "suttas": [
+        "Snp 1.8 慈経（Karaṇīya-metta-sutta）",
+        "Khp 9 慈経（別角度）",
+        "梵住（Brahmavihāra）慈·悲·喜·捨"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 6,
+      "file": "k06.json",
+      "title": "小部 第6章（小誦経）",
+      "shortTitle": "小誦経",
+      "mapNote": "Khp 1–9——三帰依·学処·吉祥·宝·慈",
+      "suttas": [
+        "Khp 1 三帰依（Saraṇagamana）",
+        "Khp 2 十学処（Dasasikkhāpada）",
+        "Khp 3 三十二分身（Dvattiṃsākāra）",
+        "Khp 4 沙弥問答（Kumārapañha）",
+        "Khp 5 吉祥経（Maṅgala-sutta）",
+        "Khp 6 宝経（Ratana-sutta）",
+        "Khp 7 壁外施食経（Tirokudda-sutta）",
+        "Khp 8 蔵経（Nidhikaṇḍa-sutta）",
+        "Khp 9 慈経（Metta-sutta）"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 7,
+      "file": "k07.json",
+      "title": "小部 第7章（長老偈）",
+      "shortTitle": "長老偈",
+      "mapNote": "Thag——スブーティ·サーリプッタ·モッガッラーナ·ヴァンギーサ他",
+      "suttas": [
+        "Thag 1.1 スブーティ",
+        "Thag 17.2 サーリプッタ",
+        "Thag 18.1 マハーモッガッラーナ",
+        "Thag 18.2 マハーカッサパ",
+        "Thag 21.1 ヴァンギーサ",
+        "Thag 16.8 アングリマーラ"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 8,
+      "file": "k08.json",
+      "title": "小部 第8章（長老尼偈）",
+      "shortTitle": "長老尼偈",
+      "mapNote": "Thig——ムッター·ケーマー·パターチャーラー·キサーゴータミー他",
+      "suttas": [
+        "Thig 1.2 ムッター",
+        "Thig 6.1 マハーパジャーパティー",
+        "Thig 6.3 ケーマー",
+        "Thig 10.1 キサーゴータミー",
+        "Thig 13.1 アンバパーリー",
+        "Thig 5.5 パターチャーラー"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 9,
+      "file": "k09.json",
+      "title": "小部 第9章（天宮事）",
+      "shortTitle": "天宮事",
+      "mapNote": "Vim——天界の業·福·戒の果",
+      "suttas": [
+        "天宮事経"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 10,
+      "file": "k10.json",
+      "title": "小部 第10章（餓鬼事）",
+      "shortTitle": "餓鬼事",
+      "mapNote": "Pet——餓鬼の業·施·悔い·解脱への道",
+      "suttas": [
+        "餓鬼事経"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 11,
+      "file": "k11.json",
+      "title": "小部 第11章（本生）",
+      "shortTitle": "本生",
+      "mapNote": "Jat 選——十業·忍辱·布施·智慧の本生譚",
+      "suttas": [
+        "本生経"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 12,
+      "file": "k12.json",
+      "title": "小部 第12章（義釈）",
+      "shortTitle": "義釈",
+      "mapNote": "Nd——大義釈·小義釈、経集の義釈",
+      "suttas": [
+        "義釈経"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 13,
+      "file": "k13.json",
+      "title": "小部 第13章（無礙解道）",
+      "shortTitle": "無礙解道",
+      "mapNote": "Pts——無礙解·縁起·四諦·念処の分析",
+      "suttas": [
+        "無礙解道経"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 14,
+      "file": "k14.json",
+      "title": "小部 第14章（譬喻）",
+      "shortTitle": "譬喻",
+      "mapNote": "Ap——比丘·比丘尼の過去行·解脱の譬喩",
+      "suttas": [
+        "譬喻経"
+      ],
+      "pairCount": 35
+    },
+    {
+      "id": 15,
+      "file": "k15.json",
+      "title": "小部 第15章（佛種姓）",
+      "shortTitle": "佛種姓",
+      "mapNote": "Bv·Cp——仏の系譜と過去の菩薩行",
+      "suttas": [
+        "佛種姓·所行藏"
+      ],
+      "pairCount": 35
+    }
+  ]
+}

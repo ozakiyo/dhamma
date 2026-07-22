@@ -1,0 +1,422 @@
+{
+  "chapter": 84,
+  "sutta": 84,
+  "title": "中部 第84経（摩偸羅経）",
+  "shortTitle": "摩偸羅経",
+  "mapNote": "中分五十経篇 · 王品",
+  "suttas": [
+    "MN 84 摩偸羅経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "摩偸羅経のペア分布から割り当て",
+    "chapterTitle": "中部 第84経（摩偸羅経）",
+    "shortTitle": "摩偸羅経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "摩偸羅経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN84-P02",
+          "MN84-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "摩偸羅経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN84-P02",
+          "MN84-P03"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "摩偸羅経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN84-P01",
+          "MN84-P06"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "摩偸羅経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN84-P01",
+          "MN84-P03",
+          "MN84-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "摩偸羅経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN84-P04",
+          "MN84-P01"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "摩偸羅経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN84-P02",
+          "MN84-P05"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "摩偸羅経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN84-P05",
+          "MN84-P10"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN84-P01",
+      "category": "people",
+      "ref": "MN 84",
+      "section": "論争",
+      "observe": "阿闍弥王と婆羅門は、種姓の優劣を争った",
+      "action": "今日、優劣の判断が入った言葉を一つ控える",
+      "quote": "婆羅門は優れ、他は劣る——このように論じ合った"
+    },
+    {
+      "id": "MN84-P02",
+      "category": "prep",
+      "ref": "MN 84",
+      "section": "業",
+      "observe": "世尊の教え——優劣は生まれではなく、業による",
+      "action": "人を評価するとき、生まれではなく行いを見る",
+      "quote": "生まれによって優劣があるのではない。業によって優劣がある"
+    },
+    {
+      "id": "MN84-P03",
+      "category": "speech",
+      "ref": "MN 84",
+      "section": "答",
+      "observe": "阿闍弥王は、婆羅門の論を、業の教えで破った",
+      "action": "偏見の言葉に、事実と業の教えで答える",
+      "quote": "殺生者·盗取者·邪婬者は、ここに生まれ、あここに生まれる"
+    },
+    {
+      "id": "MN84-P04",
+      "category": "suffering",
+      "ref": "MN 84",
+      "section": "不善業",
+      "observe": "不善業の報は、どの生まれにも等しく来る",
+      "action": "今日、不善業を一つ減らす選択をする",
+      "quote": "不善業をなした者は、苦の報を受ける"
+    },
+    {
+      "id": "MN84-P05",
+      "category": "work",
+      "ref": "MN 84",
+      "section": "善業",
+      "observe": "善業をなした者は、どの生まれにも楽を得る",
+      "action": "今日、善業を一つ増やす行いを決める",
+      "quote": "善業をなした者は、楽の報を受ける"
+    },
+    {
+      "id": "MN84-P06",
+      "category": "desire",
+      "ref": "MN 84",
+      "section": "慢",
+      "observe": "種姓への慢心は、苦の種である",
+      "action": "慢心が起きたら、それを一呼吸で手放す",
+      "quote": "慢心ある者は、苦の報を受ける"
+    },
+    {
+      "id": "MN84-P07",
+      "category": "people",
+      "ref": "MN 84",
+      "section": "結",
+      "observe": "婆羅門は、王の教えを聞いて歓喜した",
+      "action": "反対者の正しい指摘を、素直に受け取る",
+      "quote": "婆羅門は、王の教えを聞いて、歓喜した"
+    },
+    {
+      "id": "MN84-P08",
+      "category": "prep",
+      "ref": "MN 84",
+      "section": "四姓",
+      "observe": "刹帝利·婆羅門·ヴァイシャ·シュードラ——業が分別する",
+      "action": "人を見るとき、外見の区分ではなく行いを見る",
+      "quote": "四姓の区別は、業によって知るべきである"
+    },
+    {
+      "id": "MN84-P09",
+      "category": "speech",
+      "ref": "MN 84",
+      "section": "正語",
+      "observe": "王は、争いを法の論議で解いた",
+      "action": "対立の場で、相手を贬すのではなく法を語る",
+      "quote": "阿闍弥王は、業の教えを説いて、論争を解いた"
+    },
+    {
+      "id": "MN84-P10",
+      "category": "work",
+      "ref": "MN 84",
+      "section": "公正",
+      "observe": "王は自らの臣民に、平等の教えを示した",
+      "action": "今日、差別的な扱いを一つ正す",
+      "quote": "王は、業による優劣の教えを、臣民に示した"
+    },
+    {
+      "id": "MN84-P11",
+      "category": "night",
+      "ref": "MN 84",
+      "section": "結",
+      "observe": "生まれではなく業——夜、今日の行いを業として振り返る",
+      "action": "就寝前、今日の身口意の行いを、未来の種として振り返る",
+      "quote": "生まれによって優劣があるのではない。業によって優劣がある"
+    }
+  ]
+}

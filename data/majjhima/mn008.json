@@ -1,0 +1,781 @@
+{
+  "chapter": 8,
+  "sutta": 8,
+  "title": "中部 第8経・削減経（謹厳の経）",
+  "shortTitle": "削減経（謹厳の経）",
+  "mapNote": "根本五十経篇 · 根本法門品（アラナ：謹厳の経）",
+  "suttas": [
+    "MN 8 削減経（謹厳の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第8経（削減経／謹厳の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含91周那問見経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・謹厳の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・周那問見経（T1.573c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+        "note": "漢訳は漸損法。對照表: 法雨道場"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第8経・削減経（謹厳の経）",
+    "shortTitle": "削減経（謹厳の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "禅の安楽との接触を謹厳と取り違えない",
+        "chapterHint": "削減経（謹厳の経）",
+        "fromPrev": "前夜の見直しが、今朝の見定めになる",
+        "toNext": "安楽の受に乗ると欲しがりへ",
+        "todayObserve": "初禅等に住んで『謹厳だ』と思っても、それは謹厳ではない。聖者の律では、現法の安楽の住と説かれる。",
+        "todayAction": "今日、四念処のうち一つを意識して観る",
+        "when": [
+          "静けさに入った",
+          "定を感じた"
+        ],
+        "sources": [
+          "MN8-P05"
+        ],
+        "leadQuote": "チュンダよ、また、まさに、この状況は見出されます。すなわち、ここに、一部の比丘が…",
+        "secondaryObserve": "四禅の安楽に住んでも、それを謹厳と呼んではならない。安楽の住と謹厳（不善の削減）を取り違えない。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "concentration",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正定",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "concentration",
+          "mindfulness"
+        ],
+        "pathLabel": "四禅の安楽は現法楽住——謹厳ではない",
+        "chapterHint": "削減経（謹厳の経）",
+        "fromPrev": "禅の接触のあと、喜楽の受が来る",
+        "toNext": "安楽を謹厳と誤ると削減が止まる",
+        "todayObserve": "四禅の安楽に住んでも、それを謹厳と呼んではならない。安楽の住と謹厳（不善の削減）を取り違えない。",
+        "todayAction": "今日、一呼吸で「離生喜楽」の方向に心を向ける",
+        "when": [
+          "喜楽を味わった",
+          "定に満足した"
+        ],
+        "sources": [
+          "MN8-P06"
+        ],
+        "leadQuote": "……第四の瞑想を成就して〔世に〕住み、彼に、このような〔思いが〕存することです。…",
+        "secondaryObserve": "安楽の住≠謹厳"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "livelihood",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正命",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "livelihood",
+          "view"
+        ],
+        "pathLabel": "誤った生き方への欲しがりを正命で削る",
+        "chapterHint": "削減経（謹厳の経）",
+        "fromPrev": "受のあと、不正な生計への欲しがりが立つ",
+        "toNext": "止めないと見解の掴みへ",
+        "todayObserve": "他者が誤った生き方あっても、ここにおいて正しい生き方ある者として謹厳する。",
+        "todayAction": "今日、仕事·生計が「正命」に合っているか一度問う",
+        "when": [
+          "稼ぎ方を選ぶ",
+          "楽な不正に傾いた"
+        ],
+        "sources": [
+          "MN8-P11"
+        ],
+        "leadQuote": "『他者たちが、誤った生き方ある者たちとして〔世に〕有るも、わたしたちは、ここにお…",
+        "secondaryObserve": "他者が害し殺しても、ここにおいて不害・不殺として謹厳する。不善を削り落とすのが謹厳である。"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "view",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "自己論・世論の見解を『我のものではない』と離す",
+        "chapterHint": "削減経（謹厳の経）",
+        "fromPrev": "欲しがりのあと、見解が掴む手前",
+        "toNext": "掴むと下域の苦が見える",
+        "todayObserve": "自己論・世論の見解が慣行となっても、『これはわたしのものではない・わたしではない・わたしの自己ではない』と如実に見れば、捨棄される。",
+        "todayAction": "今日、確信の根拠が「因報·縁起」か一度問う",
+        "when": [
+          "自己を固定した",
+          "世間論に固まった"
+        ],
+        "sources": [
+          "MN8-P02"
+        ],
+        "leadQuote": "チュンダよ、これらの見解が、そして、そこにおいて生起し、かつまた、そこにおいて悪…",
+        "secondaryObserve": "他者が誤った見解あっても、ここにおいて正しい見解ある者として謹厳する。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "view",
+          "effort"
+        ],
+        "pathLabel": "不善は下域——弱い支を補い上域へ向かう",
+        "chapterHint": "削減経（謹厳の経）",
+        "fromPrev": "掴んだ結果として、下域への傾きが見える",
+        "toNext": "見れば、謹厳の実践へ向き直る",
+        "todayObserve": "不善法は全て下なる域へ、善法は全て上なる域へ向かう。道の一支が弱ければ、上域への道が細る。",
+        "todayAction": "今日、八正道のうち弱い一つを特定し、補う",
+        "when": [
+          "道が途切れた",
+          "不善が増えた"
+        ],
+        "sources": [
+          "MN8-P09"
+        ],
+        "leadQuote": "チュンダよ、それは、たとえば、また、それらが何であれ、諸々の善ならざる法（性質）…",
+        "secondaryObserve": "善法は上域のために成る"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "action"
+        ],
+        "pathLabel": "他者が不善でも、ここにおいて不害・正語・正業で削る",
+        "chapterHint": "削減経（謹厳の経）",
+        "fromPrev": "苦が見えれば、謹厳の一歩を踏む",
+        "toNext": "離せば、夜の見直しへつながる",
+        "todayObserve": "他者が害し殺しても、ここにおいて不害・不殺として謹厳する。不善を削り落とすのが謹厳である。",
+        "todayAction": "今日、すでに生じた不善を一つ「捨て去る」と決める",
+        "when": [
+          "不善を一つ捨てた",
+          "正語・正業に戻った"
+        ],
+        "sources": [
+          "MN8-P03",
+          "MN8-P04",
+          "MN8-P07",
+          "MN8-P08"
+        ],
+        "leadQuote": "『他者たちが、害する者たちとして〔世に〕有るも、わたしたちは、ここにおいて、害さ…",
+        "secondaryObserve": "他者が妄語・両舌・粗語・綺語あっても、ここにおいてそれらから離間した者として謹厳する。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "effort"
+        ],
+        "pathLabel": "五教相を振り返り、明日の謹厳を決める",
+        "chapterHint": "削減経（謹厳の経）",
+        "fromPrev": "一日の削減は、朝からの流れの跡",
+        "toNext": "見直しが、翌朝の見定めになる",
+        "todayObserve": "五つの教相——謹厳・心の生起・回避・上域・涅槃——が説かれた。木の根元・空家で瞑想し、怠らず、後悔なき者となれ。",
+        "todayAction": "就寝前、今日歩んだ八正道の一つを振り返る",
+        "when": [
+          "一日を閉じるとき",
+          "禅と謹厳を取り違えた日"
+        ],
+        "sources": [
+          "MN8-P01",
+          "MN8-P10"
+        ],
+        "leadQuote": "チュンダよ、かくのごとく、まさに、わたしによって、謹厳の教相が説示され、心の生起…",
+        "secondaryObserve": "謹厳とは——他者が邪道にあっても、ここにおいて正見から正定までを歩むこと。禅定そのものを謹厳と呼んではならない。"
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "削減経は不善を削り落とす謹厳が主題（禅定は謹厳ではない）。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN8-P01",
+      "category": "view",
+      "ref": "MN 8",
+      "section": "謹厳·八支",
+      "observe": "謹厳とは——他者が邪道にあっても、ここにおいて正見から正定までを歩むこと。禅定そのものを謹厳と呼んではならない。",
+      "action": "朝、八正道のうち今日意識する一つを決める",
+      "quote": "チュンダよ、また、まさに、ここに、あなたたちによって、謹厳が為されるべきです。『他者たちが、誤った見解ある者たちとして〔世に〕有るも、わたしたちは、ここにおいて、正しい見解ある者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。……『他者たちが、誤った禅定ある者たちとして〔世に〕有るも、わたしたちは、ここにおいて、正しい禅定ある者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正定"
+      ],
+      "pathReason": "今日の謹厳＝八正道の一支を立てる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·謹厳·八支",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-sallekha",
+          "text": "當學漸損。……周那。他有惡欲念欲。我無惡欲念欲。當學漸損。……他有不信懈怠無念無定而有惡慧。我無惡慧當學漸損。",
+          "satLocus": "大正蔵 T1.573c–574a 周那問見経",
+          "note": "漸損＝パーリの謹厳（sallekha）。無念無定惡慧の対＝正念正定等。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P02",
+      "category": "view",
+      "ref": "MN 8",
+      "section": "見解·捨",
+      "observe": "自己論・世論の見解が慣行となっても、『これはわたしのものではない・わたしではない・わたしの自己ではない』と如実に見れば、捨棄される。",
+      "action": "今日、確信の根拠が「因報·縁起」か一度問う",
+      "quote": "チュンダよ、これらの見解が、そして、そこにおいて生起し、かつまた、そこにおいて悪習となり、さらに、そこにおいて慣行となるも、それを、『これは、わたしのものではない。これは、わたしとして存在しない。これは、わたしの自己ではない』と、このように、このことを、事実のとおりに、正しい智慧によって見ていると、このように、これらの見解に捨棄が有り、このように、これらの見解に放棄が有ります。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "自己論・世論の見解を『我のものではない』と見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·見解·捨",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-views",
+          "text": "世中諸見生而生。謂計有神。計有衆生有人有壽有命有世。……若使諸法滅盡無餘者。如是知如是見令此見得滅得捨離而令餘見不續不受。",
+          "satLocus": "大正蔵 T1.573c 周那問見経",
+          "note": "諸見の滅捨＝パーリの非我所・非我・非我我所の如実見。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P03",
+      "category": "view",
+      "ref": "MN 8",
+      "section": "正見·謹厳",
+      "observe": "他者が誤った見解あっても、ここにおいて正しい見解ある者として謹厳する。",
+      "action": "一つの苦について「此是苦諦」と静かに認める",
+      "quote": "『他者たちが、誤った見解ある者たちとして〔世に〕有るも、わたしたちは、ここにおいて、正しい見解ある者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見"
+      ],
+      "pathReason": "正見として謹厳する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·正見·謹厳",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-rightview",
+          "text": "他有不信懈怠無念無定而有惡慧。我無惡慧當學漸損。",
+          "satLocus": "大正蔵 T1.574a 周那問見経",
+          "note": "漢訳は八正道を一括圧縮。惡慧の対としての慧＝正見に近接。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P04",
+      "category": "effort",
+      "ref": "MN 8",
+      "section": "不害·謹厳",
+      "observe": "他者が害し殺しても、ここにおいて不害・不殺として謹厳する。不善を削り落とすのが謹厳である。",
+      "action": "今日、すでに生じた不善を一つ「捨て去る」と決める",
+      "quote": "『他者たちが、害する者たちとして〔世に〕有るも、わたしたちは、ここにおいて、害さない者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。『他者たちが、命あるものを殺す者たちとして〔世に〕有るも、わたしたちは、ここにおいて、命あるものを殺すことから離間した者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正業"
+      ],
+      "pathReason": "不害・不殺として不善を削る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·不害·謹厳",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-harmless",
+          "text": "周那。他有害意瞋。我無害意瞋。當學漸損。周那。他有殺生不與取非梵行。我無非梵行。當學漸損。",
+          "satLocus": "大正蔵 T1.573c–574a 周那問見経",
+          "note": "無害・不殺＝不害の謹厳。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P05",
+      "category": "mindfulness",
+      "ref": "MN 8",
+      "section": "禅≠謹厳",
+      "observe": "初禅等に住んで『謹厳だ』と思っても、それは謹厳ではない。聖者の律では、現法の安楽の住と説かれる。",
+      "action": "今日、四念処のうち一つを意識して観る",
+      "quote": "チュンダよ、また、まさに、この状況は見出されます。すなわち、ここに、一部の比丘が……第一の瞑想を成就して〔世に〕住み、彼に、このような〔思いが〕存することです。『〔わたしは〕謹厳によって〔世に〕住む』と。チュンダよ、また、まさに、これらのものは、聖者の律において、謹厳と説かれません。これらのものは、聖者の律において、所見の法（現世）における安楽の住と説かれます。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "禅の接触を謹厳と取り違えない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·禅≠謹厳",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-not-jhana",
+          "text": "比丘者離欲離惡不善之法。至得第四禪成就遊。彼作是念我行漸損。周那。於聖法律中不但是漸損。有四増上心現法樂居。",
+          "satLocus": "大正蔵 T1.573c 周那問見経",
+          "note": "四禅は漸損ではなく現法楽居。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P06",
+      "category": "concentration",
+      "ref": "MN 8",
+      "section": "安楽の住",
+      "observe": "四禅の安楽に住んでも、それを謹厳と呼んではならない。安楽の住と謹厳（不善の削減）を取り違えない。",
+      "action": "今日、一呼吸で「離生喜楽」の方向に心を向ける",
+      "quote": "……第四の瞑想を成就して〔世に〕住み、彼に、このような〔思いが〕存することです。『〔わたしは〕謹厳によって〔世に〕住む』と。チュンダよ、また、まさに、これらのものは、聖者の律において、謹厳と説かれません。これらのものは、聖者の律において、所見の法（現世）における安楽の住と説かれます。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正定",
+        "正念"
+      ],
+      "pathReason": "四禅の安楽は現法楽住であって謹厳ではない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·安楽の住",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-sukhavihara",
+          "text": "至得第四禪成就遊。彼作是念我行漸損。周那。於聖法律中不但是漸損。有四増上心現法樂居。",
+          "satLocus": "大正蔵 T1.573c 周那問見経",
+          "note": "現法楽居≠漸損。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P07",
+      "category": "speech",
+      "ref": "MN 8",
+      "section": "正語·謹厳",
+      "observe": "他者が妄語・両舌・粗語・綺語あっても、ここにおいてそれらから離間した者として謹厳する。",
+      "action": "今日、話す前に「正語か」と一度止まる",
+      "quote": "『他者たちが、虚偽を説く者たちとして〔世に〕有るも、わたしたちは、ここにおいて、虚偽を説くことから離間した者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。『他者たちが、中傷の言葉ある者たちとして〔世に〕有るも……粗暴な言葉ある者たちとして〔世に〕有るも……雑駁な虚論ある者たちとして〔世に〕有るも、わたしたちは、ここにおいて、……離間した者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正精進"
+      ],
+      "pathReason": "妄語等から離間して謹厳する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·正語·謹厳",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-speech",
+          "text": "周那。他有妄言兩舌麤言綺語惡戒。我無惡戒。當學漸損。",
+          "satLocus": "大正蔵 T1.574a 周那問見経",
+          "note": "妄言両舌麤言綺語＝正語の謹厳。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P08",
+      "category": "action",
+      "ref": "MN 8",
+      "section": "正業·謹厳",
+      "observe": "他者が殺生・不与取・非梵行あっても、ここにおいてそれらから離間した者として謹厳する。",
+      "action": "今日、行為の一つを「正業か」と確認する",
+      "quote": "『他者たちが、命あるものを殺す者たちとして〔世に〕有るも、わたしたちは、ここにおいて、命あるものを殺すことから離間した者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。『他者たちが、与えられていないものを取る者たちとして〔世に〕有るも……梵行なき者たちとして〔世に〕有るも、わたしたちは、ここにおいて、……離間した者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正業",
+        "正精進"
+      ],
+      "pathReason": "殺盗淫から離間して謹厳する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·正業·謹厳",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-action",
+          "text": "周那。他有殺生不與取非梵行。我無非梵行。當學漸損。",
+          "satLocus": "大正蔵 T1.574a 周那問見経",
+          "note": "殺生不与取非梵行＝正業の謹厳。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P09",
+      "category": "view",
+      "ref": "MN 8",
+      "section": "上下域",
+      "observe": "不善法は全て下なる域へ、善法は全て上なる域へ向かう。道の一支が弱ければ、上域への道が細る。",
+      "action": "今日、八正道のうち弱い一つを特定し、補う",
+      "quote": "チュンダよ、それは、たとえば、また、それらが何であれ、諸々の善ならざる法（性質）は、それらの全てが、下なる域に至るべきものであり、それらが何であれ、諸々の善なる法（性質）は、それらの全てが、上なる域に至るべきものであるように、……害さない〔生き方〕は、上なる域のために成ります。……正しい見解は、上なる域のために成ります。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "不善は下域——弱い支を補い上域へ",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·上下域",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-upari",
+          "text": "若但發心。念欲求學諸善法者。則多所饒益。況復身口行善法耶。",
+          "satLocus": "大正蔵 T1.574a 周那問見経",
+          "note": "善法発心＝上域への志向（パーリの上なる域に近接）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P10",
+      "category": "mindfulness",
+      "ref": "MN 8",
+      "section": "五教相·結",
+      "observe": "五つの教相——謹厳・心の生起・回避・上域・涅槃——が説かれた。木の根元・空家で瞑想し、怠らず、後悔なき者となれ。",
+      "action": "就寝前、今日歩んだ八正道の一つを振り返る",
+      "quote": "チュンダよ、かくのごとく、まさに、わたしによって、謹厳の教相が説示され、心の生起の教相が説示され、回避の教相が説示され、上なる域の教相が説示され、完全なる涅槃の教相が説示されました。チュンダよ、これらの木の根元があります。これらの空家があります。チュンダよ、瞑想しなさい。〔気づきを〕怠ってはいけません。のちに後悔ある者たちと成ってはいけません。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "五教相を振り返り、瞑想を怠らない",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·五教相·結",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-close",
+          "text": "周那。我已説漸損法。説發心法。説昇上法。説般涅槃法。……當學閑居靜處宴坐思惟。莫得放逸。莫令後悔。此是我教勅。説是法已。尊者大周那。及諸比丘聞佛所説。歡喜奉行",
+          "satLocus": "大正蔵 T1.574b–c 周那問見経",
+          "note": "漸損・発心・昇上・涅槃＋閑居思惟の結。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN8-P11",
+      "category": "livelihood",
+      "ref": "MN 8",
+      "section": "正命·謹厳",
+      "observe": "他者が誤った生き方あっても、ここにおいて正しい生き方ある者として謹厳する。",
+      "action": "今日、仕事·生計が「正命」に合っているか一度問う",
+      "quote": "『他者たちが、誤った生き方ある者たちとして〔世に〕有るも、わたしたちは、ここにおいて、正しい生き方ある者たちとして〔世に〕有るのだ』と、謹厳が為されるべきです。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正命",
+        "正見"
+      ],
+      "pathReason": "誤った生き方への欲しがりを正し命で削る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・謹厳の経（MN8）·正命·謹厳",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 削減経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含91・周那問見経（T26）",
+          "t26": "T26-091-livelihood",
+          "text": "周那。他行非法惡行。我行是法妙行。當學漸損。",
+          "satLocus": "大正蔵 T1.574a 周那問見経",
+          "note": "非法惡行／是法妙行＝正命・正業の近接。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0573",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "chapter": 28,
+  "sutta": 28,
+  "title": "長部 第28経（信経）",
+  "shortTitle": "信経",
+  "mapNote": "DN 28——信経",
+  "suttas": [
+    "DN 28 信経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（集篇）",
+    "verify": "南伝大蔵経 第8巻下"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN28-P01",
+      "category": "prep",
+      "ref": "DN 28",
+      "section": "導",
+      "observe": "信——如来の徳を聞いて、信楽·歓喜·信解する",
+      "action": "朝、仏·法·僧の徳を一つ思い出し、信を置く",
+      "quote": "如来の徳を聞いて、信楽·歓喜·信解する——これ信なり"
+    },
+    {
+      "id": "DN28-P02",
+      "category": "prep",
+      "ref": "DN 28",
+      "section": "八徳",
+      "observe": "如来の八不思议——見·聞·信·解の徳",
+      "action": "今日、如来の徳（正徧知·明行足等）を一つ唱える",
+      "quote": "如来は、正徧知·明行足·善逝·世間解·調御丈夫·天人師·仏·世尊"
+    },
+    {
+      "id": "DN28-P03",
+      "category": "work",
+      "ref": "DN 28",
+      "section": "信",
+      "observe": "信は盲信ではなく——徳を確かめ、心が清まる",
+      "action": "今日、教えを一つ実践し、信を体験で確かめる",
+      "quote": "徳を確かめ、実践すれば、信は深まる"
+    },
+    {
+      "id": "DN28-P04",
+      "category": "work",
+      "ref": "DN 28",
+      "section": "歓喜",
+      "observe": "信楽·歓喜——法を聞いて心が軽くなる",
+      "action": "今日、法について感謝·歓喜の言葉を一つ口にする",
+      "quote": "法を聞いて、信楽·歓喜する——これ信の果なり"
+    },
+    {
+      "id": "DN28-P05",
+      "category": "desire",
+      "ref": "DN 28",
+      "section": "疑",
+      "observe": "疑は信を妨げる——確かめずに、確かめずに",
+      "action": "疑が来たら、一つ確かめられる事実に意識を向ける",
+      "quote": "疑を除き、徳を確かめよ"
+    },
+    {
+      "id": "DN28-P06",
+      "category": "desire",
+      "ref": "DN 28",
+      "section": "慢",
+      "observe": "「私は信じている」と誇る慢——信の障害",
+      "action": "信を誇りたくなったら「慢は信を濁す」と一度観る",
+      "quote": "信を誇る慢、これ信の障害なり"
+    },
+    {
+      "id": "DN28-P07",
+      "category": "suffering",
+      "ref": "DN 28",
+      "section": "不信",
+      "observe": "不信の苦——徳を見ず、道を見失う",
+      "action": "道が見えないとき「不信の苦」と名づけ、一つの徳に目を向ける",
+      "quote": "不信の者、道を見失う"
+    },
+    {
+      "id": "DN28-P08",
+      "category": "speech",
+      "ref": "DN 28",
+      "section": "讃",
+      "observe": "自歡喜——如来の徳を讃え、信を語る",
+      "action": "今日、如来の徳について正確な言葉を一つ口にする",
+      "quote": "如来の徳を讃え、信を語れ"
+    },
+    {
+      "id": "DN28-P09",
+      "category": "people",
+      "ref": "DN 28",
+      "section": "共信",
+      "observe": "信は共に深まる——善友と法を聞く",
+      "action": "今日、善友と法について一つ語り合う",
+      "quote": "共に法を聞き、信を深めよ"
+    },
+    {
+      "id": "DN28-P10",
+      "category": "people",
+      "ref": "DN 28",
+      "section": "敬",
+      "observe": "信から敬が生じる——三宝を敬う",
+      "action": "今日、三宝を敬う行為を一つする",
+      "quote": "信から敬が生じ、敬から実践が生じる"
+    },
+    {
+      "id": "DN28-P11",
+      "category": "night",
+      "ref": "DN 28",
+      "section": "信",
+      "observe": "今日、信が深まった瞬間——実践·歓喜·清浄",
+      "action": "就寝前、今日の信·歓喜を一つ振り返る",
+      "quote": "信楽·歓喜·信解——これ一日の要なり"
+    }
+  ]
+}

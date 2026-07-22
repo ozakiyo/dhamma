@@ -1,0 +1,431 @@
+{
+  "chapter": 44,
+  "sutta": 44,
+  "title": "中部 第44経（有明小経）",
+  "shortTitle": "有明小経",
+  "mapNote": "根本五十経篇 · 双小品",
+  "suttas": [
+    "MN 44 有明小経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 根本五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "有明小経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第44経（有明小経）",
+    "shortTitle": "有明小経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "有明小経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN44-P01",
+          "MN44-P04"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "有明小経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN44-P01",
+          "MN44-P06"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "有明小経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN44-P03",
+          "MN44-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "人との関わりで傷つけず与える",
+        "chapterHint": "有明小経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN44-P03",
+          "MN44-P05",
+          "MN44-P08"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "有明小経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN44-P02",
+          "MN44-P07"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "有明小経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN44-P01",
+          "MN44-P04"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "有明小経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN44-P04",
+          "MN44-P09"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN44-P01",
+      "category": "prep",
+      "ref": "MN 44",
+      "section": "導",
+      "observe": "有明小経——法施女の問答、在家の深い理解",
+      "action": "朝、疑問を持ったら正しい答えを求める",
+      "quote": "法施よ、我が問う——汝、詳説せよ"
+    },
+    {
+      "id": "MN44-P02",
+      "category": "suffering",
+      "ref": "MN 44",
+      "section": "我見",
+      "observe": "我見——取蘊への執着、五つの執着の集まりを我と見る",
+      "action": "「私はこれだ」の想を一度手放す",
+      "quote": "五取蘊を我と見る——これ、我見なり"
+    },
+    {
+      "id": "MN44-P03",
+      "category": "desire",
+      "ref": "MN 44",
+      "section": "人見",
+      "observe": "人見·衆生見——取蘊への執着",
+      "action": "他者を固定したラベルで見ない",
+      "quote": "五取蘊を衆生と見る——これ、人見なり"
+    },
+    {
+      "id": "MN44-P04",
+      "category": "work",
+      "ref": "MN 44",
+      "section": "滅",
+      "observe": "我見の滅——取蘊への執着を捨て去る",
+      "action": "執着を「取蘊への執着」と名づけ、手放す",
+      "quote": "我見の滅——取蘊への執着を捨て去る、これ、我見の滅なり"
+    },
+    {
+      "id": "MN44-P05",
+      "category": "people",
+      "ref": "MN 44",
+      "section": "法施",
+      "observe": "法施女——在家ながら深い法を説く",
+      "action": "学んだ一節を、誰かと静かに分かち合う",
+      "quote": "法施は在家ながら、我見·人見の滅を詳説す"
+    },
+    {
+      "id": "MN44-P06",
+      "category": "prep",
+      "ref": "MN 44",
+      "section": "正見",
+      "observe": "正見——我見·人見を離れる",
+      "action": "正見は「苦·集·滅·道」にあると確認する",
+      "quote": "正見——我見·人見を離れ、苦·集·滅·道を知る"
+    },
+    {
+      "id": "MN44-P07",
+      "category": "suffering",
+      "ref": "MN 44",
+      "section": "取蘊",
+      "observe": "五つの執着の集まり——苦の要約",
+      "action": "苦一つを「五つの執着の集まり」と認める",
+      "quote": "要約すれば、五取蘊なり——これ、苦聖諦なり"
+    },
+    {
+      "id": "MN44-P08",
+      "category": "desire",
+      "ref": "MN 44",
+      "section": "執着",
+      "observe": "取蘊への執着——苦の集",
+      "action": "快楽·不快の後、取が生じていないか観察する",
+      "quote": "五取蘊への貪欲·執着·随逐·耽着——これ、苦の集なり"
+    },
+    {
+      "id": "MN44-P09",
+      "category": "work",
+      "ref": "MN 44",
+      "section": "解脱",
+      "observe": "我見·人見の滅——心解脱·慧解脱",
+      "action": "今日、執着を一つ手放す",
+      "quote": "我見·人見の滅——心解脱·慧解脱、于現法自証通智"
+    },
+    {
+      "id": "MN44-P10",
+      "category": "people",
+      "ref": "MN 44",
+      "section": "対Visakha",
+      "observe": "Visakhaの問い——在家者の深い学び",
+      "action": "疑問を持ったら、正しい答えを求める",
+      "quote": "Visakhaよ、我が問う——汝、詳説せよ"
+    },
+    {
+      "id": "MN44-P11",
+      "category": "speech",
+      "ref": "MN 44",
+      "section": "法語",
+      "observe": "深い法を正しく語る——在家にも説ける",
+      "action": "学んだ一節を、必要な人に正しく伝える",
+      "quote": "この義を詳説す——在家にも、深い法を説く"
+    },
+    {
+      "id": "MN44-P12",
+      "category": "night",
+      "ref": "MN 44",
+      "section": "結",
+      "observe": "有明小経——我見·人見の滅",
+      "action": "就寝前、今日の執着を「取蘊への執着」として振り返る",
+      "quote": "我見の滅——取蘊への執着を捨て去る"
+    }
+  ]
+}

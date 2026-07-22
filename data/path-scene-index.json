@@ -1,0 +1,5655 @@
+{
+  "version": 1,
+  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35",
+  "entries": {
+    "view": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 1,
+        "shortTitle": "双品（対なるものの章）",
+        "title": "ダンマパダ 第1章・双品（対なるものの章）",
+        "pairCount": 17,
+        "pairIds": [
+          "DP1-P01",
+          "DP1-P02",
+          "DP1-P04",
+          "DP1-P06",
+          "DP1-P07",
+          "DP1-P14",
+          "DP1-P15",
+          "DP1-P21",
+          "DP1-P22",
+          "DP1-P23",
+          "DP1-P24",
+          "DP1-P30",
+          "DP1-P31",
+          "DP1-P32",
+          "DP1-P33",
+          "DP1-P34",
+          "DP1-P35"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 2,
+        "shortTitle": "不放逸品（怠らないことの章）",
+        "title": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP2-P03",
+          "DP2-P04",
+          "DP2-P10",
+          "DP2-P11",
+          "DP2-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 3,
+        "shortTitle": "心品（心の章）",
+        "title": "ダンマパダ 第3章・心品（心の章）",
+        "pairCount": 9,
+        "pairIds": [
+          "DP3-P02",
+          "DP3-P07",
+          "DP3-P08",
+          "DP3-P09",
+          "DP3-P10",
+          "DP3-P11",
+          "DP3-P12",
+          "DP3-P15",
+          "DP3-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP4-P01",
+          "DP4-P02",
+          "DP4-P03",
+          "DP4-P08",
+          "DP4-P09",
+          "DP4-P17",
+          "DP4-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 5,
+        "shortTitle": "愚品（愚者の章）",
+        "title": "ダンマパダ 第5章・愚品（愚者の章）",
+        "pairCount": 14,
+        "pairIds": [
+          "DP5-P01",
+          "DP5-P02",
+          "DP5-P05",
+          "DP5-P06",
+          "DP5-P07",
+          "DP5-P08",
+          "DP5-P09",
+          "DP5-P10",
+          "DP5-P11",
+          "DP5-P14",
+          "DP5-P15",
+          "DP5-P16",
+          "DP5-P17",
+          "DP5-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 6,
+        "shortTitle": "賢品（賢者の章）",
+        "title": "ダンマパダ 第6章・賢品（賢者の章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP6-P08",
+          "DP6-P11",
+          "DP6-P12",
+          "DP6-P13",
+          "DP6-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 7,
+        "shortTitle": "阿羅漢品（阿羅漢の章）",
+        "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP7-P01",
+          "DP7-P02",
+          "DP7-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 8,
+        "shortTitle": "千品（千の章）",
+        "title": "ダンマパダ 第8章・千品（千の章）",
+        "pairCount": 12,
+        "pairIds": [
+          "DP8-P03",
+          "DP8-P04",
+          "DP8-P09",
+          "DP8-P10",
+          "DP8-P11",
+          "DP8-P15",
+          "DP8-P18",
+          "DP8-P19",
+          "DP8-P20",
+          "DP8-P21",
+          "DP8-P22",
+          "DP8-P23"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 9,
+        "shortTitle": "悪品（悪の章）",
+        "title": "ダンマパダ 第9章・悪品（悪の章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP9-P07",
+          "DP9-P08",
+          "DP9-P09",
+          "DP9-P10",
+          "DP9-P18",
+          "DP9-P19",
+          "DP9-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 10,
+        "shortTitle": "刀杖品（棒の章）",
+        "title": "ダンマパダ 第10章・刀杖品（棒の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP10-P11",
+          "DP10-P12",
+          "DP10-P13",
+          "DP10-P14",
+          "DP10-P18",
+          "DP10-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 11,
+        "shortTitle": "老品（老の章）",
+        "title": "ダンマパダ 第11章・老品（老の章）",
+        "pairCount": 16,
+        "pairIds": [
+          "DP11-P01",
+          "DP11-P02",
+          "DP11-P03",
+          "DP11-P04",
+          "DP11-P05",
+          "DP11-P06",
+          "DP11-P07",
+          "DP11-P08",
+          "DP11-P09",
+          "DP11-P10",
+          "DP11-P11",
+          "DP11-P12",
+          "DP11-P13",
+          "DP11-P14",
+          "DP11-P15",
+          "DP11-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 12,
+        "shortTitle": "自己品（自己の章）",
+        "title": "ダンマパダ 第12章・自己品（自己の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP12-P07",
+          "DP12-P08",
+          "DP12-P09",
+          "DP12-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 13,
+        "shortTitle": "世品（世の章）",
+        "title": "ダンマパダ 第13章・世品（世の章）",
+        "pairCount": 9,
+        "pairIds": [
+          "DP13-P01",
+          "DP13-P02",
+          "DP13-P05",
+          "DP13-P06",
+          "DP13-P07",
+          "DP13-P12",
+          "DP13-P13",
+          "DP13-P20",
+          "DP13-P21"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 14,
+        "shortTitle": "仏陀品（覚者の章）",
+        "title": "ダンマパダ 第14章・仏陀品（覚者の章）",
+        "pairCount": 10,
+        "pairIds": [
+          "DP14-P01",
+          "DP14-P02",
+          "DP14-P03",
+          "DP14-P06",
+          "DP14-P07",
+          "DP14-P15",
+          "DP14-P17",
+          "DP14-P18",
+          "DP14-P19",
+          "DP14-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 15,
+        "shortTitle": "安楽品（安楽の章）",
+        "title": "ダンマパダ 第15章・安楽品（安楽の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP15-P03",
+          "DP15-P09",
+          "DP15-P10",
+          "DP15-P11",
+          "DP15-P12",
+          "DP15-P13"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 16,
+        "shortTitle": "愛好品（愛しいものの章）",
+        "title": "ダンマパダ 第16章・愛好品（愛しいものの章）",
+        "pairCount": 8,
+        "pairIds": [
+          "DP16-P02",
+          "DP16-P03",
+          "DP16-P04",
+          "DP16-P05",
+          "DP16-P06",
+          "DP16-P07",
+          "DP16-P09",
+          "DP16-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 17,
+        "shortTitle": "忿怒品（忿激の章）",
+        "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP17-P11",
+          "DP17-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 18,
+        "shortTitle": "垢穢品（垢の章）",
+        "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+        "pairCount": 10,
+        "pairIds": [
+          "DP18-P01",
+          "DP18-P03",
+          "DP18-P07",
+          "DP18-P08",
+          "DP18-P12",
+          "DP18-P19",
+          "DP18-P20",
+          "DP18-P21",
+          "DP18-P22",
+          "DP18-P24"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 19,
+        "shortTitle": "法住品（法に依って立つ者の章）",
+        "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+        "pairCount": 11,
+        "pairIds": [
+          "DP19-P01",
+          "DP19-P02",
+          "DP19-P07",
+          "DP19-P08",
+          "DP19-P09",
+          "DP19-P10",
+          "DP19-P15",
+          "DP19-P16",
+          "DP19-P18",
+          "DP19-P19",
+          "DP19-P21"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 20,
+        "shortTitle": "道品（道の章）",
+        "title": "ダンマパダ 第20章・道品（道の章）",
+        "pairCount": 9,
+        "pairIds": [
+          "DP20-P01",
+          "DP20-P02",
+          "DP20-P03",
+          "DP20-P04",
+          "DP20-P06",
+          "DP20-P07",
+          "DP20-P08",
+          "DP20-P17",
+          "DP20-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 21,
+        "shortTitle": "雑品（雑駁なるものの章）",
+        "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP21-P06",
+          "DP21-P07",
+          "DP21-P08",
+          "DP21-P09",
+          "DP21-P10",
+          "DP21-P14",
+          "DP21-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP22-P02",
+          "DP22-P06",
+          "DP22-P12",
+          "DP22-P13",
+          "DP22-P14",
+          "DP22-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP23-P01",
+          "DP23-P03",
+          "DP23-P13"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 10,
+        "pairIds": [
+          "DP24-P02",
+          "DP24-P05",
+          "DP24-P06",
+          "DP24-P07",
+          "DP24-P16",
+          "DP24-P18",
+          "DP24-P19",
+          "DP24-P20",
+          "DP24-P22",
+          "DP24-P25"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP25-P01",
+          "DP25-P05",
+          "DP25-P08",
+          "DP25-P13",
+          "DP25-P15",
+          "DP25-P22"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 12,
+        "pairIds": [
+          "DP26-P02",
+          "DP26-P03",
+          "DP26-P05",
+          "DP26-P11",
+          "DP26-P12",
+          "DP26-P20",
+          "DP26-P21",
+          "DP26-P30",
+          "DP26-P32",
+          "DP26-P34",
+          "DP26-P36",
+          "DP26-P40"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 1,
+        "shortTitle": "根本法門経（根元の教相の経）",
+        "title": "中部 第1経・根本法門経（根元の教相の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN1-P01",
+          "MN1-P02",
+          "MN1-P04",
+          "MN1-P07",
+          "MN1-P08",
+          "MN1-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 2,
+        "shortTitle": "一切漏経（一切の煩悩の経）",
+        "title": "中部 第2経・一切漏経（一切の煩悩の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN2-P01",
+          "MN2-P05",
+          "MN2-P06",
+          "MN2-P11",
+          "MN2-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 3,
+        "shortTitle": "法嗣経（法の相続者の経）",
+        "title": "中部 第3経・法嗣経（法の相続者の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN3-P01",
+          "MN3-P06",
+          "MN3-P07",
+          "MN3-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 4,
+        "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+        "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN4-P01",
+          "MN4-P07",
+          "MN4-P08",
+          "MN4-P10",
+          "MN4-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 5,
+        "shortTitle": "無穢経（穢れなき者の経）",
+        "title": "中部 第5経・無穢経（穢れなき者の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN5-P01",
+          "MN5-P05",
+          "MN5-P07",
+          "MN5-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 6,
+        "shortTitle": "願経（「望むなら」の経）",
+        "title": "中部 第6経・願経（「望むなら」の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN6-P06",
+          "MN6-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN7-P01",
+          "MN7-P02",
+          "MN7-P04",
+          "MN7-P09",
+          "MN7-P10",
+          "MN7-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 8,
+        "shortTitle": "削減経（謹厳の経）",
+        "title": "中部 第8経・削減経（謹厳の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN8-P01",
+          "MN8-P02",
+          "MN8-P03",
+          "MN8-P09",
+          "MN8-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 9,
+        "shortTitle": "正見経（正しい見解の経）",
+        "title": "中部 第9経・正見経（正しい見解の経）",
+        "pairCount": 10,
+        "pairIds": [
+          "MN9-P01",
+          "MN9-P02",
+          "MN9-P03",
+          "MN9-P04",
+          "MN9-P05",
+          "MN9-P06",
+          "MN9-P07",
+          "MN9-P08",
+          "MN9-P10",
+          "MN9-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 10,
+        "shortTitle": "念処経（大いなる気づきの確立の経）",
+        "title": "中部 第10経・念処経（大いなる気づきの確立の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN10-P01",
+          "MN10-P05",
+          "MN10-P06",
+          "MN10-P07",
+          "MN10-P08",
+          "MN10-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 11,
+        "shortTitle": "師子吼小経（小なる獅子吼の経）",
+        "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+        "pairCount": 11,
+        "pairIds": [
+          "MN11-P01",
+          "MN11-P02",
+          "MN11-P03",
+          "MN11-P04",
+          "MN11-P05",
+          "MN11-P06",
+          "MN11-P07",
+          "MN11-P08",
+          "MN11-P09",
+          "MN11-P11",
+          "MN11-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 12,
+        "shortTitle": "師子吼大経（大いなる獅子吼の経）",
+        "title": "中部 第12経・師子吼大経（大いなる獅子吼の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN12-P01",
+          "MN12-P02",
+          "MN12-P03",
+          "MN12-P04",
+          "MN12-P05",
+          "MN12-P06",
+          "MN12-P07",
+          "MN12-P10",
+          "MN12-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 13,
+        "shortTitle": "苦蘊大経（大いなる苦しみの範疇の経）",
+        "title": "中部 第13経・苦蘊大経（大いなる苦しみの範疇の経）",
+        "pairCount": 11,
+        "pairIds": [
+          "MN13-P01",
+          "MN13-P02",
+          "MN13-P03",
+          "MN13-P04",
+          "MN13-P05",
+          "MN13-P06",
+          "MN13-P07",
+          "MN13-P08",
+          "MN13-P10",
+          "MN13-P11",
+          "MN13-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 14,
+        "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+        "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN14-P01",
+          "MN14-P02",
+          "MN14-P03",
+          "MN14-P04",
+          "MN14-P05",
+          "MN14-P06",
+          "MN14-P07",
+          "MN14-P09",
+          "MN14-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 15,
+        "shortTitle": "思量経（推知の経）",
+        "title": "中部 第15経・思量経（推知の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN15-P01",
+          "MN15-P07",
+          "MN15-P08",
+          "MN15-P09",
+          "MN15-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 16,
+        "shortTitle": "心荒野経（心の鬱積の経）",
+        "title": "中部 第16経・心荒野経（心の鬱積の経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN16-P01",
+          "MN16-P02",
+          "MN16-P03",
+          "MN16-P04",
+          "MN16-P05",
+          "MN16-P07",
+          "MN16-P08",
+          "MN16-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 17,
+        "shortTitle": "林薮経（林野の辺境の経）",
+        "title": "中部 第17経・林薮経（林野の辺境の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN17-P01",
+          "MN17-P03",
+          "MN17-P05",
+          "MN17-P06",
+          "MN17-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 18,
+        "shortTitle": "蜜丸経（蜜団子の経）",
+        "title": "中部 第18経・蜜丸経（蜜団子の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN18-P01",
+          "MN18-P02",
+          "MN18-P03",
+          "MN18-P04",
+          "MN18-P05",
+          "MN18-P09",
+          "MN18-P11",
+          "MN18-P12",
+          "MN18-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 19,
+        "shortTitle": "双考経（二種の思考の経）",
+        "title": "中部 第19経・双考経（二種の思考の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN19-P03",
+          "MN19-P07",
+          "MN19-P11",
+          "MN19-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 20,
+        "shortTitle": "考想息止経（思考の様相の経）",
+        "title": "中部 第20経・考想息止経（思考の様相の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN20-P03",
+          "MN20-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 21,
+        "shortTitle": "鋸喩経（鋸の喩えの経）",
+        "title": "中部 第21経・鋸喩経（鋸の喩えの経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN21-P07",
+          "MN21-P09",
+          "MN21-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 22,
+        "shortTitle": "蛇喩経（蛇の喩えの経）",
+        "title": "中部 第22経・蛇喩経（蛇の喩えの経）",
+        "pairCount": 11,
+        "pairIds": [
+          "MN22-P01",
+          "MN22-P02",
+          "MN22-P03",
+          "MN22-P04",
+          "MN22-P06",
+          "MN22-P07",
+          "MN22-P08",
+          "MN22-P09",
+          "MN22-P10",
+          "MN22-P11",
+          "MN22-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 23,
+        "shortTitle": "蟻垤経（蟻塚の経）",
+        "title": "中部 第23経・蟻垤経（蟻塚の経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN23-P01",
+          "MN23-P03",
+          "MN23-P04",
+          "MN23-P05",
+          "MN23-P07",
+          "MN23-P10",
+          "MN23-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN24-P01",
+          "MN24-P04",
+          "MN24-P05",
+          "MN24-P06",
+          "MN24-P07",
+          "MN24-P08",
+          "MN24-P09",
+          "MN24-P10",
+          "MN24-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 25,
+        "shortTitle": "撒餌経（撒餌の経）",
+        "title": "中部 第25経・撒餌経（撒餌の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN25-P07",
+          "MN25-P09",
+          "MN25-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 26,
+        "shortTitle": "聖求経（聖求の経）",
+        "title": "中部 第26経・聖求経（聖求の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN26-P01",
+          "MN26-P02",
+          "MN26-P03",
+          "MN26-P04",
+          "MN26-P06",
+          "MN26-P10",
+          "MN26-P11",
+          "MN26-P12",
+          "MN26-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 27,
+        "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+        "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN27-P01",
+          "MN27-P09",
+          "MN27-P10",
+          "MN27-P11",
+          "MN27-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 28,
+        "shortTitle": "象跡喩大経（象跡の喩えの大経）",
+        "title": "中部 第28経・象跡喩大経（象跡の喩えの大経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN28-P01",
+          "MN28-P02",
+          "MN28-P03",
+          "MN28-P04",
+          "MN28-P06",
+          "MN28-P08",
+          "MN28-P09",
+          "MN28-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 29,
+        "shortTitle": "心材喩大経（心材の喩えの大経）",
+        "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN29-P01",
+          "MN29-P03",
+          "MN29-P04",
+          "MN29-P06",
+          "MN29-P07",
+          "MN29-P09",
+          "MN29-P10",
+          "MN29-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 30,
+        "shortTitle": "心材喩小経（心材の喩えの小経）",
+        "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN30-P01",
+          "MN30-P02",
+          "MN30-P03",
+          "MN30-P07",
+          "MN30-P08",
+          "MN30-P09",
+          "MN30-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 31,
+        "shortTitle": "牛角林小経（牛角林の小経）",
+        "title": "中部 第31経・牛角林小経（牛角林の小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN31-P06",
+          "MN31-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 32,
+        "shortTitle": "牛角林大経（牛角林の大経）",
+        "title": "中部 第32経・牛角林大経（牛角林の大経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN32-P01",
+          "MN32-P05",
+          "MN32-P06",
+          "MN32-P07",
+          "MN32-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 33,
+        "shortTitle": "牧牛者大経（牧牛者の大経）",
+        "title": "中部 第33経・牧牛者大経（牧牛者の大経）",
+        "pairCount": 10,
+        "pairIds": [
+          "MN33-P01",
+          "MN33-P02",
+          "MN33-P03",
+          "MN33-P05",
+          "MN33-P06",
+          "MN33-P07",
+          "MN33-P08",
+          "MN33-P09",
+          "MN33-P10",
+          "MN33-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 34,
+        "shortTitle": "牧牛者小経（牧牛者の小経）",
+        "title": "中部 第34経・牧牛者小経（牧牛者の小経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN34-P01",
+          "MN34-P02",
+          "MN34-P03",
+          "MN34-P04",
+          "MN34-P06",
+          "MN34-P09",
+          "MN34-P10",
+          "MN34-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 35,
+        "shortTitle": "薩遮迦小経（薩遮迦との小経）",
+        "title": "中部 第35経・薩遮迦小経（薩遮迦との小経）",
+        "pairCount": 11,
+        "pairIds": [
+          "MN35-P01",
+          "MN35-P02",
+          "MN35-P03",
+          "MN35-P04",
+          "MN35-P05",
+          "MN35-P06",
+          "MN35-P07",
+          "MN35-P08",
+          "MN35-P09",
+          "MN35-P10",
+          "MN35-P11"
+        ]
+      }
+    ],
+    "intention": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 1,
+        "shortTitle": "双品（対なるものの章）",
+        "title": "ダンマパダ 第1章・双品（対なるものの章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP1-P03",
+          "DP1-P04",
+          "DP1-P08",
+          "DP1-P11",
+          "DP1-P25"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 3,
+        "shortTitle": "心品（心の章）",
+        "title": "ダンマパダ 第3章・心品（心の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP3-P13",
+          "DP3-P14",
+          "DP3-P15",
+          "DP3-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP4-P04"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 5,
+        "shortTitle": "愚品（愚者の章）",
+        "title": "ダンマパダ 第5章・愚品（愚者の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP5-P03",
+          "DP5-P04",
+          "DP5-P17",
+          "DP5-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 6,
+        "shortTitle": "賢品（賢者の章）",
+        "title": "ダンマパダ 第6章・賢品（賢者の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP6-P01",
+          "DP6-P03",
+          "DP6-P09",
+          "DP6-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 9,
+        "shortTitle": "悪品（悪の章）",
+        "title": "ダンマパダ 第9章・悪品（悪の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP9-P13",
+          "DP9-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 15,
+        "shortTitle": "安楽品（安楽の章）",
+        "title": "ダンマパダ 第15章・安楽品（安楽の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP15-P01",
+          "DP15-P02",
+          "DP15-P04",
+          "DP15-P07",
+          "DP15-P08",
+          "DP15-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 16,
+        "shortTitle": "愛好品（愛しいものの章）",
+        "title": "ダンマパダ 第16章・愛好品（愛しいものの章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP16-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 17,
+        "shortTitle": "忿怒品（忿激の章）",
+        "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP17-P01",
+          "DP17-P02",
+          "DP17-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 18,
+        "shortTitle": "垢穢品（垢の章）",
+        "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP18-P13"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 19,
+        "shortTitle": "法住品（法に依って立つ者の章）",
+        "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP19-P03",
+          "DP19-P04"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 20,
+        "shortTitle": "道品（道の章）",
+        "title": "ダンマパダ 第20章・道品（道の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP20-P13",
+          "DP20-P14",
+          "DP20-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 21,
+        "shortTitle": "雑品（雑駁なるものの章）",
+        "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP21-P01",
+          "DP21-P02"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP22-P04",
+          "DP22-P05"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP23-P02",
+          "DP23-P05"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP24-P01",
+          "DP24-P08",
+          "DP24-P09",
+          "DP24-P11",
+          "DP24-P14",
+          "DP24-P23",
+          "DP24-P26"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP25-P06"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP26-P08",
+          "DP26-P14",
+          "DP26-P19",
+          "DP26-P25",
+          "DP26-P28"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 1,
+        "shortTitle": "根本法門経（根元の教相の経）",
+        "title": "中部 第1経・根本法門経（根元の教相の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN1-P03",
+          "MN1-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 2,
+        "shortTitle": "一切漏経（一切の煩悩の経）",
+        "title": "中部 第2経・一切漏経（一切の煩悩の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN2-P02",
+          "MN2-P03"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 3,
+        "shortTitle": "法嗣経（法の相続者の経）",
+        "title": "中部 第3経・法嗣経（法の相続者の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN3-P06",
+          "MN3-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 4,
+        "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+        "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN4-P03",
+          "MN4-P04"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 5,
+        "shortTitle": "無穢経（穢れなき者の経）",
+        "title": "中部 第5経・無穢経（穢れなき者の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN5-P02",
+          "MN5-P03",
+          "MN5-P04",
+          "MN5-P09",
+          "MN5-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 6,
+        "shortTitle": "願経（「望むなら」の経）",
+        "title": "中部 第6経・願経（「望むなら」の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN6-P07",
+          "MN6-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN7-P03",
+          "MN7-P06",
+          "MN7-P08",
+          "MN7-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 9,
+        "shortTitle": "正見経（正しい見解の経）",
+        "title": "中部 第9経・正見経（正しい見解の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN9-P02",
+          "MN9-P04",
+          "MN9-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 10,
+        "shortTitle": "念処経（大いなる気づきの確立の経）",
+        "title": "中部 第10経・念処経（大いなる気づきの確立の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN10-P04"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 11,
+        "shortTitle": "師子吼小経（小なる獅子吼の経）",
+        "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN11-P03",
+          "MN11-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 12,
+        "shortTitle": "師子吼大経（大いなる獅子吼の経）",
+        "title": "中部 第12経・師子吼大経（大いなる獅子吼の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN12-P03",
+          "MN12-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 13,
+        "shortTitle": "苦蘊大経（大いなる苦しみの範疇の経）",
+        "title": "中部 第13経・苦蘊大経（大いなる苦しみの範疇の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN13-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 14,
+        "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+        "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN14-P03",
+          "MN14-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 15,
+        "shortTitle": "思量経（推知の経）",
+        "title": "中部 第15経・思量経（推知の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN15-P02",
+          "MN15-P03"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 16,
+        "shortTitle": "心荒野経（心の鬱積の経）",
+        "title": "中部 第16経・心荒野経（心の鬱積の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN16-P03",
+          "MN16-P06",
+          "MN16-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 18,
+        "shortTitle": "蜜丸経（蜜団子の経）",
+        "title": "中部 第18経・蜜丸経（蜜団子の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN18-P01",
+          "MN18-P06",
+          "MN18-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 19,
+        "shortTitle": "双考経（二種の思考の経）",
+        "title": "中部 第19経・双考経（二種の思考の経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN19-P01",
+          "MN19-P02",
+          "MN19-P04",
+          "MN19-P05",
+          "MN19-P08",
+          "MN19-P10",
+          "MN19-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 20,
+        "shortTitle": "考想息止経（思考の様相の経）",
+        "title": "中部 第20経・考想息止経（思考の様相の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN20-P02",
+          "MN20-P05",
+          "MN20-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 21,
+        "shortTitle": "鋸喩経（鋸の喩えの経）",
+        "title": "中部 第21経・鋸喩経（鋸の喩えの経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN21-P01",
+          "MN21-P03",
+          "MN21-P05",
+          "MN21-P08",
+          "MN21-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 22,
+        "shortTitle": "蛇喩経（蛇の喩えの経）",
+        "title": "中部 第22経・蛇喩経（蛇の喩えの経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN22-P02",
+          "MN22-P04",
+          "MN22-P05",
+          "MN22-P06",
+          "MN22-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 23,
+        "shortTitle": "蟻垤経（蟻塚の経）",
+        "title": "中部 第23経・蟻垤経（蟻塚の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN23-P02",
+          "MN23-P03",
+          "MN23-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN24-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 25,
+        "shortTitle": "撒餌経（撒餌の経）",
+        "title": "中部 第25経・撒餌経（撒餌の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN25-P01",
+          "MN25-P02",
+          "MN25-P03",
+          "MN25-P04",
+          "MN25-P06",
+          "MN25-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 26,
+        "shortTitle": "聖求経（聖求の経）",
+        "title": "中部 第26経・聖求経（聖求の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN26-P02",
+          "MN26-P03",
+          "MN26-P07",
+          "MN26-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 27,
+        "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+        "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN27-P02",
+          "MN27-P04",
+          "MN27-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 28,
+        "shortTitle": "象跡喩大経（象跡の喩えの大経）",
+        "title": "中部 第28経・象跡喩大経（象跡の喩えの大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN28-P03"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 29,
+        "shortTitle": "心材喩大経（心材の喩えの大経）",
+        "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN29-P04",
+          "MN29-P05",
+          "MN29-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 30,
+        "shortTitle": "心材喩小経（心材の喩えの小経）",
+        "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN30-P02",
+          "MN30-P04",
+          "MN30-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 31,
+        "shortTitle": "牛角林小経（牛角林の小経）",
+        "title": "中部 第31経・牛角林小経（牛角林の小経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN31-P01",
+          "MN31-P02",
+          "MN31-P07",
+          "MN31-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 32,
+        "shortTitle": "牛角林大経（牛角林の大経）",
+        "title": "中部 第32経・牛角林大経（牛角林の大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN32-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 33,
+        "shortTitle": "牧牛者大経（牧牛者の大経）",
+        "title": "中部 第33経・牧牛者大経（牧牛者の大経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN33-P04",
+          "MN33-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 34,
+        "shortTitle": "牧牛者小経（牧牛者の小経）",
+        "title": "中部 第34経・牧牛者小経（牧牛者の小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN34-P04",
+          "MN34-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 35,
+        "shortTitle": "薩遮迦小経（薩遮迦との小経）",
+        "title": "中部 第35経・薩遮迦小経（薩遮迦との小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN35-P04"
+        ]
+      }
+    ],
+    "speech": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP4-P10",
+          "DP4-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 6,
+        "shortTitle": "賢品（賢者の章）",
+        "title": "ダンマパダ 第6章・賢品（賢者の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP6-P02"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 7,
+        "shortTitle": "阿羅漢品（阿羅漢の章）",
+        "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP7-P09"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 8,
+        "shortTitle": "千品（千の章）",
+        "title": "ダンマパダ 第8章・千品（千の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP8-P01",
+          "DP8-P02"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 9,
+        "shortTitle": "悪品（悪の章）",
+        "title": "ダンマパダ 第9章・悪品（悪の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP9-P16",
+          "DP9-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 10,
+        "shortTitle": "刀杖品（棒の章）",
+        "title": "ダンマパダ 第10章・刀杖品（棒の章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP10-P06",
+          "DP10-P07",
+          "DP10-P08",
+          "DP10-P09",
+          "DP10-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 12,
+        "shortTitle": "自己品（自己の章）",
+        "title": "ダンマパダ 第12章・自己品（自己の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP12-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 13,
+        "shortTitle": "世品（世の章）",
+        "title": "ダンマパダ 第13章・世品（世の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP13-P16",
+          "DP13-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 17,
+        "shortTitle": "忿怒品（忿激の章）",
+        "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP17-P07",
+          "DP17-P08",
+          "DP17-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 19,
+        "shortTitle": "法住品（法に依って立つ者の章）",
+        "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP19-P11",
+          "DP19-P12",
+          "DP19-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 20,
+        "shortTitle": "道品（道の章）",
+        "title": "ダンマパダ 第20章・道品（道の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP20-P10",
+          "DP20-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP22-P01"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP23-P09",
+          "DP23-P11",
+          "DP23-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP24-P21"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP25-P04",
+          "DP25-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP26-P09",
+          "DP26-P10",
+          "DP26-P26"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 3,
+        "shortTitle": "法嗣経（法の相続者の経）",
+        "title": "中部 第3経・法嗣経（法の相続者の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN3-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 5,
+        "shortTitle": "無穢経（穢れなき者の経）",
+        "title": "中部 第5経・無穢経（穢れなき者の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN5-P03",
+          "MN5-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN7-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 8,
+        "shortTitle": "削減経（謹厳の経）",
+        "title": "中部 第8経・削減経（謹厳の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN8-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 9,
+        "shortTitle": "正見経（正しい見解の経）",
+        "title": "中部 第9経・正見経（正しい見解の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN9-P10",
+          "MN9-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 11,
+        "shortTitle": "師子吼小経（小なる獅子吼の経）",
+        "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN11-P01",
+          "MN11-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 12,
+        "shortTitle": "師子吼大経（大いなる獅子吼の経）",
+        "title": "中部 第12経・師子吼大経（大いなる獅子吼の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN12-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 13,
+        "shortTitle": "苦蘊大経（大いなる苦しみの範疇の経）",
+        "title": "中部 第13経・苦蘊大経（大いなる苦しみの範疇の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN13-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 14,
+        "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+        "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN14-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 15,
+        "shortTitle": "思量経（推知の経）",
+        "title": "中部 第15経・思量経（推知の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN15-P04",
+          "MN15-P05",
+          "MN15-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 16,
+        "shortTitle": "心荒野経（心の鬱積の経）",
+        "title": "中部 第16経・心荒野経（心の鬱積の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN16-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 17,
+        "shortTitle": "林薮経（林野の辺境の経）",
+        "title": "中部 第17経・林薮経（林野の辺境の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN17-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 18,
+        "shortTitle": "蜜丸経（蜜団子の経）",
+        "title": "中部 第18経・蜜丸経（蜜団子の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN18-P06",
+          "MN18-P10",
+          "MN18-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 20,
+        "shortTitle": "考想息止経（思考の様相の経）",
+        "title": "中部 第20経・考想息止経（思考の様相の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN20-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 21,
+        "shortTitle": "鋸喩経（鋸の喩えの経）",
+        "title": "中部 第21経・鋸喩経（鋸の喩えの経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN21-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 22,
+        "shortTitle": "蛇喩経（蛇の喩えの経）",
+        "title": "中部 第22経・蛇喩経（蛇の喩えの経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN22-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 23,
+        "shortTitle": "蟻垤経（蟻塚の経）",
+        "title": "中部 第23経・蟻垤経（蟻塚の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN23-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN24-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 26,
+        "shortTitle": "聖求経（聖求の経）",
+        "title": "中部 第26経・聖求経（聖求の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN26-P07",
+          "MN26-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 28,
+        "shortTitle": "象跡喩大経（象跡の喩えの大経）",
+        "title": "中部 第28経・象跡喩大経（象跡の喩えの大経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN28-P07",
+          "MN28-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 29,
+        "shortTitle": "心材喩大経（心材の喩えの大経）",
+        "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN29-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 31,
+        "shortTitle": "牛角林小経（牛角林の小経）",
+        "title": "中部 第31経・牛角林小経（牛角林の小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN31-P03",
+          "MN31-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 32,
+        "shortTitle": "牛角林大経（牛角林の大経）",
+        "title": "中部 第32経・牛角林大経（牛角林の大経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN32-P04",
+          "MN32-P09",
+          "MN32-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 33,
+        "shortTitle": "牧牛者大経（牧牛者の大経）",
+        "title": "中部 第33経・牧牛者大経（牧牛者の大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN33-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 34,
+        "shortTitle": "牧牛者小経（牧牛者の小経）",
+        "title": "中部 第34経・牧牛者小経（牧牛者の小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN34-P05",
+          "MN34-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 35,
+        "shortTitle": "薩遮迦小経（薩遮迦との小経）",
+        "title": "中部 第35経・薩遮迦小経（薩遮迦との小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN35-P06"
+        ]
+      }
+    ],
+    "action": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 1,
+        "shortTitle": "双品（対なるものの章）",
+        "title": "ダンマパダ 第1章・双品（対なるものの章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP1-P10",
+          "DP1-P13",
+          "DP1-P26",
+          "DP1-P27"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 2,
+        "shortTitle": "不放逸品（怠らないことの章）",
+        "title": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP2-P06",
+          "DP2-P07"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP4-P10",
+          "DP4-P11",
+          "DP4-P12",
+          "DP4-P13",
+          "DP4-P14",
+          "DP4-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 5,
+        "shortTitle": "愚品（愚者の章）",
+        "title": "ダンマパダ 第5章・愚品（愚者の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP5-P11",
+          "DP5-P12",
+          "DP5-P13"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 6,
+        "shortTitle": "賢品（賢者の章）",
+        "title": "ダンマパダ 第6章・賢品（賢者の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP6-P02",
+          "DP6-P11",
+          "DP6-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 7,
+        "shortTitle": "阿羅漢品（阿羅漢の章）",
+        "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP7-P09"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 8,
+        "shortTitle": "千品（千の章）",
+        "title": "ダンマパダ 第8章・千品（千の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP8-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 9,
+        "shortTitle": "悪品（悪の章）",
+        "title": "ダンマパダ 第9章・悪品（悪の章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP9-P03",
+          "DP9-P04",
+          "DP9-P05",
+          "DP9-P06",
+          "DP9-P11",
+          "DP9-P12",
+          "DP9-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 10,
+        "shortTitle": "刀杖品（棒の章）",
+        "title": "ダンマパダ 第10章・刀杖品（棒の章）",
+        "pairCount": 10,
+        "pairIds": [
+          "DP10-P01",
+          "DP10-P02",
+          "DP10-P03",
+          "DP10-P04",
+          "DP10-P05",
+          "DP10-P15",
+          "DP10-P16",
+          "DP10-P17",
+          "DP10-P20",
+          "DP10-P21"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 12,
+        "shortTitle": "自己品（自己の章）",
+        "title": "ダンマパダ 第12章・自己品（自己の章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP12-P03",
+          "DP12-P04",
+          "DP12-P05",
+          "DP12-P06",
+          "DP12-P11",
+          "DP12-P15",
+          "DP12-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 13,
+        "shortTitle": "世品（世の章）",
+        "title": "ダンマパダ 第13章・世品（世の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP13-P10",
+          "DP13-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 14,
+        "shortTitle": "仏陀品（覚者の章）",
+        "title": "ダンマパダ 第14章・仏陀品（覚者の章）",
+        "pairCount": 9,
+        "pairIds": [
+          "DP14-P08",
+          "DP14-P09",
+          "DP14-P10",
+          "DP14-P11",
+          "DP14-P12",
+          "DP14-P13",
+          "DP14-P14",
+          "DP14-P23",
+          "DP14-P24"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 16,
+        "shortTitle": "愛好品（愛しいものの章）",
+        "title": "ダンマパダ 第16章・愛好品（愛しいものの章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP16-P11",
+          "DP16-P12",
+          "DP16-P15",
+          "DP16-P16",
+          "DP16-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 17,
+        "shortTitle": "忿怒品（忿激の章）",
+        "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP17-P05",
+          "DP17-P06",
+          "DP17-P09",
+          "DP17-P13",
+          "DP17-P14",
+          "DP17-P17",
+          "DP17-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 18,
+        "shortTitle": "垢穢品（垢の章）",
+        "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP18-P11",
+          "DP18-P14",
+          "DP18-P15",
+          "DP18-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 19,
+        "shortTitle": "法住品（法に依って立つ者の章）",
+        "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP19-P05",
+          "DP19-P06",
+          "DP19-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 20,
+        "shortTitle": "道品（道の章）",
+        "title": "ダンマパダ 第20章・道品（道の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP20-P10",
+          "DP20-P11",
+          "DP20-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 21,
+        "shortTitle": "雑品（雑駁なるものの章）",
+        "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP21-P03",
+          "DP21-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP22-P07",
+          "DP22-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP23-P10",
+          "DP23-P14",
+          "DP23-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP24-P13",
+          "DP24-P24"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP25-P02",
+          "DP25-P09",
+          "DP25-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 7,
+        "pairIds": [
+          "DP26-P06",
+          "DP26-P07",
+          "DP26-P17",
+          "DP26-P18",
+          "DP26-P23",
+          "DP26-P24",
+          "DP26-P27"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 4,
+        "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+        "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN4-P04",
+          "MN4-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 6,
+        "shortTitle": "願経（「望むなら」の経）",
+        "title": "中部 第6経・願経（「望むなら」の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN6-P01",
+          "MN6-P02",
+          "MN6-P10",
+          "MN6-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN7-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 8,
+        "shortTitle": "削減経（謹厳の経）",
+        "title": "中部 第8経・削減経（謹厳の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN8-P04",
+          "MN8-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 11,
+        "shortTitle": "師子吼小経（小なる獅子吼の経）",
+        "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN11-P02"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 14,
+        "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+        "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN14-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 15,
+        "shortTitle": "思量経（推知の経）",
+        "title": "中部 第15経・思量経（推知の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN15-P02",
+          "MN15-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 17,
+        "shortTitle": "林薮経（林野の辺境の経）",
+        "title": "中部 第17経・林薮経（林野の辺境の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN17-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 19,
+        "shortTitle": "双考経（二種の思考の経）",
+        "title": "中部 第19経・双考経（二種の思考の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN19-P04"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN24-P02"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 27,
+        "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+        "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN27-P03",
+          "MN27-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 30,
+        "shortTitle": "心材喩小経（心材の喩えの小経）",
+        "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN30-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 31,
+        "shortTitle": "牛角林小経（牛角林の小経）",
+        "title": "中部 第31経・牛角林小経（牛角林の小経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN31-P02",
+          "MN31-P04",
+          "MN31-P10"
+        ]
+      }
+    ],
+    "livelihood": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 1,
+        "shortTitle": "双品（対なるものの章）",
+        "title": "ダンマパダ 第1章・双品（対なるものの章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP1-P27"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP4-P06",
+          "DP4-P07"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 7,
+        "shortTitle": "阿羅漢品（阿羅漢の章）",
+        "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP7-P04"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 13,
+        "shortTitle": "世品（世の章）",
+        "title": "ダンマパダ 第13章・世品（世の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP13-P18",
+          "DP13-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 15,
+        "shortTitle": "安楽品（安楽の章）",
+        "title": "ダンマパダ 第15章・安楽品（安楽の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP15-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 19,
+        "shortTitle": "法住品（法に依って立つ者の章）",
+        "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP19-P13",
+          "DP19-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 21,
+        "shortTitle": "雑品（雑駁なるものの章）",
+        "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP21-P15",
+          "DP21-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP22-P03"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP23-P06"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP24-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP25-P07",
+          "DP25-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP26-P22",
+          "DP26-P33"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 2,
+        "shortTitle": "一切漏経（一切の煩悩の経）",
+        "title": "中部 第2経・一切漏経（一切の煩悩の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN2-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 3,
+        "shortTitle": "法嗣経（法の相続者の経）",
+        "title": "中部 第3経・法嗣経（法の相続者の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN3-P01",
+          "MN3-P02",
+          "MN3-P03",
+          "MN3-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 4,
+        "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+        "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN4-P03",
+          "MN4-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 5,
+        "shortTitle": "無穢経（穢れなき者の経）",
+        "title": "中部 第5経・無穢経（穢れなき者の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN5-P04"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 6,
+        "shortTitle": "願経（「望むなら」の経）",
+        "title": "中部 第6経・願経（「望むなら」の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN6-P04"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN7-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 8,
+        "shortTitle": "削減経（謹厳の経）",
+        "title": "中部 第8経・削減経（謹厳の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN8-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 17,
+        "shortTitle": "林薮経（林野の辺境の経）",
+        "title": "中部 第17経・林薮経（林野の辺境の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN17-P03",
+          "MN17-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN24-P04"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 25,
+        "shortTitle": "撒餌経（撒餌の経）",
+        "title": "中部 第25経・撒餌経（撒餌の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN25-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 27,
+        "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+        "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN27-P02",
+          "MN27-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 29,
+        "shortTitle": "心材喩大経（心材の喩えの大経）",
+        "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN29-P02"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 32,
+        "shortTitle": "牛角林大経（牛角林の大経）",
+        "title": "中部 第32経・牛角林大経（牛角林の大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN32-P03"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 33,
+        "shortTitle": "牧牛者大経（牧牛者の大経）",
+        "title": "中部 第33経・牧牛者大経（牧牛者の大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN33-P11"
+        ]
+      }
+    ],
+    "effort": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 1,
+        "shortTitle": "双品（対なるものの章）",
+        "title": "ダンマパダ 第1章・双品（対なるものの章）",
+        "pairCount": 8,
+        "pairIds": [
+          "DP1-P05",
+          "DP1-P16",
+          "DP1-P17",
+          "DP1-P18",
+          "DP1-P19",
+          "DP1-P20",
+          "DP1-P28",
+          "DP1-P29"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 2,
+        "shortTitle": "不放逸品（怠らないことの章）",
+        "title": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+        "pairCount": 9,
+        "pairIds": [
+          "DP2-P01",
+          "DP2-P02",
+          "DP2-P05",
+          "DP2-P08",
+          "DP2-P09",
+          "DP2-P15",
+          "DP2-P16",
+          "DP2-P17",
+          "DP2-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 3,
+        "shortTitle": "心品（心の章）",
+        "title": "ダンマパダ 第3章・心品（心の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP3-P01",
+          "DP3-P06",
+          "DP3-P10",
+          "DP3-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP4-P05",
+          "DP4-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 5,
+        "shortTitle": "愚品（愚者の章）",
+        "title": "ダンマパダ 第5章・愚品（愚者の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP5-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 6,
+        "shortTitle": "賢品（賢者の章）",
+        "title": "ダンマパダ 第6章・賢品（賢者の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP6-P05"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 7,
+        "shortTitle": "阿羅漢品（阿羅漢の章）",
+        "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP7-P03"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 8,
+        "shortTitle": "千品（千の章）",
+        "title": "ダンマパダ 第8章・千品（千の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP8-P05",
+          "DP8-P06",
+          "DP8-P07",
+          "DP8-P08",
+          "DP8-P16",
+          "DP8-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 9,
+        "shortTitle": "悪品（悪の章）",
+        "title": "ダンマパダ 第9章・悪品（悪の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP9-P01",
+          "DP9-P02",
+          "DP9-P05",
+          "DP9-P06"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 10,
+        "shortTitle": "刀杖品（棒の章）",
+        "title": "ダンマパダ 第10章・刀杖品（棒の章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP10-P22",
+          "DP10-P23",
+          "DP10-P24",
+          "DP10-P25",
+          "DP10-P26"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 11,
+        "shortTitle": "老品（老の章）",
+        "title": "ダンマパダ 第11章・老品（老の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP11-P10",
+          "DP11-P11",
+          "DP11-P12",
+          "DP11-P17",
+          "DP11-P18",
+          "DP11-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 12,
+        "shortTitle": "自己品（自己の章）",
+        "title": "ダンマパダ 第12章・自己品（自己の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP12-P01",
+          "DP12-P02",
+          "DP12-P12",
+          "DP12-P13",
+          "DP12-P17",
+          "DP12-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 13,
+        "shortTitle": "世品（世の章）",
+        "title": "ダンマパダ 第13章・世品（世の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP13-P03",
+          "DP13-P04",
+          "DP13-P08",
+          "DP13-P09",
+          "DP13-P14",
+          "DP13-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 15,
+        "shortTitle": "安楽品（安楽の章）",
+        "title": "ダンマパダ 第15章・安楽品（安楽の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP15-P18",
+          "DP15-P19",
+          "DP15-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 16,
+        "shortTitle": "愛好品（愛しいものの章）",
+        "title": "ダンマパダ 第16章・愛好品（愛しいものの章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP16-P01"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 17,
+        "shortTitle": "忿怒品（忿激の章）",
+        "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP17-P03",
+          "DP17-P04",
+          "DP17-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 18,
+        "shortTitle": "垢穢品（垢の章）",
+        "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP18-P02",
+          "DP18-P04",
+          "DP18-P05",
+          "DP18-P06",
+          "DP18-P09",
+          "DP18-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 20,
+        "shortTitle": "道品（道の章）",
+        "title": "ダンマパダ 第20章・道品（道の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP20-P05",
+          "DP20-P09",
+          "DP20-P19",
+          "DP20-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 21,
+        "shortTitle": "雑品（雑駁なるものの章）",
+        "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP21-P04",
+          "DP21-P05"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP22-P08",
+          "DP22-P09"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP23-P08"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP24-P03",
+          "DP24-P04",
+          "DP24-P10"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP25-P10",
+          "DP25-P11",
+          "DP25-P20",
+          "DP25-P23"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP26-P01",
+          "DP26-P15",
+          "DP26-P16",
+          "DP26-P39"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 1,
+        "shortTitle": "根本法門経（根元の教相の経）",
+        "title": "中部 第1経・根本法門経（根元の教相の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN1-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 2,
+        "shortTitle": "一切漏経（一切の煩悩の経）",
+        "title": "中部 第2経・一切漏経（一切の煩悩の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN2-P04",
+          "MN2-P07",
+          "MN2-P09",
+          "MN2-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 3,
+        "shortTitle": "法嗣経（法の相続者の経）",
+        "title": "中部 第3経・法嗣経（法の相続者の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN3-P03",
+          "MN3-P04",
+          "MN3-P05",
+          "MN3-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 4,
+        "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+        "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN4-P02",
+          "MN4-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 5,
+        "shortTitle": "無穢経（穢れなき者の経）",
+        "title": "中部 第5経・無穢経（穢れなき者の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN5-P06",
+          "MN5-P10",
+          "MN5-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 6,
+        "shortTitle": "願経（「望むなら」の経）",
+        "title": "中部 第6経・願経（「望むなら」の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN6-P05",
+          "MN6-P07",
+          "MN6-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN7-P02",
+          "MN7-P06",
+          "MN7-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 8,
+        "shortTitle": "削減経（謹厳の経）",
+        "title": "中部 第8経・削減経（謹厳の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN8-P04",
+          "MN8-P07",
+          "MN8-P08",
+          "MN8-P09",
+          "MN8-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 9,
+        "shortTitle": "正見経（正しい見解の経）",
+        "title": "中部 第9経・正見経（正しい見解の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN9-P06",
+          "MN9-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 10,
+        "shortTitle": "念処経（大いなる気づきの確立の経）",
+        "title": "中部 第10経・念処経（大いなる気づきの確立の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN10-P03",
+          "MN10-P11",
+          "MN10-P12",
+          "MN10-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 11,
+        "shortTitle": "師子吼小経（小なる獅子吼の経）",
+        "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN11-P08",
+          "MN11-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 12,
+        "shortTitle": "師子吼大経（大いなる獅子吼の経）",
+        "title": "中部 第12経・師子吼大経（大いなる獅子吼の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN12-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 13,
+        "shortTitle": "苦蘊大経（大いなる苦しみの範疇の経）",
+        "title": "中部 第13経・苦蘊大経（大いなる苦しみの範疇の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN13-P05",
+          "MN13-P11",
+          "MN13-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 15,
+        "shortTitle": "思量経（推知の経）",
+        "title": "中部 第15経・思量経（推知の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN15-P06",
+          "MN15-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 16,
+        "shortTitle": "心荒野経（心の鬱積の経）",
+        "title": "中部 第16経・心荒野経（心の鬱積の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN16-P05",
+          "MN16-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 17,
+        "shortTitle": "林薮経（林野の辺境の経）",
+        "title": "中部 第17経・林薮経（林野の辺境の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN17-P04",
+          "MN17-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 19,
+        "shortTitle": "双考経（二種の思考の経）",
+        "title": "中部 第19経・双考経（二種の思考の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN19-P05",
+          "MN19-P06",
+          "MN19-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 20,
+        "shortTitle": "考想息止経（思考の様相の経）",
+        "title": "中部 第20経・考想息止経（思考の様相の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN20-P06",
+          "MN20-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 22,
+        "shortTitle": "蛇喩経（蛇の喩えの経）",
+        "title": "中部 第22経・蛇喩経（蛇の喩えの経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN22-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 23,
+        "shortTitle": "蟻垤経（蟻塚の経）",
+        "title": "中部 第23経・蟻垤経（蟻塚の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN23-P04",
+          "MN23-P05",
+          "MN23-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN24-P05",
+          "MN24-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 25,
+        "shortTitle": "撒餌経（撒餌の経）",
+        "title": "中部 第25経・撒餌経（撒餌の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN25-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 26,
+        "shortTitle": "聖求経（聖求の経）",
+        "title": "中部 第26経・聖求経（聖求の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN26-P04",
+          "MN26-P05",
+          "MN26-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 27,
+        "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+        "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN27-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 28,
+        "shortTitle": "象跡喩大経（象跡の喩えの大経）",
+        "title": "中部 第28経・象跡喩大経（象跡の喩えの大経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN28-P05",
+          "MN28-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 29,
+        "shortTitle": "心材喩大経（心材の喩えの大経）",
+        "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN29-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 30,
+        "shortTitle": "心材喩小経（心材の喩えの小経）",
+        "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN30-P05",
+          "MN30-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 31,
+        "shortTitle": "牛角林小経（牛角林の小経）",
+        "title": "中部 第31経・牛角林小経（牛角林の小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN31-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 32,
+        "shortTitle": "牛角林大経（牛角林の大経）",
+        "title": "中部 第32経・牛角林大経（牛角林の大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN32-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 33,
+        "shortTitle": "牧牛者大経（牧牛者の大経）",
+        "title": "中部 第33経・牧牛者大経（牧牛者の大経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN33-P03",
+          "MN33-P04",
+          "MN33-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 34,
+        "shortTitle": "牧牛者小経（牧牛者の小経）",
+        "title": "中部 第34経・牧牛者小経（牧牛者の小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN34-P03",
+          "MN34-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 35,
+        "shortTitle": "薩遮迦小経（薩遮迦との小経）",
+        "title": "中部 第35経・薩遮迦小経（薩遮迦との小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN35-P07"
+        ]
+      }
+    ],
+    "mindfulness": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 1,
+        "shortTitle": "双品（対なるものの章）",
+        "title": "ダンマパダ 第1章・双品（対なるものの章）",
+        "pairCount": 18,
+        "pairIds": [
+          "DP1-P01",
+          "DP1-P02",
+          "DP1-P05",
+          "DP1-P06",
+          "DP1-P07",
+          "DP1-P08",
+          "DP1-P09",
+          "DP1-P11",
+          "DP1-P12",
+          "DP1-P16",
+          "DP1-P17",
+          "DP1-P18",
+          "DP1-P19",
+          "DP1-P20",
+          "DP1-P23",
+          "DP1-P25",
+          "DP1-P29",
+          "DP1-P35"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 2,
+        "shortTitle": "不放逸品（怠らないことの章）",
+        "title": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+        "pairCount": 17,
+        "pairIds": [
+          "DP2-P01",
+          "DP2-P02",
+          "DP2-P03",
+          "DP2-P04",
+          "DP2-P06",
+          "DP2-P07",
+          "DP2-P08",
+          "DP2-P09",
+          "DP2-P10",
+          "DP2-P11",
+          "DP2-P12",
+          "DP2-P13",
+          "DP2-P14",
+          "DP2-P15",
+          "DP2-P16",
+          "DP2-P18",
+          "DP2-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 3,
+        "shortTitle": "心品（心の章）",
+        "title": "ダンマパダ 第3章・心品（心の章）",
+        "pairCount": 14,
+        "pairIds": [
+          "DP3-P01",
+          "DP3-P02",
+          "DP3-P03",
+          "DP3-P04",
+          "DP3-P05",
+          "DP3-P06",
+          "DP3-P07",
+          "DP3-P08",
+          "DP3-P09",
+          "DP3-P10",
+          "DP3-P11",
+          "DP3-P12",
+          "DP3-P13",
+          "DP3-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 15,
+        "pairIds": [
+          "DP4-P01",
+          "DP4-P02",
+          "DP4-P03",
+          "DP4-P04",
+          "DP4-P05",
+          "DP4-P06",
+          "DP4-P07",
+          "DP4-P08",
+          "DP4-P09",
+          "DP4-P13",
+          "DP4-P14",
+          "DP4-P15",
+          "DP4-P16",
+          "DP4-P17",
+          "DP4-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 5,
+        "shortTitle": "愚品（愚者の章）",
+        "title": "ダンマパダ 第5章・愚品（愚者の章）",
+        "pairCount": 16,
+        "pairIds": [
+          "DP5-P01",
+          "DP5-P02",
+          "DP5-P03",
+          "DP5-P04",
+          "DP5-P05",
+          "DP5-P06",
+          "DP5-P07",
+          "DP5-P08",
+          "DP5-P09",
+          "DP5-P10",
+          "DP5-P12",
+          "DP5-P13",
+          "DP5-P14",
+          "DP5-P16",
+          "DP5-P18",
+          "DP5-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 6,
+        "shortTitle": "賢品（賢者の章）",
+        "title": "ダンマパダ 第6章・賢品（賢者の章）",
+        "pairCount": 14,
+        "pairIds": [
+          "DP6-P01",
+          "DP6-P03",
+          "DP6-P04",
+          "DP6-P05",
+          "DP6-P06",
+          "DP6-P07",
+          "DP6-P08",
+          "DP6-P09",
+          "DP6-P10",
+          "DP6-P13",
+          "DP6-P14",
+          "DP6-P15",
+          "DP6-P16",
+          "DP6-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 7,
+        "shortTitle": "阿羅漢品（阿羅漢の章）",
+        "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+        "pairCount": 13,
+        "pairIds": [
+          "DP7-P01",
+          "DP7-P02",
+          "DP7-P03",
+          "DP7-P04",
+          "DP7-P05",
+          "DP7-P06",
+          "DP7-P07",
+          "DP7-P08",
+          "DP7-P10",
+          "DP7-P11",
+          "DP7-P12",
+          "DP7-P13",
+          "DP7-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 8,
+        "shortTitle": "千品（千の章）",
+        "title": "ダンマパダ 第8章・千品（千の章）",
+        "pairCount": 22,
+        "pairIds": [
+          "DP8-P01",
+          "DP8-P02",
+          "DP8-P03",
+          "DP8-P04",
+          "DP8-P05",
+          "DP8-P06",
+          "DP8-P07",
+          "DP8-P08",
+          "DP8-P09",
+          "DP8-P10",
+          "DP8-P11",
+          "DP8-P12",
+          "DP8-P13",
+          "DP8-P14",
+          "DP8-P16",
+          "DP8-P17",
+          "DP8-P18",
+          "DP8-P19",
+          "DP8-P20",
+          "DP8-P21",
+          "DP8-P22",
+          "DP8-P23"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 9,
+        "shortTitle": "悪品（悪の章）",
+        "title": "ダンマパダ 第9章・悪品（悪の章）",
+        "pairCount": 18,
+        "pairIds": [
+          "DP9-P01",
+          "DP9-P02",
+          "DP9-P03",
+          "DP9-P04",
+          "DP9-P07",
+          "DP9-P08",
+          "DP9-P09",
+          "DP9-P10",
+          "DP9-P11",
+          "DP9-P12",
+          "DP9-P13",
+          "DP9-P14",
+          "DP9-P15",
+          "DP9-P16",
+          "DP9-P17",
+          "DP9-P18",
+          "DP9-P19",
+          "DP9-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 10,
+        "shortTitle": "刀杖品（棒の章）",
+        "title": "ダンマパダ 第10章・刀杖品（棒の章）",
+        "pairCount": 26,
+        "pairIds": [
+          "DP10-P01",
+          "DP10-P02",
+          "DP10-P03",
+          "DP10-P04",
+          "DP10-P05",
+          "DP10-P06",
+          "DP10-P07",
+          "DP10-P08",
+          "DP10-P09",
+          "DP10-P10",
+          "DP10-P11",
+          "DP10-P12",
+          "DP10-P13",
+          "DP10-P14",
+          "DP10-P15",
+          "DP10-P16",
+          "DP10-P17",
+          "DP10-P18",
+          "DP10-P19",
+          "DP10-P20",
+          "DP10-P21",
+          "DP10-P22",
+          "DP10-P23",
+          "DP10-P24",
+          "DP10-P25",
+          "DP10-P26"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 11,
+        "shortTitle": "老品（老の章）",
+        "title": "ダンマパダ 第11章・老品（老の章）",
+        "pairCount": 16,
+        "pairIds": [
+          "DP11-P01",
+          "DP11-P02",
+          "DP11-P03",
+          "DP11-P04",
+          "DP11-P05",
+          "DP11-P06",
+          "DP11-P07",
+          "DP11-P08",
+          "DP11-P09",
+          "DP11-P13",
+          "DP11-P14",
+          "DP11-P15",
+          "DP11-P16",
+          "DP11-P17",
+          "DP11-P18",
+          "DP11-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 12,
+        "shortTitle": "自己品（自己の章）",
+        "title": "ダンマパダ 第12章・自己品（自己の章）",
+        "pairCount": 18,
+        "pairIds": [
+          "DP12-P01",
+          "DP12-P02",
+          "DP12-P03",
+          "DP12-P04",
+          "DP12-P05",
+          "DP12-P06",
+          "DP12-P07",
+          "DP12-P08",
+          "DP12-P09",
+          "DP12-P10",
+          "DP12-P11",
+          "DP12-P12",
+          "DP12-P13",
+          "DP12-P14",
+          "DP12-P15",
+          "DP12-P16",
+          "DP12-P17",
+          "DP12-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 13,
+        "shortTitle": "世品（世の章）",
+        "title": "ダンマパダ 第13章・世品（世の章）",
+        "pairCount": 21,
+        "pairIds": [
+          "DP13-P01",
+          "DP13-P02",
+          "DP13-P03",
+          "DP13-P04",
+          "DP13-P05",
+          "DP13-P06",
+          "DP13-P07",
+          "DP13-P08",
+          "DP13-P09",
+          "DP13-P10",
+          "DP13-P11",
+          "DP13-P12",
+          "DP13-P13",
+          "DP13-P14",
+          "DP13-P15",
+          "DP13-P16",
+          "DP13-P17",
+          "DP13-P18",
+          "DP13-P19",
+          "DP13-P20",
+          "DP13-P21"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 14,
+        "shortTitle": "仏陀品（覚者の章）",
+        "title": "ダンマパダ 第14章・仏陀品（覚者の章）",
+        "pairCount": 24,
+        "pairIds": [
+          "DP14-P01",
+          "DP14-P02",
+          "DP14-P03",
+          "DP14-P04",
+          "DP14-P05",
+          "DP14-P06",
+          "DP14-P07",
+          "DP14-P08",
+          "DP14-P09",
+          "DP14-P10",
+          "DP14-P11",
+          "DP14-P12",
+          "DP14-P13",
+          "DP14-P14",
+          "DP14-P15",
+          "DP14-P16",
+          "DP14-P17",
+          "DP14-P18",
+          "DP14-P19",
+          "DP14-P20",
+          "DP14-P21",
+          "DP14-P22",
+          "DP14-P23",
+          "DP14-P24"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 15,
+        "shortTitle": "安楽品（安楽の章）",
+        "title": "ダンマパダ 第15章・安楽品（安楽の章）",
+        "pairCount": 20,
+        "pairIds": [
+          "DP15-P01",
+          "DP15-P02",
+          "DP15-P03",
+          "DP15-P04",
+          "DP15-P05",
+          "DP15-P06",
+          "DP15-P07",
+          "DP15-P08",
+          "DP15-P09",
+          "DP15-P10",
+          "DP15-P11",
+          "DP15-P12",
+          "DP15-P13",
+          "DP15-P14",
+          "DP15-P15",
+          "DP15-P16",
+          "DP15-P17",
+          "DP15-P18",
+          "DP15-P19",
+          "DP15-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 16,
+        "shortTitle": "愛好品（愛しいものの章）",
+        "title": "ダンマパダ 第16章・愛好品（愛しいものの章）",
+        "pairCount": 17,
+        "pairIds": [
+          "DP16-P01",
+          "DP16-P02",
+          "DP16-P03",
+          "DP16-P04",
+          "DP16-P05",
+          "DP16-P06",
+          "DP16-P07",
+          "DP16-P08",
+          "DP16-P09",
+          "DP16-P10",
+          "DP16-P11",
+          "DP16-P12",
+          "DP16-P13",
+          "DP16-P14",
+          "DP16-P15",
+          "DP16-P16",
+          "DP16-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 17,
+        "shortTitle": "忿怒品（忿激の章）",
+        "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+        "pairCount": 19,
+        "pairIds": [
+          "DP17-P01",
+          "DP17-P02",
+          "DP17-P03",
+          "DP17-P04",
+          "DP17-P05",
+          "DP17-P06",
+          "DP17-P07",
+          "DP17-P08",
+          "DP17-P09",
+          "DP17-P10",
+          "DP17-P11",
+          "DP17-P12",
+          "DP17-P13",
+          "DP17-P14",
+          "DP17-P15",
+          "DP17-P16",
+          "DP17-P17",
+          "DP17-P18",
+          "DP17-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 18,
+        "shortTitle": "垢穢品（垢の章）",
+        "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+        "pairCount": 24,
+        "pairIds": [
+          "DP18-P01",
+          "DP18-P02",
+          "DP18-P03",
+          "DP18-P04",
+          "DP18-P05",
+          "DP18-P06",
+          "DP18-P07",
+          "DP18-P08",
+          "DP18-P09",
+          "DP18-P10",
+          "DP18-P11",
+          "DP18-P12",
+          "DP18-P13",
+          "DP18-P14",
+          "DP18-P15",
+          "DP18-P16",
+          "DP18-P17",
+          "DP18-P18",
+          "DP18-P19",
+          "DP18-P20",
+          "DP18-P21",
+          "DP18-P22",
+          "DP18-P23",
+          "DP18-P24"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 19,
+        "shortTitle": "法住品（法に依って立つ者の章）",
+        "title": "ダンマパダ 第19章・法住品（法に依って立つ者の章）",
+        "pairCount": 21,
+        "pairIds": [
+          "DP19-P01",
+          "DP19-P02",
+          "DP19-P03",
+          "DP19-P04",
+          "DP19-P05",
+          "DP19-P06",
+          "DP19-P07",
+          "DP19-P08",
+          "DP19-P09",
+          "DP19-P10",
+          "DP19-P11",
+          "DP19-P12",
+          "DP19-P13",
+          "DP19-P14",
+          "DP19-P15",
+          "DP19-P16",
+          "DP19-P17",
+          "DP19-P18",
+          "DP19-P19",
+          "DP19-P20",
+          "DP19-P21"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 20,
+        "shortTitle": "道品（道の章）",
+        "title": "ダンマパダ 第20章・道品（道の章）",
+        "pairCount": 17,
+        "pairIds": [
+          "DP20-P01",
+          "DP20-P02",
+          "DP20-P03",
+          "DP20-P04",
+          "DP20-P06",
+          "DP20-P07",
+          "DP20-P08",
+          "DP20-P09",
+          "DP20-P12",
+          "DP20-P13",
+          "DP20-P14",
+          "DP20-P15",
+          "DP20-P16",
+          "DP20-P17",
+          "DP20-P18",
+          "DP20-P19",
+          "DP20-P20"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 21,
+        "shortTitle": "雑品（雑駁なるものの章）",
+        "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+        "pairCount": 18,
+        "pairIds": [
+          "DP21-P01",
+          "DP21-P02",
+          "DP21-P03",
+          "DP21-P04",
+          "DP21-P05",
+          "DP21-P06",
+          "DP21-P07",
+          "DP21-P08",
+          "DP21-P09",
+          "DP21-P10",
+          "DP21-P11",
+          "DP21-P12",
+          "DP21-P13",
+          "DP21-P14",
+          "DP21-P15",
+          "DP21-P16",
+          "DP21-P17",
+          "DP21-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 15,
+        "pairIds": [
+          "DP22-P01",
+          "DP22-P02",
+          "DP22-P03",
+          "DP22-P04",
+          "DP22-P05",
+          "DP22-P06",
+          "DP22-P07",
+          "DP22-P08",
+          "DP22-P09",
+          "DP22-P10",
+          "DP22-P11",
+          "DP22-P12",
+          "DP22-P13",
+          "DP22-P14",
+          "DP22-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 15,
+        "pairIds": [
+          "DP23-P01",
+          "DP23-P02",
+          "DP23-P03",
+          "DP23-P04",
+          "DP23-P05",
+          "DP23-P06",
+          "DP23-P07",
+          "DP23-P08",
+          "DP23-P09",
+          "DP23-P10",
+          "DP23-P11",
+          "DP23-P12",
+          "DP23-P13",
+          "DP23-P14",
+          "DP23-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 26,
+        "pairIds": [
+          "DP24-P01",
+          "DP24-P02",
+          "DP24-P03",
+          "DP24-P04",
+          "DP24-P05",
+          "DP24-P06",
+          "DP24-P07",
+          "DP24-P08",
+          "DP24-P09",
+          "DP24-P10",
+          "DP24-P11",
+          "DP24-P12",
+          "DP24-P13",
+          "DP24-P14",
+          "DP24-P15",
+          "DP24-P16",
+          "DP24-P17",
+          "DP24-P18",
+          "DP24-P19",
+          "DP24-P20",
+          "DP24-P21",
+          "DP24-P22",
+          "DP24-P23",
+          "DP24-P24",
+          "DP24-P25",
+          "DP24-P26"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 22,
+        "pairIds": [
+          "DP25-P01",
+          "DP25-P02",
+          "DP25-P03",
+          "DP25-P04",
+          "DP25-P05",
+          "DP25-P06",
+          "DP25-P07",
+          "DP25-P08",
+          "DP25-P09",
+          "DP25-P10",
+          "DP25-P11",
+          "DP25-P12",
+          "DP25-P14",
+          "DP25-P15",
+          "DP25-P16",
+          "DP25-P17",
+          "DP25-P18",
+          "DP25-P19",
+          "DP25-P20",
+          "DP25-P21",
+          "DP25-P22",
+          "DP25-P23"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 39,
+        "pairIds": [
+          "DP26-P01",
+          "DP26-P03",
+          "DP26-P04",
+          "DP26-P05",
+          "DP26-P06",
+          "DP26-P07",
+          "DP26-P08",
+          "DP26-P09",
+          "DP26-P10",
+          "DP26-P11",
+          "DP26-P12",
+          "DP26-P13",
+          "DP26-P14",
+          "DP26-P15",
+          "DP26-P16",
+          "DP26-P17",
+          "DP26-P18",
+          "DP26-P19",
+          "DP26-P20",
+          "DP26-P21",
+          "DP26-P22",
+          "DP26-P23",
+          "DP26-P24",
+          "DP26-P25",
+          "DP26-P26",
+          "DP26-P27",
+          "DP26-P28",
+          "DP26-P29",
+          "DP26-P30",
+          "DP26-P31",
+          "DP26-P32",
+          "DP26-P33",
+          "DP26-P34",
+          "DP26-P35",
+          "DP26-P36",
+          "DP26-P37",
+          "DP26-P38",
+          "DP26-P39",
+          "DP26-P40"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 1,
+        "shortTitle": "根本法門経（根元の教相の経）",
+        "title": "中部 第1経・根本法門経（根元の教相の経）",
+        "pairCount": 10,
+        "pairIds": [
+          "MN1-P01",
+          "MN1-P02",
+          "MN1-P03",
+          "MN1-P04",
+          "MN1-P05",
+          "MN1-P06",
+          "MN1-P08",
+          "MN1-P09",
+          "MN1-P10",
+          "MN1-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 2,
+        "shortTitle": "一切漏経（一切の煩悩の経）",
+        "title": "中部 第2経・一切漏経（一切の煩悩の経）",
+        "pairCount": 10,
+        "pairIds": [
+          "MN2-P01",
+          "MN2-P02",
+          "MN2-P03",
+          "MN2-P04",
+          "MN2-P05",
+          "MN2-P07",
+          "MN2-P08",
+          "MN2-P09",
+          "MN2-P11",
+          "MN2-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 3,
+        "shortTitle": "法嗣経（法の相続者の経）",
+        "title": "中部 第3経・法嗣経（法の相続者の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN3-P02",
+          "MN3-P04",
+          "MN3-P05",
+          "MN3-P10",
+          "MN3-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 4,
+        "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+        "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN4-P01",
+          "MN4-P02",
+          "MN4-P05",
+          "MN4-P06",
+          "MN4-P07",
+          "MN4-P08",
+          "MN4-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 5,
+        "shortTitle": "無穢経（穢れなき者の経）",
+        "title": "中部 第5経・無穢経（穢れなき者の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN5-P01",
+          "MN5-P02",
+          "MN5-P06",
+          "MN5-P07",
+          "MN5-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 6,
+        "shortTitle": "願経（「望むなら」の経）",
+        "title": "中部 第6経・願経（「望むなら」の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN6-P01",
+          "MN6-P03",
+          "MN6-P04",
+          "MN6-P05",
+          "MN6-P06",
+          "MN6-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN7-P01",
+          "MN7-P03",
+          "MN7-P04",
+          "MN7-P05",
+          "MN7-P07",
+          "MN7-P08",
+          "MN7-P12",
+          "MN7-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 8,
+        "shortTitle": "削減経（謹厳の経）",
+        "title": "中部 第8経・削減経（謹厳の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN8-P02",
+          "MN8-P05",
+          "MN8-P06",
+          "MN8-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 9,
+        "shortTitle": "正見経（正しい見解の経）",
+        "title": "中部 第9経・正見経（正しい見解の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN9-P01",
+          "MN9-P03",
+          "MN9-P05",
+          "MN9-P08",
+          "MN9-P09",
+          "MN9-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 10,
+        "shortTitle": "念処経（大いなる気づきの確立の経）",
+        "title": "中部 第10経・念処経（大いなる気づきの確立の経）",
+        "pairCount": 13,
+        "pairIds": [
+          "MN10-P01",
+          "MN10-P02",
+          "MN10-P03",
+          "MN10-P04",
+          "MN10-P05",
+          "MN10-P06",
+          "MN10-P07",
+          "MN10-P08",
+          "MN10-P09",
+          "MN10-P10",
+          "MN10-P11",
+          "MN10-P12",
+          "MN10-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 11,
+        "shortTitle": "師子吼小経（小なる獅子吼の経）",
+        "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN11-P04",
+          "MN11-P05",
+          "MN11-P06",
+          "MN11-P07",
+          "MN11-P09",
+          "MN11-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 12,
+        "shortTitle": "師子吼大経（大いなる獅子吼の経）",
+        "title": "中部 第12経・師子吼大経（大いなる獅子吼の経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN12-P01",
+          "MN12-P02",
+          "MN12-P04",
+          "MN12-P05",
+          "MN12-P06",
+          "MN12-P09",
+          "MN12-P10",
+          "MN12-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 13,
+        "shortTitle": "苦蘊大経（大いなる苦しみの範疇の経）",
+        "title": "中部 第13経・苦蘊大経（大いなる苦しみの範疇の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN13-P01",
+          "MN13-P02",
+          "MN13-P03",
+          "MN13-P04",
+          "MN13-P06",
+          "MN13-P08",
+          "MN13-P09",
+          "MN13-P12",
+          "MN13-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 14,
+        "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+        "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN14-P01",
+          "MN14-P02",
+          "MN14-P04",
+          "MN14-P05",
+          "MN14-P09",
+          "MN14-P10",
+          "MN14-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 15,
+        "shortTitle": "思量経（推知の経）",
+        "title": "中部 第15経・思量経（推知の経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN15-P01",
+          "MN15-P03",
+          "MN15-P04",
+          "MN15-P06",
+          "MN15-P08",
+          "MN15-P09",
+          "MN15-P10",
+          "MN15-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 16,
+        "shortTitle": "心荒野経（心の鬱積の経）",
+        "title": "中部 第16経・心荒野経（心の鬱積の経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN16-P01",
+          "MN16-P02",
+          "MN16-P04",
+          "MN16-P06",
+          "MN16-P07",
+          "MN16-P10",
+          "MN16-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 17,
+        "shortTitle": "林薮経（林野の辺境の経）",
+        "title": "中部 第17経・林薮経（林野の辺境の経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN17-P01",
+          "MN17-P02",
+          "MN17-P05",
+          "MN17-P06",
+          "MN17-P07",
+          "MN17-P09",
+          "MN17-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 18,
+        "shortTitle": "蜜丸経（蜜団子の経）",
+        "title": "中部 第18経・蜜丸経（蜜団子の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN18-P02",
+          "MN18-P03",
+          "MN18-P04",
+          "MN18-P05",
+          "MN18-P07",
+          "MN18-P08",
+          "MN18-P09",
+          "MN18-P12",
+          "MN18-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 19,
+        "shortTitle": "双考経（二種の思考の経）",
+        "title": "中部 第19経・双考経（二種の思考の経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN19-P01",
+          "MN19-P02",
+          "MN19-P03",
+          "MN19-P06",
+          "MN19-P07",
+          "MN19-P08",
+          "MN19-P09",
+          "MN19-P12",
+          "MN19-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 20,
+        "shortTitle": "考想息止経（思考の様相の経）",
+        "title": "中部 第20経・考想息止経（思考の様相の経）",
+        "pairCount": 11,
+        "pairIds": [
+          "MN20-P01",
+          "MN20-P02",
+          "MN20-P03",
+          "MN20-P04",
+          "MN20-P05",
+          "MN20-P07",
+          "MN20-P08",
+          "MN20-P09",
+          "MN20-P10",
+          "MN20-P11",
+          "MN20-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 21,
+        "shortTitle": "鋸喩経（鋸の喩えの経）",
+        "title": "中部 第21経・鋸喩経（鋸の喩えの経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN21-P01",
+          "MN21-P02",
+          "MN21-P03",
+          "MN21-P04",
+          "MN21-P06",
+          "MN21-P07",
+          "MN21-P08",
+          "MN21-P09",
+          "MN21-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 22,
+        "shortTitle": "蛇喩経（蛇の喩えの経）",
+        "title": "中部 第22経・蛇喩経（蛇の喩えの経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN22-P01",
+          "MN22-P03",
+          "MN22-P07",
+          "MN22-P08",
+          "MN22-P09",
+          "MN22-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 23,
+        "shortTitle": "蟻垤経（蟻塚の経）",
+        "title": "中部 第23経・蟻垤経（蟻塚の経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN23-P01",
+          "MN23-P02",
+          "MN23-P06",
+          "MN23-P07",
+          "MN23-P08",
+          "MN23-P09",
+          "MN23-P10",
+          "MN23-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN24-P01",
+          "MN24-P02",
+          "MN24-P03",
+          "MN24-P07",
+          "MN24-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 25,
+        "shortTitle": "撒餌経（撒餌の経）",
+        "title": "中部 第25経・撒餌経（撒餌の経）",
+        "pairCount": 10,
+        "pairIds": [
+          "MN25-P01",
+          "MN25-P02",
+          "MN25-P03",
+          "MN25-P04",
+          "MN25-P05",
+          "MN25-P06",
+          "MN25-P08",
+          "MN25-P09",
+          "MN25-P10",
+          "MN25-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 26,
+        "shortTitle": "聖求経（聖求の経）",
+        "title": "中部 第26経・聖求経（聖求の経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN26-P01",
+          "MN26-P05",
+          "MN26-P06",
+          "MN26-P08",
+          "MN26-P09",
+          "MN26-P10",
+          "MN26-P12",
+          "MN26-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 27,
+        "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+        "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN27-P01",
+          "MN27-P03",
+          "MN27-P04",
+          "MN27-P05",
+          "MN27-P06",
+          "MN27-P07",
+          "MN27-P09",
+          "MN27-P10",
+          "MN27-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 28,
+        "shortTitle": "象跡喩大経（象跡の喩えの大経）",
+        "title": "中部 第28経・象跡喩大経（象跡の喩えの大経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN28-P01",
+          "MN28-P02",
+          "MN28-P04",
+          "MN28-P05",
+          "MN28-P07",
+          "MN28-P08",
+          "MN28-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 29,
+        "shortTitle": "心材喩大経（心材の喩えの大経）",
+        "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+        "pairCount": 7,
+        "pairIds": [
+          "MN29-P01",
+          "MN29-P02",
+          "MN29-P05",
+          "MN29-P07",
+          "MN29-P08",
+          "MN29-P09",
+          "MN29-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 30,
+        "shortTitle": "心材喩小経（心材の喩えの小経）",
+        "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN30-P01",
+          "MN30-P03",
+          "MN30-P04",
+          "MN30-P06",
+          "MN30-P07",
+          "MN30-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 31,
+        "shortTitle": "牛角林小経（牛角林の小経）",
+        "title": "中部 第31経・牛角林小経（牛角林の小経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN31-P01",
+          "MN31-P03",
+          "MN31-P04",
+          "MN31-P06",
+          "MN31-P07",
+          "MN31-P08",
+          "MN31-P09",
+          "MN31-P10",
+          "MN31-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 32,
+        "shortTitle": "牛角林大経（牛角林の大経）",
+        "title": "中部 第32経・牛角林大経（牛角林の大経）",
+        "pairCount": 9,
+        "pairIds": [
+          "MN32-P01",
+          "MN32-P02",
+          "MN32-P03",
+          "MN32-P04",
+          "MN32-P05",
+          "MN32-P07",
+          "MN32-P08",
+          "MN32-P10",
+          "MN32-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 33,
+        "shortTitle": "牧牛者大経（牧牛者の大経）",
+        "title": "中部 第33経・牧牛者大経（牧牛者の大経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN33-P01",
+          "MN33-P02",
+          "MN33-P06",
+          "MN33-P07",
+          "MN33-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 34,
+        "shortTitle": "牧牛者小経（牧牛者の小経）",
+        "title": "中部 第34経・牧牛者小経（牧牛者の小経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN34-P01",
+          "MN34-P02",
+          "MN34-P05",
+          "MN34-P06",
+          "MN34-P07",
+          "MN34-P08",
+          "MN34-P09",
+          "MN34-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 35,
+        "shortTitle": "薩遮迦小経（薩遮迦との小経）",
+        "title": "中部 第35経・薩遮迦小経（薩遮迦との小経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN35-P01",
+          "MN35-P02",
+          "MN35-P03",
+          "MN35-P05",
+          "MN35-P08",
+          "MN35-P09",
+          "MN35-P10",
+          "MN35-P11"
+        ]
+      }
+    ],
+    "concentration": [
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 2,
+        "shortTitle": "不放逸品（怠らないことの章）",
+        "title": "ダンマパダ 第2章・不放逸品（怠らないことの章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP2-P05",
+          "DP2-P12",
+          "DP2-P13",
+          "DP2-P19"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 3,
+        "shortTitle": "心品（心の章）",
+        "title": "ダンマパダ 第3章・心品（心の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP3-P03",
+          "DP3-P04"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 4,
+        "shortTitle": "花品（花の章）",
+        "title": "ダンマパダ 第4章・花品（花の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP4-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 6,
+        "shortTitle": "賢品（賢者の章）",
+        "title": "ダンマパダ 第6章・賢品（賢者の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP6-P04",
+          "DP6-P06",
+          "DP6-P07",
+          "DP6-P15",
+          "DP6-P16",
+          "DP6-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 7,
+        "shortTitle": "阿羅漢品（阿羅漢の章）",
+        "title": "ダンマパダ 第7章・阿羅漢品（阿羅漢の章）",
+        "pairCount": 8,
+        "pairIds": [
+          "DP7-P05",
+          "DP7-P06",
+          "DP7-P07",
+          "DP7-P08",
+          "DP7-P11",
+          "DP7-P12",
+          "DP7-P13",
+          "DP7-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 8,
+        "shortTitle": "千品（千の章）",
+        "title": "ダンマパダ 第8章・千品（千の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP8-P13",
+          "DP8-P14",
+          "DP8-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 14,
+        "shortTitle": "仏陀品（覚者の章）",
+        "title": "ダンマパダ 第14章・仏陀品（覚者の章）",
+        "pairCount": 5,
+        "pairIds": [
+          "DP14-P04",
+          "DP14-P05",
+          "DP14-P16",
+          "DP14-P21",
+          "DP14-P22"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 15,
+        "shortTitle": "安楽品（安楽の章）",
+        "title": "ダンマパダ 第15章・安楽品（安楽の章）",
+        "pairCount": 4,
+        "pairIds": [
+          "DP15-P05",
+          "DP15-P06",
+          "DP15-P14",
+          "DP15-P15"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 16,
+        "shortTitle": "愛好品（愛しいものの章）",
+        "title": "ダンマパダ 第16章・愛好品（愛しいものの章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP16-P08",
+          "DP16-P13"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 17,
+        "shortTitle": "忿怒品（忿激の章）",
+        "title": "ダンマパダ 第17章・忿怒品（忿激の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP17-P16"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 18,
+        "shortTitle": "垢穢品（垢の章）",
+        "title": "ダンマパダ 第18章・垢穢品（垢の章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP18-P17",
+          "DP18-P18",
+          "DP18-P23"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 20,
+        "shortTitle": "道品（道の章）",
+        "title": "ダンマパダ 第20章・道品（道の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP20-P05",
+          "DP20-P12"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 21,
+        "shortTitle": "雑品（雑駁なるものの章）",
+        "title": "ダンマパダ 第21章・雑品（雑駁なるものの章）",
+        "pairCount": 3,
+        "pairIds": [
+          "DP21-P11",
+          "DP21-P13",
+          "DP21-P18"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 22,
+        "shortTitle": "地獄品（地獄の章）",
+        "title": "ダンマパダ 第22章・地獄品（地獄の章）",
+        "pairCount": 1,
+        "pairIds": [
+          "DP22-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 23,
+        "shortTitle": "象品（象の章）",
+        "title": "ダンマパダ 第23章・象品（象の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP23-P04",
+          "DP23-P07"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 24,
+        "shortTitle": "愛欲品（渇愛の章）",
+        "title": "ダンマパダ 第24章・愛欲品（渇愛の章）",
+        "pairCount": 2,
+        "pairIds": [
+          "DP24-P15",
+          "DP24-P17"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 25,
+        "shortTitle": "比丘品（比丘の章）",
+        "title": "ダンマパダ 第25章・比丘品（比丘の章）",
+        "pairCount": 6,
+        "pairIds": [
+          "DP25-P03",
+          "DP25-P12",
+          "DP25-P13",
+          "DP25-P14",
+          "DP25-P19",
+          "DP25-P21"
+        ]
+      },
+      {
+        "collectionId": "dhammapada",
+        "collectionName": "ダンマパダ",
+        "chapterId": 26,
+        "shortTitle": "婆羅門品（婆羅門の章）",
+        "title": "ダンマパダ 第26章・婆羅門品（婆羅門の章）",
+        "pairCount": 8,
+        "pairIds": [
+          "DP26-P02",
+          "DP26-P04",
+          "DP26-P13",
+          "DP26-P29",
+          "DP26-P31",
+          "DP26-P35",
+          "DP26-P37",
+          "DP26-P38"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 1,
+        "shortTitle": "根本法門経（根元の教相の経）",
+        "title": "中部 第1経・根本法門経（根元の教相の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN1-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 2,
+        "shortTitle": "一切漏経（一切の煩悩の経）",
+        "title": "中部 第2経・一切漏経（一切の煩悩の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN2-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 3,
+        "shortTitle": "法嗣経（法の相続者の経）",
+        "title": "中部 第3経・法嗣経（法の相続者の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN3-P07",
+          "MN3-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 4,
+        "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+        "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN4-P06",
+          "MN4-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 6,
+        "shortTitle": "願経（「望むなら」の経）",
+        "title": "中部 第6経・願経（「望むなら」の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN6-P02",
+          "MN6-P03",
+          "MN6-P08",
+          "MN6-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 7,
+        "shortTitle": "布喩経（衣装の経）",
+        "title": "中部 第7経・布喩経（衣装の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN7-P05",
+          "MN7-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 8,
+        "shortTitle": "削減経（謹厳の経）",
+        "title": "中部 第8経・削減経（謹厳の経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN8-P01",
+          "MN8-P05",
+          "MN8-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 9,
+        "shortTitle": "正見経（正しい見解の経）",
+        "title": "中部 第9経・正見経（正しい見解の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN9-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 10,
+        "shortTitle": "念処経（大いなる気づきの確立の経）",
+        "title": "中部 第10経・念処経（大いなる気づきの確立の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN10-P02",
+          "MN10-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 12,
+        "shortTitle": "師子吼大経（大いなる獅子吼の経）",
+        "title": "中部 第12経・師子吼大経（大いなる獅子吼の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN12-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 13,
+        "shortTitle": "苦蘊大経（大いなる苦しみの範疇の経）",
+        "title": "中部 第13経・苦蘊大経（大いなる苦しみの範疇の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN13-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 14,
+        "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+        "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN14-P07",
+          "MN14-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 16,
+        "shortTitle": "心荒野経（心の鬱積の経）",
+        "title": "中部 第16経・心荒野経（心の鬱積の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN16-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 17,
+        "shortTitle": "林薮経（林野の辺境の経）",
+        "title": "中部 第17経・林薮経（林野の辺境の経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN17-P02",
+          "MN17-P04",
+          "MN17-P07",
+          "MN17-P09"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 18,
+        "shortTitle": "蜜丸経（蜜団子の経）",
+        "title": "中部 第18経・蜜丸経（蜜団子の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN18-P07",
+          "MN18-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 19,
+        "shortTitle": "双考経（二種の思考の経）",
+        "title": "中部 第19経・双考経（二種の思考の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN19-P09",
+          "MN19-P12"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 20,
+        "shortTitle": "考想息止経（思考の様相の経）",
+        "title": "中部 第20経・考想息止経（思考の様相の経）",
+        "pairCount": 5,
+        "pairIds": [
+          "MN20-P01",
+          "MN20-P04",
+          "MN20-P06",
+          "MN20-P09",
+          "MN20-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 21,
+        "shortTitle": "鋸喩経（鋸の喩えの経）",
+        "title": "中部 第21経・鋸喩経（鋸の喩えの経）",
+        "pairCount": 4,
+        "pairIds": [
+          "MN21-P02",
+          "MN21-P04",
+          "MN21-P05",
+          "MN21-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 24,
+        "shortTitle": "伝車経（乗り継ぎ車の経）",
+        "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN24-P03",
+          "MN24-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 25,
+        "shortTitle": "撒餌経（撒餌の経）",
+        "title": "中部 第25経・撒餌経（撒餌の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN25-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 27,
+        "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+        "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN27-P07",
+          "MN27-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 29,
+        "shortTitle": "心材喩大経（心材の喩えの大経）",
+        "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN29-P03"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 30,
+        "shortTitle": "心材喩小経（心材の喩えの小経）",
+        "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN30-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 31,
+        "shortTitle": "牛角林小経（牛角林の小経）",
+        "title": "中部 第31経・牛角林小経（牛角林の小経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN31-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 32,
+        "shortTitle": "牛角林大経（牛角林の大経）",
+        "title": "中部 第32経・牛角林大経（牛角林の大経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN32-P02",
+          "MN32-P11"
+        ]
+      }
+    ]
+  }
+}

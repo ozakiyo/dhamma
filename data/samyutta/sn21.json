@@ -1,0 +1,375 @@
+{
+  "chapter": 21,
+  "samyutta": 21,
+  "title": "相応部 第21章（比丘相応）",
+  "shortTitle": "比丘",
+  "mapNote": "SN 21——比丘相応",
+  "suttas": [
+    "SN 21 比丘相応"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 相応部経典（因縁篇）",
+    "verify": "南伝大蔵経 第13巻"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "SN21-P01",
+      "category": "prep",
+      "ref": "SN 21.1",
+      "section": "導·比丘",
+      "observe": "比丘は少欲·知足を修す——過不足の二辺を離れる",
+      "action": "朝、「少欲·知足」と意図を置く",
+      "quote": "諸比丘、少欲·知足を修せ。過不足の二辺を、離れよ"
+    },
+    {
+      "id": "SN21-P02",
+      "category": "prep",
+      "ref": "SN 21.2",
+      "section": "少欲",
+      "observe": "少欲こそ比丘の要——多くを求めず",
+      "action": "「もっと欲しい」が来たら「少欲」と唱える",
+      "quote": "少欲こそ、比丘の要。多くを求めず"
+    },
+    {
+      "id": "SN21-P03",
+      "category": "prep",
+      "ref": "SN 21.3",
+      "section": "知足",
+      "observe": "知足こそ安楽——足るを知る",
+      "action": "朝、「足るを知る」と意図を置く",
+      "quote": "知足こそ、安楽なり。足るを、知れ"
+    },
+    {
+      "id": "SN21-P04",
+      "category": "prep",
+      "ref": "SN 21.4",
+      "section": "正見",
+      "observe": "比丘は正見を保つ——我·我所の見を除く",
+      "action": "今日、「私のもの」という見を一つ疑う",
+      "quote": "比丘は、正見を保て。我·我所の見を、除け"
+    },
+    {
+      "id": "SN21-P05",
+      "category": "prep",
+      "ref": "SN 21.5",
+      "section": "独住",
+      "observe": "独住を好む——静かな修行",
+      "action": "今日、15分間、静かに独りで修行する",
+      "quote": "独住を好め。静かな修行なり"
+    },
+    {
+      "id": "SN21-P06",
+      "category": "suffering",
+      "ref": "SN 21.6",
+      "section": "散乱",
+      "observe": "俗世との交わり——散乱の苦",
+      "action": "俗世の話·誘惑が来たら「散乱の苦」と観る",
+      "quote": "俗世との交わり、散乱の苦なり"
+    },
+    {
+      "id": "SN21-P07",
+      "category": "suffering",
+      "ref": "SN 21.7",
+      "section": "不足",
+      "observe": "不足感は苦——比丘もこのに悩む",
+      "action": "「足りない」が来たら「不足感は苦」と名づける",
+      "quote": "不足感は、苦なり。比丘も、此に悩む"
+    },
+    {
+      "id": "SN21-P08",
+      "category": "suffering",
+      "ref": "SN 21.8",
+      "section": "怠",
+      "observe": "怠惰は苦——修行を妨げる",
+      "action": "怠けたいとき「怠惰は苦」と観る",
+      "quote": "怠惰は、苦なり。修行を、妨げる"
+    },
+    {
+      "id": "SN21-P09",
+      "category": "suffering",
+      "ref": "SN 21.9",
+      "section": "縛",
+      "observe": "欲·慢に縛られる——解脱を遠ざける",
+      "action": "執着が来たら「縛られている」と観る",
+      "quote": "欲·慢に縛られる者、解脱を遠ざける"
+    },
+    {
+      "id": "SN21-P10",
+      "category": "suffering",
+      "ref": "SN 21.10",
+      "section": "輪廻",
+      "observe": "散乱は輪廻を続ける——俗世に溺れる",
+      "action": "俗世に溺れそうなとき「輪廻を続ける」と観る",
+      "quote": "散乱は、輪廻を続ける。俗世に、溺れる"
+    },
+    {
+      "id": "SN21-P11",
+      "category": "desire",
+      "ref": "SN 21.11",
+      "section": "欲",
+      "observe": "比丘の欲——衣·食·住·名誉",
+      "action": "衣·食·名誉への欲が来たら「比丘の欲」と観る",
+      "quote": "比丘の欲——衣·食·住·名誉——これ苦の因"
+    },
+    {
+      "id": "SN21-P12",
+      "category": "desire",
+      "ref": "SN 21.12",
+      "section": "俗世",
+      "observe": "俗世への欲——在家者との不必要な交わり",
+      "action": "俗世の誘惑が来たら、一度距離を置く",
+      "quote": "俗世への欲、在家者との不必要な交わり——これ苦の因"
+    },
+    {
+      "id": "SN21-P13",
+      "category": "desire",
+      "ref": "SN 21.13",
+      "section": "名誉",
+      "observe": "名誉への欲——供養·誉れ",
+      "action": "名誉·誉れへの欲が来たら「これ苦の因」と観る",
+      "quote": "名誉への欲、供養·誉れ——これ苦の因"
+    },
+    {
+      "id": "SN21-P14",
+      "category": "desire",
+      "ref": "SN 21.14",
+      "section": "対治",
+      "observe": "欲を対治す——少欲·知足·独住",
+      "action": "今日、欲の一つを少欲·知足で対治する",
+      "quote": "欲を対治せ。少欲·知足·独住を、修せ"
+    },
+    {
+      "id": "SN21-P15",
+      "category": "desire",
+      "ref": "SN 21.15",
+      "section": "離欲",
+      "observe": "離欲こそ比丘の道——執着を離れよ",
+      "action": "今日、一つの執着を手放す",
+      "quote": "離欲を以て、執着を離れよ。これ比丘の道なり"
+    },
+    {
+      "id": "SN21-P16",
+      "category": "speech",
+      "ref": "SN 21.16",
+      "section": "正語",
+      "observe": "比丘は正語を守る——虚偽·誹謗·だらだらとした雑談を離れる",
+      "action": "今日、真実·利益·適時の言葉を一つ選ぶ",
+      "quote": "比丘は、正語を守れ。虚偽·誹謗·綺語を、離れよ"
+    },
+    {
+      "id": "SN21-P17",
+      "category": "speech",
+      "ref": "SN 21.17",
+      "section": "黙",
+      "observe": "不必要な語を避ける——語り過ぎは散乱",
+      "action": "今日、不必要な発言を一つ減らす",
+      "quote": "不必要な語を避けよ。語り過ぎ、散乱なり"
+    },
+    {
+      "id": "SN21-P18",
+      "category": "speech",
+      "ref": "SN 21.18",
+      "section": "法談",
+      "observe": "法談を好む——世間話を離れる",
+      "action": "今日の会話の一つを、法·修行に関する話題に向ける",
+      "quote": "法談を好め。世間話を、離れよ"
+    },
+    {
+      "id": "SN21-P19",
+      "category": "speech",
+      "ref": "SN 21.19",
+      "section": "問法",
+      "observe": "修行について正しい問いを持て",
+      "action": "今日、修行·解脱について、一つ問いを持つ",
+      "quote": "修行について、正しい問いを持て"
+    },
+    {
+      "id": "SN21-P20",
+      "category": "speech",
+      "ref": "SN 21.20",
+      "section": "誠実",
+      "observe": "誠実な言葉——飾らず、自分の弱さを認める",
+      "action": "今日、弱さを認める正直な言葉を一つ口にする",
+      "quote": "誠実な言葉を語れ。飾らず、弱さを認めよ"
+    },
+    {
+      "id": "SN21-P21",
+      "category": "people",
+      "ref": "SN 21.21",
+      "section": "師",
+      "observe": "師（仏·善友）に学ぶ——比丘の要",
+      "action": "今日、教え·善友から一つ学ぶ",
+      "quote": "師に学べ。比丘の要なり"
+    },
+    {
+      "id": "SN21-P22",
+      "category": "people",
+      "ref": "SN 21.22",
+      "section": "善友",
+      "observe": "善友と共に修行する——独りでは弱い",
+      "action": "今日、善友に一つ感謝を伝える",
+      "quote": "善友と共に、修行せ。独りでは、弱し"
+    },
+    {
+      "id": "SN21-P23",
+      "category": "people",
+      "ref": "SN 21.23",
+      "section": "在家",
+      "observe": "在家者との交わり——必要最小限に",
+      "action": "今日、俗世との交わりを一つ減らす",
+      "quote": "在家者との交わり、必要最小限に"
+    },
+    {
+      "id": "SN21-P24",
+      "category": "people",
+      "ref": "SN 21.24",
+      "section": "敬法",
+      "observe": "法を敬う——比丘の根本",
+      "action": "今日、法を敬う行為を一つする",
+      "quote": "法を敬め。比丘の根本なり"
+    },
+    {
+      "id": "SN21-P25",
+      "category": "people",
+      "ref": "SN 21.25",
+      "section": "共学",
+      "observe": "共に修行する——互いに励ます",
+      "action": "今日、修行仲間と一つ進捗を共有する",
+      "quote": "共に修行せ。互いに、励ませ"
+    },
+    {
+      "id": "SN21-P26",
+      "category": "work",
+      "ref": "SN 21.26",
+      "section": "独住",
+      "observe": "独住を修す——静かな場所で修行",
+      "action": "今日、静かな場所で15分間修行する",
+      "quote": "独住を修せ。静かな場所で、修行せ"
+    },
+    {
+      "id": "SN21-P27",
+      "category": "work",
+      "ref": "SN 21.27",
+      "section": "精進",
+      "observe": "精進すれば、散乱は弱まる",
+      "action": "怠けたいとき、一つの修行行為を行う",
+      "quote": "精進すれば、散乱は弱まる"
+    },
+    {
+      "id": "SN21-P28",
+      "category": "work",
+      "ref": "SN 21.28",
+      "section": "正念",
+      "observe": "正念を保てば、散乱を防げる",
+      "action": "今日、一つの対象に正念を置く",
+      "quote": "正念を保てば、散乱を防げる"
+    },
+    {
+      "id": "SN21-P29",
+      "category": "work",
+      "ref": "SN 21.29",
+      "section": "戒",
+      "observe": "戒を守れば、比丘の行は整う",
+      "action": "今日、戒（正行·正語）を一つ意識的に守る",
+      "quote": "戒を守れば、比丘の行は整う"
+    },
+    {
+      "id": "SN21-P30",
+      "category": "work",
+      "ref": "SN 21.30",
+      "section": "解脱",
+      "observe": "解脱こそ比丘の目的——輪廻を断つ",
+      "action": "今日の目的を「解脱に至る」と確認する",
+      "quote": "解脱こそ、比丘の目的。輪廻を、断て"
+    },
+    {
+      "id": "SN21-P31",
+      "category": "night",
+      "ref": "SN 21.31",
+      "section": "振り返り",
+      "observe": "今日、少欲·知足はできたか",
+      "action": "就寝前、今日「足る」を知れた瞬間を一つ振り返る",
+      "quote": "少欲·知足を振り返れ"
+    },
+    {
+      "id": "SN21-P32",
+      "category": "night",
+      "ref": "SN 21.32",
+      "section": "散乱",
+      "observe": "今日、散乱はなかったか",
+      "action": "就寝前、散乱の瞬間を一つ見る",
+      "quote": "散乱を知れば、独住に近づく"
+    },
+    {
+      "id": "SN21-P33",
+      "category": "night",
+      "ref": "SN 21.33",
+      "section": "精進",
+      "observe": "今日、修行の精進はできたか",
+      "action": "就寝前、今日の修行を一つ確認する",
+      "quote": "精進すれば、解脱に近づく"
+    },
+    {
+      "id": "SN21-P34",
+      "category": "night",
+      "ref": "SN 21.34",
+      "section": "独住",
+      "observe": "今日、静かな時間は取れたか",
+      "action": "就寝前、今日の静かな修行を一つ確認する",
+      "quote": "独住を修せ。静かな時間を、取れ"
+    },
+    {
+      "id": "SN21-P35",
+      "category": "night",
+      "ref": "SN 21.35",
+      "section": "総括",
+      "observe": "比丘相応の要——少欲·知足·独住、解脱こそ目的",
+      "action": "就寝前、「少欲·知足·独住、解脱こそ目的」と一句唱える",
+      "quote": "少欲·知足·独住を修せ。解脱こそ、目的なり"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "chapter": 57,
+  "sutta": 57,
+  "title": "中部 第57経（狗行者経）",
+  "shortTitle": "狗行者経",
+  "mapNote": "中分五十経篇 · 居士品",
+  "suttas": [
+    "MN 57 狗行者経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 中分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "狗行者経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第57経（狗行者経）",
+    "shortTitle": "狗行者経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "狗行者経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN57-P01",
+          "MN57-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "狗行者経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN57-P01",
+          "MN57-P07"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "狗行者経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN57-P04",
+          "MN57-P05"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "人との関わりで傷つけず与える",
+        "chapterHint": "狗行者経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN57-P04",
+          "MN57-P05",
+          "MN57-P09"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "狗行者経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN57-P02",
+          "MN57-P06"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "狗行者経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN57-P01",
+          "MN57-P03"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "狗行者経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN57-P03",
+          "MN57-P08"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN57-P01",
+      "category": "prep",
+      "ref": "MN 57",
+      "section": "導",
+      "observe": "狗行者経——狗の行を真似る行者、業の教え",
+      "action": "朝、自分の行いが「業の因」になると確認する",
+      "quote": "狗の行を真似る——これ、業の因、未来の苦楽を作る"
+    },
+    {
+      "id": "MN57-P02",
+      "category": "suffering",
+      "ref": "MN 57",
+      "section": "四業",
+      "observe": "四種の業——黑·黑白·白黑·白",
+      "action": "今日の行いが四業のどれか問う",
+      "quote": "黑業·黑白業·白黑業·白業——この四業なり"
+    },
+    {
+      "id": "MN57-P03",
+      "category": "work",
+      "ref": "MN 57",
+      "section": "白業",
+      "observe": "白業——善業、善趣·煩悩の滅尽の因",
+      "action": "今日、白業を一つ修習する",
+      "quote": "白業——善趣·漏尽の因、修習すべし"
+    },
+    {
+      "id": "MN57-P04",
+      "category": "desire",
+      "ref": "MN 57",
+      "section": "黑業",
+      "observe": "黑業——不善業、悪趣の因",
+      "action": "今日、黑業を一つ避ける",
+      "quote": "黑業——悪趣の因、避けるべし"
+    },
+    {
+      "id": "MN57-P05",
+      "category": "people",
+      "ref": "MN 57",
+      "section": "狗行者",
+      "observe": "狗行者——誤った行、業の結果",
+      "action": "誤った行·見を真似していないか問う",
+      "quote": "狗の行を真似る——誤った行、悪趣の因"
+    },
+    {
+      "id": "MN57-P06",
+      "category": "suffering",
+      "ref": "MN 57",
+      "section": "業報",
+      "observe": "業報——自作の業、他作にではない",
+      "action": "苦を「自作の業」と見る",
+      "quote": "衆生の苦楽は自作の業——他作·共作·無因に非ず"
+    },
+    {
+      "id": "MN57-P07",
+      "category": "prep",
+      "ref": "MN 57",
+      "section": "正見",
+      "observe": "正見——業·業報を知る",
+      "action": "正見は「業·業報·縁起」にあると確認する",
+      "quote": "正見——業·業報·縁起を知る"
+    },
+    {
+      "id": "MN57-P08",
+      "category": "work",
+      "ref": "MN 57",
+      "section": "身语意",
+      "observe": "身语意の業——四業の因",
+      "action": "今日の身语意を白業として一つ選ぶ",
+      "quote": "身语意の業——黑·白·黑白·白の因なり"
+    },
+    {
+      "id": "MN57-P09",
+      "category": "desire",
+      "ref": "MN 57",
+      "section": "執着",
+      "observe": "行への執着——狗の行を真似る",
+      "action": "誤った行·見への執着を手放す",
+      "quote": "狗の行への執着——誤見·悪趣の因"
+    },
+    {
+      "id": "MN57-P10",
+      "category": "speech",
+      "ref": "MN 57",
+      "section": "教示",
+      "observe": "狗行者への教え——業を正しく説く",
+      "action": "業·業報を正しく理解する",
+      "quote": "業·業報を正しく説く——自作の業、他作に非ず"
+    },
+    {
+      "id": "MN57-P11",
+      "category": "night",
+      "ref": "MN 57",
+      "section": "結",
+      "observe": "狗行者経——四業·業報",
+      "action": "就寝前、今日の行いを「四業·業報」として振り返る",
+      "quote": "白業——善趣·漏尽の因、修習すべし"
+    }
+  ]
+}

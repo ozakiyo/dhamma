@@ -1,0 +1,422 @@
+{
+  "chapter": 138,
+  "sutta": 138,
+  "title": "中部 第138経（総説分別経）",
+  "shortTitle": "総説分別経",
+  "mapNote": "後分五十経篇 · 分別品",
+  "suttas": [
+    "MN 138 総説分別経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 後分五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "総説分別経のペア分布から割り当て",
+    "chapterTitle": "中部 第138経（総説分別経）",
+    "shortTitle": "総説分別経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "総説分別経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN138-P01",
+          "MN138-P02",
+          "MN138-P05"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "総説分別経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN138-P01",
+          "MN138-P05"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "総説分別経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN138-P04",
+          "MN138-P07"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "総説分別経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN138-P04",
+          "MN138-P06"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "総説分別経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN138-P03",
+          "MN138-P10"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "総説分別経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN138-P01",
+          "MN138-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "総説分別経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN138-P02",
+          "MN138-P08"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN138-P01",
+      "category": "prep",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "世尊の略説——大迦旃延が広げる",
+      "action": "今日、短い教えの深い意味を考える",
+      "quote": "世尊は略説し、大迦旃延は広げて説いた"
+    },
+    {
+      "id": "MN138-P02",
+      "category": "work",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "受·想·覚·考え·伺——心の要素",
+      "action": "今日、心の要素を一つ名づけて観る",
+      "quote": "受·想·覚·尋·伺がある。これらを観よ"
+    },
+    {
+      "id": "MN138-P03",
+      "category": "suffering",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "考え·伺は想の細分——執着の温床",
+      "action": "今日、心の考え·伺が執着に向かうのを止める",
+      "quote": "尋·伺は想の細分である。執着の温床となる"
+    },
+    {
+      "id": "MN138-P04",
+      "category": "desire",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "楽受に安住——想·覚の執着",
+      "action": "今日、快い状態に安住し始めたら離れる",
+      "quote": "楽受に安住むれば、想·覚に執着する"
+    },
+    {
+      "id": "MN138-P05",
+      "category": "prep",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "阿難への略説——義理の第一人が広げる",
+      "action": "今日、理解できない教えを深く掘る",
+      "quote": "阿難よ、略説を広げる者は、大迦旃延である"
+    },
+    {
+      "id": "MN138-P06",
+      "category": "speech",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "略説と広説——両方必要",
+      "action": "今日、要点を簡潔に、必要なら広げて語る",
+      "quote": "略説と広説、両方が必要である"
+    },
+    {
+      "id": "MN138-P07",
+      "category": "people",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "大迦旃延の巧み——聞衆の益",
+      "action": "今日、誰かの疑問に丁寧に答える",
+      "quote": "大迦旃延は、聞衆の益のため、略説を広げた"
+    },
+    {
+      "id": "MN138-P08",
+      "category": "work",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "覚は心の明瞭——正念の基",
+      "action": "今日、心の明瞭さを一つ確かめる",
+      "quote": "覚は心の明瞭である。正念の基"
+    },
+    {
+      "id": "MN138-P09",
+      "category": "desire",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "想に執着——受の後の危険",
+      "action": "今日、感受の後の想に執着しない",
+      "quote": "想に執着すれば、苦が続く"
+    },
+    {
+      "id": "MN138-P10",
+      "category": "suffering",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "苦受を観る——逃げずに",
+      "action": "今日、苦受から逃げず観る",
+      "quote": "苦受を観よ。逃げずに、現法として"
+    },
+    {
+      "id": "MN138-P11",
+      "category": "night",
+      "ref": "MN 138",
+      "section": "総説",
+      "observe": "一日の受·想·覚——総説で振り返る",
+      "action": "就寝前、今日の受·想·覚を一つ振り返る",
+      "quote": "受·想·覚を、現法として振り返れ"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "chapter": 48,
+  "sutta": 48,
+  "title": "中部 第48経（憍賞弥経）",
+  "shortTitle": "憍賞弥経",
+  "mapNote": "根本五十経篇 · 双小品",
+  "suttas": [
+    "MN 48 憍賞弥経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 根本五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "clinging",
+    "focusReason": "憍賞弥経の主題に合わせて割り当て",
+    "chapterTitle": "中部 第48経（憍賞弥経）",
+    "shortTitle": "憍賞弥経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "憍賞弥経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN48-P05",
+          "MN48-P06"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "憍賞弥経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN48-P04",
+          "MN48-P07"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "憍賞弥経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN48-P01",
+          "MN48-P02"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "mindfulness"
+        ],
+        "pathLabel": "怒りの言葉・行いに乗らない",
+        "chapterHint": "憍賞弥経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN48-P01",
+          "MN48-P02",
+          "MN48-P03"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "憍賞弥経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN48-P01",
+          "MN48-P02"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "憍賞弥経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN48-P05",
+          "MN48-P06"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "憍賞弥経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN48-P05",
+          "MN48-P06"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN48-P01",
+      "category": "people",
+      "ref": "MN 48",
+      "section": "導",
+      "observe": "憍賞弥——僧団の諍い、口の剣で互いに撃ち合う",
+      "action": "今日、共同体の和合を損なう言動を一つ控える",
+      "quote": "憍賞弥の比丘たちは、論議・争いを起こし、戒を破るの諍論によりて、相互に口の剣をもって相い撃ちたり。彼らは、互いに勧める·慰めるせず、互いに同意·和睦せず"
+    },
+    {
+      "id": "MN48-P02",
+      "category": "people",
+      "ref": "MN 48",
+      "section": "問",
+      "observe": "諍いの最中——同じ道を歩む仲間への慈の身·口·意業はあるか",
+      "action": "対立の最中、相手への慈の行いを一つ意識する",
+      "quote": "この時、あなたたちは諸の同じ道を歩む仲間に対して、明らかにも暗かにも、慈の身業の現起なく、慈の口業の現起なく、慈の意業の現起なき者なり"
+    },
+    {
+      "id": "MN48-P03",
+      "category": "people",
+      "ref": "MN 48",
+      "section": "六法",
+      "observe": "六つの法——思い出すべき・愛すべき・尊重すべき、親近·争いのない·和合·一体を資す",
+      "action": "今日、同僚·家族への慈の身業·口業·意業を一つ意識する",
+      "quote": "比丘たちよ、実に思い出すべき·愛すべき·尊重すべきこれらの六つの法あり。結びつき・争いのなさ・和合・一体を資す"
+    },
+    {
+      "id": "MN48-P04",
+      "category": "speech",
+      "ref": "MN 48",
+      "section": "六法",
+      "observe": "同じ道を歩む仲間に対し、明·暗、慈の口業を現起す",
+      "action": "今日、言葉で人を分断するのを一度止める",
+      "quote": "比丘は諸の同じ道を歩む仲間に対して、明らかにも暗かにも、慈の口業を現起す。これは思い出すべき·愛すべき·尊重すべき法にして、一体を資するものなり"
+    },
+    {
+      "id": "MN48-P05",
+      "category": "work",
+      "ref": "MN 48",
+      "section": "六法",
+      "observe": "如法の所得を、戒を備えたの同じ道を歩む仲間と差別なく共に食す",
+      "action": "今日、得たものを一人と分かち合う·感謝を伝える",
+      "quote": "如法の所得、法によりて得たものは、たとえ一盛りなるものも、差別なくに、戒を備えたの同じ道を歩む仲間と共に食すなり"
+    },
+    {
+      "id": "MN48-P06",
+      "category": "work",
+      "ref": "MN 48",
+      "section": "六法",
+      "observe": "欠けのない·執着のないの戒——同じ道を歩む仲間と戒において相応して住む",
+      "action": "今日、約束·戒·ルールの一つを確実に守る",
+      "quote": "欠けのない·破れのない·混じりのないれ·汚れのないにして、解脱の縁とである、智者に称賛せられ、定を資する戒をもって、同じ道を歩む仲間と戒において相応して住む"
+    },
+    {
+      "id": "MN48-P07",
+      "category": "prep",
+      "ref": "MN 48",
+      "section": "六法",
+      "observe": "聖なる者導解脱の見——六つの法の中で最上·摂受·摂聚",
+      "action": "今日、修行の方向を一人と静かに語り合う",
+      "quote": "これが最上者·摂受者·摂聚者である。すなわち、これが聖なる者を解脱に導く見解なり"
+    },
+    {
+      "id": "MN48-P08",
+      "category": "people",
+      "ref": "MN 48",
+      "section": "見",
+      "observe": "罪を知れば速やかに悔い改める·発露す——隠さず師または同じ道を歩む仲間に表白す",
+      "action": "今日、過ちを正直に伝え、未来において慎む",
+      "quote": "速やかに師·智者または同じ道を歩む仲間に向かって悔い改めるし、発露し、表白す……未来において慎んで犯さざるべし"
+    },
+    {
+      "id": "MN48-P09",
+      "category": "work",
+      "ref": "MN 48",
+      "section": "見",
+      "observe": "同じ道を歩む仲間の務めに力を尽くすし、さらに高める戒の学び·心学·慧学の強く願う者たれ",
+      "action": "今日、共同体の仕事·困難を一つ手伝う",
+      "quote": "同じ道を歩む仲間の如何なる務めにも、力を尽くすして援助す……さらに高める戒の学び·高まった心学·さらに高める慧の学びの強く願う者なり"
+    },
+    {
+      "id": "MN48-P10",
+      "category": "prep",
+      "ref": "MN 48",
+      "section": "結",
+      "observe": "七つの支を具足せる聖なる弟子——預流の果を得た者なり",
+      "action": "今日、和合の六つの法を思い出し、共同体との絆に感謝する",
+      "quote": "かくの如き七つの支を具足せる聖なる弟子は、預流の果を得た者なり"
+    }
+  ]
+}

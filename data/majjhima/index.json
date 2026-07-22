@@ -1,0 +1,1378 @@
+{
+  "title": "中部（152経）",
+  "source": "南伝大蔵経（日本仏教学院）",
+  "collection": "majjhima",
+  "description": "中部152経全体。各経を1章とし、観察→行動ペアで読む。",
+  "grouping": "sutta",
+  "totalPairs": 1692,
+  "chapters": [
+    {
+      "id": 1,
+      "sutta": 1,
+      "file": "mn001.json",
+      "title": "中部 第1経・根本法門経（根元の教相の経）",
+      "shortTitle": "根本法門経（根元の教相の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：根元の教相の章）",
+      "pairCount": 11
+    },
+    {
+      "id": 2,
+      "sutta": 2,
+      "file": "mn002.json",
+      "title": "中部 第2経・一切漏経（一切の煩悩の経）",
+      "shortTitle": "一切漏経（一切の煩悩の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：一切の煩悩の経）",
+      "pairCount": 12
+    },
+    {
+      "id": 3,
+      "sutta": 3,
+      "file": "mn003.json",
+      "title": "中部 第3経・法嗣経（法の相続者の経）",
+      "shortTitle": "法嗣経（法の相続者の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：法の相続者の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 4,
+      "sutta": 4,
+      "file": "mn004.json",
+      "title": "中部 第4経・怖駭経（恐怖と恐ろしさの経）",
+      "shortTitle": "怖駭経（恐怖と恐ろしさの経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：恐怖と恐ろしさの経）",
+      "pairCount": 11
+    },
+    {
+      "id": 5,
+      "sutta": 5,
+      "file": "mn005.json",
+      "title": "中部 第5経・無穢経（穢れなき者の経）",
+      "shortTitle": "無穢経（穢れなき者の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：穢れなき者の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 6,
+      "sutta": 6,
+      "file": "mn006.json",
+      "title": "中部 第6経・願経（「望むなら」の経）",
+      "shortTitle": "願経（「望むなら」の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：「望むなら」の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 7,
+      "sutta": 7,
+      "file": "mn007.json",
+      "title": "中部 第7経・布喩経（衣装の経）",
+      "shortTitle": "布喩経（衣装の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：衣装の経）",
+      "pairCount": 13
+    },
+    {
+      "id": 8,
+      "sutta": 8,
+      "file": "mn008.json",
+      "title": "中部 第8経・削減経（謹厳の経）",
+      "shortTitle": "削減経（謹厳の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：謹厳の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 9,
+      "sutta": 9,
+      "file": "mn009.json",
+      "title": "中部 第9経・正見経（正しい見解の経）",
+      "shortTitle": "正見経（正しい見解の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：正しい見解の経）",
+      "pairCount": 12
+    },
+    {
+      "id": 10,
+      "sutta": 10,
+      "file": "mn010.json",
+      "title": "中部 第10経・念処経（大いなる気づきの確立の経）",
+      "shortTitle": "念処経（大いなる気づきの確立の経）",
+      "mapNote": "根本五十経篇 · 根本法門品（アラナ：大いなる気づきの確立の経）",
+      "pairCount": 13
+    },
+    {
+      "id": 11,
+      "sutta": 11,
+      "file": "mn011.json",
+      "title": "中部 第11経・師子吼小経（小なる獅子吼の経）",
+      "shortTitle": "師子吼小経（小なる獅子吼の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：小なる獅子吼の経）",
+      "pairCount": 12
+    },
+    {
+      "id": 12,
+      "sutta": 12,
+      "file": "mn012.json",
+      "title": "中部 第12経・師子吼大経（大いなる獅子吼の経）",
+      "shortTitle": "師子吼大経（大いなる獅子吼の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：大いなる獅子吼の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 13,
+      "sutta": 13,
+      "file": "mn013.json",
+      "title": "中部 第13経・苦蘊大経（大いなる苦しみの範疇の経）",
+      "shortTitle": "苦蘊大経（大いなる苦しみの範疇の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：大いなる苦しみの範疇の経）",
+      "pairCount": 13
+    },
+    {
+      "id": 14,
+      "sutta": 14,
+      "file": "mn014.json",
+      "title": "中部 第14経・苦蘊小経（小なる苦しみの範疇の経）",
+      "shortTitle": "苦蘊小経（小なる苦しみの範疇の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：小なる苦しみの範疇の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 15,
+      "sutta": 15,
+      "file": "mn015.json",
+      "title": "中部 第15経・思量経（推知の経）",
+      "shortTitle": "思量経（推知の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：推知の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 16,
+      "sutta": 16,
+      "file": "mn016.json",
+      "title": "中部 第16経・心荒野経（心の鬱積の経）",
+      "shortTitle": "心荒野経（心の鬱積の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：心の鬱積の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 17,
+      "sutta": 17,
+      "file": "mn017.json",
+      "title": "中部 第17経・林薮経（林野の辺境の経）",
+      "shortTitle": "林薮経（林野の辺境の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：林野の辺境の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 18,
+      "sutta": 18,
+      "file": "mn018.json",
+      "title": "中部 第18経・蜜丸経（蜜団子の経）",
+      "shortTitle": "蜜丸経（蜜団子の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：蜜団子の経）",
+      "pairCount": 13
+    },
+    {
+      "id": 19,
+      "sutta": 19,
+      "file": "mn019.json",
+      "title": "中部 第19経・双考経（二種の思考の経）",
+      "shortTitle": "双考経（二種の思考の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：二種の思考の経）",
+      "pairCount": 13
+    },
+    {
+      "id": 20,
+      "sutta": 20,
+      "file": "mn020.json",
+      "title": "中部 第20経・考想息止経（思考の様相の経）",
+      "shortTitle": "考想息止経（思考の様相の経）",
+      "mapNote": "根本五十経篇 · 師子吼品（アラナ：思考の様相の経）",
+      "pairCount": 12
+    },
+    {
+      "id": 21,
+      "sutta": 21,
+      "file": "mn021.json",
+      "title": "中部 第21経・鋸喩経（鋸の喩えの経）",
+      "shortTitle": "鋸喩経（鋸の喩えの経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：鋸の喩えの経）",
+      "pairCount": 11
+    },
+    {
+      "id": 22,
+      "sutta": 22,
+      "file": "mn022.json",
+      "title": "中部 第22経・蛇喩経（蛇の喩えの経）",
+      "shortTitle": "蛇喩経（蛇の喩えの経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：蛇の喩えの経）",
+      "pairCount": 12
+    },
+    {
+      "id": 23,
+      "sutta": 23,
+      "file": "mn023.json",
+      "title": "中部 第23経・蟻垤経（蟻塚の経）",
+      "shortTitle": "蟻垤経（蟻塚の経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：蟻塚の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 24,
+      "sutta": 24,
+      "file": "mn024.json",
+      "title": "中部 第24経・伝車経（乗り継ぎ車の経）",
+      "shortTitle": "伝車経（乗り継ぎ車の経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：乗り継ぎ車の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 25,
+      "sutta": 25,
+      "file": "mn025.json",
+      "title": "中部 第25経・撒餌経（撒餌の経）",
+      "shortTitle": "撒餌経（撒餌の経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：撒餌の経）",
+      "pairCount": 11
+    },
+    {
+      "id": 26,
+      "sutta": 26,
+      "file": "mn026.json",
+      "title": "中部 第26経・聖求経（聖求の経）",
+      "shortTitle": "聖求経（聖求の経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：聖求の経／Pāsarāsi）",
+      "pairCount": 13
+    },
+    {
+      "id": 27,
+      "sutta": 27,
+      "file": "mn027.json",
+      "title": "中部 第27経・象跡喩小経（象跡の喩えの小経）",
+      "shortTitle": "象跡喩小経（象跡の喩えの小経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：象跡の喩えの小経）",
+      "pairCount": 12
+    },
+    {
+      "id": 28,
+      "sutta": 28,
+      "file": "mn028.json",
+      "title": "中部 第28経・象跡喩大経（象跡の喩えの大経）",
+      "shortTitle": "象跡喩大経（象跡の喩えの大経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：象跡の喩えの大経）",
+      "pairCount": 10
+    },
+    {
+      "id": 29,
+      "sutta": 29,
+      "file": "mn029.json",
+      "title": "中部 第29経・心材喩大経（心材の喩えの大経）",
+      "shortTitle": "心材喩大経（心材の喩えの大経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：心材の喩えの大経）",
+      "pairCount": 11
+    },
+    {
+      "id": 30,
+      "sutta": 30,
+      "file": "mn030.json",
+      "title": "中部 第30経・心材喩小経（心材の喩えの小経）",
+      "shortTitle": "心材喩小経（心材の喩えの小経）",
+      "mapNote": "根本五十経篇 · 譬喩法品（アラナ：心材の喩えの小経）",
+      "pairCount": 10
+    },
+    {
+      "id": 31,
+      "sutta": 31,
+      "file": "mn031.json",
+      "title": "中部 第31経・牛角林小経（牛角林の小経）",
+      "shortTitle": "牛角林小経（牛角林の小経）",
+      "mapNote": "根本五十経篇 · 双大品（アラナ：牛角林の小経）",
+      "pairCount": 11
+    },
+    {
+      "id": 32,
+      "sutta": 32,
+      "file": "mn032.json",
+      "title": "中部 第32経・牛角林大経（牛角林の大経）",
+      "shortTitle": "牛角林大経（牛角林の大経）",
+      "mapNote": "根本五十経篇 · 双大品（アラナ：牛角林の大経）",
+      "pairCount": 11
+    },
+    {
+      "id": 33,
+      "sutta": 33,
+      "file": "mn033.json",
+      "title": "中部 第33経・牧牛者大経（牧牛者の大経）",
+      "shortTitle": "牧牛者大経（牧牛者の大経）",
+      "mapNote": "根本五十経篇 · 双大品（アラナ：牧牛者の大経）",
+      "pairCount": 11
+    },
+    {
+      "id": 34,
+      "sutta": 34,
+      "file": "mn034.json",
+      "title": "中部 第34経・牧牛者小経（牧牛者の小経）",
+      "shortTitle": "牧牛者小経（牧牛者の小経）",
+      "mapNote": "根本五十経篇 · 双大品（アラナ：牧牛者の小経）",
+      "pairCount": 11
+    },
+    {
+      "id": 35,
+      "sutta": 35,
+      "file": "mn035.json",
+      "title": "中部 第35経・薩遮迦小経（薩遮迦との小経）",
+      "shortTitle": "薩遮迦小経（薩遮迦との小経）",
+      "mapNote": "根本五十経篇 · 双大品（アラナ：薩遮迦との小経）",
+      "pairCount": 11
+    },
+    {
+      "id": 36,
+      "sutta": 36,
+      "file": "mn036.json",
+      "title": "中部 第36経（薩遮迦大経）",
+      "shortTitle": "薩遮迦大経",
+      "mapNote": "根本五十経篇 · 双大品",
+      "pairCount": 11
+    },
+    {
+      "id": 37,
+      "sutta": 37,
+      "file": "mn037.json",
+      "title": "中部 第37経（愛尽小経）",
+      "shortTitle": "愛尽小経",
+      "mapNote": "根本五十経篇 · 双大品",
+      "pairCount": 11
+    },
+    {
+      "id": 38,
+      "sutta": 38,
+      "file": "mn038.json",
+      "title": "中部 第38経（愛尽大経）",
+      "shortTitle": "愛尽大経",
+      "mapNote": "根本五十経篇 · 双大品",
+      "pairCount": 10
+    },
+    {
+      "id": 39,
+      "sutta": 39,
+      "file": "mn039.json",
+      "title": "中部 第39経（馬邑大経）",
+      "shortTitle": "馬邑大経",
+      "mapNote": "根本五十経篇 · 双大品",
+      "pairCount": 11
+    },
+    {
+      "id": 40,
+      "sutta": 40,
+      "file": "mn040.json",
+      "title": "中部 第40経（馬邑小経）",
+      "shortTitle": "馬邑小経",
+      "mapNote": "根本五十経篇 · 双大品",
+      "pairCount": 11
+    },
+    {
+      "id": 41,
+      "sutta": 41,
+      "file": "mn041.json",
+      "title": "中部 第41経（薩羅村婆羅門経）",
+      "shortTitle": "薩羅村婆羅門経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 13
+    },
+    {
+      "id": 42,
+      "sutta": 42,
+      "file": "mn042.json",
+      "title": "中部 第42経（鞞蘭若村婆羅門経）",
+      "shortTitle": "鞞蘭若村婆羅門経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 12
+    },
+    {
+      "id": 43,
+      "sutta": 43,
+      "file": "mn043.json",
+      "title": "中部 第43経（有明大経）",
+      "shortTitle": "有明大経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 12
+    },
+    {
+      "id": 44,
+      "sutta": 44,
+      "file": "mn044.json",
+      "title": "中部 第44経（有明小経）",
+      "shortTitle": "有明小経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 12
+    },
+    {
+      "id": 45,
+      "sutta": 45,
+      "file": "mn045.json",
+      "title": "中部 第45経（得法小経）",
+      "shortTitle": "得法小経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 11
+    },
+    {
+      "id": 46,
+      "sutta": 46,
+      "file": "mn046.json",
+      "title": "中部 第46経（得法大経）",
+      "shortTitle": "得法大経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 12
+    },
+    {
+      "id": 47,
+      "sutta": 47,
+      "file": "mn047.json",
+      "title": "中部 第47経（思察経）",
+      "shortTitle": "思察経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 11
+    },
+    {
+      "id": 48,
+      "sutta": 48,
+      "file": "mn048.json",
+      "title": "中部 第48経（憍賞弥経）",
+      "shortTitle": "憍賞弥経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 10
+    },
+    {
+      "id": 49,
+      "sutta": 49,
+      "file": "mn049.json",
+      "title": "中部 第49経（梵天請経）",
+      "shortTitle": "梵天請経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 11
+    },
+    {
+      "id": 50,
+      "sutta": 50,
+      "file": "mn050.json",
+      "title": "中部 第50経（魔訶責経）",
+      "shortTitle": "魔訶責経",
+      "mapNote": "根本五十経篇 · 双小品",
+      "pairCount": 11
+    },
+    {
+      "id": 51,
+      "sutta": 51,
+      "file": "mn051.json",
+      "title": "中部 第51経（カンダラカ経）",
+      "shortTitle": "カンダラカ経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 10
+    },
+    {
+      "id": 52,
+      "sutta": 52,
+      "file": "mn052.json",
+      "title": "中部 第52経（アッタカ城人経）",
+      "shortTitle": "アッタカ城人経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 11
+    },
+    {
+      "id": 53,
+      "sutta": 53,
+      "file": "mn053.json",
+      "title": "中部 第53経（有学経）",
+      "shortTitle": "有学経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 11
+    },
+    {
+      "id": 54,
+      "sutta": 54,
+      "file": "mn054.json",
+      "title": "中部 第54経（哺多利経）",
+      "shortTitle": "哺多利経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 12
+    },
+    {
+      "id": 55,
+      "sutta": 55,
+      "file": "mn055.json",
+      "title": "中部 第55経（ヂーヷカ経）",
+      "shortTitle": "ヂーヷカ経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 10
+    },
+    {
+      "id": 56,
+      "sutta": 56,
+      "file": "mn056.json",
+      "title": "中部 第56経（優波離経）",
+      "shortTitle": "優波離経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 11
+    },
+    {
+      "id": 57,
+      "sutta": 57,
+      "file": "mn057.json",
+      "title": "中部 第57経（狗行者経）",
+      "shortTitle": "狗行者経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 11
+    },
+    {
+      "id": 58,
+      "sutta": 58,
+      "file": "mn058.json",
+      "title": "中部 第58経（無畏王子経）",
+      "shortTitle": "無畏王子経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 12
+    },
+    {
+      "id": 59,
+      "sutta": 59,
+      "file": "mn059.json",
+      "title": "中部 第59経（多受経）",
+      "shortTitle": "多受経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 11
+    },
+    {
+      "id": 60,
+      "sutta": 60,
+      "file": "mn060.json",
+      "title": "中部 第60経（無戯論経）",
+      "shortTitle": "無戯論経",
+      "mapNote": "中分五十経篇 · 居士品",
+      "pairCount": 11
+    },
+    {
+      "id": 61,
+      "sutta": 61,
+      "file": "mn061.json",
+      "title": "中部 第61経（教誡羅睺羅菴婆蘗林経）",
+      "shortTitle": "教誡羅睺羅菴婆蘗林経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 62,
+      "sutta": 62,
+      "file": "mn062.json",
+      "title": "中部 第62経（教誡羅睺羅大経）",
+      "shortTitle": "教誡羅睺羅大経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 10
+    },
+    {
+      "id": 63,
+      "sutta": 63,
+      "file": "mn063.json",
+      "title": "中部 第63経（摩羅迦小経）",
+      "shortTitle": "摩羅迦小経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 64,
+      "sutta": 64,
+      "file": "mn064.json",
+      "title": "中部 第64経（摩羅迦大経）",
+      "shortTitle": "摩羅迦大経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 65,
+      "sutta": 65,
+      "file": "mn065.json",
+      "title": "中部 第65経（跋陀利経）",
+      "shortTitle": "跋陀利経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 66,
+      "sutta": 66,
+      "file": "mn066.json",
+      "title": "中部 第66経（鶉喩経）",
+      "shortTitle": "鶉喩経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 67,
+      "sutta": 67,
+      "file": "mn067.json",
+      "title": "中部 第67経（車頭聚落経）",
+      "shortTitle": "車頭聚落経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 68,
+      "sutta": 68,
+      "file": "mn068.json",
+      "title": "中部 第68経（那羅伽波寧村経）",
+      "shortTitle": "那羅伽波寧村経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 69,
+      "sutta": 69,
+      "file": "mn069.json",
+      "title": "中部 第69経（瞿尼師経）",
+      "shortTitle": "瞿尼師経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 70,
+      "sutta": 70,
+      "file": "mn070.json",
+      "title": "中部 第70経（枳吒山邑経）",
+      "shortTitle": "枳吒山邑経",
+      "mapNote": "中分五十経篇 · 比丘品",
+      "pairCount": 11
+    },
+    {
+      "id": 71,
+      "sutta": 71,
+      "file": "mn071.json",
+      "title": "中部 第71経（婆蹉衢多三明経）",
+      "shortTitle": "婆蹉衢多三明経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 72,
+      "sutta": 72,
+      "file": "mn072.json",
+      "title": "中部 第72経（婆蹉衢多火（喩）経）",
+      "shortTitle": "婆蹉衢多火（喩）経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 73,
+      "sutta": 73,
+      "file": "mn073.json",
+      "title": "中部 第73経（婆蹉衢多大経）",
+      "shortTitle": "婆蹉衢多大経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 74,
+      "sutta": 74,
+      "file": "mn074.json",
+      "title": "中部 第74経（長爪経）",
+      "shortTitle": "長爪経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 75,
+      "sutta": 75,
+      "file": "mn075.json",
+      "title": "中部 第75経（摩犍提経）",
+      "shortTitle": "摩犍提経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 76,
+      "sutta": 76,
+      "file": "mn076.json",
+      "title": "中部 第76経（サンダカ経）",
+      "shortTitle": "サンダカ経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 77,
+      "sutta": 77,
+      "file": "mn077.json",
+      "title": "中部 第77経（善生優陀夷大経）",
+      "shortTitle": "善生優陀夷大経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 78,
+      "sutta": 78,
+      "file": "mn078.json",
+      "title": "中部 第78経（沙門文祁子経）",
+      "shortTitle": "沙門文祁子経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 79,
+      "sutta": 79,
+      "file": "mn079.json",
+      "title": "中部 第79経（善生優陀夷小経）",
+      "shortTitle": "善生優陀夷小経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 80,
+      "sutta": 80,
+      "file": "mn080.json",
+      "title": "中部 第80経（鞞摩那修経）",
+      "shortTitle": "鞞摩那修経",
+      "mapNote": "中分五十経篇 · 普行者品",
+      "pairCount": 11
+    },
+    {
+      "id": 81,
+      "sutta": 81,
+      "file": "mn081.json",
+      "title": "中部 第81経（陶師経）",
+      "shortTitle": "陶師経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 82,
+      "sutta": 82,
+      "file": "mn082.json",
+      "title": "中部 第82経（頼吒惒羅経）",
+      "shortTitle": "頼吒惒羅経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 83,
+      "sutta": 83,
+      "file": "mn083.json",
+      "title": "中部 第83経（大天櫞林経）",
+      "shortTitle": "大天櫞林経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 84,
+      "sutta": 84,
+      "file": "mn084.json",
+      "title": "中部 第84経（摩偸羅経）",
+      "shortTitle": "摩偸羅経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 85,
+      "sutta": 85,
+      "file": "mn085.json",
+      "title": "中部 第85経（菩提王子経）",
+      "shortTitle": "菩提王子経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 86,
+      "sutta": 86,
+      "file": "mn086.json",
+      "title": "中部 第86経（鴦掘摩経）",
+      "shortTitle": "鴦掘摩経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 87,
+      "sutta": 87,
+      "file": "mn087.json",
+      "title": "中部 第87経（愛生経）",
+      "shortTitle": "愛生経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 88,
+      "sutta": 88,
+      "file": "mn088.json",
+      "title": "中部 第88経（鞞訶提経）",
+      "shortTitle": "鞞訶提経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 89,
+      "sutta": 89,
+      "file": "mn089.json",
+      "title": "中部 第89経（法荘厳経）",
+      "shortTitle": "法荘厳経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 90,
+      "sutta": 90,
+      "file": "mn090.json",
+      "title": "中部 第90経（普棘刺林経）",
+      "shortTitle": "普棘刺林経",
+      "mapNote": "中分五十経篇 · 王品",
+      "pairCount": 11
+    },
+    {
+      "id": 91,
+      "sutta": 91,
+      "file": "mn091.json",
+      "title": "中部 第91経（梵摩経）",
+      "shortTitle": "梵摩経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 92,
+      "sutta": 92,
+      "file": "mn092.json",
+      "title": "中部 第92経（施羅経）",
+      "shortTitle": "施羅経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 93,
+      "sutta": 93,
+      "file": "mn093.json",
+      "title": "中部 第93経（阿摂惒経）",
+      "shortTitle": "阿摂惒経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 94,
+      "sutta": 94,
+      "file": "mn094.json",
+      "title": "中部 第94経（瞿哆牟伽経）",
+      "shortTitle": "瞿哆牟伽経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 95,
+      "sutta": 95,
+      "file": "mn095.json",
+      "title": "中部 第95経（商伽経）",
+      "shortTitle": "商伽経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 96,
+      "sutta": 96,
+      "file": "mn096.json",
+      "title": "中部 第96経（鬱痩歌邏経）",
+      "shortTitle": "鬱痩歌邏経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 97,
+      "sutta": 97,
+      "file": "mn097.json",
+      "title": "中部 第97経（陀然経）",
+      "shortTitle": "陀然経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 98,
+      "sutta": 98,
+      "file": "mn098.json",
+      "title": "中部 第98経（婆私吒経）",
+      "shortTitle": "婆私吒経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 99,
+      "sutta": 99,
+      "file": "mn099.json",
+      "title": "中部 第99経（須婆経）",
+      "shortTitle": "須婆経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 100,
+      "sutta": 100,
+      "file": "mn100.json",
+      "title": "中部 第100経（傷歌邏経）",
+      "shortTitle": "傷歌邏経",
+      "mapNote": "中分五十経篇 · 婆羅門品",
+      "pairCount": 11
+    },
+    {
+      "id": 101,
+      "sutta": 101,
+      "file": "mn101.json",
+      "title": "中部 第101経（天臂経）",
+      "shortTitle": "天臂経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 102,
+      "sutta": 102,
+      "file": "mn102.json",
+      "title": "中部 第102経（五三経）",
+      "shortTitle": "五三経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 103,
+      "sutta": 103,
+      "file": "mn103.json",
+      "title": "中部 第103経（如何経）",
+      "shortTitle": "如何経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 104,
+      "sutta": 104,
+      "file": "mn104.json",
+      "title": "中部 第104経（舎弥村経）",
+      "shortTitle": "舎弥村経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 105,
+      "sutta": 105,
+      "file": "mn105.json",
+      "title": "中部 第105経（善星経）",
+      "shortTitle": "善星経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 106,
+      "sutta": 106,
+      "file": "mn106.json",
+      "title": "中部 第106経（不動利益経）",
+      "shortTitle": "不動利益経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 107,
+      "sutta": 107,
+      "file": "mn107.json",
+      "title": "中部 第107経（算数家目犍連経）",
+      "shortTitle": "算数家目犍連経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 108,
+      "sutta": 108,
+      "file": "mn108.json",
+      "title": "中部 第108経（瞿黙目犍連経）",
+      "shortTitle": "瞿黙目犍連経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 109,
+      "sutta": 109,
+      "file": "mn109.json",
+      "title": "中部 第109経（満月大経）",
+      "shortTitle": "満月大経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 110,
+      "sutta": 110,
+      "file": "mn110.json",
+      "title": "中部 第110経（満月小経）",
+      "shortTitle": "満月小経",
+      "mapNote": "後分五十経篇 · 天臂品",
+      "pairCount": 11
+    },
+    {
+      "id": 111,
+      "sutta": 111,
+      "file": "mn111.json",
+      "title": "中部 第111経（不断経）",
+      "shortTitle": "不断経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 112,
+      "sutta": 112,
+      "file": "mn112.json",
+      "title": "中部 第112経（六浄経）",
+      "shortTitle": "六浄経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 113,
+      "sutta": 113,
+      "file": "mn113.json",
+      "title": "中部 第113経（善士経）",
+      "shortTitle": "善士経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 114,
+      "sutta": 114,
+      "file": "mn114.json",
+      "title": "中部 第114経（応習不応習経）",
+      "shortTitle": "応習不応習経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 115,
+      "sutta": 115,
+      "file": "mn115.json",
+      "title": "中部 第115経（多界経）",
+      "shortTitle": "多界経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 116,
+      "sutta": 116,
+      "file": "mn116.json",
+      "title": "中部 第116経（仙呑経）",
+      "shortTitle": "仙呑経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 117,
+      "sutta": 117,
+      "file": "mn117.json",
+      "title": "中部 第117経（大四十経）",
+      "shortTitle": "大四十経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 118,
+      "sutta": 118,
+      "file": "mn118.json",
+      "title": "中部 第118経（入出息念経）",
+      "shortTitle": "入出息念経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 12
+    },
+    {
+      "id": 119,
+      "sutta": 119,
+      "file": "mn119.json",
+      "title": "中部 第119経（身行念経）",
+      "shortTitle": "身行念経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 120,
+      "sutta": 120,
+      "file": "mn120.json",
+      "title": "中部 第120経（行生経）",
+      "shortTitle": "行生経",
+      "mapNote": "後分五十経篇 · 不断品",
+      "pairCount": 11
+    },
+    {
+      "id": 121,
+      "sutta": 121,
+      "file": "mn121.json",
+      "title": "中部 第121経（空小経）",
+      "shortTitle": "空小経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 122,
+      "sutta": 122,
+      "file": "mn122.json",
+      "title": "中部 第122経（空大経）",
+      "shortTitle": "空大経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 123,
+      "sutta": 123,
+      "file": "mn123.json",
+      "title": "中部 第123経（希有未曾有法経）",
+      "shortTitle": "希有未曾有法経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 124,
+      "sutta": 124,
+      "file": "mn124.json",
+      "title": "中部 第124経（薄拘羅経）",
+      "shortTitle": "薄拘羅経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 125,
+      "sutta": 125,
+      "file": "mn125.json",
+      "title": "中部 第125経（調御地経）",
+      "shortTitle": "調御地経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 126,
+      "sutta": 126,
+      "file": "mn126.json",
+      "title": "中部 第126経（浮弥経）",
+      "shortTitle": "浮弥経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 127,
+      "sutta": 127,
+      "file": "mn127.json",
+      "title": "中部 第127経（阿那律経）",
+      "shortTitle": "阿那律経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 128,
+      "sutta": 128,
+      "file": "mn128.json",
+      "title": "中部 第128経（随煩悩経）",
+      "shortTitle": "随煩悩経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 129,
+      "sutta": 129,
+      "file": "mn129.json",
+      "title": "中部 第129経（賢愚経）",
+      "shortTitle": "賢愚経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 130,
+      "sutta": 130,
+      "file": "mn130.json",
+      "title": "中部 第130経（天使経）",
+      "shortTitle": "天使経",
+      "mapNote": "後分五十経篇 · 空品",
+      "pairCount": 11
+    },
+    {
+      "id": 131,
+      "sutta": 131,
+      "file": "mn131.json",
+      "title": "中部 第131経（一夜賢者経）",
+      "shortTitle": "一夜賢者経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 132,
+      "sutta": 132,
+      "file": "mn132.json",
+      "title": "中部 第132経（阿難一夜賢者経）",
+      "shortTitle": "阿難一夜賢者経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 133,
+      "sutta": 133,
+      "file": "mn133.json",
+      "title": "中部 第133経（大迦旃延一夜賢者経）",
+      "shortTitle": "大迦旃延一夜賢者経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 134,
+      "sutta": 134,
+      "file": "mn134.json",
+      "title": "中部 第134経（盧夷強耆一夜賢者経）",
+      "shortTitle": "盧夷強耆一夜賢者経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 135,
+      "sutta": 135,
+      "file": "mn135.json",
+      "title": "中部 第135経（小業分別経）",
+      "shortTitle": "小業分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 136,
+      "sutta": 136,
+      "file": "mn136.json",
+      "title": "中部 第136経（大業分別経）",
+      "shortTitle": "大業分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 137,
+      "sutta": 137,
+      "file": "mn137.json",
+      "title": "中部 第137経（六処分別経）",
+      "shortTitle": "六処分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 138,
+      "sutta": 138,
+      "file": "mn138.json",
+      "title": "中部 第138経（総説分別経）",
+      "shortTitle": "総説分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 139,
+      "sutta": 139,
+      "file": "mn139.json",
+      "title": "中部 第139経（無諍分別経）",
+      "shortTitle": "無諍分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 140,
+      "sutta": 140,
+      "file": "mn140.json",
+      "title": "中部 第140経（界分別経）",
+      "shortTitle": "界分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 141,
+      "sutta": 141,
+      "file": "mn141.json",
+      "title": "中部 第141経（諦分別経）",
+      "shortTitle": "諦分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 142,
+      "sutta": 142,
+      "file": "mn142.json",
+      "title": "中部 第142経（施分別経）",
+      "shortTitle": "施分別経",
+      "mapNote": "後分五十経篇 · 分別品",
+      "pairCount": 11
+    },
+    {
+      "id": 143,
+      "sutta": 143,
+      "file": "mn143.json",
+      "title": "中部 第143経（教給孤独経）",
+      "shortTitle": "教給孤独経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 144,
+      "sutta": 144,
+      "file": "mn144.json",
+      "title": "中部 第144経（教闡陀経）",
+      "shortTitle": "教闡陀経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 145,
+      "sutta": 145,
+      "file": "mn145.json",
+      "title": "中部 第145経（教富楼那経）",
+      "shortTitle": "教富楼那経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 146,
+      "sutta": 146,
+      "file": "mn146.json",
+      "title": "中部 第146経（教難陀迦経）",
+      "shortTitle": "教難陀迦経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 147,
+      "sutta": 147,
+      "file": "mn147.json",
+      "title": "中部 第147経（教羅睺羅小経）",
+      "shortTitle": "教羅睺羅小経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 148,
+      "sutta": 148,
+      "file": "mn148.json",
+      "title": "中部 第148経（六六経）",
+      "shortTitle": "六六経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 149,
+      "sutta": 149,
+      "file": "mn149.json",
+      "title": "中部 第149経（大六処経）",
+      "shortTitle": "大六処経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 150,
+      "sutta": 150,
+      "file": "mn150.json",
+      "title": "中部 第150経（頻頭城経）",
+      "shortTitle": "頻頭城経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 151,
+      "sutta": 151,
+      "file": "mn151.json",
+      "title": "中部 第151経（乞食清浄経）",
+      "shortTitle": "乞食清浄経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    },
+    {
+      "id": 152,
+      "sutta": 152,
+      "file": "mn152.json",
+      "title": "中部 第152経（根修習経）",
+      "shortTitle": "根修習経",
+      "mapNote": "後分五十経篇 · 六処品",
+      "pairCount": 11
+    }
+  ]
+}

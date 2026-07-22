@@ -1,0 +1,782 @@
+{
+  "chapter": 17,
+  "sutta": 17,
+  "title": "中部 第17経・林薮経（林野の辺境の経）",
+  "shortTitle": "林薮経（林野の辺境の経）",
+  "mapNote": "根本五十経篇 · 師子吼品（アラナ：林野の辺境の経）",
+  "suttas": [
+    "MN 17 林薮経（林野の辺境の経）"
+  ],
+  "source": {
+    "primary": "パーリ・中部第17経（林薮経／林野の辺境の経）観察ペア単位対応",
+    "note": "経典の言葉＝アラナ精舎和訳、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝SAT中阿含107–108林経（T26）を段落対応でマッピング。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・林野の辺境の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・林経（T1.596c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+        "note": "依林住の去住。對照表: 法雨道場（107–108）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "view",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
+    },
+    {
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
+    },
+    {
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
+    },
+    {
+      "id": "mindfulness",
+      "name": "正念",
+      "short": "正念",
+      "weekday": 0,
+      "order": 7
+    },
+    {
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "chapterTitle": "中部 第17経・林薮経（林野の辺境の経）",
+    "shortTitle": "林薮経（林野の辺境の経）",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "今日の依処に触れ、気づきの現起を基準に観る",
+        "chapterHint": "林薮経（林野の辺境の経）",
+        "fromPrev": "見直しが、今朝の場·関係の接触を変える",
+        "toNext": "触のあと、定まらない心の受が見える",
+        "todayObserve": "林野の辺境の教相——依処を深慮し、住むか去るかを決する。朝、今日の依処（場·関係）を一度観察する。",
+        "todayAction": "朝、今日「林薮に住む」ように心を観察する",
+        "when": [
+          "場に入った朝",
+          "関係に触れた"
+        ],
+        "sources": [
+          "MN17-P01",
+          "MN17-P09"
+        ],
+        "leadQuote": "比丘たちよ、林野の辺境の教相を、あなたたちに説示しましょう。比丘たちよ、ここに、…",
+        "secondaryObserve": "依処の基準——気づきの現起、心の定、煩悩の滅尽、軛安穏——一つの行為に正念·正知（気づき）を置く。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "気づき·定の受を見て、進展なき依処を離す",
+        "chapterHint": "林薮経（林野の辺境の経）",
+        "fromPrev": "接触のあと、定まらない・定まる受が立つ",
+        "toNext": "受に乗ると資具への欲しがりへ",
+        "todayObserve": "気づきが現起せず、心が定まらず、煩悩が滅尽せず、軛安穏に至らなければ去る——心が動いた瞬間に「進展があるか」と一度問う。",
+        "todayAction": "今日、心が動いた瞬間に「善か不善か」と一度問う",
+        "when": [
+          "心が散った",
+          "進展を問うた"
+        ],
+        "sources": [
+          "MN17-P02"
+        ],
+        "leadQuote": "彼が、その林野の辺境に近しく依拠して〔世に〕住んでいると、まさしく、そして、現起…",
+        "secondaryObserve": "其心不定"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "livelihood",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正見",
+          "正命"
+        ],
+        "pathFactorIds": [
+          "view",
+          "livelihood"
+        ],
+        "pathLabel": "資具への欲しがりより、漏尽の不進を優先し去る",
+        "chapterHint": "林薮経（林野の辺境の経）",
+        "fromPrev": "受のあと、衣食の欲しがりが立つ",
+        "toNext": "止めないと易い資具への掴みへ",
+        "todayObserve": "四資具が得やすくても、気づき·定·漏尽が進まなければ去る——染（未滅の煩悩）を名づけ、依処への執着を離す。",
+        "todayAction": "欲·嗔·痴が来たら、「染の心」と名づけて観察する",
+        "when": [
+          "楽な場に留まりたかった",
+          "煩悩が残った"
+        ],
+        "sources": [
+          "MN17-P03"
+        ],
+        "leadQuote": "……現起していない気づきは現起せず……定められていない心は定められず……完全に滅…",
+        "secondaryObserve": "不為衣被故"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "livelihood",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正命"
+        ],
+        "pathFactorIds": [
+          "view",
+          "livelihood"
+        ],
+        "pathLabel": "易い資具や不適合な人物への掴みを離す",
+        "chapterHint": "林薮経（林野の辺境の経）",
+        "fromPrev": "欲しがりのあと、場·人への掴みが手前",
+        "toNext": "掴むと不適合の苦が見える",
+        "todayObserve": "出家は衣食のためではない——資具が易くても修行が進まなければ去る。外の環境に関わらず、内の進展を一度観察する。",
+        "todayAction": "今日、外の環境に関わらず、心を一度観察する",
+        "when": [
+          "環境に固執した",
+          "付き従いを選んだ"
+        ],
+        "sources": [
+          "MN17-P08",
+          "MN17-P10"
+        ],
+        "leadQuote": "……衣料や〔行乞の〕施食や臥坐具や病のための日用品たる薬の必需品は、それらは、難…",
+        "secondaryObserve": "人物に依拠して進展がなければ、断りなく立ち去るべきで、付き従うべきではない——語る·従う前に、その依処が進展を生むか問う。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "不適合の依処が気づき·定·漏尽を阻む苦を見る",
+        "chapterHint": "林薮経（林野の辺境の経）",
+        "fromPrev": "掴んだ結果として、進展なき患が見える",
+        "toNext": "見れば、去る·住むの離しへ向き直る",
+        "todayObserve": "気づき不現起·心不定·漏不尽、かつ資具も難し——夜でも昼でも去るべき。今日の苦を、依処の不適合の結果として一度見る。",
+        "todayAction": "今日の苦を「観察しなかった心の結果」と一度見る",
+        "when": [
+          "場が苦しかった",
+          "漏尽が進まなかった"
+        ],
+        "sources": [
+          "MN17-P06"
+        ],
+        "leadQuote": "……現起していない気づきは現起せず、かつまた、定められていない心は定められず、か…",
+        "secondaryObserve": "即捨此林"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "effort",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "effort",
+          "concentration"
+        ],
+        "pathLabel": "進展する依処に住み、停滞する依処を手放す",
+        "chapterHint": "林薮経（林野の辺境の経）",
+        "fromPrev": "苦が見えれば、住むか去るかを決する",
+        "toNext": "離せば、夜の深慮へつながる",
+        "todayObserve": "気づき·定·漏尽·軛安穏が進むなら、資具が難しくても住む——進展する善の方向を一つ増す。",
+        "todayAction": "今日、善の心（離·捨·慈）を一つ増する",
+        "when": [
+          "進展する場に留まった",
+          "停滞を手放した"
+        ],
+        "sources": [
+          "MN17-P04",
+          "MN17-P11"
+        ],
+        "leadQuote": "彼が、その林野の辺境に近しく依拠して〔世に〕住んでいると、まさしく、そして、現起…",
+        "secondaryObserve": "進展する人物には、生あるかぎり付き従い、しりぞけられても去らない——染·停滞が来たら観察し、去るか住むかを一呼吸で決する。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "深慮し、今日の依処での進展を振り返る",
+        "chapterHint": "林薮経（林野の辺境の経）",
+        "fromPrev": "一日の場·関係は、朝からの依住の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "気づき·定·漏尽が進み、資具も難少なら、生あるかぎり住む——夜、今日の依処で進展があったか振り返る。",
+        "todayAction": "就寝前、今日「観察しなかった」心を一つ認め、明日観察する",
+        "when": [
+          "一日を閉じるとき",
+          "独で深慮した日"
+        ],
+        "sources": [
+          "MN17-P05",
+          "MN17-P07"
+        ],
+        "leadQuote": "……現起していない気づきは現起し……定められていない心は定められ……諸々の煩悩は…",
+        "secondaryObserve": "依処について深慮する——気づきは現起するか、心は定まるか。一人の時間に、反芻ではなく自分の進展を観る。"
+      }
+    ],
+    "focusNodeId": "contact",
+    "focusReason": "林野の辺境の経は依処（林·村·人）に触れて気づき·定·漏尽の進展を深慮し住むか去るかを決するのが主題。既定の焦点は接触。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "MN17-P01",
+      "category": "mindfulness",
+      "ref": "MN 17",
+      "section": "辺境の教相",
+      "observe": "林野の辺境の教相——依処を深慮し、住むか去るかを決する。朝、今日の依処（場·関係）を一度観察する。",
+      "action": "朝、今日「林薮に住む」ように心を観察する",
+      "quote": "比丘たちよ、林野の辺境の教相を、あなたたちに説示しましょう。比丘たちよ、ここに、比丘が、或るどこかの林野の辺境に近しく依拠して〔世に〕住みます。……その比丘は、かくのごとく深慮するべきです。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "朝、今日の依処（場·関係）に触れて観察する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·辺境の教相",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-intro",
+          "text": "比丘者，依一林住……彼比丘應作是觀……。",
+          "satLocus": "大正蔵 T1.596c–597a 林経",
+          "note": "依林住＋應作是觀＝辺境の教相・深慮。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P02",
+      "category": "mindfulness",
+      "ref": "MN 17",
+      "section": "気づき·不定",
+      "observe": "気づきが現起せず、心が定まらず、煩悩が滅尽せず、軛安穏に至らなければ去る——心が動いた瞬間に「進展があるか」と一度問う。",
+      "action": "今日、心が動いた瞬間に「善か不善か」と一度問う",
+      "quote": "彼が、その林野の辺境に近しく依拠して〔世に〕住んでいると、まさしく、そして、現起していない気づきは現起せず、かつまた、定められていない心は定められず、かつまた、完全に滅尽していない諸々の煩悩は完全なる滅尽に至らず、さらに、至り得ていない束縛からの平安という無上なるものに至り得ません。……その比丘は……その林野の辺境から立ち去るべきであり、〔そこに〕住するべきではありません。",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "気づき·定の受を見て、進展なき依処を離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·気づき·不定",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-leave-hard",
+          "text": "若無正念不得正念，其心不定不得定心，若不解脫不得解脫，諸漏不盡不得漏盡……學道者所須……甚難可得。……彼比丘如是觀已，即捨此林，夜半而去。",
+          "satLocus": "大正蔵 T1.597b 林経",
+          "note": "正念·定·解脫·漏尽が進まず資具も難→去る。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P03",
+      "category": "livelihood",
+      "ref": "MN 17",
+      "section": "資具易·漏不尽",
+      "observe": "四資具が得やすくても、気づき·定·漏尽が進まなければ去る——染（未滅の煩悩）を名づけ、依処への執着を離す。",
+      "action": "欲·嗔·痴が来たら、「染の心」と名づけて観察する",
+      "quote": "……現起していない気づきは現起せず……定められていない心は定められず……完全に滅尽していない諸々の煩悩は完全なる滅尽に至らず……。さらに……衣料や〔行乞の〕施食や臥坐具や病のための日用品たる薬の必需品は、それらは、難少なくして将来されます。……わたしは、衣料を因として、家から家なきへと出家したのではない。…………〔かくのごとく〕究明してもまた、その林野の辺境から立ち去るべきであり、〔そこに〕住するべきではありません。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正見",
+        "正命"
+      ],
+      "pathReason": "資具への欲しがりより漏尽の不進を優先し去る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·資具易·漏不尽",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-leave-easy",
+          "text": "若無正念不得正念……不得涅槃；學道者所須……易不難得。……我出家學道，不為衣被故……。彼比丘如是觀已，可捨此林去。",
+          "satLocus": "大正蔵 T1.597a 林経",
+          "note": "資具易でも進展なし→捨去。出家は衣食のためでない。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P04",
+      "category": "effort",
+      "ref": "MN 17",
+      "section": "進展·住",
+      "observe": "気づき·定·漏尽·軛安穏が進むなら、資具が難しくても住む——進展する善の方向を一つ増す。",
+      "action": "今日、善の心（離·捨·慈）を一つ増する",
+      "quote": "彼が、その林野の辺境に近しく依拠して〔世に〕住んでいると、まさしく、そして、現起していない気づきは現起し、かつまた、定められていない心は定められ、かつまた、完全に滅尽していない諸々の煩悩は完全なる滅尽に至り、さらに、至り得ていない束縛からの平安という無上なるものに至り得ます。……衣料や……薬の必需品は、それらは、困難をもって将来されます。……わたしは、衣料を因として……出家したのではない。…………〔かくのごとく〕究明してもまた、その林野の辺境に住するべきであり、〔そこから〕立ち去るべきではありません。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正定"
+      ],
+      "pathReason": "進展する依処に住み、資具の難を手放す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·進展·住",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-stay-hard",
+          "text": "或無正念便得正念，其心不定而得定心……諸漏不盡而得漏盡……則得涅槃；……諸生活具……甚難可得。……彼比丘如是觀已，可住此林。",
+          "satLocus": "大正蔵 T1.597a–b 林経",
+          "note": "進展あり資具難→住。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P05",
+      "category": "mindfulness",
+      "ref": "MN 17",
+      "section": "深慮",
+      "observe": "依処について深慮する——気づきは現起するか、心は定まるか。一人の時間に、反芻ではなく自分の進展を観る。",
+      "action": "一人の時間に、他者への反芻ではなく自分の心を観る",
+      "quote": "比丘たちよ、その比丘は、かくのごとく深慮するべきです。『わたしは、まさに、この林野の辺境に近しく依拠して〔世に〕住む。……現起していない気づきは現起し……定められていない心は定められ……諸々の煩悩は完全なる滅尽に至り……束縛からの平安という無上なるものに至り得る』と。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "独で深慮し、依処での進展を観る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·深慮",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-paccavekkhana",
+          "text": "彼比丘應作是觀：『我依此林住，或無正念便得正念……則得涅槃……。』",
+          "satLocus": "大正蔵 T1.597a–c 林経",
+          "note": "應作是觀＝深慮。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P06",
+      "category": "view",
+      "ref": "MN 17",
+      "section": "去るべき患",
+      "observe": "気づき不現起·心不定·漏不尽、かつ資具も難し——夜でも昼でも去るべき。今日の苦を、依処の不適合の結果として一度見る。",
+      "action": "今日の苦を「観察しなかった心の結果」と一度見る",
+      "quote": "……現起していない気づきは現起せず、かつまた、定められていない心は定められず、かつまた、完全に滅尽していない諸々の煩悩は完全なる滅尽に至らず、さらに、至り得ていない束縛からの平安という無上なるものに至り得ません。……衣料や……薬の必需品は、それらは、困難をもって将来されます。……その比丘は、あるいは、夜分であれ、あるいは、日中であれ、その林野の辺境から立ち去るべきであり、〔そこに〕住するべきではありません。",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "不適合の依処が気づき·定·漏尽を阻む苦を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·去るべき患",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-dukkha-leave",
+          "text": "若無正念不得正念……不得涅槃；……諸生活具……甚難可得。……即捨此林，夜半而去，莫與彼別。",
+          "satLocus": "大正蔵 T1.597b 林経",
+          "note": "両不利→夜半而去。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P07",
+      "category": "mindfulness",
+      "ref": "MN 17",
+      "section": "生あるかぎり住",
+      "observe": "気づき·定·漏尽が進み、資具も難少なら、生あるかぎり住む——夜、今日の依処で進展があったか振り返る。",
+      "action": "就寝前、今日「観察しなかった」心を一つ認め、明日観察する",
+      "quote": "……現起していない気づきは現起し……定められていない心は定められ……諸々の煩悩は完全なる滅尽に至り……束縛からの平安という無上なるものに至り得ます。……衣料や……薬の必需品は、それらは、難少なくして将来されます。……その比丘は、生あるかぎりであろうが、その林野の辺境に住するべきであり、〔そこから〕立ち去るべきではありません。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "夜に今日の依処での進展を振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·生あるかぎり住",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-lifelong",
+          "text": "或無正念便得正念……則得涅槃；……諸生活具……易不難得。……依此林住，乃可終身至其命盡。",
+          "satLocus": "大正蔵 T1.597b–c 林経",
+          "note": "両利→終身住。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P08",
+      "category": "speech",
+      "ref": "MN 17",
+      "section": "人物·去",
+      "observe": "人物に依拠して進展がなければ、断りなく立ち去るべきで、付き従うべきではない——語る·従う前に、その依処が進展を生むか問う。",
+      "action": "今日、話す前に「この心は善か不善か」と一度止まる",
+      "quote": "比丘たちよ、ここに、比丘が……或るひとりの人物に近しく依拠して〔世に〕住みます。……現起していない気づきは現起せず……煩悩は完全なる滅尽に至らず……。……その比丘にとって、その人物は、あるいは、夜分であれ、あるいは、日中であれ、断りなくして、立ち去るべき者であり、付き従うべき者ではありません。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正業"
+      ],
+      "pathReason": "不適合な人物への付き従いの掴みを離す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·人物·去",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-puggala",
+          "text": "如依林住，塚間、村邑、依於人住亦復如是。",
+          "satLocus": "大正蔵 T1.597c 林経",
+          "note": "依於人住も同則。パーリは断りなく去る場合を詳説。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P09",
+      "category": "mindfulness",
+      "ref": "MN 17",
+      "section": "気づき現起",
+      "observe": "依処の基準——気づきの現起、心の定、煩悩の滅尽、軛安穏——一つの行為に正念·正知（気づき）を置く。",
+      "action": "今日、一つの行為に「正念·正知」を置く",
+      "quote": "……現起していない気づきは現起し、かつまた、定められていない心は定められ、かつまた、完全に滅尽していない諸々の煩悩は完全なる滅尽に至り、さらに、至り得ていない束縛からの平安という無上なるものに至り得ます。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "行為の接触に気づきを現起させる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·気づき現起",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-sati",
+          "text": "或無正念便得正念，其心不定而得定心，若不解脫便得解脫，諸漏不盡而得漏盡……則得涅槃。",
+          "satLocus": "大正蔵 T1.596c–597a 林経",
+          "note": "正念·定心·漏尽＝依処の基準。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P10",
+      "category": "livelihood",
+      "ref": "MN 17",
+      "section": "出家の因·資具",
+      "observe": "出家は衣食のためではない——資具が易くても修行が進まなければ去る。外の環境に関わらず、内の進展を一度観察する。",
+      "action": "今日、外の環境に関わらず、心を一度観察する",
+      "quote": "……衣料や〔行乞の〕施食や臥坐具や病のための日用品たる薬の必需品は、それらは、難少なくして将来されます。……わたしは、衣料を因として、家から家なきへと出家したのではない。〔行乞の〕施食を因として……臥坐具を因として……薬の必需品を因として、家から家なきへと出家したのではない。そこで……気づきは現起せず……心は定められず……煩悩は完全なる滅尽に至らず……。……〔かくのごとく〕究明してもまた、その林野の辺境から立ち去るべきであり、〔そこに〕住するべきではありません。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正命"
+      ],
+      "pathReason": "易い資具への掴みより、内の進展を基準にする",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·出家の因·資具",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-not-for-requisites",
+          "text": "我出家學道，不為衣被故，不為飲食、床榻、湯藥故，亦不為諸生活具故。然我依此林住……不得涅槃；……易不難得。……可捨此林去。",
+          "satLocus": "大正蔵 T1.597a 林経",
+          "note": "出家非為衣食。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    },
+    {
+      "id": "MN17-P11",
+      "category": "effort",
+      "ref": "MN 17",
+      "section": "付き従う",
+      "observe": "進展する人物には、生あるかぎり付き従い、しりぞけられても去らない——染·停滞が来たら観察し、去るか住むかを一呼吸で決する。",
+      "action": "染の心が来たら、観察して一呼吸手放す",
+      "quote": "……その人物に近しく依拠して〔世に〕住んでいると……気づきは現起し……心は定められ……煩悩は完全なる滅尽に至り……束縛からの平安という無上なるものに至り得ます。……その比丘にとって、その人物は、生あるかぎりであろうが、付き従うべき者であり、たとえ、しりぞけられながらもまた、立ち去るべき者ではありません。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "進展する依処・人物に付き従い、停滞を手放す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー",
+          "locus": "中部・林野の辺境の経（MN17）·付き従う",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 林薮経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含107・林経（T26）",
+          "t26": "T26-107-follow",
+          "text": "或無正念便得正念……則得涅槃；……易不難得。……依此林住，乃可終身至其命盡，如依林住……依於人住亦復如是。",
+          "satLocus": "大正蔵 T1.597c 林経",
+          "note": "終身依住・依人。パーリはしりぞけられても去らないを明記。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0596c26",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "chapter": 47,
+  "sutta": 47,
+  "title": "中部 第47経（思察経）",
+  "shortTitle": "思察経",
+  "mapNote": "根本五十経篇 · 双小品",
+  "suttas": [
+    "MN 47 思察経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
+    "verify": "南伝第9–11巻 · 根本五十経篇"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "practicePath": {
+    "model": "dependent-origination-x-eightfold",
+    "selectionMode": "chapter-focus",
+    "focusNodeId": "contact",
+    "focusReason": "思察経のペア分布から割り当て",
+    "chapterTitle": "中部 第47経（思察経）",
+    "shortTitle": "思察経",
+    "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
+    "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": null,
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "触れた瞬間に気づく",
+        "chapterHint": "思察経",
+        "fromPrev": "感覚の門や人・事との接触が始まる",
+        "toNext": "止めないと、快・不快の受が立ち上がる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "通知が来た",
+          "会話が始まった"
+        ],
+        "sources": [
+          "MN47-P01",
+          "MN47-P02",
+          "MN47-P03"
+        ]
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": null,
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念"
+        ],
+        "pathFactorIds": [
+          "mindfulness"
+        ],
+        "pathLabel": "感・想だけを見る",
+        "chapterHint": "思察経",
+        "fromPrev": "接触のあと、快・不快・考えが立つ",
+        "toNext": "止めないと「もっと／嫌だ」へ流れる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "イラッとした",
+          "嬉しくて一気に動きたくなった"
+        ],
+        "sources": [
+          "MN47-P01",
+          "MN47-P04"
+        ]
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": null,
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟"
+        ],
+        "pathFactorIds": [
+          "intention"
+        ],
+        "pathLabel": "衝動に名前を付け、乗らない",
+        "chapterHint": "思察経",
+        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
+        "toNext": "止めないと執着して掴む",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "欲が出た",
+          "拒絶したくなった"
+        ],
+        "sources": [
+          "MN47-P05",
+          "MN47-P07"
+        ]
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": null,
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正語",
+          "正業"
+        ],
+        "pathFactorIds": [
+          "speech",
+          "action"
+        ],
+        "pathLabel": "言葉と行いで乗らない",
+        "chapterHint": "思察経",
+        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
+        "toNext": "掴むと苦が太る",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "返信の前",
+          "言い返したくなった"
+        ],
+        "sources": [
+          "MN47-P04",
+          "MN47-P05"
+        ]
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": null,
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見"
+        ],
+        "pathFactorIds": [
+          "view"
+        ],
+        "pathLabel": "掴んだ結果だと見る",
+        "chapterHint": "思察経",
+        "fromPrev": "掴んだ結果として、心や関係が重くなる",
+        "toNext": "見ないままだと執念が続く",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "後悔が残った",
+          "関係が重くなった"
+        ],
+        "sources": [
+          "MN47-P08",
+          "MN47-P10"
+        ]
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": null,
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正精進"
+        ],
+        "pathFactorIds": [
+          "effort"
+        ],
+        "pathLabel": "気づいたら戻る",
+        "chapterHint": "思察経",
+        "fromPrev": "流れの途中で「乗っている」と気づく",
+        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "仕事で焦った",
+          "画面に引きずられた"
+        ],
+        "sources": [
+          "MN47-P01",
+          "MN47-P02"
+        ]
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": null,
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "どこで切れたかを見る",
+        "chapterHint": "思察経",
+        "fromPrev": "一日の語り・行いは朝からの流れの跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "",
+        "todayAction": "",
+        "when": [
+          "一日を閉じるとき",
+          "寝不足で散らかった日"
+        ],
+        "sources": [
+          "MN47-P02",
+          "MN47-P03"
+        ]
+      }
+    ]
+  },
+  "pairs": [
+    {
+      "id": "MN47-P01",
+      "category": "prep",
+      "ref": "MN 47",
+      "section": "導",
+      "observe": "思察経——師を選ぶ前に、師を思察する",
+      "action": "朝、自分が従う師·教えを一度思察する",
+      "quote": "師を思察せよ——信·戒·聞·捨·慧を以て思察す"
+    },
+    {
+      "id": "MN47-P02",
+      "category": "work",
+      "ref": "MN 47",
+      "section": "信",
+      "observe": "信——師の教えに確信があるか",
+      "action": "従う教えに、確信の根拠があるか問う",
+      "quote": "師の教えに確信あり——これ、信なり"
+    },
+    {
+      "id": "MN47-P03",
+      "category": "work",
+      "ref": "MN 47",
+      "section": "戒",
+      "observe": "戒——師の戒が清浄か",
+      "action": "師·自分の戒が清浄か一度確認する",
+      "quote": "師の戒が清浄——これ、戒具足なり"
+    },
+    {
+      "id": "MN47-P04",
+      "category": "speech",
+      "ref": "MN 47",
+      "section": "聞",
+      "observe": "聞——師の法を正しく聞く",
+      "action": "学ぶとき、正しく聞き、誤解しない",
+      "quote": "師の法を正しく聞く——これ、聞具足なり"
+    },
+    {
+      "id": "MN47-P05",
+      "category": "desire",
+      "ref": "MN 47",
+      "section": "捨",
+      "observe": "捨——師に貪·瞋·痴がないか",
+      "action": "師·自分に貪·瞋·痴がないか長期に観察する",
+      "quote": "師に貪·瞋·痴なし——これ、捨具足なり"
+    },
+    {
+      "id": "MN47-P06",
+      "category": "prep",
+      "ref": "MN 47",
+      "section": "慧",
+      "observe": "慧——師の慧が清浄か",
+      "action": "教えの慧が正しいか、四諦·縁起で照らす",
+      "quote": "師の慧が清浄——これ、慧具足なり"
+    },
+    {
+      "id": "MN47-P07",
+      "category": "people",
+      "ref": "MN 47",
+      "section": "思察",
+      "observe": "師を思察——長期に観察する",
+      "action": "従う前に、師を長期に観察する",
+      "quote": "師を思察せよ——長期に観察し、貪·瞋·痴を見よ"
+    },
+    {
+      "id": "MN47-P08",
+      "category": "suffering",
+      "ref": "MN 47",
+      "section": "貪",
+      "observe": "師に貪あり——師にではない",
+      "action": "師·指導者に貪がないか観察する",
+      "quote": "師に貪あり——これ、師に非ず、従うべからず"
+    },
+    {
+      "id": "MN47-P09",
+      "category": "desire",
+      "ref": "MN 47",
+      "section": "瞋",
+      "observe": "師に瞋あり——師にではない",
+      "action": "師·指導者に瞋がないか観察する",
+      "quote": "師に瞋あり——これ、師に非ず、従うべからず"
+    },
+    {
+      "id": "MN47-P10",
+      "category": "suffering",
+      "ref": "MN 47",
+      "section": "痴",
+      "observe": "師に痴あり——師にではない",
+      "action": "師·指導者に痴がないか観察する",
+      "quote": "師に痴あり——これ、師に非ず、従うべからず"
+    },
+    {
+      "id": "MN47-P11",
+      "category": "night",
+      "ref": "MN 47",
+      "section": "結",
+      "observe": "思察経——師を選ぶ前に思察",
+      "action": "就寝前、従う教え·師を「信戒聞捨慧」で振り返る",
+      "quote": "師を思察せよ——信·戒·聞·捨·慧を以て思察す"
+    }
+  ]
+}

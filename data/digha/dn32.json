@@ -1,0 +1,159 @@
+{
+  "chapter": 32,
+  "sutta": 32,
+  "title": "長部 第32経（自歸経）",
+  "shortTitle": "自歸経",
+  "mapNote": "DN 32——自歸経",
+  "suttas": [
+    "DN 32 自歸経"
+  ],
+  "source": {
+    "primary": "南伝大蔵経 長部経典（集篇）",
+    "verify": "南伝大蔵経 第8巻下"
+  },
+  "categories": [
+    {
+      "id": "prep",
+      "name": "正見",
+      "short": "正見",
+      "weekday": 1
+    },
+    {
+      "id": "speech",
+      "name": "正語",
+      "short": "正語",
+      "weekday": 2
+    },
+    {
+      "id": "people",
+      "name": "対人",
+      "short": "対人",
+      "weekday": 3
+    },
+    {
+      "id": "desire",
+      "name": "対治",
+      "short": "対治",
+      "weekday": 4
+    },
+    {
+      "id": "suffering",
+      "name": "苦·縁起",
+      "short": "縁起",
+      "weekday": 5
+    },
+    {
+      "id": "work",
+      "name": "精進·正念",
+      "short": "正念",
+      "weekday": 6
+    },
+    {
+      "id": "night",
+      "name": "振り返り",
+      "short": "夜",
+      "weekday": 0
+    }
+  ],
+  "pairs": [
+    {
+      "id": "DN32-P01",
+      "category": "prep",
+      "ref": "DN 32",
+      "section": "導",
+      "observe": "自歸——仏·法·僧に帰依し、夜·昼を護る",
+      "action": "朝、三宝に帰依する——「仏·法·僧に帰依す」",
+      "quote": "我は、仏に帰依す。法に帰依す。僧に帰依す"
+    },
+    {
+      "id": "DN32-P02",
+      "category": "prep",
+      "ref": "DN 32",
+      "section": "三宝",
+      "observe": "帰依は口だけでなく——戒·信·実践",
+      "action": "今日、帰依を一つの行動（戒·布施·読経）で示す",
+      "quote": "帰依は、戒·信·実践を以て完成す"
+    },
+    {
+      "id": "DN32-P03",
+      "category": "work",
+      "ref": "DN 32",
+      "section": "戒",
+      "observe": "帰依者の戒——五戒を守り、不善を離れる",
+      "action": "今日、五戒の一つを特に意識する",
+      "quote": "帰依者は、五戒を守り、不善を離れる"
+    },
+    {
+      "id": "DN32-P04",
+      "category": "work",
+      "ref": "DN 32",
+      "section": "護",
+      "observe": "自歸の力——三宝に帰依すれば、非人を退ける",
+      "action": "恐れ·不安が来たら、三宝に心を向け、一呼吸置く",
+      "quote": "三宝に帰依すれば、非人を退け、心を護る"
+    },
+    {
+      "id": "DN32-P05",
+      "category": "desire",
+      "ref": "DN 32",
+      "section": "邪見",
+      "observe": "帰依せず、異見異行——護りが弱まる",
+      "action": "今日、判断が「正見·三宝」から離れていないか一度問う",
+      "quote": "三宝に帰依せず、異見異行に住す者、自らを護れず"
+    },
+    {
+      "id": "DN32-P06",
+      "category": "suffering",
+      "ref": "DN 32",
+      "section": "怖",
+      "observe": "帰依なき怖——心の拠り所がない苦",
+      "action": "不安が来たら「三宝に帰依す」と一句唱える",
+      "quote": "拠り所なき者、怖に悩む"
+    },
+    {
+      "id": "DN32-P07",
+      "category": "speech",
+      "ref": "DN 32",
+      "section": "呪願",
+      "observe": "阿吒曩胝——諸仏·諸天に護念を請う正語",
+      "action": "今日、三宝·諸仏の名を、正しく唱える",
+      "quote": "諸仏·諸天に護念を請う——これ正語なり"
+    },
+    {
+      "id": "DN32-P08",
+      "category": "people",
+      "ref": "DN 32",
+      "section": "僧",
+      "observe": "僧に帰依——戒を守る僧伽を敬う",
+      "action": "今日、僧·善友を敬う行為を一つする",
+      "quote": "僧に帰依す。戒を守る僧伽を敬え"
+    },
+    {
+      "id": "DN32-P09",
+      "category": "people",
+      "ref": "DN 32",
+      "section": "共帰依",
+      "observe": "共に帰依する——家族·善友と三宝を護る",
+      "action": "今日、誰かと三宝について一つ語る、または共に礼する",
+      "quote": "共に帰依し、共に護れ"
+    },
+    {
+      "id": "DN32-P10",
+      "category": "night",
+      "ref": "DN 32",
+      "section": "夜護",
+      "observe": "夜、三宝に帰依して眠る——自歸の夜",
+      "action": "就寝前、三宝に帰依し、一日を護念に委ねる",
+      "quote": "夜、三宝に帰依して眠れ。自らを護れ"
+    },
+    {
+      "id": "DN32-P11",
+      "category": "night",
+      "ref": "DN 32",
+      "section": "総括",
+      "observe": "自歸の要——仏·法·僧に帰依し、戒を守り、日夜を護る",
+      "action": "就寝前、「仏·法·僧に帰依す」を一句唱える",
+      "quote": "我は、仏·法·僧に帰依す——これ自歸の要なり"
+    }
+  ]
+}

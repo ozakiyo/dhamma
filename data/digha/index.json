@@ -1,0 +1,316 @@
+{
+  "title": "長部（34経）",
+  "source": "南伝大蔵経（日本仏教学院）",
+  "collection": "digha",
+  "description": "長部34経全体。各経を1章とし、観察→行動ペアで読む。",
+  "grouping": "sutta",
+  "totalPairs": 386,
+  "chapters": [
+    {
+      "id": 1,
+      "sutta": 1,
+      "file": "dn01.json",
+      "title": "長部 第1経（梵網経）",
+      "shortTitle": "梵網経",
+      "mapNote": "DN 1——梵網経",
+      "pairCount": 12
+    },
+    {
+      "id": 2,
+      "sutta": 2,
+      "file": "dn02.json",
+      "title": "長部 第2経（沙門果経）",
+      "shortTitle": "沙門果経",
+      "mapNote": "DN 2——沙門果経",
+      "pairCount": 12
+    },
+    {
+      "id": 3,
+      "sutta": 3,
+      "file": "dn03.json",
+      "title": "長部 第3経（安婆陀経）",
+      "shortTitle": "安婆陀経",
+      "mapNote": "DN 3——安婆陀経",
+      "pairCount": 11
+    },
+    {
+      "id": 4,
+      "sutta": 4,
+      "file": "dn04.json",
+      "title": "長部 第4経（小経）",
+      "shortTitle": "小経",
+      "mapNote": "DN 4——小経",
+      "pairCount": 10
+    },
+    {
+      "id": 5,
+      "sutta": 5,
+      "file": "dn05.json",
+      "title": "長部 第5経（究陀経）",
+      "shortTitle": "究陀経",
+      "mapNote": "DN 5——究陀経",
+      "pairCount": 12
+    },
+    {
+      "id": 6,
+      "sutta": 6,
+      "file": "dn06.json",
+      "title": "長部 第6経（摩訶梨経）",
+      "shortTitle": "摩訶梨経",
+      "mapNote": "DN 6——摩訶梨経",
+      "pairCount": 11
+    },
+    {
+      "id": 7,
+      "sutta": 7,
+      "file": "dn07.json",
+      "title": "長部 第7経（耶離経）",
+      "shortTitle": "耶離経",
+      "mapNote": "DN 7——耶離経",
+      "pairCount": 11
+    },
+    {
+      "id": 8,
+      "sutta": 8,
+      "file": "dn08.json",
+      "title": "長部 第8経（師子吼経）",
+      "shortTitle": "師子吼経",
+      "mapNote": "DN 8——師子吼経",
+      "pairCount": 12
+    },
+    {
+      "id": 9,
+      "sutta": 9,
+      "file": "dn09.json",
+      "title": "長部 第9経（波塔頗陀経）",
+      "shortTitle": "波塔頗陀経",
+      "mapNote": "DN 9——波塔頗陀経",
+      "pairCount": 11
+    },
+    {
+      "id": 10,
+      "sutta": 10,
+      "file": "dn10.json",
+      "title": "長部 第10経（須波経）",
+      "shortTitle": "須波経",
+      "mapNote": "DN 10——須波経",
+      "pairCount": 11
+    },
+    {
+      "id": 11,
+      "sutta": 11,
+      "file": "dn11.json",
+      "title": "長部 第11経（堅固経）",
+      "shortTitle": "堅固経",
+      "mapNote": "DN 11——堅固経",
+      "pairCount": 11
+    },
+    {
+      "id": 12,
+      "sutta": 12,
+      "file": "dn12.json",
+      "title": "長部 第12経（ローヒッチャ経）",
+      "shortTitle": "ローヒッチャ経",
+      "mapNote": "DN 12——ローヒッチャ経",
+      "pairCount": 10
+    },
+    {
+      "id": 13,
+      "sutta": 13,
+      "file": "dn13.json",
+      "title": "長部 第13経（三明経）",
+      "shortTitle": "三明経",
+      "mapNote": "DN 13——三明経",
+      "pairCount": 12
+    },
+    {
+      "id": 14,
+      "sutta": 14,
+      "file": "dn14.json",
+      "title": "長部 第14経（大本経）",
+      "shortTitle": "大本経",
+      "mapNote": "DN 14——大本経",
+      "pairCount": 11
+    },
+    {
+      "id": 15,
+      "sutta": 15,
+      "file": "dn15.json",
+      "title": "長部 第15経（大静経）",
+      "shortTitle": "大静経",
+      "mapNote": "DN 15——大静経",
+      "pairCount": 11
+    },
+    {
+      "id": 16,
+      "sutta": 16,
+      "file": "dn16.json",
+      "title": "長部 第16経（大般泥洹経）",
+      "shortTitle": "大般泥洹経",
+      "mapNote": "DN 16——大般泥洹経",
+      "pairCount": 12
+    },
+    {
+      "id": 17,
+      "sutta": 17,
+      "file": "dn17.json",
+      "title": "長部 第17経（揵婆佉経）",
+      "shortTitle": "揵婆佉経",
+      "mapNote": "DN 17——揵婆佉経",
+      "pairCount": 11
+    },
+    {
+      "id": 18,
+      "sutta": 18,
+      "file": "dn18.json",
+      "title": "長部 第18経（大穴経）",
+      "shortTitle": "大穴経",
+      "mapNote": "DN 18——大穴経",
+      "pairCount": 11
+    },
+    {
+      "id": 19,
+      "sutta": 19,
+      "file": "dn19.json",
+      "title": "長部 第19経（大满経）",
+      "shortTitle": "大满経",
+      "mapNote": "DN 19——大满経",
+      "pairCount": 11
+    },
+    {
+      "id": 20,
+      "sutta": 20,
+      "file": "dn20.json",
+      "title": "長部 第20経（帝釈問経）",
+      "shortTitle": "帝釈問経",
+      "mapNote": "DN 20——帝釈問経",
+      "pairCount": 11
+    },
+    {
+      "id": 21,
+      "sutta": 21,
+      "file": "dn21.json",
+      "title": "長部 第21経（娑難陀経）",
+      "shortTitle": "娑難陀経",
+      "mapNote": "DN 21——娑難陀経",
+      "pairCount": 11
+    },
+    {
+      "id": 22,
+      "sutta": 22,
+      "file": "dn22.json",
+      "title": "長部 第22経（轉輪経）",
+      "shortTitle": "轉輪経",
+      "mapNote": "DN 22——轉輪経",
+      "pairCount": 12
+    },
+    {
+      "id": 23,
+      "sutta": 23,
+      "file": "dn23.json",
+      "title": "長部 第23経（火喩経）",
+      "shortTitle": "火喩経",
+      "mapNote": "DN 23——火喩経",
+      "pairCount": 11
+    },
+    {
+      "id": 24,
+      "sutta": 24,
+      "file": "dn24.json",
+      "title": "長部 第24経（破壊経）",
+      "shortTitle": "破壊経",
+      "mapNote": "DN 24——破壊経",
+      "pairCount": 11
+    },
+    {
+      "id": 25,
+      "sutta": 25,
+      "file": "dn25.json",
+      "title": "長部 第25経（乌昙跋経）",
+      "shortTitle": "乌昙跋経",
+      "mapNote": "DN 25——乌昙跋経",
+      "pairCount": 12
+    },
+    {
+      "id": 26,
+      "sutta": 26,
+      "file": "dn26.json",
+      "title": "長部 第26経（聖尋経）",
+      "shortTitle": "聖尋経",
+      "mapNote": "DN 26——聖尋経",
+      "pairCount": 12
+    },
+    {
+      "id": 27,
+      "sutta": 27,
+      "file": "dn27.json",
+      "title": "長部 第27経（大念処経）",
+      "shortTitle": "大念処経",
+      "mapNote": "DN 27——大念処経",
+      "pairCount": 12
+    },
+    {
+      "id": 28,
+      "sutta": 28,
+      "file": "dn28.json",
+      "title": "長部 第28経（信経）",
+      "shortTitle": "信経",
+      "mapNote": "DN 28——信経",
+      "pairCount": 11
+    },
+    {
+      "id": 29,
+      "sutta": 29,
+      "file": "dn29.json",
+      "title": "長部 第29経（慶経）",
+      "shortTitle": "慶経",
+      "mapNote": "DN 29——慶経",
+      "pairCount": 11
+    },
+    {
+      "id": 30,
+      "sutta": 30,
+      "file": "dn30.json",
+      "title": "長部 第30経（相経）",
+      "shortTitle": "相経",
+      "mapNote": "DN 30——相経",
+      "pairCount": 12
+    },
+    {
+      "id": 31,
+      "sutta": 31,
+      "file": "dn31.json",
+      "title": "長部 第31経（善生経）",
+      "shortTitle": "善生経",
+      "mapNote": "DN 31——善生経",
+      "pairCount": 12
+    },
+    {
+      "id": 32,
+      "sutta": 32,
+      "file": "dn32.json",
+      "title": "長部 第32経（自歸経）",
+      "shortTitle": "自歸経",
+      "mapNote": "DN 32——自歸経",
+      "pairCount": 11
+    },
+    {
+      "id": 33,
+      "sutta": 33,
+      "file": "dn33.json",
+      "title": "長部 第33経（集経）",
+      "shortTitle": "集経",
+      "mapNote": "DN 33——集経",
+      "pairCount": 12
+    },
+    {
+      "id": 34,
+      "sutta": 34,
+      "file": "dn34.json",
+      "title": "長部 第34経（十上経）",
+      "shortTitle": "十上経",
+      "mapNote": "DN 34——十上経",
+      "pairCount": 12
+    }
+  ]
+}
