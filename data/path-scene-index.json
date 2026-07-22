@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35",
+  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36",
   "entries": {
     "view": [
       {
@@ -1058,6 +1058,24 @@
           "MN35-P10",
           "MN35-P11"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 36,
+        "shortTitle": "薩遮迦大経（薩遮迦との大経）",
+        "title": "中部 第36経・薩遮迦大経（薩遮迦との大経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN36-P01",
+          "MN36-P03",
+          "MN36-P04",
+          "MN36-P05",
+          "MN36-P06",
+          "MN36-P08",
+          "MN36-P09",
+          "MN36-P10"
+        ]
       }
     ],
     "intention": [
@@ -1717,6 +1735,18 @@
         "pairIds": [
           "MN35-P04"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 36,
+        "shortTitle": "薩遮迦大経（薩遮迦との大経）",
+        "title": "中部 第36経・薩遮迦大経（薩遮迦との大経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN36-P04",
+          "MN36-P07"
+        ]
       }
     ],
     "speech": [
@@ -2211,6 +2241,18 @@
         "pairCount": 1,
         "pairIds": [
           "MN35-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 36,
+        "shortTitle": "薩遮迦大経（薩遮迦との大経）",
+        "title": "中部 第36経・薩遮迦大経（薩遮迦との大経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN36-P09",
+          "MN36-P10"
         ]
       }
     ],
@@ -3718,6 +3760,19 @@
         "pairIds": [
           "MN35-P07"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 36,
+        "shortTitle": "薩遮迦大経（薩遮迦との大経）",
+        "title": "中部 第36経・薩遮迦大経（薩遮迦との大経）",
+        "pairCount": 3,
+        "pairIds": [
+          "MN36-P03",
+          "MN36-P06",
+          "MN36-P11"
+        ]
       }
     ],
     "mindfulness": [
@@ -5104,6 +5159,22 @@
           "MN35-P10",
           "MN35-P11"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 36,
+        "shortTitle": "薩遮迦大経（薩遮迦との大経）",
+        "title": "中部 第36経・薩遮迦大経（薩遮迦との大経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN36-P01",
+          "MN36-P02",
+          "MN36-P05",
+          "MN36-P07",
+          "MN36-P08",
+          "MN36-P11"
+        ]
       }
     ],
     "concentration": [
@@ -5648,6 +5719,17 @@
         "pairIds": [
           "MN32-P02",
           "MN32-P11"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 36,
+        "shortTitle": "薩遮迦大経（薩遮迦との大経）",
+        "title": "中部 第36経・薩遮迦大経（薩遮迦との大経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN36-P02"
         ]
       }
     ]
