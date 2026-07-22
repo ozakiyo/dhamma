@@ -1,4 +1,4 @@
-const CACHE = 'dhamma-v119';
+const CACHE = 'dhamma-v120';
 const BASE = new URL('.', self.location).href;
 const STATIC = [
   'index.html',
