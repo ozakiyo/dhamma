@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39",
+  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39+mn40",
   "entries": {
     "view": [
       {
@@ -1129,6 +1129,22 @@
           "MN39-P10",
           "MN39-P11"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 6,
+        "pairIds": [
+          "MN40-P01",
+          "MN40-P05",
+          "MN40-P06",
+          "MN40-P08",
+          "MN40-P09",
+          "MN40-P11"
+        ]
       }
     ],
     "intention": [
@@ -1835,6 +1851,17 @@
         "pairIds": [
           "MN39-P04"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN40-P04"
+        ]
       }
     ],
     "speech": [
@@ -2378,6 +2405,18 @@
           "MN39-P03",
           "MN39-P09"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN40-P03",
+          "MN40-P09"
+        ]
       }
     ],
     "action": [
@@ -2870,6 +2909,17 @@
           "MN39-P02",
           "MN39-P05"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN40-P02"
+        ]
       }
     ],
     "livelihood": [
@@ -3180,6 +3230,17 @@
         "pairCount": 1,
         "pairIds": [
           "MN39-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN40-P06"
         ]
       }
     ],
@@ -3954,6 +4015,18 @@
         "pairIds": [
           "MN39-P05",
           "MN39-P08"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN40-P08",
+          "MN40-P10"
         ]
       }
     ],
@@ -5408,6 +5481,24 @@
           "MN39-P10",
           "MN39-P11"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN40-P01",
+          "MN40-P02",
+          "MN40-P03",
+          "MN40-P04",
+          "MN40-P05",
+          "MN40-P07",
+          "MN40-P10",
+          "MN40-P11"
+        ]
       }
     ],
     "concentration": [
@@ -5974,6 +6065,17 @@
         "pairCount": 1,
         "pairIds": [
           "MN39-P06"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 40,
+        "shortTitle": "馬邑小経（小なる馬の町の経）",
+        "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN40-P07"
         ]
       }
     ]

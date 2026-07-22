@@ -1,67 +1,96 @@
 {
   "chapter": 40,
   "sutta": 40,
-  "title": "中部 第40経（馬邑小経）",
-  "shortTitle": "馬邑小経",
-  "mapNote": "根本五十経篇 · 双大品",
+  "title": "中部 第40経・馬邑小経（小なる馬の町の経）",
+  "shortTitle": "馬邑小経（小なる馬の町の経）",
+  "mapNote": "根本五十経篇 · 双大品（アラナ：小なる馬の町の経）",
   "suttas": [
-    "MN 40 馬邑小経"
+    "MN 40 馬邑小経（小なる馬の町の経）"
   ],
   "source": {
-    "primary": "南伝大蔵経 中部経典（日本仏教学院）",
-    "verify": "南伝第9–11巻 · 根本五十経篇"
+    "primary": "パーリ・中部第40経（馬邑小経／小なる馬の町の経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリMN40（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝中阿含183馬邑経（T26）。外形だけでは非沙門、沙門垢の息止、四無量、浴池のたとえが主題。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（中部・小なる馬の町の経）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A",
+        "note": "パーリ和訳出典（キャッシュ外の場合はパーリ忠実なアラナ調和訳）"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・第9巻中部経典一）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記（中部は巻目次で公開）"
+      },
+      "chinese": {
+        "label": "SAT 中阿含・馬邑経（T1.725c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+        "note": "對照表: 中阿含183 馬邑経"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
   },
   "categories": [
     {
-      "id": "prep",
+      "id": "view",
       "name": "正見",
       "short": "正見",
-      "weekday": 1
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "intention",
+      "name": "正思惟",
+      "short": "思惟",
+      "weekday": 2,
+      "order": 2
     },
     {
       "id": "speech",
       "name": "正語",
       "short": "正語",
-      "weekday": 2
+      "weekday": 3,
+      "order": 3
     },
     {
-      "id": "people",
-      "name": "対人",
-      "short": "対人",
-      "weekday": 3
+      "id": "action",
+      "name": "正業",
+      "short": "正業",
+      "weekday": 4,
+      "order": 4
     },
     {
-      "id": "desire",
-      "name": "対治",
-      "short": "対治",
-      "weekday": 4
+      "id": "livelihood",
+      "name": "正命",
+      "short": "正命",
+      "weekday": 5,
+      "order": 5
     },
     {
-      "id": "suffering",
-      "name": "苦·縁起",
-      "short": "縁起",
-      "weekday": 5
+      "id": "effort",
+      "name": "正精進",
+      "short": "精進",
+      "weekday": 6,
+      "order": 6
     },
     {
-      "id": "work",
-      "name": "精進·正念",
+      "id": "mindfulness",
+      "name": "正念",
       "short": "正念",
-      "weekday": 6
+      "weekday": 0,
+      "order": 7
     },
     {
-      "id": "night",
-      "name": "振り返り",
-      "short": "夜",
-      "weekday": 0
+      "id": "concentration",
+      "name": "正定",
+      "short": "正定",
+      "weekday": 0,
+      "order": 8
     }
   ],
   "practicePath": {
     "model": "dependent-origination-x-eightfold",
-    "selectionMode": "chapter-focus",
-    "focusNodeId": "contact",
-    "focusReason": "馬邑小経のペア分布から割り当て",
-    "chapterTitle": "中部 第40経（馬邑小経）",
-    "shortTitle": "馬邑小経",
+    "chapterTitle": "中部 第40経・馬邑小経（小なる馬の町の経）",
+    "shortTitle": "馬邑小経（小なる馬の町の経）",
     "spineOrigin": "触れた→感じた→欲しがった／拒んだ→掴んだ→苦が太った",
     "spinePath": "そこで気づき、見方・言葉・行い・努力で応える",
     "originNodes": [
@@ -132,167 +161,8 @@
       {
         "id": "contact",
         "weekday": 1,
-        "categoryId": null,
+        "categoryId": "view",
         "nidanaLabel": "接触",
-        "pathFactors": [
-          "正念"
-        ],
-        "pathFactorIds": [
-          "mindfulness"
-        ],
-        "pathLabel": "触れた瞬間に気づく",
-        "chapterHint": "馬邑小経",
-        "fromPrev": "感覚の門や人・事との接触が始まる",
-        "toNext": "止めないと、快・不快の受が立ち上がる",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "通知が来た",
-          "会話が始まった"
-        ],
-        "sources": [
-          "MN40-P01",
-          "MN40-P02",
-          "MN40-P07"
-        ]
-      },
-      {
-        "id": "feeling",
-        "weekday": 2,
-        "categoryId": null,
-        "nidanaLabel": "受ける",
-        "pathFactors": [
-          "正念"
-        ],
-        "pathFactorIds": [
-          "mindfulness"
-        ],
-        "pathLabel": "感・想だけを見る",
-        "chapterHint": "馬邑小経",
-        "fromPrev": "接触のあと、快・不快・考えが立つ",
-        "toNext": "止めないと「もっと／嫌だ」へ流れる",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "イラッとした",
-          "嬉しくて一気に動きたくなった"
-        ],
-        "sources": [
-          "MN40-P01",
-          "MN40-P03"
-        ]
-      },
-      {
-        "id": "craving",
-        "weekday": 3,
-        "categoryId": null,
-        "nidanaLabel": "欲しがる／拒む",
-        "pathFactors": [
-          "正思惟"
-        ],
-        "pathFactorIds": [
-          "intention"
-        ],
-        "pathLabel": "衝動に名前を付け、乗らない",
-        "chapterHint": "馬邑小経",
-        "fromPrev": "受から「もっと」「嫌だ」が立ち上がる",
-        "toNext": "止めないと執着して掴む",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "欲が出た",
-          "拒絶したくなった"
-        ],
-        "sources": [
-          "MN40-P04",
-          "MN40-P06"
-        ]
-      },
-      {
-        "id": "clinging",
-        "weekday": 4,
-        "categoryId": null,
-        "nidanaLabel": "掴む",
-        "pathFactors": [
-          "正語",
-          "正業"
-        ],
-        "pathFactorIds": [
-          "speech",
-          "action"
-        ],
-        "pathLabel": "言葉と行いで乗らない",
-        "chapterHint": "馬邑小経",
-        "fromPrev": "欲しがり／拒みが、語り・行いに乗る手前",
-        "toNext": "掴むと苦が太る",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "返信の前",
-          "言い返したくなった"
-        ],
-        "sources": [
-          "MN40-P03",
-          "MN40-P04"
-        ]
-      },
-      {
-        "id": "suffering",
-        "weekday": 5,
-        "categoryId": null,
-        "nidanaLabel": "苦が太る",
-        "pathFactors": [
-          "正見"
-        ],
-        "pathFactorIds": [
-          "view"
-        ],
-        "pathLabel": "掴んだ結果だと見る",
-        "chapterHint": "馬邑小経",
-        "fromPrev": "掴んだ結果として、心や関係が重くなる",
-        "toNext": "見ないままだと執念が続く",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "後悔が残った",
-          "関係が重くなった"
-        ],
-        "sources": [
-          "MN40-P05",
-          "MN40-P01"
-        ]
-      },
-      {
-        "id": "release",
-        "weekday": 6,
-        "categoryId": null,
-        "nidanaLabel": "気づいて離す",
-        "pathFactors": [
-          "正精進"
-        ],
-        "pathFactorIds": [
-          "effort"
-        ],
-        "pathLabel": "気づいたら戻る",
-        "chapterHint": "馬邑小経",
-        "fromPrev": "流れの途中で「乗っている」と気づく",
-        "toNext": "離すと心が整い、翌日へ柔らかく渡せる",
-        "todayObserve": "",
-        "todayAction": "",
-        "when": [
-          "仕事で焦った",
-          "画面に引きずられた"
-        ],
-        "sources": [
-          "MN40-P01",
-          "MN40-P02"
-        ]
-      },
-      {
-        "id": "review",
-        "weekday": 0,
-        "categoryId": null,
-        "nidanaLabel": "夜に見直す",
         "pathFactors": [
           "正見",
           "正念"
@@ -301,122 +171,609 @@
           "view",
           "mindfulness"
         ],
-        "pathLabel": "どこで切れたかを見る",
-        "chapterHint": "馬邑小経",
-        "fromPrev": "一日の語り・行いは朝からの流れの跡",
-        "toNext": "見直しが、翌朝の接触の土台になる",
-        "todayObserve": "",
-        "todayAction": "",
+        "pathLabel": "沙門道跡·外形と実質に触れる",
+        "chapterHint": "馬邑小経（小なる馬の町の経）",
+        "fromPrev": "見直しが、今朝の浄行の一歩を変える",
+        "toNext": "触のあと、蓋·慈の受が見える",
+        "todayObserve": "馬邑小——外形の苦行か、不善を離れる浄行か。朝、今日の修行が「身を傷つける苦行」か「不善を離れる浄行」か問う。",
+        "todayAction": "朝、今日の修行が「身を傷つける苦行」か「不善を離れる浄行」か問う",
         "when": [
-          "一日を閉じるとき",
-          "寝不足で散らかった日"
+          "苦行か浄行か問うた",
+          "印を問うた"
+        ],
+        "sources": [
+          "MN40-P01",
+          "MN40-P06"
+        ],
+        "leadQuote": "世尊は馬邑で告げる——『人は汝らを「沙門」と認め、汝らも自称する。だから沙門道跡…",
+        "secondaryObserve": "外形の印だけでは非沙門——世間の印か修行者の印か。今日、自分の行いがどちらの印に近いか問う。"
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正定"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "concentration"
+        ],
+        "pathLabel": "五蓋を手放し、念·四無量へ",
+        "chapterHint": "馬邑小経（小なる馬の町の経）",
+        "fromPrev": "接触のあと、蓋の受が立つ",
+        "toNext": "蓋に乗ると貪恚の欲しがりへ",
+        "todayObserve": "五蓋は心の穢れ——外の苦行では除けない。今日、五盖の一つを名づけ、手放す。",
+        "todayAction": "今日、五盖の一つを名づけ、手放す",
+        "when": [
+          "五蓋を手放した",
+          "念を意識した"
+        ],
+        "sources": [
+          "MN40-P07",
+          "MN40-P10"
+        ],
+        "leadQuote": "身口意が清浄でも、なお五蓋——貪伺·瞋恚·睡眠·掉挙·疑——を断ぜよ。外の苦行で…",
+        "secondaryObserve": "四無量·正念——内なる修習の方向。今日、七覚支の一つ（念・擇法・精進等）を意識する。"
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "intention",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "貪恚を息し、慈を願う",
+        "chapterHint": "馬邑小経（小なる馬の町の経）",
+        "fromPrev": "受のあと、貪伺·害意が立つ",
+        "toNext": "止めないと身語への掴みへ",
+        "todayObserve": "意の清浄——貪恚を息し、慈を置く。今日、他者の幸せを願う思いを一つ置く。",
+        "todayAction": "今日、他者の幸せを願う思いを一つ置く",
+        "when": [
+          "慈を一つ置いた"
+        ],
+        "sources": [
+          "MN40-P04"
+        ],
+        "leadQuote": "意が清浄でなければ、沙門道跡ではない。貪伺を息し、恚·瞋を息し、心を慈と倶ならし…",
+        "secondaryObserve": "意を清浄にする"
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "action",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正業",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "action",
+          "speech"
+        ],
+        "pathLabel": "身·語の不善への掴みを止める",
+        "chapterHint": "馬邑小経（小なる馬の町の経）",
+        "fromPrev": "欲しがりのあと、身語の掴みが手前",
+        "toNext": "掴むと沙門垢の苦が見える",
+        "todayObserve": "身の清浄——殺生·盗み·邪行を離れる。今日、殺生・盗み・邪行のいずれかを意識的に避ける。",
+        "todayAction": "今日、殺生·盗み·邪行のいずれかを意識的に避ける",
+        "when": [
+          "不善を避けた",
+          "不善語を止めた"
         ],
         "sources": [
           "MN40-P02",
-          "MN40-P07"
-        ]
+          "MN40-P03"
+        ],
+        "leadQuote": "身が清浄でなければ、沙門道跡ではない。戒を成就し身を清浄にし、殺生·不与取·邪行…",
+        "secondaryObserve": "語の清浄——虚妄·両舌·粗語·綺語を離れる。今日、嘘・両舌・粗語・雑語の一つを止める。"
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "view",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "沙門垢·害の種としての苦を見る",
+        "chapterHint": "馬邑小経（小なる馬の町の経）",
+        "fromPrev": "掴んだ結果として、垢の苦が見える",
+        "toNext": "見れば、正見·正しく示すへ離す",
+        "todayObserve": "沙門垢——息さなければ袈裟も利斧の包み。快楽の裏に、他者への害がないか一度見る。",
+        "todayAction": "快楽の裏に、他者への害がないか一度見る",
+        "when": [
+          "害がないか見た"
+        ],
+        "sources": [
+          "MN40-P05"
+        ],
+        "leadQuote": "沙門垢——貪伺·恚·瞋·慳·嫉·諛諂·無慚無愧·悪欲·邪見——これらを息さなけれ…",
+        "secondaryObserve": "利斧を袈裟に包むな"
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "view",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正語"
+        ],
+        "pathFactorIds": [
+          "view",
+          "speech"
+        ],
+        "pathLabel": "外形苦行を離れ、正見を示し確認する",
+        "chapterHint": "馬邑小経（小なる馬の町の経）",
+        "fromPrev": "苦が見えれば、外形執着を離す",
+        "toNext": "離せば、夜の浴池の振り返りへ",
+        "todayObserve": "外形苦行では正見に至らず——苦·集·滅·道を確認する。正しい見は「苦・集・滅・道」にあると確認する。",
+        "todayAction": "正しい見は「苦·集·滅·道」にあると確認する",
+        "when": [
+          "四諦を確認した",
+          "正しく示した"
+        ],
+        "sources": [
+          "MN40-P08",
+          "MN40-P09"
+        ],
+        "leadQuote": "外形の苦行·装いだけでは、沙門垢は尽きない。正見は、漏を知って尽くすことにある—…",
+        "secondaryObserve": "外形行者にも——垢を息せば沙門、と正しく示す。異論の相手にも、正しい行いを静かに示す。"
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "mindfulness",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "身語意を善業·内止として振り返る",
+        "chapterHint": "馬邑小経（小なる馬の町の経）",
+        "fromPrev": "一日の離しは、朝からの浄行の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "浴池のたとえ——内止すれば沙門。身語意を善として振り返る。就寝前、今日の身語意を善業として一つ振り返る。",
+        "todayAction": "就寝前、今日の身語意を善業として一つ振り返る",
+        "when": [
+          "一日を閉じるとき"
+        ],
+        "sources": [
+          "MN40-P11"
+        ],
+        "leadQuote": "村の近くに清泉の浴池があるように——東西南北から来た者が垢を洗い渇きを除く。四姓…",
+        "secondaryObserve": "浴池で垢を洗うように振り返る"
       }
-    ]
+    ],
+    "focusNodeId": "release",
+    "focusReason": "馬邑小経は外形を離れ沙門垢を息して真の沙門となるのが主題。既定の焦点は離す。表示は現在のペアの縁起に合わせる。",
+    "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
       "id": "MN40-P01",
-      "category": "prep",
+      "category": "view",
       "ref": "MN 40",
-      "section": "導",
-      "observe": "馬邑小経——大経と同趣、より簡潔に浄行を説く",
+      "section": "沙門道跡",
+      "observe": "馬邑小——外形の苦行か、不善を離れる浄行か。朝、今日の修行が「身を傷つける苦行」か「不善を離れる浄行」か問う。",
       "action": "朝、今日の修行が「身を傷つける苦行」か「不善を離れる浄行」か問う",
-      "quote": "裸形行者よ、汝等の行は浄行に非ず"
+      "quote": "世尊は馬邑で告げる——『人は汝らを「沙門」と認め、汝らも自称する。だから沙門道跡を学べ。真諦の沙門·不虚の沙門となれ』と。外形の装いと、不善を離れる浄行は別である。（朝、今日の修行が「身を傷つける苦行」か「不善を離れる浄行」か問う。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "朝、苦行か浄行かを問う教えに触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·沙門道跡",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-path",
+          "text": "人見汝等沙門……汝自稱沙門耶？……當學沙門道跡，莫非沙門；學沙門道跡已，要是真諦沙門、不虛沙門。",
+          "satLocus": "大正蔵 T1.725c 馬邑経",
+          "note": "沙門道跡を学べ。真諦·不虚の沙門。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P02",
-      "category": "work",
+      "category": "action",
       "ref": "MN 40",
-      "section": "身浄",
-      "observe": "身の浄行——三不善業を離れる",
+      "section": "身清浄",
+      "observe": "身の清浄——殺生·盗み·邪行を離れる。今日、殺生・盗み・邪行のいずれかを意識的に避ける。",
       "action": "今日、殺生·盗み·邪行のいずれかを意識的に避ける",
-      "quote": "殺生を離れ、殺生を捨て去る——これ、身において法に沿った・正しい"
+      "quote": "身が清浄でなければ、沙門道跡ではない。戒を成就し身を清浄にし、殺生·不与取·邪行を離れよ。（今日、殺生·盗み·邪行のいずれかを意識的に避ける。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正業",
+        "正念"
+      ],
+      "pathReason": "身の不善への掴みを意識的に避ける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·身清浄",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-body",
+          "text": "彼如是成就戒，身清淨，口、意清淨……",
+          "satLocus": "大正蔵 T1.726b 馬邑経",
+          "note": "戒を成就し身を清浄にする。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P03",
       "category": "speech",
       "ref": "MN 40",
-      "section": "語浄",
-      "observe": "語の浄行——四不善業を離れる",
+      "section": "語清浄",
+      "observe": "語の清浄——虚妄·両舌·粗語·綺語を離れる。今日、嘘・両舌・粗語・雑語の一つを止める。",
       "action": "今日、嘘·両舌·粗語·雑語の一つを止める",
-      "quote": "妄語を離れ、妄語を捨て去る——これ、語ににおいて法に沿った・正しい"
+      "quote": "口が清浄でなければ、沙門道跡ではない。口を清浄にし、虚妄·両舌·粗悪·綺語を離れよ。（今日、嘘·両舌·粗語·雑語の一つを止める。）",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正語",
+        "正念"
+      ],
+      "pathReason": "不善な語への掴みを一つ止める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·語清浄",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-speech",
+          "text": "彼如是成就戒，身清淨，口、意清淨……",
+          "satLocus": "大正蔵 T1.726b 馬邑経",
+          "note": "口の清浄。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P04",
-      "category": "desire",
+      "category": "intention",
       "ref": "MN 40",
-      "section": "意浄",
-      "observe": "意の浄行——貪·瞋·邪見を離れる",
+      "section": "意清浄·慈",
+      "observe": "意の清浄——貪恚を息し、慈を置く。今日、他者の幸せを願う思いを一つ置く。",
       "action": "今日、他者の幸せを願う思いを一つ置く",
-      "quote": "不貪欲にして、他者の所有物を欲しない——これ、意ににおいて法に沿った・正しい"
+      "quote": "意が清浄でなければ、沙門道跡ではない。貪伺を息し、恚·瞋を息し、心を慈と倶ならしめよ。（今日、他者の幸せを願う思いを一つ置く。）",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "貪恚を息し、他者の幸せを願う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·意清浄·慈",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-metta",
+          "text": "無有貪伺，心中無恚……彼心與慈俱，遍滿一方成就遊。……如是悲、喜心與捨俱……",
+          "satLocus": "大正蔵 T1.726b 馬邑経",
+          "note": "貪恚を息し、慈悲喜捨を遍満する。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P05",
-      "category": "suffering",
+      "category": "view",
       "ref": "MN 40",
-      "section": "不善",
-      "observe": "不善業は苦の種——装いを変えても業は残る",
+      "section": "沙門垢",
+      "observe": "沙門垢——息さなければ袈裟も利斧の包み。快楽の裏に、他者への害がないか一度見る。",
       "action": "快楽の裏に、他者への害がないか一度見る",
-      "quote": "法に反する行・正しくない行のだから、このように衆生は悪趣に生ず"
+      "quote": "沙門垢——貪伺·恚·瞋·慳·嫉·諛諂·無慚無愧·悪欲·邪見——これらを息さなければ、袈裟をまとっても非沙門である。利斧を僧伽梨に包んだような者だ、と世尊は説く。（快楽の裏に、他者への害がないか一度見る。）",
+      "nidanaId": "suffering",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "快楽の裏の害·沙門垢を見て苦の種を知る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·沙門垢",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-defilements",
+          "text": "若有貪伺不息貪伺，有恚不息恚……有邪見不息邪見，此沙門垢……趣至惡處未盡已，學非沙門道跡，非沙門。猶如鉞斧……僧伽梨所裹……",
+          "satLocus": "大正蔵 T1.725c–726a 馬邑経",
+          "note": "沙門垢と利斧·僧伽梨のたとえ。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P06",
-      "category": "people",
+      "category": "view",
       "ref": "MN 40",
-      "section": "牛飼",
-      "observe": "牛飼の譬喩——世間の印と修行者の印",
+      "section": "外形と実質",
+      "observe": "外形の印だけでは非沙門——世間の印か修行者の印か。今日、自分の行いがどちらの印に近いか問う。",
       "action": "今日、自分の行いがどちらの印に近いか問う",
-      "quote": "牛飼は牛の群れを知り、沙門は自らの行を知る"
+      "quote": "袈裟·裸形·編髪·一食·持水——外形の印だけでは沙門ではない。垢を息して初めて、その印は真実となる。世間の印と、修行者の実質は別である。（今日、自分の行いがどちらの印に近いか問う。）",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正命"
+      ],
+      "pathReason": "世間の印か修行者の印かを問う",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·外形と実質",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-outer",
+          "text": "持僧伽梨，我不說是沙門。……如是無衣、編髮、不坐、一食、常揚水、持水，持水者，我說非是沙門。",
+          "satLocus": "大正蔵 T1.726a–b 馬邑経",
+          "note": "袈裟·裸形等の外形だけでは非沙門。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P07",
-      "category": "work",
+      "category": "mindfulness",
       "ref": "MN 40",
-      "section": "七覚",
-      "observe": "真の苦行——七覚支の修習",
+      "section": "四無量·正念",
+      "observe": "四無量·正念——内なる修習の方向。今日、七覚支の一つ（念・擇法・精進等）を意識する。",
       "action": "今日、七覚支の一つ（念·擇法·精進等）を意識する",
-      "quote": "念覚支·擇法覚支·精進覚支·喜覚支·猗覚支·定覚支·捨覚支——これを修習する"
+      "quote": "垢を息し、正念正智にして、心を慈·悲·喜·捨と倶ならしめ、一方·四方·上下·一切世間に遍満して遊べ——これが内なる修習の方向である。（今日、七覚支の一つ（念·擇法·精進等）を意識する。）",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正定"
+      ],
+      "pathReason": "念·擇法等、内なる修習の一つを意識する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·四無量·正念",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）／類縁",
+          "t26": "T26-183-brahmavihara",
+          "text": "正念正智，無有愚癡，彼心與慈俱……如是悲、喜心與捨俱……遍滿一切世間成就遊。",
+          "satLocus": "大正蔵 T1.726b 馬邑経（類縁）",
+          "note": "正念正智·四無量。七覚支の明示はパーリ実践対応。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P08",
-      "category": "prep",
+      "category": "view",
       "ref": "MN 40",
-      "section": "正見",
-      "observe": "身を傷つける苦行は、正見に至らない",
+      "section": "正見·四諦",
+      "observe": "外形苦行では正見に至らず——苦·集·滅·道を確認する。正しい見は「苦・集・滅・道」にあると確認する。",
       "action": "正しい見は「苦·集·滅·道」にあると確認する",
-      "quote": "如是の苦行を行えども、正見·正解脱には至らず"
+      "quote": "外形の苦行·装いだけでは、沙門垢は尽きない。正見は、漏を知って尽くすことにある——苦·集·滅·道、漏·習·滅·道を如実に知る。（正しい見は「苦·集·滅·道」にあると確認する。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正精進"
+      ],
+      "pathReason": "外形苦行を離れ、苦集滅道の正見を確認する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·正見·四諦",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-asava",
+          "text": "彼如是知、如是見已，則欲漏心解脫，有漏、無明漏心解脫……生已盡，梵行已立，所作已辦……",
+          "satLocus": "大正蔵 T1.726b–c 馬邑経",
+          "note": "如実知見による漏尽。四諦の方向。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P09",
-      "category": "people",
+      "category": "speech",
       "ref": "MN 40",
-      "section": "教示",
-      "observe": "裸形行者への正しい指導——誹謗なく示す",
+      "section": "正しく示す",
+      "observe": "外形行者にも——垢を息せば沙門、と正しく示す。異論の相手にも、正しい行いを静かに示す。",
       "action": "異論の相手にも、正しい行いを静かに示す",
-      "quote": "我は汝等を誹謗せず、正しく説く——これ、如来の教えなり"
+      "quote": "無衣·編髪·持水などの外形を取る者にも、世尊は「外形だけでは非沙門。垢を息せば沙門」と正しく示す——誹謗ではなく、道跡を示す。（異論の相手にも、正しい行いを静かに示す。）",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正語",
+        "正見"
+      ],
+      "pathReason": "異論の相手にも正しい行いを静かに示す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·正しく示す",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-teach",
+          "text": "如是無衣、編髮……持水者，我說非是沙門。若持水，有貪伺息貪伺……者……是謂沙門道跡，非不沙門。",
+          "satLocus": "大正蔵 T1.726a–b 馬邑経",
+          "note": "外形行者にも——垢を息せば沙門道跡。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P10",
-      "category": "desire",
+      "category": "mindfulness",
       "ref": "MN 40",
-      "section": "五盖",
-      "observe": "五盖は心の穢れ——外の苦行では除けない",
+      "section": "五蓋",
+      "observe": "五蓋は心の穢れ——外の苦行では除けない。今日、五盖の一つを名づけ、手放す。",
       "action": "今日、五盖の一つを名づけ、手放す",
-      "quote": "貪欲·瞋恚·睡眠·掉悔·疑——この五盖を除却せよ"
+      "quote": "身口意が清浄でも、なお五蓋——貪伺·瞋恚·睡眠·掉挙·疑——を断ぜよ。外の苦行では心の穢れは除けない。内で浄除する。（今日、五盖の一つを名づけ、手放す。）",
+      "nidanaId": "feeling",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "五蓋の一つを名づけ手放す",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·五蓋",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-nivaranas",
+          "text": "無有貪伺，心中無恚，無有睡眠，無掉憍慠，斷疑度惑，正念正智……",
+          "satLocus": "大正蔵 T1.726b 馬邑経",
+          "note": "五蓋に相当する心穢の浄除。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     },
     {
       "id": "MN40-P11",
-      "category": "night",
+      "category": "mindfulness",
       "ref": "MN 40",
-      "section": "結",
-      "observe": "馬邑小経——浄行は身語意の善",
+      "section": "浴池·結",
+      "observe": "浴池のたとえ——内止すれば沙門。身語意を善として振り返る。就寝前、今日の身語意を善業として一つ振り返る。",
       "action": "就寝前、今日の身語意を善業として一つ振り返る",
-      "quote": "殺生を離れ、盗みを離れ、邪行を離れる——これ、浄行なり"
+      "quote": "村の近くに清泉の浴池があるように——東西南北から来た者が垢を洗い渇きを除く。四姓いずれも、内行して内止を得れば、沙門·梵志·聖·浄浴である。（就寝前、今日の身語意を善業として一つ振り返る。）",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正念",
+        "正見"
+      ],
+      "pathReason": "夜、身語意を善業として振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（中部・小なる馬の町の経／パーリMN40）",
+          "locus": "中部・小なる馬の町の経（MN40）·浴池·結",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8/%E4%B8%AD%E9%83%A8%E7%B5%8C%E5%85%B8%E6%A0%B9%E6%9C%AC%E4%BA%94%E5%8D%81%E7%B5%8C%E7%AF%87%E4%B8%8A"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "第９巻 中部経典一 · 馬邑小経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "中阿含183・馬邑経（T26）",
+          "t26": "T26-183-pond",
+          "text": "猶去村不遠，有好浴池……或於東方有一人來……入池快浴，去垢除熱……如是，剎利族姓子……內行止，令得內止，內止者，我說沙門……",
+          "satLocus": "大正蔵 T1.726c 馬邑経",
+          "note": "浴池のたとえ——四姓いずれも内止すれば沙門。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0026_%2C01%2C0725c",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/M-vs-M-dhammarain.pdf"
+        }
+      }
     }
   ]
 }
