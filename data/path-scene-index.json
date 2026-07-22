@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39+mn40+mn41",
+  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39+mn40+mn41+mn42",
   "entries": {
     "view": [
       {
@@ -1158,6 +1158,24 @@
           "MN41-P02",
           "MN41-P12",
           "MN41-P13"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 42,
+        "shortTitle": "鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "title": "中部 第42経・鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "pairCount": 8,
+        "pairIds": [
+          "MN42-P01",
+          "MN42-P02",
+          "MN42-P06",
+          "MN42-P07",
+          "MN42-P08",
+          "MN42-P10",
+          "MN42-P11",
+          "MN42-P12"
         ]
       }
     ],
@@ -2458,6 +2476,17 @@
           "MN41-P08",
           "MN41-P09"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 42,
+        "shortTitle": "鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "title": "中部 第42経・鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN42-P05"
+        ]
       }
     ],
     "action": [
@@ -2973,6 +3002,17 @@
           "MN41-P02",
           "MN41-P03",
           "MN41-P05"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 42,
+        "shortTitle": "鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "title": "中部 第42経・鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN42-P04"
         ]
       }
     ],
@@ -4092,6 +4132,18 @@
         "pairIds": [
           "MN40-P08",
           "MN40-P10"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 42,
+        "shortTitle": "鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "title": "中部 第42経・鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "pairCount": 2,
+        "pairIds": [
+          "MN42-P03",
+          "MN42-P10"
         ]
       }
     ],
@@ -5585,6 +5637,27 @@
           "MN41-P12",
           "MN41-P13"
         ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 42,
+        "shortTitle": "鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "title": "中部 第42経・鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "pairCount": 11,
+        "pairIds": [
+          "MN42-P01",
+          "MN42-P02",
+          "MN42-P03",
+          "MN42-P04",
+          "MN42-P05",
+          "MN42-P06",
+          "MN42-P07",
+          "MN42-P08",
+          "MN42-P09",
+          "MN42-P11",
+          "MN42-P12"
+        ]
       }
     ],
     "concentration": [
@@ -6162,6 +6235,17 @@
         "pairCount": 1,
         "pairIds": [
           "MN40-P07"
+        ]
+      },
+      {
+        "collectionId": "majjhima",
+        "collectionName": "中部",
+        "chapterId": 42,
+        "shortTitle": "鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "title": "中部 第42経・鞞蘭若村婆羅門経（ヴェーランジャー村の婆羅門たちへの経）",
+        "pairCount": 1,
+        "pairIds": [
+          "MN42-P09"
         ]
       }
     ]
