@@ -4,29 +4,26 @@
 
 | 役割 | 場所 |
 |------|------|
-| 編集 | Cursor |
+| 編集 | Cursor（SSH → ConoHa `/opt/dhamma`） |
 | 控え・履歴 | GitHub（このリポ） |
-| 公開 | ConoHa `/opt/dhamma` + pm2 `dhamma`（ポート 3053） |
+| 公開 | ConoHa + pm2 `dhamma`（ポート 3053） |
 
-## 日常の流れ
+## 毎回の開き方
 
-1. Cursor で編集する  
-2. `git commit` → `git push origin main`  
-3. ConoHa で:
+1. Cursor → **Remote-SSH: Connect to Host…** → `conoha-dhamma`  
+2. フォルダ `/opt/dhamma` を開く  
 
-```bash
-bash /opt/dhamma/deploy/pull-dhamma.sh
-```
+SSH 別名の例: `deploy/ssh-config.example`
 
-## ConoHa 初回
+## 日常の流れ（サーバー上で編集する場合）
 
 ```bash
-# 旧 /opt/dhamma がある場合は退避してから
-# mv /opt/dhamma /opt/dhamma.bak.$(date +%Y%m%d)
-
-git clone https://github.com/ozakiyo/dhamma.git /opt/dhamma
-pm2 start /opt/dhamma/deploy/ecosystem.dhamma.config.cjs
-pm2 save
+cd /opt/dhamma
+# 編集 → commit → push
+git push origin main
+bash deploy/restart-dhamma.sh
 ```
 
-詳細は `deploy/DHAMMA.md` を参照。
+状態確認: `bash deploy/status-dhamma.sh`
+
+詳細・早見表: [`deploy/DHAMMA.md`](deploy/DHAMMA.md)

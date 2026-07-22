@@ -1,0 +1,32 @@
+---
+description: ダンマアプリの編集・公開の運用（SSH・git・pm2）
+alwaysApply: true
+---
+
+# ダンマ運用
+
+## 編集場所
+
+- 作業ルートは **ConoHa の `/opt/dhamma`**（Cursor Remote-SSH）
+- 控えは GitHub `ozakiyo/dhamma`
+- 公開は pm2 プロセス **`dhamma` のみ**（ポート 3053）。`gsaxo` / `articleapp` は触らない
+
+## 日常コマンド
+
+```bash
+cd /opt/dhamma
+git add … && git commit -m "…" && git push origin main
+bash deploy/restart-dhamma.sh
+```
+
+状態確認: `bash deploy/status-dhamma.sh`  
+別マシンから取り込だけ: `bash deploy/pull-dhamma.sh`
+
+サーバー上で編集しているときは **push 後に pull は不要**（restart のみ）。
+
+## 中部の整備方針（継続中）
+
+- 出典: 経典の言葉＝アラナ / 現代語訳＝true-buddhism / 漢訳＝SAT＋對照表（なしは unmapped）
+- `actions` は維持。`alignment`・縁起×八正道・`path-scene-index`・SW キャッシュを更新
+- 再生成は `scripts/rebuild_mnNNN.py` → 実行 → commit/push → restart
+- 詳細手順は `deploy/DHAMMA.md` / `deploy/ssh-config.example`

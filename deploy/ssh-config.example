@@ -1,0 +1,8 @@
+# ローカルPCの ~/.ssh/config に追記（または Include）してください。
+# 追記後: ssh conoha-dhamma  / Cursor Remote-SSH で Host 名を選択
+
+Host conoha-dhamma
+  HostName 160.251.173.118
+  User root
+  # IdentityFile ~/.ssh/id_ed25519
+  # 鍵パスが違う場合は上を有効にして書き換える
