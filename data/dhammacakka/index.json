@@ -1,7 +1,7 @@
 {
   "title": "初転法輪（SN 56.11・転法輪経）",
   "source": "パーリ相応部 SN 56.11／雑阿含379",
-  "totalPairs": 17,
+  "totalPairs": 19,
   "chapters": [
     {
       "id": 1,
@@ -40,7 +40,7 @@
       "file": "ch5.json",
       "title": "初転法輪・道諦",
       "shortTitle": "道諦",
-      "pairCount": 2,
+      "pairCount": 4,
       "mapNote": "SN 56.11 · 苦滅道跡聖諦 · 八正道"
     },
     {

@@ -9,7 +9,7 @@
   ],
   "source": {
     "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
-    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。縁起トラックは四聖諦（苦→集→滅→道）。八正道は道諦の中身。",
     "verifyLinks": {
       "pali": {
         "label": "アラナ精舎（相応部・転法輪／法輪転起）",
@@ -63,36 +63,24 @@
     "model": "four-noble-truths",
     "chapterTitle": "初転法輪・道諦",
     "shortTitle": "道諦",
-    "spineOrigin": "苦を見た→集（渇愛）を見た→滅へ離した→道を修した",
-    "spinePath": "四諦を通しで見る。八正道は道諦の中身",
+    "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
+    "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
       {
-        "id": "contact",
-        "label": "接触"
+        "id": "dukkha",
+        "label": "苦諦"
       },
       {
-        "id": "feeling",
-        "label": "受ける"
+        "id": "samudaya",
+        "label": "集諦"
       },
       {
-        "id": "craving",
-        "label": "欲しがる"
+        "id": "nirodha",
+        "label": "滅諦"
       },
       {
-        "id": "clinging",
-        "label": "掴む"
-      },
-      {
-        "id": "suffering",
-        "label": "苦"
-      },
-      {
-        "id": "release",
-        "label": "離す"
-      },
-      {
-        "id": "review",
-        "label": "見直す"
+        "id": "magga",
+        "label": "道諦"
       }
     ],
     "pathFactors": [
@@ -131,63 +119,37 @@
     ],
     "nodes": [
       {
-        "id": "contact",
+        "id": "dukkha",
         "weekday": 1,
-        "categoryId": "magga",
-        "nidanaLabel": "接触",
+        "categoryId": "dukkha",
+        "nidanaLabel": "苦聖諦",
         "pathFactors": [
           "正見",
           "正念"
         ],
-        "pathFactorIds": [],
-        "pathLabel": "四諦·中道の教えに触れる",
-        "chapterHint": "道諦",
-        "fromPrev": "見直しが、今朝の一歩を変える",
-        "toNext": "触のあと、受·渇愛が見える",
-        "todayObserve": "苦滅道跡聖諦——八支の聖道が、苦の滅への道である。",
-        "todayAction": "今日の修行を八正道のうち一支に意識的に結びつける",
-        "when": [
-          "教えに触れた"
-        ],
-        "sources": [
-          "FT-P10"
-        ],
-        "leadQuote": "比丘たちよ、これが苦滅へ至る道の聖諦である。まさにこの八支の聖道である——正見·…",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "feeling",
-        "weekday": 2,
-        "categoryId": "dukkha",
-        "nidanaLabel": "受ける",
-        "pathFactors": [
-          "正念",
-          "正見"
-        ],
         "pathFactorIds": [
-          "mindfulness",
-          "view"
+          "view",
+          "mindfulness"
         ],
-        "pathLabel": "苦·受をあるがままに見る",
+        "pathLabel": "苦を苦として見る",
+        "pathReason": "今日の苦を、苦聖諦の一側面として認める",
         "chapterHint": "道諦",
-        "fromPrev": "接触のあと、受が立つ",
-        "toNext": "受に乗ると渇愛へ",
-        "todayObserve": "正見——苦を苦と見、集を集と見、滅を滅と見、道を道と見る入口。",
-        "todayAction": "朝、四諦を一言ずつ（苦·集·滅·道）確認し、今日の観察の入口とする",
+        "fromPrev": "道を修したあと、再び苦が見える",
+        "toNext": "苦が見えれば、集（渇愛）へ問う",
+        "todayObserve": "苦を苦として一度認める",
+        "todayAction": "今日の苦を一つ特定して観る",
         "when": [
-          "受を見た"
+          "苦を認めた"
         ],
-        "sources": [
-          "FT-P11"
-        ],
-        "leadQuote": "",
+        "sources": [],
+        "leadQuote": "比丘たちよ、これが苦滅へ至る道の聖諦である。まさにこの八支の聖道である——すなわち正見、正思惟、…",
         "secondaryObserve": ""
       },
       {
-        "id": "craving",
-        "weekday": 3,
+        "id": "samudaya",
+        "weekday": 2,
         "categoryId": "samudaya",
-        "nidanaLabel": "欲しがる／拒む",
+        "nidanaLabel": "苦集聖諦",
         "pathFactors": [
           "正思惟",
           "正念"
@@ -197,75 +159,24 @@
           "mindfulness"
         ],
         "pathLabel": "渇愛を集として名づける",
+        "pathReason": "欲しがりを、苦の集起として見る",
         "chapterHint": "道諦",
-        "fromPrev": "受のあと、欲しがりが立つ",
-        "toNext": "止めないと掴みへ",
+        "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
+        "toNext": "集を見れば、滅（離欲）へ向かう",
         "todayObserve": "渇愛を集と見る",
-        "todayAction": "今日の修行を八正道のうち一支に意識的に結びつける",
+        "todayAction": "今日の欲しがりを一つ名づける",
         "when": [
           "渇愛を名づけた"
         ],
         "sources": [],
-        "leadQuote": "",
+        "leadQuote": "比丘たちよ、これが苦滅へ至る道の聖諦である。まさにこの八支の聖道である——すなわち正見、正思惟、…",
         "secondaryObserve": ""
       },
       {
-        "id": "clinging",
-        "weekday": 4,
-        "categoryId": "dukkha",
-        "nidanaLabel": "掴む",
-        "pathFactors": [
-          "正見",
-          "正念"
-        ],
-        "pathFactorIds": [
-          "view",
-          "mindfulness"
-        ],
-        "pathLabel": "二辺·五取蘊への掴みを見る",
-        "chapterHint": "道諦",
-        "fromPrev": "欲しがりのあと、掴みが手前",
-        "toNext": "掴むと苦が見える",
-        "todayObserve": "掴みを見る",
-        "todayAction": "今日の修行を八正道のうち一支に意識的に結びつける",
-        "when": [
-          "掴みを見た"
-        ],
-        "sources": [],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "suffering",
-        "weekday": 5,
-        "categoryId": "dukkha",
-        "nidanaLabel": "苦が太る",
-        "pathFactors": [
-          "正見",
-          "正念"
-        ],
-        "pathFactorIds": [
-          "view",
-          "mindfulness"
-        ],
-        "pathLabel": "苦諦として苦を認める",
-        "chapterHint": "道諦",
-        "fromPrev": "掴んだ結果として苦が見える",
-        "toNext": "見れば、滅·道へ離す",
-        "todayObserve": "苦を認める",
-        "todayAction": "今日の修行を八正道のうち一支に意識的に結びつける",
-        "when": [
-          "苦を認めた"
-        ],
-        "sources": [],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "release",
-        "weekday": 6,
+        "id": "nirodha",
+        "weekday": 3,
         "categoryId": "nirodha",
-        "nidanaLabel": "気づいて離す",
+        "nidanaLabel": "苦滅聖諦",
         "pathFactors": [
           "正見",
           "正念"
@@ -274,47 +185,54 @@
           "view",
           "mindfulness"
         ],
-        "pathLabel": "渇愛を離欲し、中道へ戻る",
+        "pathLabel": "渇愛を離欲し、滅へ向かう",
+        "pathReason": "掴みを手放す方向へ意図を戻す",
         "chapterHint": "道諦",
-        "fromPrev": "苦が見えれば、渇愛·二辺を離す",
-        "toNext": "離せば、夜の見直しへ",
-        "todayObserve": "離欲する",
-        "todayAction": "今日の修行を八正道のうち一支に意識的に結びつける",
+        "fromPrev": "集が見えれば、離欲へ戻る",
+        "toNext": "離せば、道（八正道）を修する",
+        "todayObserve": "渇愛を離欲する",
+        "todayAction": "小さな欲しがりを一つ手放す",
         "when": [
           "離欲した"
         ],
         "sources": [],
-        "leadQuote": "",
+        "leadQuote": "比丘たちよ、これが苦滅へ至る道の聖諦である。まさにこの八支の聖道である——すなわち正見、正思惟、…",
         "secondaryObserve": ""
       },
       {
-        "id": "review",
-        "weekday": 0,
+        "id": "magga",
+        "weekday": 4,
         "categoryId": "magga",
-        "nidanaLabel": "夜に見直す",
+        "nidanaLabel": "苦滅道跡聖諦",
         "pathFactors": [
-          "正念",
-          "正見"
+          "正見",
+          "正念"
         ],
         "pathFactorIds": [
-          "mindfulness",
-          "view"
+          "view",
+          "mindfulness"
         ],
-        "pathLabel": "四諦·三転を振り返る",
+        "pathLabel": "八正道を道として修する",
+        "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
         "chapterHint": "道諦",
-        "fromPrev": "一日の離しは、朝からの道の跡",
-        "toNext": "見直しが、翌朝の接触の土台になる",
-        "todayObserve": "四諦を振り返る",
+        "fromPrev": "滅の方向が見えれば、道を修する",
+        "toNext": "道を修したあと、再び苦を見直す",
+        "todayObserve": "苦滅道跡聖諦——苦の滅へ至る道は、まさにこの八支の聖道である。中道としてすでに示された道が、ここに道諦として再び立てられる。",
         "todayAction": "今日の修行を八正道のうち一支に意識的に結びつける",
         "when": [
-          "一日を閉じるとき"
+          "道を修した"
         ],
-        "sources": [],
-        "leadQuote": "",
+        "sources": [
+          "FT-P10",
+          "FT-P11",
+          "FT-P12",
+          "FT-P13"
+        ],
+        "leadQuote": "比丘たちよ、これが苦滅へ至る道の聖諦である。まさにこの八支の聖道である——すなわち正見、正思惟、…",
         "secondaryObserve": ""
       }
     ],
-    "focusNodeId": "contact",
+    "focusNodeId": "magga",
     "focusReason": "道諦——八正道が苦滅への道跡であるのが主題。",
     "selectionMode": "pair-nidana"
   },
@@ -324,15 +242,21 @@
       "category": "magga",
       "ref": "SN 56.11",
       "section": "苦滅道跡聖諦",
-      "observe": "苦滅道跡聖諦——八支の聖道が、苦の滅への道である。",
+      "observe": "苦滅道跡聖諦——苦の滅へ至る道は、まさにこの八支の聖道である。中道としてすでに示された道が、ここに道諦として再び立てられる。",
       "action": "今日の修行を八正道のうち一支に意識的に結びつける",
-      "quote": "比丘たちよ、これが苦滅へ至る道の聖諦である。まさにこの八支の聖道である——正見·正思惟·正語·正業·正命·正精進·正念·正定である。",
-      "nidanaId": "contact",
+      "quote": "比丘たちよ、これが苦滅へ至る道の聖諦である。まさにこの八支の聖道である——すなわち正見、正思惟、正語、正業、正命、正精進、正念、正定である。",
+      "nidanaId": "magga",
       "pathFactors": [
         "正見",
-        "正念"
+        "正思惟",
+        "正語",
+        "正業",
+        "正命",
+        "正精進",
+        "正念",
+        "正定"
       ],
-      "pathReason": "道諦として八正道に触れる",
+      "pathReason": "道諦として八支聖道を通しで見る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
@@ -360,20 +284,20 @@
       "id": "FT-P11",
       "category": "magga",
       "ref": "SN 56.11",
-      "section": "正見を入口に",
-      "observe": "正見——苦を苦と見、集を集と見、滅を滅と見、道を道と見る入口。",
+      "section": "正見・正思惟",
+      "observe": "正見——苦·集·滅·道をあるがままに見る入口。正思惟——出離·無恚·無害へ心を向ける。（経は八支を列挙する。繰り返し読むために、まず慧の二支を味わう。）",
       "action": "朝、四諦を一言ずつ（苦·集·滅·道）確認し、今日の観察の入口とする",
-      "quote": "八支の聖道——正見を始めとする。正見があって、道は苦の滅へ転起する。",
-      "nidanaId": "feeling",
+      "quote": "八支の聖道——正見、正思惟……。正見があって道は苦の滅へ転起し、正思惟は出離の意図として道を支える。",
+      "nidanaId": "magga",
       "pathFactors": [
         "正見",
-        "正念"
+        "正思惟"
       ],
-      "pathReason": "苦·集·滅·道を見る正見から入る",
+      "pathReason": "四諦を見る正見と、離欲へ向かう正思惟から入る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·正見を入口に",
+          "locus": "相応部・転法輪経（SN56.11）·正見・正思惟",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -384,9 +308,85 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）／類縁",
-          "text": "正見、正志、正語、正業、正命、正方便、正念、正定。",
+          "text": "正見、正志……（道跡聖諦の冒頭二支）。",
           "satLocus": "大正蔵 T2.103c–104 転法輪（類縁）",
-          "note": "正見が道の入口。",
+          "note": "正見·正志（正思惟）。繰り返し用の分割。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P12",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "正語・正業・正命",
+      "observe": "正語·正業·正命——言葉·行為·生計が、苦を増やさない方向へ整う。（経は八支を一列に示す。繰り返し読むために、戒の三支を味わう。）",
+      "action": "今日、言葉か行為か生計のうち一つを選び、「道の支え」として一度整える",
+      "quote": "八支の聖道——……正語、正業、正命……。道は見と意図だけでは足りず、行いの場でも修される。",
+      "nidanaId": "magga",
+      "pathFactors": [
+        "正語",
+        "正業",
+        "正命"
+      ],
+      "pathReason": "身口意の行いを、道の支えとして整える",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·正語・正業・正命",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）／類縁",
+          "text": "正語、正業、正命……（道跡聖諦の中間三支）。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪（類縁）",
+          "note": "正語·正業·正命。繰り返し用の分割。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P13",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "正精進・正念・正定",
+      "observe": "正精進·正念·正定——不善を防ぎ断ち、善を生じ満たす精進。身·受·心·法をあるがままに憶念する正念。一心に安定する正定。（経は八支を一列に示す。繰り返し読むために、定の三支を味わう。）",
+      "action": "今日、精進·念·定のうち一支を選び、一つの行為に結びつける",
+      "quote": "八支の聖道——……正精進、正念、正定である。道は修されるべきものであり、修されたときに法輪は清浄となる。",
+      "nidanaId": "magga",
+      "pathFactors": [
+        "正精進",
+        "正念",
+        "正定"
+      ],
+      "pathReason": "断つ・守る・集める心の働きを道として修する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·正精進・正念・正定",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）／類縁",
+          "text": "正方便、正念、正定……（道跡聖諦の後三支）。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪（類縁）",
+          "note": "正方便·正念·正定。繰り返し用の分割。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""

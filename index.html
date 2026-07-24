@@ -76,19 +76,19 @@
         <p class="copy-status" id="copyStatus" hidden role="status"></p>
 
         <section class="crossroad" id="crossroadCard" hidden aria-label="縁起と八正道">
-          <p class="crossroad-kicker">縁起 × 八正道</p>
+          <p class="crossroad-kicker" id="crossroadKicker">縁起 × 八正道</p>
           <p class="crossroad-title sr-only" id="crossroadTitle"></p>
           <div class="track-block">
-            <p class="track-label">縁起</p>
+            <p class="track-label" id="originTrackLabel">縁起</p>
             <ol class="track track-origin" id="originTrack" aria-label="縁起の流れ"></ol>
           </div>
           <div class="track-block">
-            <p class="track-label">八正道</p>
+            <p class="track-label" id="pathTrackLabel">八正道</p>
             <ol class="track track-path" id="pathTrack" aria-label="八正道"></ol>
           </div>
           <div class="crossroad-meta">
-            <p class="crossroad-line"><span class="crossroad-key">自身の縁起の段階</span><span id="nidanaHere"></span></p>
-            <p class="crossroad-line"><span class="crossroad-key">自身の八正道の対応</span><span id="pathHere"></span></p>
+            <p class="crossroad-line"><span class="crossroad-key" id="nidanaKey">自身の縁起の段階</span><span id="nidanaHere"></span></p>
+            <p class="crossroad-line"><span class="crossroad-key" id="pathKey">自身の八正道の対応</span><span id="pathHere"></span></p>
             <p class="crossroad-flow" id="crossroadFlow"></p>
           </div>
         </section>

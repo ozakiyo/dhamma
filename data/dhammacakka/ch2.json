@@ -9,7 +9,7 @@
   ],
   "source": {
     "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
-    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。縁起トラックは四聖諦（苦→集→滅→道）。八正道は道諦の中身。",
     "verifyLinks": {
       "pali": {
         "label": "アラナ精舎（相応部・転法輪／法輪転起）",
@@ -63,36 +63,24 @@
     "model": "four-noble-truths",
     "chapterTitle": "初転法輪・苦諦",
     "shortTitle": "苦諦",
-    "spineOrigin": "苦を見た→集（渇愛）を見た→滅へ離した→道を修した",
-    "spinePath": "四諦を通しで見る。八正道は道諦の中身",
+    "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
+    "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
       {
-        "id": "contact",
-        "label": "接触"
+        "id": "dukkha",
+        "label": "苦諦"
       },
       {
-        "id": "feeling",
-        "label": "受ける"
+        "id": "samudaya",
+        "label": "集諦"
       },
       {
-        "id": "craving",
-        "label": "欲しがる"
+        "id": "nirodha",
+        "label": "滅諦"
       },
       {
-        "id": "clinging",
-        "label": "掴む"
-      },
-      {
-        "id": "suffering",
-        "label": "苦"
-      },
-      {
-        "id": "release",
-        "label": "離す"
-      },
-      {
-        "id": "review",
-        "label": "見直す"
+        "id": "magga",
+        "label": "道諦"
       }
     ],
     "pathFactors": [
@@ -131,61 +119,40 @@
     ],
     "nodes": [
       {
-        "id": "contact",
+        "id": "dukkha",
         "weekday": 1,
-        "categoryId": "magga",
-        "nidanaLabel": "接触",
+        "categoryId": "dukkha",
+        "nidanaLabel": "苦聖諦",
         "pathFactors": [
           "正見",
           "正念"
         ],
-        "pathFactorIds": [],
-        "pathLabel": "四諦·中道の教えに触れる",
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦を苦として見る",
+        "pathReason": "今日の苦を、苦聖諦の一側面として認める",
         "chapterHint": "苦諦",
-        "fromPrev": "見直しが、今朝の一歩を変える",
-        "toNext": "触のあと、受·渇愛が見える",
-        "todayObserve": "苦聖諦——生は苦、老は苦、病は苦、死は苦。要約すれば五取蘊は苦。",
+        "fromPrev": "道を修したあと、再び苦が見える",
+        "toNext": "苦が見えれば、集（渇愛）へ問う",
+        "todayObserve": "苦聖諦——生は苦、老は苦、病は苦、死は苦。愁·悲·苦·憂·悩は苦。怨憎会·愛別離·求不得は苦。要約すれば、五つの執取の集まりは苦である。",
         "todayAction": "今日生じた苦しみを一つ特定し、「これが苦諦の一側面」と静かに観る",
         "when": [
-          "教えに触れた"
+          "苦を認めた"
         ],
         "sources": [
-          "FT-P04"
+          "FT-P04",
+          "FT-P05"
         ],
-        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり…",
+        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
         "secondaryObserve": ""
       },
       {
-        "id": "feeling",
+        "id": "samudaya",
         "weekday": 2,
-        "categoryId": "dukkha",
-        "nidanaLabel": "受ける",
-        "pathFactors": [
-          "正念",
-          "正見"
-        ],
-        "pathFactorIds": [
-          "mindfulness",
-          "view"
-        ],
-        "pathLabel": "苦·受をあるがままに見る",
-        "chapterHint": "苦諦",
-        "fromPrev": "接触のあと、受が立つ",
-        "toNext": "受に乗ると渇愛へ",
-        "todayObserve": "苦聖諦——生は苦、老は苦、病は苦、死は苦。要約すれば五取蘊は苦。",
-        "todayAction": "今日生じた苦しみを一つ特定し、「これが苦諦の一側面」と静かに観る",
-        "when": [
-          "受を見た"
-        ],
-        "sources": [],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "craving",
-        "weekday": 3,
         "categoryId": "samudaya",
-        "nidanaLabel": "欲しがる／拒む",
+        "nidanaLabel": "苦集聖諦",
         "pathFactors": [
           "正思惟",
           "正念"
@@ -195,79 +162,24 @@
           "mindfulness"
         ],
         "pathLabel": "渇愛を集として名づける",
+        "pathReason": "欲しがりを、苦の集起として見る",
         "chapterHint": "苦諦",
-        "fromPrev": "受のあと、欲しがりが立つ",
-        "toNext": "止めないと掴みへ",
+        "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
+        "toNext": "集を見れば、滅（離欲）へ向かう",
         "todayObserve": "渇愛を集と見る",
-        "todayAction": "今日生じた苦しみを一つ特定し、「これが苦諦の一側面」と静かに観る",
+        "todayAction": "今日の欲しがりを一つ名づける",
         "when": [
           "渇愛を名づけた"
         ],
         "sources": [],
-        "leadQuote": "",
+        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
         "secondaryObserve": ""
       },
       {
-        "id": "clinging",
-        "weekday": 4,
-        "categoryId": "dukkha",
-        "nidanaLabel": "掴む",
-        "pathFactors": [
-          "正見",
-          "正念"
-        ],
-        "pathFactorIds": [
-          "view",
-          "mindfulness"
-        ],
-        "pathLabel": "二辺·五取蘊への掴みを見る",
-        "chapterHint": "苦諦",
-        "fromPrev": "欲しがりのあと、掴みが手前",
-        "toNext": "掴むと苦が見える",
-        "todayObserve": "五取蘊——色·受·想·行·識への執取の集まりが、苦の要約である。",
-        "todayAction": "今日「これは私のもの」と掴んだ一つを、五取蘊の苦として一度見る",
-        "when": [
-          "掴みを見た"
-        ],
-        "sources": [
-          "FT-P05"
-        ],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "suffering",
-        "weekday": 5,
-        "categoryId": "dukkha",
-        "nidanaLabel": "苦が太る",
-        "pathFactors": [
-          "正見",
-          "正念"
-        ],
-        "pathFactorIds": [
-          "view",
-          "mindfulness"
-        ],
-        "pathLabel": "苦諦として苦を認める",
-        "chapterHint": "苦諦",
-        "fromPrev": "掴んだ結果として苦が見える",
-        "toNext": "見れば、滅·道へ離す",
-        "todayObserve": "苦聖諦——生は苦、老は苦、病は苦、死は苦。要約すれば五取蘊は苦。",
-        "todayAction": "今日生じた苦しみを一つ特定し、「これが苦諦の一側面」と静かに観る",
-        "when": [
-          "苦を認めた"
-        ],
-        "sources": [
-          "FT-P04"
-        ],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "release",
-        "weekday": 6,
+        "id": "nirodha",
+        "weekday": 3,
         "categoryId": "nirodha",
-        "nidanaLabel": "気づいて離す",
+        "nidanaLabel": "苦滅聖諦",
         "pathFactors": [
           "正見",
           "正念"
@@ -276,47 +188,49 @@
           "view",
           "mindfulness"
         ],
-        "pathLabel": "渇愛を離欲し、中道へ戻る",
+        "pathLabel": "渇愛を離欲し、滅へ向かう",
+        "pathReason": "掴みを手放す方向へ意図を戻す",
         "chapterHint": "苦諦",
-        "fromPrev": "苦が見えれば、渇愛·二辺を離す",
-        "toNext": "離せば、夜の見直しへ",
-        "todayObserve": "離欲する",
-        "todayAction": "今日生じた苦しみを一つ特定し、「これが苦諦の一側面」と静かに観る",
+        "fromPrev": "集が見えれば、離欲へ戻る",
+        "toNext": "離せば、道（八正道）を修する",
+        "todayObserve": "渇愛を離欲する",
+        "todayAction": "小さな欲しがりを一つ手放す",
         "when": [
           "離欲した"
         ],
         "sources": [],
-        "leadQuote": "",
+        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
         "secondaryObserve": ""
       },
       {
-        "id": "review",
-        "weekday": 0,
+        "id": "magga",
+        "weekday": 4,
         "categoryId": "magga",
-        "nidanaLabel": "夜に見直す",
+        "nidanaLabel": "苦滅道跡聖諦",
         "pathFactors": [
-          "正念",
-          "正見"
+          "正見",
+          "正念"
         ],
         "pathFactorIds": [
-          "mindfulness",
-          "view"
+          "view",
+          "mindfulness"
         ],
-        "pathLabel": "四諦·三転を振り返る",
+        "pathLabel": "八正道を道として修する",
+        "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
         "chapterHint": "苦諦",
-        "fromPrev": "一日の離しは、朝からの道の跡",
-        "toNext": "見直しが、翌朝の接触の土台になる",
-        "todayObserve": "四諦を振り返る",
-        "todayAction": "今日生じた苦しみを一つ特定し、「これが苦諦の一側面」と静かに観る",
+        "fromPrev": "滅の方向が見えれば、道を修する",
+        "toNext": "道を修したあと、再び苦を見直す",
+        "todayObserve": "八正道の一支に触れる",
+        "todayAction": "一支を今日の行為に結びつける",
         "when": [
-          "一日を閉じるとき"
+          "道を修した"
         ],
         "sources": [],
-        "leadQuote": "",
+        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
         "secondaryObserve": ""
       }
     ],
-    "focusNodeId": "suffering",
+    "focusNodeId": "dukkha",
     "focusReason": "苦諦——生老病死·五取蘊を苦として見るのが主題。",
     "selectionMode": "pair-nidana"
   },
@@ -326,15 +240,15 @@
       "category": "dukkha",
       "ref": "SN 56.11",
       "section": "苦聖諦",
-      "observe": "苦聖諦——生は苦、老は苦、病は苦、死は苦。要約すれば五取蘊は苦。",
+      "observe": "苦聖諦——生は苦、老は苦、病は苦、死は苦。愁·悲·苦·憂·悩は苦。怨憎会·愛別離·求不得は苦。要約すれば、五つの執取の集まりは苦である。",
       "action": "今日生じた苦しみを一つ特定し、「これが苦諦の一側面」と静かに観る",
       "quote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦である。愁·悲·苦·憂·悩は苦である。怨憎の者と会うことは苦、愛する者と別れることは苦、求めて得られないことは苦である。要約すれば、五つの執取の集まりは苦である。",
-      "nidanaId": "suffering",
+      "nidanaId": "dukkha",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "今日の苦を苦諦の一側面として見る",
+      "pathReason": "今日の苦を、苦聖諦の一側面として見る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
@@ -363,15 +277,15 @@
       "category": "dukkha",
       "ref": "SN 56.11",
       "section": "五取蘊",
-      "observe": "五取蘊——色·受·想·行·識への執取の集まりが、苦の要約である。",
+      "observe": "五取蘊——色·受·想·行·識への執取の集まりが、苦の要約である。「これは私のもの」と掴むところに、苦がまとまる。",
       "action": "今日「これは私のもの」と掴んだ一つを、五取蘊の苦として一度見る",
       "quote": "要約すれば、五つの執取の集まりは苦である。（色·受·想·行·識に対する執取——それが苦の要約である。）",
-      "nidanaId": "clinging",
+      "nidanaId": "dukkha",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "掴んでいる集まりを苦として一度見る",
+      "pathReason": "掴んでいる集まりを、苦の要約として一度見る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",

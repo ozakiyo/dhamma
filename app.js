@@ -73,9 +73,14 @@
     backupStatus: document.getElementById('backupStatus'),
     copyStatus: document.getElementById('copyStatus'),
     crossroadCard: document.getElementById('crossroadCard'),
+    crossroadKicker: document.getElementById('crossroadKicker'),
     crossroadTitle: document.getElementById('crossroadTitle'),
+    originTrackLabel: document.getElementById('originTrackLabel'),
+    pathTrackLabel: document.getElementById('pathTrackLabel'),
     originTrack: document.getElementById('originTrack'),
     pathTrack: document.getElementById('pathTrack'),
+    nidanaKey: document.getElementById('nidanaKey'),
+    pathKey: document.getElementById('pathKey'),
     nidanaHere: document.getElementById('nidanaHere'),
     pathHere: document.getElementById('pathHere'),
     crossroadFlow: document.getElementById('crossroadFlow'),
@@ -447,6 +452,11 @@
     suffering: '苦',
     release: '離',
     review: '夜',
+    // 初転法輪：四諦トラック
+    dukkha: '苦',
+    samudaya: '集',
+    nirodha: '滅',
+    magga: '道',
   };
 
   const PATH_SHORT = {
@@ -489,10 +499,39 @@
       return;
     }
 
+    const isFirstTurning = state.currentCollection && state.currentCollection.id === 'dhammacakka';
     const originItems = path.originNodes || path.nodes.map((n) => ({ id: n.id, label: n.nidanaLabel || n.label }));
     const pathItems = path.pathFactors || [];
     const activeOrigin = [node.id];
-    const activePath = node.pathFactorIds || pathFactorIdsFromLabels(node.pathFactors) || [];
+    // practiceNodeForPair がペアの八正道を node に反映済み
+    const activePath = (node.pathFactorIds && node.pathFactorIds.length)
+      ? node.pathFactorIds
+      : (pathFactorIdsFromLabels(node.pathFactors) || []);
+
+    if (els.crossroadKicker) {
+      els.crossroadKicker.textContent = isFirstTurning ? '四諦 × 八正道' : '縁起 × 八正道';
+    }
+    if (els.originTrackLabel) {
+      els.originTrackLabel.textContent = isFirstTurning ? '四諦' : '縁起';
+    }
+    if (els.pathTrackLabel) {
+      els.pathTrackLabel.textContent = '八正道';
+    }
+    if (els.nidanaKey) {
+      els.nidanaKey.textContent = isFirstTurning ? 'いまの四諦' : '自身の縁起の段階';
+    }
+    if (els.pathKey) {
+      els.pathKey.textContent = isFirstTurning ? '道諦（八正道）' : '自身の八正道の対応';
+    }
+    if (els.crossroadCard) {
+      els.crossroadCard.setAttribute(
+        'aria-label',
+        isFirstTurning ? '四諦と八正道' : '縁起と八正道'
+      );
+    }
+    if (els.originTrack) {
+      els.originTrack.setAttribute('aria-label', isFirstTurning ? '四諦の流れ' : '縁起の流れ');
+    }
 
     if (els.crossroadTitle) {
       const short = path.shortTitle || '';
@@ -504,7 +543,12 @@
 
     els.crossroadCard.hidden = false;
     if (els.nidanaHere) els.nidanaHere.textContent = node.nidanaLabel || node.label || '';
-    if (els.pathHere) els.pathHere.textContent = (node.pathFactors || []).join('・');
+    if (els.pathHere) {
+      const factors = (pair && pair.pathFactors && pair.pathFactors.length)
+        ? pair.pathFactors
+        : (node.pathFactors || []);
+      els.pathHere.textContent = factors.join('・');
+    }
     if (els.crossroadFlow) {
       const reason = pair && pair.pathReason
         ? pair.pathReason

@@ -9,7 +9,7 @@
   ],
   "source": {
     "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
-    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。縁起トラックは四聖諦（苦→集→滅→道）。八正道は道諦の中身。",
     "verifyLinks": {
       "pali": {
         "label": "アラナ精舎（相応部・転法輪／法輪転起）",
@@ -63,36 +63,24 @@
     "model": "four-noble-truths",
     "chapterTitle": "初転法輪・法輪転起",
     "shortTitle": "法輪転起",
-    "spineOrigin": "苦を見た→集（渇愛）を見た→滅へ離した→道を修した",
-    "spinePath": "四諦を通しで見る。八正道は道諦の中身",
+    "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
+    "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
       {
-        "id": "contact",
-        "label": "接触"
+        "id": "dukkha",
+        "label": "苦諦"
       },
       {
-        "id": "feeling",
-        "label": "受ける"
+        "id": "samudaya",
+        "label": "集諦"
       },
       {
-        "id": "craving",
-        "label": "欲しがる"
+        "id": "nirodha",
+        "label": "滅諦"
       },
       {
-        "id": "clinging",
-        "label": "掴む"
-      },
-      {
-        "id": "suffering",
-        "label": "苦"
-      },
-      {
-        "id": "release",
-        "label": "離す"
-      },
-      {
-        "id": "review",
-        "label": "見直す"
+        "id": "magga",
+        "label": "道諦"
       }
     ],
     "pathFactors": [
@@ -131,61 +119,39 @@
     ],
     "nodes": [
       {
-        "id": "contact",
+        "id": "dukkha",
         "weekday": 1,
-        "categoryId": "magga",
-        "nidanaLabel": "接触",
+        "categoryId": "dukkha",
+        "nidanaLabel": "苦聖諦",
         "pathFactors": [
           "正見",
           "正念"
         ],
-        "pathFactorIds": [],
-        "pathLabel": "四諦·中道の教えに触れる",
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦を苦として見る",
+        "pathReason": "今日の苦を、苦聖諦の一側面として認める",
         "chapterHint": "法輪転起",
-        "fromPrev": "見直しが、今朝の一歩を変える",
-        "toNext": "触のあと、受·渇愛が見える",
-        "todayObserve": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。",
-        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
+        "fromPrev": "道を修したあと、再び苦が見える",
+        "toNext": "苦が見えれば、集（渇愛）へ問う",
+        "todayObserve": "憍陳如に塵なく汚れなき法の眼が生じた——「生起する性質のものは、滅尽する性質のものである」。",
+        "todayAction": "今日見た一つの出来事に「生じたものは滅する」と一度当てはめる",
         "when": [
-          "教えに触れた"
+          "苦を認めた"
         ],
         "sources": [
-          "FT-P16"
+          "FT-P18"
         ],
-        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあ…",
+        "leadQuote": "そして、この説示が説かれているとき、尊者コンダンニャに、塵なく汚れなき法の眼が生じた——『生起す…",
         "secondaryObserve": ""
       },
       {
-        "id": "feeling",
+        "id": "samudaya",
         "weekday": 2,
-        "categoryId": "dukkha",
-        "nidanaLabel": "受ける",
-        "pathFactors": [
-          "正念",
-          "正見"
-        ],
-        "pathFactorIds": [
-          "mindfulness",
-          "view"
-        ],
-        "pathLabel": "苦·受をあるがままに見る",
-        "chapterHint": "法輪転起",
-        "fromPrev": "接触のあと、受が立つ",
-        "toNext": "受に乗ると渇愛へ",
-        "todayObserve": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。",
-        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
-        "when": [
-          "受を見た"
-        ],
-        "sources": [],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "craving",
-        "weekday": 3,
         "categoryId": "samudaya",
-        "nidanaLabel": "欲しがる／拒む",
+        "nidanaLabel": "苦集聖諦",
         "pathFactors": [
           "正思惟",
           "正念"
@@ -195,75 +161,24 @@
           "mindfulness"
         ],
         "pathLabel": "渇愛を集として名づける",
+        "pathReason": "欲しがりを、苦の集起として見る",
         "chapterHint": "法輪転起",
-        "fromPrev": "受のあと、欲しがりが立つ",
-        "toNext": "止めないと掴みへ",
+        "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
+        "toNext": "集を見れば、滅（離欲）へ向かう",
         "todayObserve": "渇愛を集と見る",
-        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
+        "todayAction": "今日の欲しがりを一つ名づける",
         "when": [
           "渇愛を名づけた"
         ],
         "sources": [],
-        "leadQuote": "",
+        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
         "secondaryObserve": ""
       },
       {
-        "id": "clinging",
-        "weekday": 4,
-        "categoryId": "dukkha",
-        "nidanaLabel": "掴む",
-        "pathFactors": [
-          "正見",
-          "正念"
-        ],
-        "pathFactorIds": [
-          "view",
-          "mindfulness"
-        ],
-        "pathLabel": "二辺·五取蘊への掴みを見る",
-        "chapterHint": "法輪転起",
-        "fromPrev": "欲しがりのあと、掴みが手前",
-        "toNext": "掴むと苦が見える",
-        "todayObserve": "掴みを見る",
-        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
-        "when": [
-          "掴みを見た"
-        ],
-        "sources": [],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "suffering",
-        "weekday": 5,
-        "categoryId": "dukkha",
-        "nidanaLabel": "苦が太る",
-        "pathFactors": [
-          "正見",
-          "正念"
-        ],
-        "pathFactorIds": [
-          "view",
-          "mindfulness"
-        ],
-        "pathLabel": "苦諦として苦を認める",
-        "chapterHint": "法輪転起",
-        "fromPrev": "掴んだ結果として苦が見える",
-        "toNext": "見れば、滅·道へ離す",
-        "todayObserve": "苦を認める",
-        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
-        "when": [
-          "苦を認めた"
-        ],
-        "sources": [],
-        "leadQuote": "",
-        "secondaryObserve": ""
-      },
-      {
-        "id": "release",
-        "weekday": 6,
+        "id": "nirodha",
+        "weekday": 3,
         "categoryId": "nirodha",
-        "nidanaLabel": "気づいて離す",
+        "nidanaLabel": "苦滅聖諦",
         "pathFactors": [
           "正見",
           "正念"
@@ -272,64 +187,65 @@
           "view",
           "mindfulness"
         ],
-        "pathLabel": "渇愛を離欲し、中道へ戻る",
+        "pathLabel": "渇愛を離欲し、滅へ向かう",
+        "pathReason": "掴みを手放す方向へ意図を戻す",
         "chapterHint": "法輪転起",
-        "fromPrev": "苦が見えれば、渇愛·二辺を離す",
-        "toNext": "離せば、夜の見直しへ",
-        "todayObserve": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。",
-        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
+        "fromPrev": "集が見えれば、離欲へ戻る",
+        "toNext": "離せば、道（八正道）を修する",
+        "todayObserve": "渇愛を離欲する",
+        "todayAction": "小さな欲しがりを一つ手放す",
         "when": [
           "離欲した"
         ],
-        "sources": [
-          "FT-P15"
-        ],
-        "leadQuote": "",
+        "sources": [],
+        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
         "secondaryObserve": ""
       },
       {
-        "id": "review",
-        "weekday": 0,
+        "id": "magga",
+        "weekday": 4,
         "categoryId": "magga",
-        "nidanaLabel": "夜に見直す",
+        "nidanaLabel": "苦滅道跡聖諦",
         "pathFactors": [
-          "正念",
-          "正見"
+          "正見",
+          "正念"
         ],
         "pathFactorIds": [
-          "mindfulness",
-          "view"
+          "view",
+          "mindfulness"
         ],
-        "pathLabel": "四諦·三転を振り返る",
+        "pathLabel": "八正道を道として修する",
+        "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
         "chapterHint": "法輪転起",
-        "fromPrev": "一日の離しは、朝からの道の跡",
-        "toNext": "見直しが、翌朝の接触の土台になる",
-        "todayObserve": "無上の法輪が転起された——沙門·婆羅門·天·魔·梵によって転じ戻され得ない。",
-        "todayAction": "就寝前、今日の苦·集·滅·道の体験を一つずつ思い返し、清らかな修行を続けた一日を静かに認める",
+        "fromPrev": "滅の方向が見えれば、道を修する",
+        "toNext": "道を修したあと、再び苦を見直す",
+        "todayObserve": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。清浄となったとき、無上の正等覚を現正覚したと宣言した。",
+        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
         "when": [
-          "一日を閉じるとき"
+          "道を修した"
         ],
         "sources": [
-          "FT-P17"
+          "FT-P17",
+          "FT-P19"
         ],
-        "leadQuote": "",
+        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
         "secondaryObserve": ""
       }
     ],
-    "focusNodeId": "review",
+    "focusNodeId": "magga",
     "focusReason": "三転十二行相が清浄となって法輪が転起し、正覚が宣言される。",
     "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
-      "id": "FT-P15",
+      "id": "FT-P17",
       "category": "magga",
       "ref": "SN 56.11",
       "section": "正覚の宣言",
-      "observe": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。",
+      "observe": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。清浄となったとき、無上の正等覚を現正覚したと宣言した。",
       "action": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
-      "quote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔·梵の世、沙門·婆羅門·神々と人間たちからなる衆において、無上の正等覚を現正覚したとは宣言しなかった。",
-      "nidanaId": "release",
+      "quote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔·梵の世、沙門·婆羅門·神々と人間たちからなる衆において、無上の正等覚を現正覚したとは宣言しなかった。しかし、如実の知見が清浄となったとき、宣言した。",
+      "nidanaId": "magga",
       "pathFactors": [
         "正見",
         "正念"
@@ -359,14 +275,14 @@
       }
     },
     {
-      "id": "FT-P16",
+      "id": "FT-P18",
       "category": "dukkha",
       "ref": "SN 56.11",
       "section": "憍陳如の法眼",
       "observe": "憍陳如に塵なく汚れなき法の眼が生じた——「生起する性質のものは、滅尽する性質のものである」。",
       "action": "今日見た一つの出来事に「生じたものは滅する」と一度当てはめる",
       "quote": "そして、この説示が説かれているとき、尊者コンダンニャに、塵なく汚れなき法の眼が生じた——『生起する性質のものは、すべて滅尽する性質のものである』と。",
-      "nidanaId": "contact",
+      "nidanaId": "dukkha",
       "pathFactors": [
         "正見",
         "正念"
@@ -396,14 +312,14 @@
       }
     },
     {
-      "id": "FT-P17",
+      "id": "FT-P19",
       "category": "magga",
       "ref": "SN 56.11",
       "section": "転法輪",
-      "observe": "無上の法輪が転起された——沙門·婆羅門·天·魔·梵によって転じ戻され得ない。",
+      "observe": "無上の法輪が転起された——沙門·婆羅門·天·魔·梵によって転じ戻され得ない。「コンダンニャは悟った」と、諸天が声を上げた。",
       "action": "就寝前、今日の苦·集·滅·道の体験を一つずつ思い返し、清らかな修行を続けた一日を静かに認める",
-      "quote": "尊師によって、バーラーナシーの仙人堕処・鹿野苑において、無上の法輪が転起された——それは沙門によっても、婆羅門によっても、神によっても、マーラによっても、梵天によっても、誰によっても、世において転じ戻され得ない、と。",
-      "nidanaId": "review",
+      "quote": "こうして、比丘たちよ、バーラーナシーのイスパティアナの鹿の園において、無上の法輪が転起された——それは沙門によっても、婆羅門によっても、天によっても、魔によっても、梵によっても、世の誰によっても転じ戻され得ないものである。",
+      "nidanaId": "magga",
       "pathFactors": [
         "正見",
         "正念"
@@ -423,9 +339,9 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "世尊於波羅捺國仙人住處鹿野苑中，三轉十二行法輪……是故此經名轉法輪經。",
+          "text": "世尊於波羅㮈國仙人住處鹿野苑中轉法輪……沙門婆羅門若天魔梵……所不能轉。",
           "satLocus": "大正蔵 T2.104 転法輪",
-          "note": "法輪転起·経名。",
+          "note": "法輪転起。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
