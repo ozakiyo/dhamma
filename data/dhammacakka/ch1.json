@@ -1,0 +1,437 @@
+{
+  "chapter": 1,
+  "sutta": 11,
+  "title": "初転法輪・二辺と中道",
+  "shortTitle": "二辺と中道",
+  "mapNote": "SN 56.11 · 鹿野苑 · 二辺を離れた中道",
+  "suttas": [
+    "SN 56.11 転法輪経（法輪転起経）"
+  ],
+  "source": {
+    "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（相応部・転法輪／法輪転起）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・相応部）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 雑阿含・転法輪（T2.103c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+        "note": "對照: 雑阿含379（類縁T109等）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "dukkha",
+      "name": "苦諦",
+      "short": "苦",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "samudaya",
+      "name": "集諦",
+      "short": "集",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "nirodha",
+      "name": "滅諦",
+      "short": "滅",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "magga",
+      "name": "道諦",
+      "short": "道",
+      "weekday": 4,
+      "order": 4
+    }
+  ],
+  "practicePath": {
+    "model": "four-noble-truths",
+    "chapterTitle": "初転法輪・二辺と中道",
+    "shortTitle": "二辺と中道",
+    "spineOrigin": "苦を見た→集（渇愛）を見た→滅へ離した→道を修した",
+    "spinePath": "四諦を通しで見る。八正道は道諦の中身",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "magga",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正思惟"
+        ],
+        "pathFactorIds": [],
+        "pathLabel": "四諦·中道の教えに触れる",
+        "chapterHint": "二辺と中道",
+        "fromPrev": "見直しが、今朝の一歩を変える",
+        "toNext": "触のあと、受·渇愛が見える",
+        "todayObserve": "二つの辺——欲楽への耽溺と、苦行への耽溺。どちらも出家の道ではない。",
+        "todayAction": "朝、今日の行いが「欲しがり」か「無理な苦行」に寄っていないか一度見る",
+        "when": [
+          "教えに触れた"
+        ],
+        "sources": [
+          "FT-P03"
+        ],
+        "leadQuote": "比丘たちよ、出家者によって従うべきでない二つの辺がある。諸々の欲における欲楽の実…",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "dukkha",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "苦·受をあるがままに見る",
+        "chapterHint": "二辺と中道",
+        "fromPrev": "接触のあと、受が立つ",
+        "toNext": "受に乗ると渇愛へ",
+        "todayObserve": "二つの辺——欲楽への耽溺と、苦行への耽溺。どちらも出家の道ではない。",
+        "todayAction": "朝、今日の行いが「欲しがり」か「無理な苦行」に寄っていないか一度見る",
+        "when": [
+          "受を見た"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "samudaya",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "渇愛を集として名づける",
+        "chapterHint": "二辺と中道",
+        "fromPrev": "受のあと、欲しがりが立つ",
+        "toNext": "止めないと掴みへ",
+        "todayObserve": "渇愛を集と見る",
+        "todayAction": "朝、今日の行いが「欲しがり」か「無理な苦行」に寄っていないか一度見る",
+        "when": [
+          "渇愛を名づけた"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "dukkha",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "二辺·五取蘊への掴みを見る",
+        "chapterHint": "二辺と中道",
+        "fromPrev": "欲しがりのあと、掴みが手前",
+        "toNext": "掴むと苦が見える",
+        "todayObserve": "二つの辺——欲楽への耽溺と、苦行への耽溺。どちらも出家の道ではない。",
+        "todayAction": "朝、今日の行いが「欲しがり」か「無理な苦行」に寄っていないか一度見る",
+        "when": [
+          "掴みを見た"
+        ],
+        "sources": [
+          "FT-P01"
+        ],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "dukkha",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦諦として苦を認める",
+        "chapterHint": "二辺と中道",
+        "fromPrev": "掴んだ結果として苦が見える",
+        "toNext": "見れば、滅·道へ離す",
+        "todayObserve": "苦を認める",
+        "todayAction": "朝、今日の行いが「欲しがり」か「無理な苦行」に寄っていないか一度見る",
+        "when": [
+          "苦を認めた"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "nirodha",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "渇愛を離欲し、中道へ戻る",
+        "chapterHint": "二辺と中道",
+        "fromPrev": "苦が見えれば、渇愛·二辺を離す",
+        "toNext": "離せば、夜の見直しへ",
+        "todayObserve": "中道——如来が現正覚した道。眼を生じ、智を生じ、寂静·勝智·正覚·涅槃へ導く。",
+        "todayAction": "今日、「中道」を一言思い出し、極端に寄らない一歩を一つ取る",
+        "when": [
+          "離欲した"
+        ],
+        "sources": [
+          "FT-P02"
+        ],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "magga",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "四諦·三転を振り返る",
+        "chapterHint": "二辺と中道",
+        "fromPrev": "一日の離しは、朝からの道の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "四諦を振り返る",
+        "todayAction": "朝、今日の行いが「欲しがり」か「無理な苦行」に寄っていないか一度見る",
+        "when": [
+          "一日を閉じるとき"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      }
+    ],
+    "focusNodeId": "release",
+    "focusReason": "二辺（欲楽·苦行）を離れ、中道へ向かうのが主題。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "FT-P01",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "二辺",
+      "observe": "二つの辺——欲楽への耽溺と、苦行への耽溺。どちらも出家の道ではない。",
+      "action": "朝、今日の行いが「欲しがり」か「無理な苦行」に寄っていないか一度見る",
+      "quote": "比丘たちよ、出家者によって従うべきでない二つの辺がある。諸々の欲における欲楽の実践——下劣·粗野·凡夫のもの、聖ならざるもの、利益を伴わないもの。および自己を苦しめる実践——苦であり、聖ならざるもの、利益を伴わないもの。",
+      "nidanaId": "clinging",
+      "pathFactors": [
+        "正見",
+        "正思惟"
+      ],
+      "pathReason": "欲楽·苦行への掴みを離れる見を立てる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·二辺",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）／類縁",
+          "text": "（二辺を離れて中道を説く——パーリ詳説。漢訳SA379は四諦三転が中心。）",
+          "satLocus": "大正蔵 T2.103c 転法輪（類縁）",
+          "note": "二辺の明示はパーリが詳しい。漢は四諦三転が主。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P02",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "中道",
+      "observe": "中道——如来が現正覚した道。眼を生じ、智を生じ、寂静·勝智·正覚·涅槃へ導く。",
+      "action": "今日、「中道」を一言思い出し、極端に寄らない一歩を一つ取る",
+      "quote": "比丘たちよ、これらの二つの辺に近づかず、中道が如来によって現正覚された。それは眼を生じ、智を生じ、寂静·勝智·正覚·涅槃へ転起する。",
+      "nidanaId": "release",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "二辺を離れ、八正道の中道に触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·中道",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）／類縁",
+          "text": "（中道＝八支聖道。SA379は道跡聖諦として八正道を含む。）",
+          "satLocus": "大正蔵 T2.103c 転法輪（類縁）",
+          "note": "中道の核は道諦と一体。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P03",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "八正道",
+      "observe": "その中道とは八支の聖道——正見·正思惟·正語·正業·正命·正精進·正念·正定。",
+      "action": "今日、八正道のうち一支を選び、一つの行為に結びつける",
+      "quote": "比丘たちよ、では、その中道とは何か。まさにこの八支の聖道である——すなわち正見·正思惟·正語·正業·正命·正精進·正念·正定である。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念",
+        "正定"
+      ],
+      "pathReason": "中道の中身として八支に触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·八正道",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "此苦滅道跡聖諦……正見、正志、正語、正業、正命、正方便、正念、正定。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "道跡聖諦として八正道。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    }
+  ]
+}

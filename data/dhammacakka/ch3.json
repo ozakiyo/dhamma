@@ -1,0 +1,398 @@
+{
+  "chapter": 3,
+  "sutta": 11,
+  "title": "初転法輪・集諦",
+  "shortTitle": "集諦",
+  "mapNote": "SN 56.11 · 苦集聖諦",
+  "suttas": [
+    "SN 56.11 転法輪経（法輪転起経）"
+  ],
+  "source": {
+    "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（相応部・転法輪／法輪転起）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・相応部）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 雑阿含・転法輪（T2.103c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+        "note": "對照: 雑阿含379（類縁T109等）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "dukkha",
+      "name": "苦諦",
+      "short": "苦",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "samudaya",
+      "name": "集諦",
+      "short": "集",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "nirodha",
+      "name": "滅諦",
+      "short": "滅",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "magga",
+      "name": "道諦",
+      "short": "道",
+      "weekday": 4,
+      "order": 4
+    }
+  ],
+  "practicePath": {
+    "model": "four-noble-truths",
+    "chapterTitle": "初転法輪・集諦",
+    "shortTitle": "集諦",
+    "spineOrigin": "苦を見た→集（渇愛）を見た→滅へ離した→道を修した",
+    "spinePath": "四諦を通しで見る。八正道は道諦の中身",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "magga",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [],
+        "pathLabel": "四諦·中道の教えに触れる",
+        "chapterHint": "集諦",
+        "fromPrev": "見直しが、今朝の一歩を変える",
+        "toNext": "触のあと、受·渇愛が見える",
+        "todayObserve": "苦集聖諦——再有を招く渇愛。欲渇愛·有渇愛·無有渇愛。",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+        "when": [
+          "教えに触れた"
+        ],
+        "sources": [
+          "FT-P06"
+        ],
+        "leadQuote": "比丘たちよ、これが苦集聖諦である。まさにこの渇愛である——再有を伴い、喜びと貪を…",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "dukkha",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "苦·受をあるがままに見る",
+        "chapterHint": "集諦",
+        "fromPrev": "接触のあと、受が立つ",
+        "toNext": "受に乗ると渇愛へ",
+        "todayObserve": "苦集聖諦——再有を招く渇愛。欲渇愛·有渇愛·無有渇愛。",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+        "when": [
+          "受を見た"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "samudaya",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "渇愛を集として名づける",
+        "chapterHint": "集諦",
+        "fromPrev": "受のあと、欲しがりが立つ",
+        "toNext": "止めないと掴みへ",
+        "todayObserve": "苦集聖諦——再有を招く渇愛。欲渇愛·有渇愛·無有渇愛。",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+        "when": [
+          "渇愛を名づけた"
+        ],
+        "sources": [
+          "FT-P06",
+          "FT-P07"
+        ],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "dukkha",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "二辺·五取蘊への掴みを見る",
+        "chapterHint": "集諦",
+        "fromPrev": "欲しがりのあと、掴みが手前",
+        "toNext": "掴むと苦が見える",
+        "todayObserve": "掴みを見る",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+        "when": [
+          "掴みを見た"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "dukkha",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦諦として苦を認める",
+        "chapterHint": "集諦",
+        "fromPrev": "掴んだ結果として苦が見える",
+        "toNext": "見れば、滅·道へ離す",
+        "todayObserve": "苦を認める",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+        "when": [
+          "苦を認めた"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "nirodha",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "渇愛を離欲し、中道へ戻る",
+        "chapterHint": "集諦",
+        "fromPrev": "苦が見えれば、渇愛·二辺を離す",
+        "toNext": "離せば、夜の見直しへ",
+        "todayObserve": "離欲する",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+        "when": [
+          "離欲した"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "magga",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "四諦·三転を振り返る",
+        "chapterHint": "集諦",
+        "fromPrev": "一日の離しは、朝からの道の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "四諦を振り返る",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+        "when": [
+          "一日を閉じるとき"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      }
+    ],
+    "focusNodeId": "craving",
+    "focusReason": "集諦——渇愛が苦の集起であるのが主題。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "FT-P06",
+      "category": "samudaya",
+      "ref": "SN 56.11",
+      "section": "苦集聖諦",
+      "observe": "苦集聖諦——再有を招く渇愛。欲渇愛·有渇愛·無有渇愛。",
+      "action": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づけて観る",
+      "quote": "比丘たちよ、これが苦集聖諦である。まさにこの渇愛である——再有を伴い、喜びと貪を伴い、そこかしこに歓喜するもの——すなわち欲渇愛·有渇愛·無有渇愛である。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正思惟",
+        "正念"
+      ],
+      "pathReason": "渇愛を苦の集として名づける",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·苦集聖諦",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "此苦集聖諦……當知是愛喜、倶行、愛樂、彼彼喜樂……謂欲愛、有愛、無有愛。",
+          "satLocus": "大正蔵 T2.103c 転法輪",
+          "note": "集＝愛（渇愛）。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P07",
+      "category": "samudaya",
+      "ref": "SN 56.11",
+      "section": "三種の渇愛",
+      "observe": "三種の渇愛——欲しがる（欲）、あり続けたい（有）、無くしたい（無有）。",
+      "action": "今日の欲しがりが「欲·有·無有」のどれに近いか、一度だけ名づける",
+      "quote": "欲渇愛·有渇愛·無有渇愛——そこかしこに歓喜し、再有を招く渇愛である。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "欲·有·無有のどれに近いか一度見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·三種の渇愛",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "謂欲愛、有愛、無有愛。",
+          "satLocus": "大正蔵 T2.103c 転法輪",
+          "note": "三愛。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    }
+  ]
+}

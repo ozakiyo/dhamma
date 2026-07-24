@@ -1,0 +1,436 @@
+{
+  "chapter": 6,
+  "sutta": 11,
+  "title": "初転法輪・三転十二行相",
+  "shortTitle": "三転十二行相",
+  "mapNote": "SN 56.11 · 示·勧·証の三転",
+  "suttas": [
+    "SN 56.11 転法輪経（法輪転起経）"
+  ],
+  "source": {
+    "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。",
+    "verifyLinks": {
+      "pali": {
+        "label": "アラナ精舎（相応部・転法輪／法輪転起）",
+        "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8",
+        "note": "パーリ和訳出典"
+      },
+      "modern": {
+        "label": "true-buddhism（南伝大蔵経・相応部）",
+        "url": "https://true-buddhism.com/sutra/palisanzo/",
+        "note": "南伝大蔵経系の現代語表記"
+      },
+      "chinese": {
+        "label": "SAT 雑阿含・転法輪（T2.103c）",
+        "url": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+        "note": "對照: 雑阿含379（類縁T109等）"
+      }
+    },
+    "chineseMapTable": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf"
+  },
+  "categories": [
+    {
+      "id": "dukkha",
+      "name": "苦諦",
+      "short": "苦",
+      "weekday": 1,
+      "order": 1
+    },
+    {
+      "id": "samudaya",
+      "name": "集諦",
+      "short": "集",
+      "weekday": 2,
+      "order": 2
+    },
+    {
+      "id": "nirodha",
+      "name": "滅諦",
+      "short": "滅",
+      "weekday": 3,
+      "order": 3
+    },
+    {
+      "id": "magga",
+      "name": "道諦",
+      "short": "道",
+      "weekday": 4,
+      "order": 4
+    }
+  ],
+  "practicePath": {
+    "model": "four-noble-truths",
+    "chapterTitle": "初転法輪・三転十二行相",
+    "shortTitle": "三転十二行相",
+    "spineOrigin": "苦を見た→集（渇愛）を見た→滅へ離した→道を修した",
+    "spinePath": "四諦を通しで見る。八正道は道諦の中身",
+    "originNodes": [
+      {
+        "id": "contact",
+        "label": "接触"
+      },
+      {
+        "id": "feeling",
+        "label": "受ける"
+      },
+      {
+        "id": "craving",
+        "label": "欲しがる"
+      },
+      {
+        "id": "clinging",
+        "label": "掴む"
+      },
+      {
+        "id": "suffering",
+        "label": "苦"
+      },
+      {
+        "id": "release",
+        "label": "離す"
+      },
+      {
+        "id": "review",
+        "label": "見直す"
+      }
+    ],
+    "pathFactors": [
+      {
+        "id": "view",
+        "label": "正見"
+      },
+      {
+        "id": "intention",
+        "label": "正思惟"
+      },
+      {
+        "id": "speech",
+        "label": "正語"
+      },
+      {
+        "id": "action",
+        "label": "正業"
+      },
+      {
+        "id": "livelihood",
+        "label": "正命"
+      },
+      {
+        "id": "effort",
+        "label": "正精進"
+      },
+      {
+        "id": "mindfulness",
+        "label": "正念"
+      },
+      {
+        "id": "concentration",
+        "label": "正定"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "contact",
+        "weekday": 1,
+        "categoryId": "magga",
+        "nidanaLabel": "接触",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [],
+        "pathLabel": "四諦·中道の教えに触れる",
+        "chapterHint": "三転十二行相",
+        "fromPrev": "見直しが、今朝の一歩を変える",
+        "toNext": "触のあと、受·渇愛が見える",
+        "todayObserve": "示転——「これは苦である」「これは集である」……未聞の法に眼·智·明·覚が生じる。",
+        "todayAction": "朝、「苦を知ること·集を断つこと·滅を証すること·道を修すること」と四諦の課題を一言確認する",
+        "when": [
+          "教えに触れた"
+        ],
+        "sources": [
+          "FT-P12"
+        ],
+        "leadQuote": "比丘たちよ、この苦聖諦は、かつて聞かなかった諸法について——眼が生じた、智が生じ…",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "feeling",
+        "weekday": 2,
+        "categoryId": "dukkha",
+        "nidanaLabel": "受ける",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "苦·受をあるがままに見る",
+        "chapterHint": "三転十二行相",
+        "fromPrev": "接触のあと、受が立つ",
+        "toNext": "受に乗ると渇愛へ",
+        "todayObserve": "示転——「これは苦である」「これは集である」……未聞の法に眼·智·明·覚が生じる。",
+        "todayAction": "朝、「苦を知ること·集を断つこと·滅を証すること·道を修すること」と四諦の課題を一言確認する",
+        "when": [
+          "受を見た"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "craving",
+        "weekday": 3,
+        "categoryId": "samudaya",
+        "nidanaLabel": "欲しがる／拒む",
+        "pathFactors": [
+          "正思惟",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "intention",
+          "mindfulness"
+        ],
+        "pathLabel": "渇愛を集として名づける",
+        "chapterHint": "三転十二行相",
+        "fromPrev": "受のあと、欲しがりが立つ",
+        "toNext": "止めないと掴みへ",
+        "todayObserve": "勧転——苦は遍知すべき、集は断つべき、滅は証すべき、道は修すべき。",
+        "todayAction": "今日、「集は断つべき」と一度意図し、小さな欲しがりを一つ弱める",
+        "when": [
+          "渇愛を名づけた"
+        ],
+        "sources": [
+          "FT-P13"
+        ],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "clinging",
+        "weekday": 4,
+        "categoryId": "dukkha",
+        "nidanaLabel": "掴む",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "二辺·五取蘊への掴みを見る",
+        "chapterHint": "三転十二行相",
+        "fromPrev": "欲しがりのあと、掴みが手前",
+        "toNext": "掴むと苦が見える",
+        "todayObserve": "掴みを見る",
+        "todayAction": "朝、「苦を知ること·集を断つこと·滅を証すること·道を修すること」と四諦の課題を一言確認する",
+        "when": [
+          "掴みを見た"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "suffering",
+        "weekday": 5,
+        "categoryId": "dukkha",
+        "nidanaLabel": "苦が太る",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "苦諦として苦を認める",
+        "chapterHint": "三転十二行相",
+        "fromPrev": "掴んだ結果として苦が見える",
+        "toNext": "見れば、滅·道へ離す",
+        "todayObserve": "苦を認める",
+        "todayAction": "朝、「苦を知ること·集を断つこと·滅を証すること·道を修すること」と四諦の課題を一言確認する",
+        "when": [
+          "苦を認めた"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "release",
+        "weekday": 6,
+        "categoryId": "nirodha",
+        "nidanaLabel": "気づいて離す",
+        "pathFactors": [
+          "正見",
+          "正念"
+        ],
+        "pathFactorIds": [
+          "view",
+          "mindfulness"
+        ],
+        "pathLabel": "渇愛を離欲し、中道へ戻る",
+        "chapterHint": "三転十二行相",
+        "fromPrev": "苦が見えれば、渇愛·二辺を離す",
+        "toNext": "離せば、夜の見直しへ",
+        "todayObserve": "離欲する",
+        "todayAction": "朝、「苦を知ること·集を断つこと·滅を証すること·道を修すること」と四諦の課題を一言確認する",
+        "when": [
+          "離欲した"
+        ],
+        "sources": [],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      },
+      {
+        "id": "review",
+        "weekday": 0,
+        "categoryId": "magga",
+        "nidanaLabel": "夜に見直す",
+        "pathFactors": [
+          "正念",
+          "正見"
+        ],
+        "pathFactorIds": [
+          "mindfulness",
+          "view"
+        ],
+        "pathLabel": "四諦·三転を振り返る",
+        "chapterHint": "三転十二行相",
+        "fromPrev": "一日の離しは、朝からの道の跡",
+        "toNext": "見直しが、翌朝の接触の土台になる",
+        "todayObserve": "証転——苦は遍知された、集は断たれた、滅は証された、道は修された。",
+        "todayAction": "就寝前、今日「知った·断とうとした·離れた·修した」を一つずつ認める",
+        "when": [
+          "一日を閉じるとき"
+        ],
+        "sources": [
+          "FT-P14"
+        ],
+        "leadQuote": "",
+        "secondaryObserve": ""
+      }
+    ],
+    "focusNodeId": "review",
+    "focusReason": "三転——知る／なすべき／すでに、の十二行相が主題。",
+    "selectionMode": "pair-nidana"
+  },
+  "pairs": [
+    {
+      "id": "FT-P12",
+      "category": "dukkha",
+      "ref": "SN 56.11",
+      "section": "示転",
+      "observe": "示転——「これは苦である」「これは集である」……未聞の法に眼·智·明·覚が生じる。",
+      "action": "朝、「苦を知ること·集を断つこと·滅を証すること·道を修すること」と四諦の課題を一言確認する",
+      "quote": "比丘たちよ、この苦聖諦は、かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "contact",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "四諦を「これである」と示す知に触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·示転",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "此苦聖諦本所未曾聞法，當正思惟時，生眼、智、明、覺；此苦集、此苦滅、此苦滅道跡聖諦……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c 転法輪",
+          "note": "示転——本未曾聞に眼智明覚。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P13",
+      "category": "samudaya",
+      "ref": "SN 56.11",
+      "section": "勧転",
+      "observe": "勧転——苦は遍知すべき、集は断つべき、滅は証すべき、道は修すべき。",
+      "action": "今日、「集は断つべき」と一度意図し、小さな欲しがりを一つ弱める",
+      "quote": "この苦聖諦は遍知されるべきである……この苦集聖諦は断たれるべきである……この苦滅聖諦は証されるべきである……この苦滅道跡聖諦は修されるべきである——眼が生じた、智が生じた……。",
+      "nidanaId": "craving",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "集は断つべき、と勧める方向へ精進する",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·勧転",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "苦聖諦智當復知……苦集聖諦已知當斷……苦滅聖諦已知當作證……苦滅道跡聖諦已知當修……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "勧転——当知·当断·当証·当修。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P14",
+      "category": "nirodha",
+      "ref": "SN 56.11",
+      "section": "証転",
+      "observe": "証転——苦は遍知された、集は断たれた、滅は証された、道は修された。",
+      "action": "就寝前、今日「知った·断とうとした·離れた·修した」を一つずつ認める",
+      "quote": "この苦聖諦は遍知された……この苦集聖諦は断たれた……この苦滅聖諦は証された……この苦滅道跡聖諦は修された——眼が生じた、智が生じた……。",
+      "nidanaId": "review",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "すでに知った·断った方向を振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·証転",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "（已知·已断·已証·已修——三転の第三。パーリ·漢ともに十二行相。）",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "証転——已知見。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    }
+  ]
+}

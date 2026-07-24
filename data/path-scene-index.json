@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39+mn40+mn41+mn42",
+  "scope": "dhammapada-ch1-ch26+majjhima-mn1+mn2+mn3+mn4+mn5+mn6+mn7+mn8+mn9+mn10+mn11+mn12+mn13+mn14+mn15+mn16+mn17+mn18+mn19+mn20+mn21+mn22+mn23+mn24+mn25+mn26+mn27+mn28+mn29+mn30+mn31+mn32+mn33+mn34+mn35+mn36+mn37+mn38+mn39+mn40+mn41+mn42+dhammacakka-ch1-ch7",
   "entries": {
     "view": [
       {
@@ -1177,6 +1177,79 @@
           "MN42-P11",
           "MN42-P12"
         ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 1,
+        "shortTitle": "二辺と中道",
+        "title": "初転法輪・二辺と中道",
+        "pairCount": 3,
+        "pairIds": [
+          "FT-P01",
+          "FT-P02",
+          "FT-P03"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 2,
+        "shortTitle": "苦諦",
+        "title": "初転法輪・苦諦",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P04",
+          "FT-P05"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 4,
+        "shortTitle": "滅諦",
+        "title": "初転法輪・滅諦",
+        "pairCount": 1,
+        "pairIds": [
+          "FT-P08"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 5,
+        "shortTitle": "道諦",
+        "title": "初転法輪・道諦",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P10",
+          "FT-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 6,
+        "shortTitle": "三転十二行相",
+        "title": "初転法輪・三転十二行相",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P12",
+          "FT-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 7,
+        "shortTitle": "法輪転起",
+        "title": "初転法輪・法輪転起",
+        "pairCount": 3,
+        "pairIds": [
+          "FT-P15",
+          "FT-P16",
+          "FT-P17"
+        ]
       }
     ],
     "intention": [
@@ -1906,6 +1979,28 @@
           "MN41-P07",
           "MN41-P10",
           "MN41-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 1,
+        "shortTitle": "二辺と中道",
+        "title": "初転法輪・二辺と中道",
+        "pairCount": 1,
+        "pairIds": [
+          "FT-P01"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 3,
+        "shortTitle": "集諦",
+        "title": "初転法輪・集諦",
+        "pairCount": 1,
+        "pairIds": [
+          "FT-P06"
         ]
       }
     ],
@@ -4145,6 +4240,39 @@
           "MN42-P03",
           "MN42-P10"
         ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 3,
+        "shortTitle": "集諦",
+        "title": "初転法輪・集諦",
+        "pairCount": 1,
+        "pairIds": [
+          "FT-P07"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 4,
+        "shortTitle": "滅諦",
+        "title": "初転法輪・滅諦",
+        "pairCount": 1,
+        "pairIds": [
+          "FT-P09"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 6,
+        "shortTitle": "三転十二行相",
+        "title": "初転法輪・三転十二行相",
+        "pairCount": 1,
+        "pairIds": [
+          "FT-P13"
+        ]
       }
     ],
     "mindfulness": [
@@ -5658,6 +5786,92 @@
           "MN42-P11",
           "MN42-P12"
         ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 1,
+        "shortTitle": "二辺と中道",
+        "title": "初転法輪・二辺と中道",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P02",
+          "FT-P03"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 2,
+        "shortTitle": "苦諦",
+        "title": "初転法輪・苦諦",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P04",
+          "FT-P05"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 3,
+        "shortTitle": "集諦",
+        "title": "初転法輪・集諦",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P06",
+          "FT-P07"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 4,
+        "shortTitle": "滅諦",
+        "title": "初転法輪・滅諦",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P08",
+          "FT-P09"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 5,
+        "shortTitle": "道諦",
+        "title": "初転法輪・道諦",
+        "pairCount": 2,
+        "pairIds": [
+          "FT-P10",
+          "FT-P11"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 6,
+        "shortTitle": "三転十二行相",
+        "title": "初転法輪・三転十二行相",
+        "pairCount": 3,
+        "pairIds": [
+          "FT-P12",
+          "FT-P13",
+          "FT-P14"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 7,
+        "shortTitle": "法輪転起",
+        "title": "初転法輪・法輪転起",
+        "pairCount": 3,
+        "pairIds": [
+          "FT-P15",
+          "FT-P16",
+          "FT-P17"
+        ]
       }
     ],
     "concentration": [
@@ -6246,6 +6460,17 @@
         "pairCount": 1,
         "pairIds": [
           "MN42-P09"
+        ]
+      },
+      {
+        "collectionId": "dhammacakka",
+        "collectionName": "初転法輪",
+        "chapterId": 1,
+        "shortTitle": "二辺と中道",
+        "title": "初転法輪・二辺と中道",
+        "pairCount": 1,
+        "pairIds": [
+          "FT-P03"
         ]
       }
     ]

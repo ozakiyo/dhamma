@@ -1,0 +1,63 @@
+{
+  "title": "初転法輪（SN 56.11・転法輪経）",
+  "source": "パーリ相応部 SN 56.11／雑阿含379",
+  "totalPairs": 17,
+  "chapters": [
+    {
+      "id": 1,
+      "file": "ch1.json",
+      "title": "初転法輪・二辺と中道",
+      "shortTitle": "二辺と中道",
+      "pairCount": 3,
+      "mapNote": "SN 56.11 · 鹿野苑 · 二辺を離れた中道"
+    },
+    {
+      "id": 2,
+      "file": "ch2.json",
+      "title": "初転法輪・苦諦",
+      "shortTitle": "苦諦",
+      "pairCount": 2,
+      "mapNote": "SN 56.11 · 苦聖諦"
+    },
+    {
+      "id": 3,
+      "file": "ch3.json",
+      "title": "初転法輪・集諦",
+      "shortTitle": "集諦",
+      "pairCount": 2,
+      "mapNote": "SN 56.11 · 苦集聖諦"
+    },
+    {
+      "id": 4,
+      "file": "ch4.json",
+      "title": "初転法輪・滅諦",
+      "shortTitle": "滅諦",
+      "pairCount": 2,
+      "mapNote": "SN 56.11 · 苦滅聖諦"
+    },
+    {
+      "id": 5,
+      "file": "ch5.json",
+      "title": "初転法輪・道諦",
+      "shortTitle": "道諦",
+      "pairCount": 2,
+      "mapNote": "SN 56.11 · 苦滅道跡聖諦 · 八正道"
+    },
+    {
+      "id": 6,
+      "file": "ch6.json",
+      "title": "初転法輪・三転十二行相",
+      "shortTitle": "三転十二行相",
+      "pairCount": 3,
+      "mapNote": "SN 56.11 · 示·勧·証の三転"
+    },
+    {
+      "id": 7,
+      "file": "ch7.json",
+      "title": "初転法輪・法輪転起",
+      "shortTitle": "法輪転起",
+      "pairCount": 3,
+      "mapNote": "SN 56.11 · 正覚の宣言 · 憍陳如"
+    }
+  ]
+}

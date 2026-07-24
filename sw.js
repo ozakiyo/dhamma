@@ -1,4 +1,4 @@
-const CACHE = 'dhamma-v123';
+const CACHE = 'dhamma-v124';
 const BASE = new URL('.', self.location).href;
 const STATIC = [
   'index.html',
@@ -12,6 +12,10 @@ const STATIC = [
   'manifest.webmanifest',
 ];
 const DHAMMAPADA = Array.from({ length: 26 }, (_, i) => `data/ch${i + 1}.json`);
+const DHAMMACAKKA = [
+  'data/dhammacakka/index.json',
+  ...Array.from({ length: 7 }, (_, i) => `data/dhammacakka/ch${i + 1}.json`),
+];
 const TIPITAKA = [
   'data/tipitaka/index.json',
   ...Array.from({ length: 8 }, (_, i) => `data/tipitaka/tp${i + 1}.json`),
@@ -40,7 +44,7 @@ const SUTTANIPATA = [
   'data/suttanipata/index.json',
   ...Array.from({ length: 5 }, (_, i) => `data/suttanipata/snp${String(i + 1).padStart(2, '0')}.json`),
 ];
-const ASSETS = [...STATIC, ...DHAMMAPADA, ...TIPITAKA, ...DIGHA, ...MAJJHIMA, ...ANGUTTARA, ...SAMYUTTA, ...KHUDDAKA, ...SUTTANIPATA].map((file) => new URL(file, BASE).href);
+const ASSETS = [...STATIC, ...DHAMMAPADA, ...DHAMMACAKKA, ...TIPITAKA, ...DIGHA, ...MAJJHIMA, ...ANGUTTARA, ...SAMYUTTA, ...KHUDDAKA, ...SUTTANIPATA].map((file) => new URL(file, BASE).href);
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(ASSETS)));
