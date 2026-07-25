@@ -1,15 +1,15 @@
 {
   "chapter": 4,
   "sutta": 11,
-  "title": "初転法輪・滅諦",
-  "shortTitle": "滅諦",
-  "mapNote": "SN 56.11 · 苦滅聖諦",
+  "title": "初転法輪・集諦",
+  "shortTitle": "集諦",
+  "mapNote": "SN 56.11 · 苦集聖諦（渇愛・三愛）",
   "suttas": [
     "SN 56.11 転法輪経（法輪転起経）"
   ],
   "source": {
     "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
-    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。縁起トラックは四聖諦（苦→集→滅→道）。八正道は道諦の中身。",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——開経·二辺·中道·四諦·示勧証（十二行相）·正覚宣言·法輪転起（SN56.11全文寄り）。縁起トラックは四聖諦（苦→集→滅→道）。八正道は道諦の中身。",
     "verifyLinks": {
       "pali": {
         "label": "アラナ精舎（相応部・転法輪／法輪転起）",
@@ -61,8 +61,8 @@
   ],
   "practicePath": {
     "model": "four-noble-truths",
-    "chapterTitle": "初転法輪・滅諦",
-    "shortTitle": "滅諦",
+    "chapterTitle": "初転法輪・集諦",
+    "shortTitle": "集諦",
     "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
     "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
@@ -133,7 +133,7 @@
         ],
         "pathLabel": "苦を苦として見る",
         "pathReason": "今日の苦を、苦聖諦の一側面として認める",
-        "chapterHint": "滅諦",
+        "chapterHint": "集諦",
         "fromPrev": "道を修したあと、再び苦が見える",
         "toNext": "苦が見えれば、集（渇愛）へ問う",
         "todayObserve": "苦を苦として一度認める",
@@ -142,7 +142,7 @@
           "苦を認めた"
         ],
         "sources": [],
-        "leadQuote": "比丘たちよ、これが苦滅聖諦である。まさにその渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着で…",
+        "leadQuote": "比丘たちよ、これが苦集聖諦である。まさにこの渇愛である——再有を伴い、喜びと貪を伴い、そこかしこ…",
         "secondaryObserve": ""
       },
       {
@@ -160,16 +160,20 @@
         ],
         "pathLabel": "渇愛を集として名づける",
         "pathReason": "欲しがりを、苦の集起として見る",
-        "chapterHint": "滅諦",
+        "chapterHint": "集諦",
         "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
         "toNext": "集を見れば、滅（離欲）へ向かう",
-        "todayObserve": "渇愛を集と見る",
-        "todayAction": "今日の欲しがりを一つ名づける",
+        "todayObserve": "苦集聖諦——まさにこの渇愛である。再有を伴い、喜びと貪を伴い、そこかしこに歓喜するもの。",
+        "todayAction": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づける",
         "when": [
           "渇愛を名づけた"
         ],
-        "sources": [],
-        "leadQuote": "比丘たちよ、これが苦滅聖諦である。まさにその渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着で…",
+        "sources": [
+          "FT-P11",
+          "FT-P12",
+          "FT-P13"
+        ],
+        "leadQuote": "比丘たちよ、これが苦集聖諦である。まさにこの渇愛である——再有を伴い、喜びと貪を伴い、そこかしこ…",
         "secondaryObserve": ""
       },
       {
@@ -187,19 +191,16 @@
         ],
         "pathLabel": "渇愛を離欲し、滅へ向かう",
         "pathReason": "掴みを手放す方向へ意図を戻す",
-        "chapterHint": "滅諦",
+        "chapterHint": "集諦",
         "fromPrev": "集が見えれば、離欲へ戻る",
         "toNext": "離せば、道（八正道）を修する",
-        "todayObserve": "苦滅聖諦——その渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着。集が滅するとき、苦も滅する。",
-        "todayAction": "渇愛が来たら「この渇愛を離欲する」と意図し、呼吸三回に意識を戻す",
+        "todayObserve": "渇愛を離欲する",
+        "todayAction": "小さな欲しがりを一つ手放す",
         "when": [
           "離欲した"
         ],
-        "sources": [
-          "FT-P08",
-          "FT-P09"
-        ],
-        "leadQuote": "比丘たちよ、これが苦滅聖諦である。まさにその渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着で…",
+        "sources": [],
+        "leadQuote": "比丘たちよ、これが苦集聖諦である。まさにこの渇愛である——再有を伴い、喜びと貪を伴い、そこかしこ…",
         "secondaryObserve": ""
       },
       {
@@ -217,7 +218,7 @@
         ],
         "pathLabel": "八正道を道として修する",
         "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
-        "chapterHint": "滅諦",
+        "chapterHint": "集諦",
         "fromPrev": "滅の方向が見えれば、道を修する",
         "toNext": "道を修したあと、再び苦を見直す",
         "todayObserve": "八正道の一支に触れる",
@@ -226,33 +227,33 @@
           "道を修した"
         ],
         "sources": [],
-        "leadQuote": "比丘たちよ、これが苦滅聖諦である。まさにその渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着で…",
+        "leadQuote": "比丘たちよ、これが苦集聖諦である。まさにこの渇愛である——再有を伴い、喜びと貪を伴い、そこかしこ…",
         "secondaryObserve": ""
       }
     ],
-    "focusNodeId": "nirodha",
-    "focusReason": "滅諦——渇愛の残りなき離欲·滅が主題。",
+    "focusNodeId": "samudaya",
+    "focusReason": "渇愛が苦の集起であるのを全文寄りに見る。",
     "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
-      "id": "FT-P08",
-      "category": "nirodha",
+      "id": "FT-P11",
+      "category": "samudaya",
       "ref": "SN 56.11",
-      "section": "苦滅聖諦",
-      "observe": "苦滅聖諦——その渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着。集が滅するとき、苦も滅する。",
-      "action": "渇愛が来たら「この渇愛を離欲する」と意図し、呼吸三回に意識を戻す",
-      "quote": "比丘たちよ、これが苦滅聖諦である。まさにその渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着である。",
-      "nidanaId": "nirodha",
+      "section": "苦集聖諦",
+      "observe": "苦集聖諦——まさにこの渇愛である。再有を伴い、喜びと貪を伴い、そこかしこに歓喜するもの。",
+      "action": "今日生じた渇愛を一つ特定し、「これが苦の集である」と名づける",
+      "quote": "比丘たちよ、これが苦集聖諦である。まさにこの渇愛である——再有を伴い、喜びと貪を伴い、そこかしこに歓喜するもの——",
+      "nidanaId": "samudaya",
       "pathFactors": [
-        "正見",
+        "正思惟",
         "正念"
       ],
-      "pathReason": "渇愛を離欲する方向へ意図を戻す",
+      "pathReason": "渇愛を苦の集として名づける",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·苦滅聖諦",
+          "locus": "相応部・転法輪経（SN56.11）·苦集聖諦",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -263,9 +264,9 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "此苦滅聖諦……彼彼愛喜無餘斷吐盡無欲滅沒息沒。",
+          "text": "此苦集聖諦……當知是愛喜、倶行、愛樂、彼彼喜樂……",
           "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "滅＝愛の無余断。",
+          "note": "集＝愛（渇愛）。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
@@ -273,23 +274,23 @@
       }
     },
     {
-      "id": "FT-P09",
-      "category": "nirodha",
+      "id": "FT-P12",
+      "category": "samudaya",
       "ref": "SN 56.11",
-      "section": "離欲",
-      "observe": "離欲——掴みを一つ手放すとき、滅の方向が少し見える。残りなく断つことが滅諦の核心である。",
-      "action": "今日、小さな欲しがりを一つだけ手放し、「離欲の方向」と静かに認める",
-      "quote": "その渇愛の残りなき離欲·消滅·放棄·捨離·解脱·無執着——これが苦の滅である。",
-      "nidanaId": "nirodha",
+      "section": "欲渇愛",
+      "observe": "欲渇愛——諸々の欲に対する渇愛。感官の対象を欲しがる。",
+      "action": "今日の欲しがりが「欲渇愛」に近いか、一度だけ名づける",
+      "quote": "すなわち欲渇愛·有渇愛·無有渇愛である。（まず欲渇愛——諸々の欲における渇愛。）",
+      "nidanaId": "samudaya",
       "pathFactors": [
-        "正精進",
-        "正念"
+        "正念",
+        "正精進"
       ],
-      "pathReason": "一つ手放すことで滅の方向を味わう",
+      "pathReason": "欲への渇愛を一度見る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·離欲",
+          "locus": "相応部・転法輪経（SN56.11）·欲渇愛",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -299,10 +300,47 @@
         },
         "chinese": {
           "status": "mapped",
-          "pin": "雑阿含379・転法輪（T99）／類縁",
-          "text": "彼彼愛喜無餘斷吐盡無欲滅沒息沒。",
-          "satLocus": "大正蔵 T2.103c 転法輪（類縁）",
-          "note": "無欲·滅。",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "謂欲愛、有愛、無有愛。",
+          "satLocus": "大正蔵 T2.103c 転法輪",
+          "note": "三愛のうち欲愛。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P13",
+      "category": "samudaya",
+      "ref": "SN 56.11",
+      "section": "有渇愛・無有渇愛",
+      "observe": "有渇愛——あり続けたい、存在への渇愛。無有渇愛——無くしたい、消滅への渇愛。いずれも再有を招き、そこかしこに歓喜する。",
+      "action": "今日の欲しがりが「有」か「無有」に近いか、一度だけ名づける",
+      "quote": "欲渇愛·有渇愛·無有渇愛——再有を伴い、喜びと貪を伴い、そこかしこに歓喜する渇愛である。",
+      "nidanaId": "samudaya",
+      "pathFactors": [
+        "正念",
+        "正精進"
+      ],
+      "pathReason": "あり続けたい·無くしたい渇愛を見る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·有渇愛・無有渇愛",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "謂欲愛、有愛、無有愛。",
+          "satLocus": "大正蔵 T2.103c 転法輪",
+          "note": "有愛·無有愛。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""

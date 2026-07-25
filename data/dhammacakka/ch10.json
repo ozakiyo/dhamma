@@ -1,9 +1,9 @@
 {
-  "chapter": 1,
+  "chapter": 10,
   "sutta": 11,
-  "title": "初転法輪・開経",
-  "shortTitle": "開経",
-  "mapNote": "SN 56.11 · バーラーナシー・イスパティアナ鹿野苑 · 五比丘",
+  "title": "初転法輪・正覚の宣言",
+  "shortTitle": "正覚の宣言",
+  "mapNote": "SN 56.11 · 三転十二行が清浄となるまで／なったとき · 不動の解脱",
   "suttas": [
     "SN 56.11 転法輪経（法輪転起経）"
   ],
@@ -61,8 +61,8 @@
   ],
   "practicePath": {
     "model": "four-noble-truths",
-    "chapterTitle": "初転法輪・開経",
-    "shortTitle": "開経",
+    "chapterTitle": "初転法輪・正覚の宣言",
+    "shortTitle": "正覚の宣言",
     "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
     "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
@@ -133,7 +133,7 @@
         ],
         "pathLabel": "苦を苦として見る",
         "pathReason": "今日の苦を、苦聖諦の一側面として認める",
-        "chapterHint": "開経",
+        "chapterHint": "正覚の宣言",
         "fromPrev": "道を修したあと、再び苦が見える",
         "toNext": "苦が見えれば、集（渇愛）へ問う",
         "todayObserve": "苦を苦として一度認める",
@@ -142,7 +142,7 @@
           "苦を認めた"
         ],
         "sources": [],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
         "secondaryObserve": ""
       },
       {
@@ -160,7 +160,7 @@
         ],
         "pathLabel": "渇愛を集として名づける",
         "pathReason": "欲しがりを、苦の集起として見る",
-        "chapterHint": "開経",
+        "chapterHint": "正覚の宣言",
         "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
         "toNext": "集を見れば、滅（離欲）へ向かう",
         "todayObserve": "渇愛を集と見る",
@@ -169,7 +169,7 @@
           "渇愛を名づけた"
         ],
         "sources": [],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
         "secondaryObserve": ""
       },
       {
@@ -187,16 +187,18 @@
         ],
         "pathLabel": "渇愛を離欲し、滅へ向かう",
         "pathReason": "掴みを手放す方向へ意図を戻す",
-        "chapterHint": "開経",
+        "chapterHint": "正覚の宣言",
         "fromPrev": "集が見えれば、離欲へ戻る",
         "toNext": "離せば、道（八正道）を修する",
-        "todayObserve": "渇愛を離欲する",
-        "todayAction": "小さな欲しがりを一つ手放す",
+        "todayObserve": "知見が生じた——『私の解脱は不動である。これは最後の生である。今や再生はない』と。",
+        "todayAction": "就寝前、「今日の掴みを一つ離した」ことを認め、解脱の方向を静かに思う",
         "when": [
           "離欲した"
         ],
-        "sources": [],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "sources": [
+          "FT-P34"
+        ],
+        "leadQuote": "そして私に知見が生じた——『私の解脱は不動である。これは最後の生である。今や再生はない』と。…",
         "secondaryObserve": ""
       },
       {
@@ -214,45 +216,45 @@
         ],
         "pathLabel": "八正道を道として修する",
         "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
-        "chapterHint": "開経",
+        "chapterHint": "正覚の宣言",
         "fromPrev": "滅の方向が見えれば、道を修する",
         "toNext": "道を修したあと、再び苦を見直す",
-        "todayObserve": "バーラーナシーのイスパティアナ、鹿の園。世尊は五比丘の衆に呼びかけた。",
-        "todayAction": "今日の読み始めに、「鹿野苑・五比丘」と一度だけ場面を思い出す",
+        "todayObserve": "四聖諦における三転十二行の如実の知見が清浄とならなかったあいだは——無上の正等覚を現正覚したとは宣言しなかった。",
+        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相に戻る",
         "when": [
           "道を修した"
         ],
         "sources": [
-          "FT-P01",
-          "FT-P02"
+          "FT-P32",
+          "FT-P33"
         ],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
         "secondaryObserve": ""
       }
     ],
     "focusNodeId": "magga",
-    "focusReason": "鹿野苑で五比丘に法を説き始める場面が主題。",
+    "focusReason": "知見が清浄となって正覚が宣言されるのが主題。",
     "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
-      "id": "FT-P01",
+      "id": "FT-P32",
       "category": "magga",
       "ref": "SN 56.11",
-      "section": "場面",
-      "observe": "バーラーナシーのイスパティアナ、鹿の園。世尊は五比丘の衆に呼びかけた。",
-      "action": "今日の読み始めに、「鹿野苑・五比丘」と一度だけ場面を思い出す",
-      "quote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼びかけられた。",
+      "section": "未だ清浄ならず",
+      "observe": "四聖諦における三転十二行の如実の知見が清浄とならなかったあいだは——無上の正等覚を現正覚したとは宣言しなかった。",
+      "action": "今日の学びを「まだ途中」と認め、一つの行相に戻る",
+      "quote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔·梵の世、沙門·婆羅門·神々と人間たちからなる衆において、無上の正等覚を現正覚したとは宣言しなかった。",
       "nidanaId": "magga",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "教えが説かれた場を一度思い出す",
+      "pathReason": "知見が清浄になるまで覚を宣言しない基準を見る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·場面",
+          "locus": "相応部・転法輪経（SN56.11）·未だ清浄ならず",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -263,9 +265,9 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "一時、佛在波羅㮈國仙人住處鹿野苑中。爾時、世尊告諸比丘……",
-          "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "開経・鹿野苑。",
+          "text": "我於此四聖諦三轉十二行……（未清淨則不自稱）。",
+          "satLocus": "大正蔵 T2.104 転法輪",
+          "note": "未清浄→未宣言。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
@@ -273,23 +275,23 @@
       }
     },
     {
-      "id": "FT-P02",
+      "id": "FT-P33",
       "category": "magga",
       "ref": "SN 56.11",
-      "section": "五比丘",
-      "observe": "聞き手は五比丘の衆——コンダンニャをはじめとする、かつて共に苦行した者たち。",
-      "action": "「誰に向けて説かれたか」を一度思い、自分も聞き手として座る",
-      "quote": "そこで世尊は、五比丘の衆に呼びかけられた——「比丘たちよ」と。",
+      "section": "清浄となり宣言す",
+      "observe": "如実の知見が清浄となったとき——無上の正等覚を現正覚したと宣言した。",
+      "action": "今日、「清浄へ向かう一歩」を一つだけ取る",
+      "quote": "しかし、比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄となったとき——天·魔·梵の世、沙門·婆羅門·神々と人間たちからなる衆において、無上の正等覚を現正覚したと宣言した。",
       "nidanaId": "magga",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "最初の聞き手として五比丘を見る",
+      "pathReason": "知見が清浄となったときの宣言を見る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·五比丘",
+          "locus": "相応部・転法輪経（SN56.11）·清浄となり宣言す",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -300,9 +302,46 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "爾時、世尊告諸比丘……",
-          "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "五比丘への呼びかけ。",
+          "text": "我於此四聖諦三轉十二行……生眼智明覺故……自證得成阿耨多羅三藐三菩提。",
+          "satLocus": "大正蔵 T2.104 転法輪",
+          "note": "清浄→正覚の宣言。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P34",
+      "category": "nirodha",
+      "ref": "SN 56.11",
+      "section": "不動の解脱",
+      "observe": "知見が生じた——『私の解脱は不動である。これは最後の生である。今や再生はない』と。",
+      "action": "就寝前、「今日の掴みを一つ離した」ことを認め、解脱の方向を静かに思う",
+      "quote": "そして私に知見が生じた——『私の解脱は不動である。これは最後の生である。今や再生はない』と。",
+      "nidanaId": "nirodha",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "最後の生·再生なし、という知見に触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·不動の解脱",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）／類縁",
+          "text": "（不動の解脱·最後の生——パーリ詳説。漢は正覚宣言に集約。）",
+          "satLocus": "大正蔵 T2.104 転法輪（類縁）",
+          "note": "akuppā me vimutti。パーリ詳説。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""

@@ -1,15 +1,15 @@
 {
   "chapter": 7,
   "sutta": 11,
-  "title": "初転法輪・法輪転起",
-  "shortTitle": "法輪転起",
-  "mapNote": "SN 56.11 · 正覚の宣言 · 憍陳如",
+  "title": "初転法輪・示転",
+  "shortTitle": "示転",
+  "mapNote": "SN 56.11 · 示転（「これである」×四諦）",
   "suttas": [
     "SN 56.11 転法輪経（法輪転起経）"
   ],
   "source": {
     "primary": "パーリ・相応部 SN 56.11（転法輪経／法輪転起経）観察ペア単位対応",
-    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——二辺·中道·四諦·三転十二行相。縁起トラックは四聖諦（苦→集→滅→道）。八正道は道諦の中身。",
+    "note": "経典の言葉＝パーリSN56.11（アラナ精舎系和訳表記）、現代語訳＝南伝大蔵経系の読みやすい現代語表記（true-buddhismが南伝大蔵経を公開）、対応漢訳＝雑阿含379転法輪（T99）。初転法輪——開経·二辺·中道·四諦·示勧証（十二行相）·正覚宣言·法輪転起（SN56.11全文寄り）。縁起トラックは四聖諦（苦→集→滅→道）。八正道は道諦の中身。",
     "verifyLinks": {
       "pali": {
         "label": "アラナ精舎（相応部・転法輪／法輪転起）",
@@ -61,8 +61,8 @@
   ],
   "practicePath": {
     "model": "four-noble-truths",
-    "chapterTitle": "初転法輪・法輪転起",
-    "shortTitle": "法輪転起",
+    "chapterTitle": "初転法輪・示転",
+    "shortTitle": "示転",
     "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
     "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
@@ -133,18 +133,18 @@
         ],
         "pathLabel": "苦を苦として見る",
         "pathReason": "今日の苦を、苦聖諦の一側面として認める",
-        "chapterHint": "法輪転起",
+        "chapterHint": "示転",
         "fromPrev": "道を修したあと、再び苦が見える",
         "toNext": "苦が見えれば、集（渇愛）へ問う",
-        "todayObserve": "憍陳如に塵なく汚れなき法の眼が生じた——「生起する性質のものは、滅尽する性質のものである」。",
-        "todayAction": "今日見た一つの出来事に「生じたものは滅する」と一度当てはめる",
+        "todayObserve": "示転（苦）——「これは苦聖諦である」。未聞の法に眼·智·明·光が生じる。",
+        "todayAction": "朝、「これは苦である」と一言確認し、今日の観察の入口とする",
         "when": [
           "苦を認めた"
         ],
         "sources": [
-          "FT-P18"
+          "FT-P20"
         ],
-        "leadQuote": "そして、この説示が説かれているとき、尊者コンダンニャに、塵なく汚れなき法の眼が生じた——『生起す…",
+        "leadQuote": "比丘たちよ、『これは苦聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた、智が…",
         "secondaryObserve": ""
       },
       {
@@ -153,25 +153,27 @@
         "categoryId": "samudaya",
         "nidanaLabel": "苦集聖諦",
         "pathFactors": [
-          "正思惟",
+          "正見",
           "正念"
         ],
         "pathFactorIds": [
-          "intention",
+          "view",
           "mindfulness"
         ],
         "pathLabel": "渇愛を集として名づける",
         "pathReason": "欲しがりを、苦の集起として見る",
-        "chapterHint": "法輪転起",
+        "chapterHint": "示転",
         "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
         "toNext": "集を見れば、滅（離欲）へ向かう",
-        "todayObserve": "渇愛を集と見る",
-        "todayAction": "今日の欲しがりを一つ名づける",
+        "todayObserve": "示転（集）——「これは苦集聖諦である」。渇愛を集として示す知。",
+        "todayAction": "今日の欲しがりに、「これは集である」と一度当てはめる",
         "when": [
           "渇愛を名づけた"
         ],
-        "sources": [],
-        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
+        "sources": [
+          "FT-P21"
+        ],
+        "leadQuote": "比丘たちよ、『これは苦集聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた、智…",
         "secondaryObserve": ""
       },
       {
@@ -189,16 +191,18 @@
         ],
         "pathLabel": "渇愛を離欲し、滅へ向かう",
         "pathReason": "掴みを手放す方向へ意図を戻す",
-        "chapterHint": "法輪転起",
+        "chapterHint": "示転",
         "fromPrev": "集が見えれば、離欲へ戻る",
         "toNext": "離せば、道（八正道）を修する",
-        "todayObserve": "渇愛を離欲する",
-        "todayAction": "小さな欲しがりを一つ手放す",
+        "todayObserve": "示転（滅）——「これは苦滅聖諦である」。離欲·滅を示す知。",
+        "todayAction": "今日、「これは滅である」と一言思い、離欲の方向を一度見る",
         "when": [
           "離欲した"
         ],
-        "sources": [],
-        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
+        "sources": [
+          "FT-P22"
+        ],
+        "leadQuote": "比丘たちよ、『これは苦滅聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた、智…",
         "secondaryObserve": ""
       },
       {
@@ -216,82 +220,44 @@
         ],
         "pathLabel": "八正道を道として修する",
         "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
-        "chapterHint": "法輪転起",
+        "chapterHint": "示転",
         "fromPrev": "滅の方向が見えれば、道を修する",
         "toNext": "道を修したあと、再び苦を見直す",
-        "todayObserve": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。清浄となったとき、無上の正等覚を現正覚したと宣言した。",
-        "todayAction": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
+        "todayObserve": "示転（道）——「これは苦滅道跡聖諦である」。八正道を道として示す知。",
+        "todayAction": "今日、「これは道である」と一言思い、一支を行為に結びつける",
         "when": [
           "道を修した"
         ],
         "sources": [
-          "FT-P17",
-          "FT-P19"
+          "FT-P23"
         ],
-        "leadQuote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔…",
+        "leadQuote": "比丘たちよ、『これは苦滅道跡聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた…",
         "secondaryObserve": ""
       }
     ],
-    "focusNodeId": "magga",
-    "focusReason": "三転十二行相が清浄となって法輪が転起し、正覚が宣言される。",
+    "focusNodeId": "dukkha",
+    "focusReason": "四諦を「これである」と示す知——示転が主題。",
     "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
-      "id": "FT-P17",
-      "category": "magga",
-      "ref": "SN 56.11",
-      "section": "正覚の宣言",
-      "observe": "四諦の三転十二行相について如実の知見が清浄となるまで——正覚を宣言しなかった。清浄となったとき、無上の正等覚を現正覚したと宣言した。",
-      "action": "今日の学びを「まだ途中」と認め、一つの行相（知る／断つ／証する／修する）に戻る",
-      "quote": "比丘たちよ、私のこの四聖諦における三転十二行の如実の知見が、清浄とならなかったあいだは——天·魔·梵の世、沙門·婆羅門·神々と人間たちからなる衆において、無上の正等覚を現正覚したとは宣言しなかった。しかし、如実の知見が清浄となったとき、宣言した。",
-      "nidanaId": "magga",
-      "pathFactors": [
-        "正見",
-        "正念"
-      ],
-      "pathReason": "知見が清浄になるまで覚を宣言しない、という基準を見る",
-      "alignment": {
-        "pali": {
-          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·正覚の宣言",
-          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
-        },
-        "modern": {
-          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
-          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
-          "url": "https://true-buddhism.com/sutra/palisanzo/"
-        },
-        "chinese": {
-          "status": "mapped",
-          "pin": "雑阿含379・転法輪（T99）",
-          "text": "我於此四聖諦三轉十二行……生眼智明覺故……自證得成阿耨多羅三藐三菩提。",
-          "satLocus": "大正蔵 T2.104 転法輪",
-          "note": "三転十二行が清浄→正覚の宣言。",
-          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
-          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
-          "t26": ""
-        }
-      }
-    },
-    {
-      "id": "FT-P18",
+      "id": "FT-P20",
       "category": "dukkha",
       "ref": "SN 56.11",
-      "section": "憍陳如の法眼",
-      "observe": "憍陳如に塵なく汚れなき法の眼が生じた——「生起する性質のものは、滅尽する性質のものである」。",
-      "action": "今日見た一つの出来事に「生じたものは滅する」と一度当てはめる",
-      "quote": "そして、この説示が説かれているとき、尊者コンダンニャに、塵なく汚れなき法の眼が生じた——『生起する性質のものは、すべて滅尽する性質のものである』と。",
+      "section": "示・苦",
+      "observe": "示転（苦）——「これは苦聖諦である」。未聞の法に眼·智·明·光が生じる。",
+      "action": "朝、「これは苦である」と一言確認し、今日の観察の入口とする",
+      "quote": "比丘たちよ、『これは苦聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
       "nidanaId": "dukkha",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "生滅の法眼に触れる",
+      "pathReason": "「これは苦聖諦である」という示転に触れる",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·憍陳如の法眼",
+          "locus": "相応部・転法輪経（SN56.11）·示・苦",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -302,9 +268,9 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "尊者憍陳如……遠塵離垢得法眼淨……「一切集法皆是滅法」。",
-          "satLocus": "大正蔵 T2.104 転法輪",
-          "note": "憍陳如の法眼。",
+          "text": "此苦聖諦本所未曾聞法，當正思惟時，生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "示転・苦。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
@@ -312,23 +278,23 @@
       }
     },
     {
-      "id": "FT-P19",
-      "category": "magga",
+      "id": "FT-P21",
+      "category": "samudaya",
       "ref": "SN 56.11",
-      "section": "転法輪",
-      "observe": "無上の法輪が転起された——沙門·婆羅門·天·魔·梵によって転じ戻され得ない。「コンダンニャは悟った」と、諸天が声を上げた。",
-      "action": "就寝前、今日の苦·集·滅·道の体験を一つずつ思い返し、清らかな修行を続けた一日を静かに認める",
-      "quote": "こうして、比丘たちよ、バーラーナシーのイスパティアナの鹿の園において、無上の法輪が転起された——それは沙門によっても、婆羅門によっても、天によっても、魔によっても、梵によっても、世の誰によっても転じ戻され得ないものである。",
-      "nidanaId": "magga",
+      "section": "示・集",
+      "observe": "示転（集）——「これは苦集聖諦である」。渇愛を集として示す知。",
+      "action": "今日の欲しがりに、「これは集である」と一度当てはめる",
+      "quote": "比丘たちよ、『これは苦集聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "samudaya",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "法輪が転起した一日を振り返る",
+      "pathReason": "「これは苦集聖諦である」という示転に触れる",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·転法輪",
+          "locus": "相応部・転法輪経（SN56.11）·示・集",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -339,9 +305,83 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "世尊於波羅㮈國仙人住處鹿野苑中轉法輪……沙門婆羅門若天魔梵……所不能轉。",
-          "satLocus": "大正蔵 T2.104 転法輪",
-          "note": "法輪転起。",
+          "text": "此苦集……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "示転・集。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P22",
+      "category": "nirodha",
+      "ref": "SN 56.11",
+      "section": "示・滅",
+      "observe": "示転（滅）——「これは苦滅聖諦である」。離欲·滅を示す知。",
+      "action": "今日、「これは滅である」と一言思い、離欲の方向を一度見る",
+      "quote": "比丘たちよ、『これは苦滅聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "nirodha",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "「これは苦滅聖諦である」という示転に触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·示・滅",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "此苦滅……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "示転・滅。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P23",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "示・道",
+      "observe": "示転（道）——「これは苦滅道跡聖諦である」。八正道を道として示す知。",
+      "action": "今日、「これは道である」と一言思い、一支を行為に結びつける",
+      "quote": "比丘たちよ、『これは苦滅道跡聖諦である』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "magga",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "「これは苦滅道跡聖諦である」という示転に触れる",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·示・道",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "此苦滅道跡聖諦……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "示転・道。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""

@@ -1,9 +1,9 @@
 {
-  "chapter": 1,
+  "chapter": 9,
   "sutta": 11,
-  "title": "初転法輪・開経",
-  "shortTitle": "開経",
-  "mapNote": "SN 56.11 · バーラーナシー・イスパティアナ鹿野苑 · 五比丘",
+  "title": "初転法輪・証転",
+  "shortTitle": "証転",
+  "mapNote": "SN 56.11 · 証転（遍知された·断たれた·証された·修された）",
   "suttas": [
     "SN 56.11 転法輪経（法輪転起経）"
   ],
@@ -61,8 +61,8 @@
   ],
   "practicePath": {
     "model": "four-noble-truths",
-    "chapterTitle": "初転法輪・開経",
-    "shortTitle": "開経",
+    "chapterTitle": "初転法輪・証転",
+    "shortTitle": "証転",
     "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
     "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
@@ -133,16 +133,18 @@
         ],
         "pathLabel": "苦を苦として見る",
         "pathReason": "今日の苦を、苦聖諦の一側面として認める",
-        "chapterHint": "開経",
+        "chapterHint": "証転",
         "fromPrev": "道を修したあと、再び苦が見える",
         "toNext": "苦が見えれば、集（渇愛）へ問う",
-        "todayObserve": "苦を苦として一度認める",
-        "todayAction": "今日の苦を一つ特定して観る",
+        "todayObserve": "証転（苦）——この苦聖諦は遍知された。",
+        "todayAction": "就寝前、今日「苦を見た」一点を認め、証転の方向を味わう",
         "when": [
           "苦を認めた"
         ],
-        "sources": [],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "sources": [
+          "FT-P28"
+        ],
+        "leadQuote": "比丘たちよ、『この苦聖諦は遍知された』と、私に——かつて聞かなかった諸法について——眼が生じた、…",
         "secondaryObserve": ""
       },
       {
@@ -151,25 +153,27 @@
         "categoryId": "samudaya",
         "nidanaLabel": "苦集聖諦",
         "pathFactors": [
-          "正思惟",
+          "正見",
           "正念"
         ],
         "pathFactorIds": [
-          "intention",
+          "view",
           "mindfulness"
         ],
         "pathLabel": "渇愛を集として名づける",
         "pathReason": "欲しがりを、苦の集起として見る",
-        "chapterHint": "開経",
+        "chapterHint": "証転",
         "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
         "toNext": "集を見れば、滅（離欲）へ向かう",
-        "todayObserve": "渇愛を集と見る",
-        "todayAction": "今日の欲しがりを一つ名づける",
+        "todayObserve": "証転（集）——この苦集聖諦は断たれた。",
+        "todayAction": "就寝前、今日「断とうとした／弱めた」一点を認める",
         "when": [
           "渇愛を名づけた"
         ],
-        "sources": [],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "sources": [
+          "FT-P29"
+        ],
+        "leadQuote": "比丘たちよ、『この苦集聖諦は断たれた』と、私に——かつて聞かなかった諸法について——眼が生じた、…",
         "secondaryObserve": ""
       },
       {
@@ -187,16 +191,18 @@
         ],
         "pathLabel": "渇愛を離欲し、滅へ向かう",
         "pathReason": "掴みを手放す方向へ意図を戻す",
-        "chapterHint": "開経",
+        "chapterHint": "証転",
         "fromPrev": "集が見えれば、離欲へ戻る",
         "toNext": "離せば、道（八正道）を修する",
-        "todayObserve": "渇愛を離欲する",
-        "todayAction": "小さな欲しがりを一つ手放す",
+        "todayObserve": "証転（滅）——この苦滅聖諦は証された。",
+        "todayAction": "就寝前、今日「離れた一瞬」を一つ認め、証の方向を味わう",
         "when": [
           "離欲した"
         ],
-        "sources": [],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "sources": [
+          "FT-P30"
+        ],
+        "leadQuote": "比丘たちよ、『この苦滅聖諦は証された』と、私に——かつて聞かなかった諸法について——眼が生じた、…",
         "secondaryObserve": ""
       },
       {
@@ -214,45 +220,44 @@
         ],
         "pathLabel": "八正道を道として修する",
         "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
-        "chapterHint": "開経",
+        "chapterHint": "証転",
         "fromPrev": "滅の方向が見えれば、道を修する",
         "toNext": "道を修したあと、再び苦を見直す",
-        "todayObserve": "バーラーナシーのイスパティアナ、鹿の園。世尊は五比丘の衆に呼びかけた。",
-        "todayAction": "今日の読み始めに、「鹿野苑・五比丘」と一度だけ場面を思い出す",
+        "todayObserve": "証転（道）——この苦滅道跡聖諦は修された。",
+        "todayAction": "就寝前、今日「修した」一支を認め、証転の方向を味わう",
         "when": [
           "道を修した"
         ],
         "sources": [
-          "FT-P01",
-          "FT-P02"
+          "FT-P31"
         ],
-        "leadQuote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼…",
+        "leadQuote": "比丘たちよ、『この苦滅道跡聖諦は修された』と、私に——かつて聞かなかった諸法について——眼が生じ…",
         "secondaryObserve": ""
       }
     ],
-    "focusNodeId": "magga",
-    "focusReason": "鹿野苑で五比丘に法を説き始める場面が主題。",
+    "focusNodeId": "nirodha",
+    "focusReason": "四諦の課題がすでに成された知——証転が主題。",
     "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
-      "id": "FT-P01",
-      "category": "magga",
+      "id": "FT-P28",
+      "category": "dukkha",
       "ref": "SN 56.11",
-      "section": "場面",
-      "observe": "バーラーナシーのイスパティアナ、鹿の園。世尊は五比丘の衆に呼びかけた。",
-      "action": "今日の読み始めに、「鹿野苑・五比丘」と一度だけ場面を思い出す",
-      "quote": "一時、世尊はバーラーナシーのイスパティアナの鹿の園に住しておられた。そこで世尊は、五比丘の衆に呼びかけられた。",
-      "nidanaId": "magga",
+      "section": "証・苦は遍知された",
+      "observe": "証転（苦）——この苦聖諦は遍知された。",
+      "action": "就寝前、今日「苦を見た」一点を認め、証転の方向を味わう",
+      "quote": "比丘たちよ、『この苦聖諦は遍知された』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "dukkha",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "教えが説かれた場を一度思い出す",
+      "pathReason": "苦は遍知された、という証転を振り返る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·場面",
+          "locus": "相応部・転法輪経（SN56.11）·証・苦は遍知された",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -263,9 +268,9 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "一時、佛在波羅㮈國仙人住處鹿野苑中。爾時、世尊告諸比丘……",
-          "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "開経・鹿野苑。",
+          "text": "苦聖諦智已知……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "証転・已知。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
@@ -273,23 +278,23 @@
       }
     },
     {
-      "id": "FT-P02",
-      "category": "magga",
+      "id": "FT-P29",
+      "category": "samudaya",
       "ref": "SN 56.11",
-      "section": "五比丘",
-      "observe": "聞き手は五比丘の衆——コンダンニャをはじめとする、かつて共に苦行した者たち。",
-      "action": "「誰に向けて説かれたか」を一度思い、自分も聞き手として座る",
-      "quote": "そこで世尊は、五比丘の衆に呼びかけられた——「比丘たちよ」と。",
-      "nidanaId": "magga",
+      "section": "証・集は断たれた",
+      "observe": "証転（集）——この苦集聖諦は断たれた。",
+      "action": "就寝前、今日「断とうとした／弱めた」一点を認める",
+      "quote": "比丘たちよ、『この苦集聖諦は断たれた』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "samudaya",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "最初の聞き手として五比丘を見る",
+      "pathReason": "集は断たれた、という証転を振り返る",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·五比丘",
+          "locus": "相応部・転法輪経（SN56.11）·証・集は断たれた",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -300,9 +305,83 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "爾時、世尊告諸比丘……",
-          "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "五比丘への呼びかけ。",
+          "text": "苦集聖諦已知已斷……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "証転・已断。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P30",
+      "category": "nirodha",
+      "ref": "SN 56.11",
+      "section": "証・滅は証された",
+      "observe": "証転（滅）——この苦滅聖諦は証された。",
+      "action": "就寝前、今日「離れた一瞬」を一つ認め、証の方向を味わう",
+      "quote": "比丘たちよ、『この苦滅聖諦は証された』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "nirodha",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "滅は証された、という証転を振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·証・滅は証された",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "苦滅聖諦已知已作證……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "証転・已証。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P31",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "証・道は修された",
+      "observe": "証転（道）——この苦滅道跡聖諦は修された。",
+      "action": "就寝前、今日「修した」一支を認め、証転の方向を味わう",
+      "quote": "比丘たちよ、『この苦滅道跡聖諦は修された』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "magga",
+      "pathFactors": [
+        "正見",
+        "正念"
+      ],
+      "pathReason": "道は修された、という証転を振り返る",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·証・道は修された",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "苦滅道跡聖諦已知已修……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "証転・已修。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""

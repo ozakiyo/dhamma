@@ -1,63 +1,95 @@
 {
   "title": "初転法輪（SN 56.11・転法輪経）",
   "source": "パーリ相応部 SN 56.11／雑阿含379",
-  "totalPairs": 19,
+  "totalPairs": 40,
   "chapters": [
     {
       "id": 1,
       "file": "ch1.json",
-      "title": "初転法輪・二辺と中道",
-      "shortTitle": "二辺と中道",
-      "pairCount": 3,
-      "mapNote": "SN 56.11 · 鹿野苑 · 二辺を離れた中道"
+      "title": "初転法輪・開経",
+      "shortTitle": "開経",
+      "pairCount": 2,
+      "mapNote": "SN 56.11 · バーラーナシー・イスパティアナ鹿野苑 · 五比丘"
     },
     {
       "id": 2,
       "file": "ch2.json",
-      "title": "初転法輪・苦諦",
-      "shortTitle": "苦諦",
-      "pairCount": 2,
-      "mapNote": "SN 56.11 · 苦聖諦"
+      "title": "初転法輪・二辺と中道",
+      "shortTitle": "二辺と中道",
+      "pairCount": 4,
+      "mapNote": "SN 56.11 · 二辺を離れた中道 · 八正道"
     },
     {
       "id": 3,
       "file": "ch3.json",
-      "title": "初転法輪・集諦",
-      "shortTitle": "集諦",
-      "pairCount": 2,
-      "mapNote": "SN 56.11 · 苦集聖諦"
+      "title": "初転法輪・苦諦",
+      "shortTitle": "苦諦",
+      "pairCount": 4,
+      "mapNote": "SN 56.11 · 苦聖諦（生老病死·愁悲·怨憎会·愛別離·求不得·五取蘊）"
     },
     {
       "id": 4,
       "file": "ch4.json",
-      "title": "初転法輪・滅諦",
-      "shortTitle": "滅諦",
-      "pairCount": 2,
-      "mapNote": "SN 56.11 · 苦滅聖諦"
+      "title": "初転法輪・集諦",
+      "shortTitle": "集諦",
+      "pairCount": 3,
+      "mapNote": "SN 56.11 · 苦集聖諦（渇愛・三愛）"
     },
     {
       "id": 5,
       "file": "ch5.json",
+      "title": "初転法輪・滅諦",
+      "shortTitle": "滅諦",
+      "pairCount": 2,
+      "mapNote": "SN 56.11 · 苦滅聖諦（離欲·滅·放棄·捨離·解脱·無執着）"
+    },
+    {
+      "id": 6,
+      "file": "ch6.json",
       "title": "初転法輪・道諦",
       "shortTitle": "道諦",
       "pairCount": 4,
       "mapNote": "SN 56.11 · 苦滅道跡聖諦 · 八正道"
     },
     {
-      "id": 6,
-      "file": "ch6.json",
-      "title": "初転法輪・三転十二行相",
-      "shortTitle": "三転十二行相",
-      "pairCount": 3,
-      "mapNote": "SN 56.11 · 示·勧·証の三転"
-    },
-    {
       "id": 7,
       "file": "ch7.json",
+      "title": "初転法輪・示転",
+      "shortTitle": "示転",
+      "pairCount": 4,
+      "mapNote": "SN 56.11 · 示転（「これである」×四諦）"
+    },
+    {
+      "id": 8,
+      "file": "ch8.json",
+      "title": "初転法輪・勧転",
+      "shortTitle": "勧転",
+      "pairCount": 4,
+      "mapNote": "SN 56.11 · 勧転（遍知すべき·断つべき·証すべき·修すべき）"
+    },
+    {
+      "id": 9,
+      "file": "ch9.json",
+      "title": "初転法輪・証転",
+      "shortTitle": "証転",
+      "pairCount": 4,
+      "mapNote": "SN 56.11 · 証転（遍知された·断たれた·証された·修された）"
+    },
+    {
+      "id": 10,
+      "file": "ch10.json",
+      "title": "初転法輪・正覚の宣言",
+      "shortTitle": "正覚の宣言",
+      "pairCount": 3,
+      "mapNote": "SN 56.11 · 三転十二行が清浄となるまで／なったとき · 不動の解脱"
+    },
+    {
+      "id": 11,
+      "file": "ch11.json",
       "title": "初転法輪・法輪転起",
       "shortTitle": "法輪転起",
-      "pairCount": 3,
-      "mapNote": "SN 56.11 · 正覚の宣言 · 憍陳如"
+      "pairCount": 6,
+      "mapNote": "SN 56.11 · 五比丘の随喜 · 憍陳如 · 諸天 · 震動 · 阿若憍陳如"
     }
   ]
 }

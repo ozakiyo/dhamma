@@ -677,7 +677,7 @@
           `経集5品全体。蛇喩品から彼岸道品まで ${count}${unit}。各${unit}35ペアで読みます。`;
       } else if (state.currentCollection.id === 'dhammacakka') {
         els.chapterViewIntro.textContent =
-          `初転法輪（SN56.11）。二辺·中道から四諦·三転まで ${count}${unit}。四諦通しで読みます。`;
+          `初転法輪（SN56.11全文寄り）。開経から法輪転起まで ${count}${unit}。四諦通しで読みます。`;
       } else {
         els.chapterViewIntro.textContent =
           `全${count}${unit}。${unit}を選ぶと「今日のダンマ」でその${unit}が開きます。`;

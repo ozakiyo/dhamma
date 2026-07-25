@@ -1,9 +1,9 @@
 {
-  "chapter": 3,
+  "chapter": 8,
   "sutta": 11,
-  "title": "初転法輪・苦諦",
-  "shortTitle": "苦諦",
-  "mapNote": "SN 56.11 · 苦聖諦（生老病死·愁悲·怨憎会·愛別離·求不得·五取蘊）",
+  "title": "初転法輪・勧転",
+  "shortTitle": "勧転",
+  "mapNote": "SN 56.11 · 勧転（遍知すべき·断つべき·証すべき·修すべき）",
   "suttas": [
     "SN 56.11 転法輪経（法輪転起経）"
   ],
@@ -61,8 +61,8 @@
   ],
   "practicePath": {
     "model": "four-noble-truths",
-    "chapterTitle": "初転法輪・苦諦",
-    "shortTitle": "苦諦",
+    "chapterTitle": "初転法輪・勧転",
+    "shortTitle": "勧転",
     "spineOrigin": "苦諦を見た→集諦（渇愛）を見た→滅諦へ離した→道諦を修した",
     "spinePath": "四諦を通しで見る。八正道は道諦（中道）の中身",
     "originNodes": [
@@ -133,21 +133,18 @@
         ],
         "pathLabel": "苦を苦として見る",
         "pathReason": "今日の苦を、苦聖諦の一側面として認める",
-        "chapterHint": "苦諦",
+        "chapterHint": "勧転",
         "fromPrev": "道を修したあと、再び苦が見える",
         "toNext": "苦が見えれば、集（渇愛）へ問う",
-        "todayObserve": "苦聖諦——生は苦、老は苦、病は苦、死は苦。",
-        "todayAction": "今日の身体や時間の流れに、「生老病死の苦」を一度当てはめる",
+        "todayObserve": "勧転（苦）——この苦聖諦は遍知されるべきである。",
+        "todayAction": "今日の苦を一つ、「遍知すべき」として避けず、あるがままに見る",
         "when": [
           "苦を認めた"
         ],
         "sources": [
-          "FT-P07",
-          "FT-P08",
-          "FT-P09",
-          "FT-P10"
+          "FT-P24"
         ],
-        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
+        "leadQuote": "比丘たちよ、『この苦聖諦は遍知されるべきである』と、私に——かつて聞かなかった諸法について——眼…",
         "secondaryObserve": ""
       },
       {
@@ -156,25 +153,27 @@
         "categoryId": "samudaya",
         "nidanaLabel": "苦集聖諦",
         "pathFactors": [
-          "正思惟",
+          "正精進",
           "正念"
         ],
         "pathFactorIds": [
-          "intention",
+          "effort",
           "mindfulness"
         ],
         "pathLabel": "渇愛を集として名づける",
         "pathReason": "欲しがりを、苦の集起として見る",
-        "chapterHint": "苦諦",
+        "chapterHint": "勧転",
         "fromPrev": "苦のあと、集（渇愛）が手前に立つ",
         "toNext": "集を見れば、滅（離欲）へ向かう",
-        "todayObserve": "渇愛を集と見る",
-        "todayAction": "今日の欲しがりを一つ名づける",
+        "todayObserve": "勧転（集）——この苦集聖諦は断たれるべきである。断つべきは苦そのものではなく、その原因である渇愛である。",
+        "todayAction": "今日、「集は断つべき」と一度意図し、小さな欲しがりを一つ弱める",
         "when": [
           "渇愛を名づけた"
         ],
-        "sources": [],
-        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
+        "sources": [
+          "FT-P25"
+        ],
+        "leadQuote": "比丘たちよ、『この苦集聖諦は断たれるべきである』と、私に——かつて聞かなかった諸法について——眼…",
         "secondaryObserve": ""
       },
       {
@@ -192,16 +191,18 @@
         ],
         "pathLabel": "渇愛を離欲し、滅へ向かう",
         "pathReason": "掴みを手放す方向へ意図を戻す",
-        "chapterHint": "苦諦",
+        "chapterHint": "勧転",
         "fromPrev": "集が見えれば、離欲へ戻る",
         "toNext": "離せば、道（八正道）を修する",
-        "todayObserve": "渇愛を離欲する",
-        "todayAction": "小さな欲しがりを一つ手放す",
+        "todayObserve": "勧転（滅）——この苦滅聖諦は証されるべきである。自ら現証する課題である。",
+        "todayAction": "今日、「滅は証すべき」と意図し、離欲の一瞬を静かに認める",
         "when": [
           "離欲した"
         ],
-        "sources": [],
-        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
+        "sources": [
+          "FT-P26"
+        ],
+        "leadQuote": "比丘たちよ、『この苦滅聖諦は証されるべきである』と、私に——かつて聞かなかった諸法について——眼…",
         "secondaryObserve": ""
       },
       {
@@ -210,51 +211,53 @@
         "categoryId": "magga",
         "nidanaLabel": "苦滅道跡聖諦",
         "pathFactors": [
-          "正見",
+          "正精進",
           "正念"
         ],
         "pathFactorIds": [
-          "view",
+          "effort",
           "mindfulness"
         ],
         "pathLabel": "八正道を道として修する",
         "pathReason": "中道＝八支聖道を、苦滅への道跡として歩む",
-        "chapterHint": "苦諦",
+        "chapterHint": "勧転",
         "fromPrev": "滅の方向が見えれば、道を修する",
         "toNext": "道を修したあと、再び苦を見直す",
-        "todayObserve": "八正道の一支に触れる",
-        "todayAction": "一支を今日の行為に結びつける",
+        "todayObserve": "勧転（道）——この苦滅道跡聖諦は修されるべきである。修する——すでに芽にあるものを育てる。",
+        "todayAction": "今日、「道は修すべき」と意図し、八正道の一支を一度実行する",
         "when": [
           "道を修した"
         ],
-        "sources": [],
-        "leadQuote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦であ…",
+        "sources": [
+          "FT-P27"
+        ],
+        "leadQuote": "比丘たちよ、『この苦滅道跡聖諦は修されるべきである』と、私に——かつて聞かなかった諸法について—…",
         "secondaryObserve": ""
       }
     ],
-    "focusNodeId": "dukkha",
-    "focusReason": "苦聖諦の列挙を漏れなく見るのが主題。",
+    "focusNodeId": "samudaya",
+    "focusReason": "四諦になすべき課題——勧転が主題。",
     "selectionMode": "pair-nidana"
   },
   "pairs": [
     {
-      "id": "FT-P07",
+      "id": "FT-P24",
       "category": "dukkha",
       "ref": "SN 56.11",
-      "section": "生老病死",
-      "observe": "苦聖諦——生は苦、老は苦、病は苦、死は苦。",
-      "action": "今日の身体や時間の流れに、「生老病死の苦」を一度当てはめる",
-      "quote": "比丘たちよ、これが苦聖諦である。生は苦であり、老もまた苦であり、病もまた苦であり、死もまた苦である。",
+      "section": "勧・苦は遍知すべき",
+      "observe": "勧転（苦）——この苦聖諦は遍知されるべきである。",
+      "action": "今日の苦を一つ、「遍知すべき」として避けず、あるがままに見る",
+      "quote": "比丘たちよ、『この苦聖諦は遍知されるべきである』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
       "nidanaId": "dukkha",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "生·老·病·死を苦聖諦として見る",
+      "pathReason": "苦は遍知されるべき、と勧める",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·生老病死",
+          "locus": "相応部・転法輪経（SN56.11）·勧・苦は遍知すべき",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -265,9 +268,9 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "此苦聖諦……生苦、老苦、病苦、死苦……",
-          "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "苦聖諦・生老病死。",
+          "text": "苦聖諦智當復知……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "勧転・当知。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
@@ -275,60 +278,23 @@
       }
     },
     {
-      "id": "FT-P08",
-      "category": "dukkha",
+      "id": "FT-P25",
+      "category": "samudaya",
       "ref": "SN 56.11",
-      "section": "愁悲憂悩",
-      "observe": "愁·悲·苦·憂·悩は苦である——心に生じる苦しみも、苦聖諦に含まれる。",
-      "action": "今日生じた憂いや悲しみを一つ、「これも苦諦」と静かに観る",
-      "quote": "愁·悲·苦·憂·悩は苦である。",
-      "nidanaId": "dukkha",
+      "section": "勧・集は断つべき",
+      "observe": "勧転（集）——この苦集聖諦は断たれるべきである。断つべきは苦そのものではなく、その原因である渇愛である。",
+      "action": "今日、「集は断つべき」と一度意図し、小さな欲しがりを一つ弱める",
+      "quote": "比丘たちよ、『この苦集聖諦は断たれるべきである』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "samudaya",
       "pathFactors": [
-        "正見",
+        "正精進",
         "正念"
       ],
-      "pathReason": "愁·悲·苦·憂·悩を苦として見る",
+      "pathReason": "集は断たれるべき、と勧める",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·愁悲憂悩",
-          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
-        },
-        "modern": {
-          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
-          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
-          "url": "https://true-buddhism.com/sutra/palisanzo/"
-        },
-        "chinese": {
-          "status": "mapped",
-          "pin": "雑阿含379・転法輪（T99）／類縁",
-          "text": "（愁悲憂悩——パーリ詳説。漢は生老病死·愛別離等を列挙。）",
-          "satLocus": "大正蔵 T2.103c 転法輪（類縁）",
-          "note": "愁悲憂悩。パーリ詳説。",
-          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
-          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
-          "t26": ""
-        }
-      }
-    },
-    {
-      "id": "FT-P09",
-      "category": "dukkha",
-      "ref": "SN 56.11",
-      "section": "怨憎会・愛別離・求不得",
-      "observe": "怨憎の者と会うことは苦、愛する者と別れることは苦、求めて得られないことは苦である。",
-      "action": "今日の「会いたくない／別れ／得られない」を一つ、苦諦として名づける",
-      "quote": "怨憎の者と会うことは苦、愛する者と別れることは苦、求めて得られないことは苦である。",
-      "nidanaId": "dukkha",
-      "pathFactors": [
-        "正見",
-        "正念"
-      ],
-      "pathReason": "会えない·別れる·得られないを苦として見る",
-      "alignment": {
-        "pali": {
-          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·怨憎会・愛別離・求不得",
+          "locus": "相応部・転法輪経（SN56.11）·勧・集は断つべき",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -339,9 +305,9 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "……恩愛別離苦、怨憎會苦、所求不得苦。",
-          "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "怨憎会·愛別離·求不得。",
+          "text": "苦集聖諦已知當斷……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "勧転・当断。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
@@ -349,23 +315,23 @@
       }
     },
     {
-      "id": "FT-P10",
-      "category": "dukkha",
+      "id": "FT-P26",
+      "category": "nirodha",
       "ref": "SN 56.11",
-      "section": "五取蘊",
-      "observe": "要約すれば、五つの執取の集まりは苦である——色·受·想·行·識への執取。",
-      "action": "今日「これは私のもの」と掴んだ一つを、五取蘊の苦として一度見る",
-      "quote": "要約すれば、五つの執取の集まりは苦である。",
-      "nidanaId": "dukkha",
+      "section": "勧・滅は証すべき",
+      "observe": "勧転（滅）——この苦滅聖諦は証されるべきである。自ら現証する課題である。",
+      "action": "今日、「滅は証すべき」と意図し、離欲の一瞬を静かに認める",
+      "quote": "比丘たちよ、『この苦滅聖諦は証されるべきである』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "nirodha",
       "pathFactors": [
         "正見",
         "正念"
       ],
-      "pathReason": "五取蘊を苦の要約として見る",
+      "pathReason": "滅は証されるべき、と勧める",
       "alignment": {
         "pali": {
           "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
-          "locus": "相応部・転法輪経（SN56.11）·五取蘊",
+          "locus": "相応部・転法輪経（SN56.11）·勧・滅は証すべき",
           "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
         },
         "modern": {
@@ -376,9 +342,46 @@
         "chinese": {
           "status": "mapped",
           "pin": "雑阿含379・転法輪（T99）",
-          "text": "略說五受陰苦。",
-          "satLocus": "大正蔵 T2.103c 転法輪",
-          "note": "五受陰（五取蘊）苦。",
+          "text": "苦滅聖諦已知當作證……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "勧転・当証。",
+          "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
+          "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
+          "t26": ""
+        }
+      }
+    },
+    {
+      "id": "FT-P27",
+      "category": "magga",
+      "ref": "SN 56.11",
+      "section": "勧・道は修すべき",
+      "observe": "勧転（道）——この苦滅道跡聖諦は修されるべきである。修する——すでに芽にあるものを育てる。",
+      "action": "今日、「道は修すべき」と意図し、八正道の一支を一度実行する",
+      "quote": "比丘たちよ、『この苦滅道跡聖諦は修されるべきである』と、私に——かつて聞かなかった諸法について——眼が生じた、智が生じた、慧が生じた、明が生じた、光が生じた。",
+      "nidanaId": "magga",
+      "pathFactors": [
+        "正精進",
+        "正念"
+      ],
+      "pathReason": "道は修されるべき、と勧める",
+      "alignment": {
+        "pali": {
+          "source": "アラナ精舎 経典ライブラリー（相応部・転法輪経／パーリSN56.11）",
+          "locus": "相応部・転法輪経（SN56.11）·勧・道は修すべき",
+          "url": "https://sites.google.com/view/arana-tipitaka/%E7%9B%AE%E6%AC%A1/%E7%9B%B8%E5%BF%9C%E9%83%A8%E7%B5%8C%E5%85%B8"
+        },
+        "modern": {
+          "source": "true-buddhism（南伝大蔵経系・現代語表記）",
+          "locus": "相応部 · 諦相応 · 転法輪経（南伝公開目次）",
+          "url": "https://true-buddhism.com/sutra/palisanzo/"
+        },
+        "chinese": {
+          "status": "mapped",
+          "pin": "雑阿含379・転法輪（T99）",
+          "text": "苦滅道跡聖諦已知當修……生眼、智、明、覺。",
+          "satLocus": "大正蔵 T2.103c–104 転法輪",
+          "note": "勧転・当修。",
           "satUrl": "https://21dzk.l.u-tokyo.ac.jp/SAT/ddb-sat2.php?mode=detail&useid=0099_%2C02%2C0103c13",
           "mapTableUrl": "https://dhammarain.github.io/canon/sutta/S-vs-SA-dhammarain.pdf",
           "t26": ""
