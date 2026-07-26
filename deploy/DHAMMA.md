@@ -4,61 +4,52 @@
 
 | 役割 | 場所 |
 |------|------|
-| 編集 | Cursor（SSH で ConoHa の `/opt/dhamma`） |
-| 控え | GitHub `https://github.com/ozakiyo/dhamma.git` |
+| 編集・確認 | Mac `~/work/apps/dhamma` + Docker |
+| 正本・履歴 | GitHub `https://github.com/ozakiyo/dhamma.git` |
 | 実行 | ConoHa `/opt/dhamma` + pm2 `dhamma` / ポート **3053** |
 
 公開: http://160.251.173.118:3053/
 
 ---
 
-## 毎回の開き方（ローカルPC → Cursor）
+## ローカル開発
 
-初回だけローカルの `~/.ssh/config` に別名を追加（例は `deploy/ssh-config.example`）:
-
-```
-Host conoha-dhamma
-  HostName 160.251.173.118
-  User root
+```bash
+cd ~/work/apps/dhamma
+docker compose up -d --build
+# http://localhost:3053/
 ```
 
-そのあと毎回:
-
-1. Cursor を開く  
-2. `F1`（または Cmd/Ctrl+Shift+P）→ **Remote-SSH: Connect to Host…**  
-3. **`conoha-dhamma`** を選ぶ  
-4. フォルダ **`/opt/dhamma`** を開く  
-
-2回目以降は Cursor 左下のリモート表示や **Recent** から同じ接続を選べます。
+ローカル全体をコンテナへマウントしているため、保存したファイルは即時反映されます。
 
 ---
 
-## コマンド早見表（サーバー上 `/opt/dhamma`）
-
-編集はすでにサーバー上なので、**push 後に pull は不要**です。
+## コマンド早見表
 
 | やりたいこと | コマンド |
 |--------------|----------|
-| 状態確認 | `bash deploy/status-dhamma.sh` |
-| 反映（再起動） | `bash deploy/restart-dhamma.sh` |
-| 変更を控える | `git add …` → `git commit -m "…"` → `git push origin main` |
+| ローカル起動 | `docker compose up -d` |
+| ローカル停止 | `docker compose down` |
+| 本番状態確認 | `ssh conoha 'bash /opt/dhamma/deploy/status-dhamma.sh'` |
+| GitHubから本番へ反映 | `bash deploy/deploy-to-conoha.sh` |
 | 本番URL確認 | ブラウザで `:3053` / 古い画面ならスーパーリロード |
 
-### 編集〜公開の最短流れ
+### 編集〜公開の流れ
 
 ```bash
-cd /opt/dhamma
-# （Cursor で編集）
+cd ~/work/apps/dhamma
+# Cursor で編集 → http://localhost:3053/ で確認
 git status
 git add -A
 git commit -m "メッセージ"
 git push origin main
-bash deploy/restart-dhamma.sh
+bash deploy/deploy-to-conoha.sh
 ```
 
-### 別マシンで push したあと、サーバーだけ取り込む場合
+### サーバー上で手動反映する場合
 
 ```bash
+ssh conoha
 bash /opt/dhamma/deploy/pull-dhamma.sh
 ```
 
@@ -82,7 +73,7 @@ pm2 list    # dhamma のみ追加されたか確認
 pm2 save
 ```
 
-## ローカル確認（任意）
+## Dockerを使わないローカル確認
 
 ```bash
 DHAMMA_PORT=3053 node deploy/dhamma-serve.mjs

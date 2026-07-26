@@ -1,0 +1,15 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3053:3053"
+    environment:
+      DHAMMA_HOST: "0.0.0.0"
+      DHAMMA_PORT: "3053"
+      DHAMMA_ROOT: "/app"
+    volumes:
+      # ローカルの保存内容をコンテナへ即時反映
+      - ./:/app
+    restart: unless-stopped
